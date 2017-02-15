@@ -1,0 +1,5383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//ES//DTD journal article DTD version 5.2.0//EN//XML" "art520.dtd" [<!ENTITY mmc1 SYSTEM "mmc1" NDATA APPLICATION><!ENTITY mmc2 SYSTEM "mmc2" NDATA IMAGE><!ENTITY gr1 SYSTEM "gr1" NDATA IMAGE><!ENTITY gr2 SYSTEM "gr2" NDATA IMAGE><!ENTITY gr3 SYSTEM "gr3" NDATA IMAGE><!ENTITY gr4 SYSTEM "gr4" NDATA IMAGE><!ENTITY gr5 SYSTEM "gr5" NDATA IMAGE><!ENTITY gr6 SYSTEM "gr6" NDATA IMAGE><!ENTITY fx1 SYSTEM "fx1" NDATA IMAGE>]>
+<article version="5.2" xml:lang="en" docsubtype="fla">
+	<item-info>
+		<jid>ACTROP</jid>
+		<aid>3529</aid>
+		<ce:pii>S0001-706X(15)00006-6</ce:pii>
+		<ce:doi>10.1016/j.actatropica.2015.01.005</ce:doi>
+		<ce:copyright type="unknown" year="2015" />
+	</item-info>
+	<ce:floats>
+		<ce:figure id="fig0005">
+			<ce:label>Fig. 1</ce:label>
+			<ce:caption id="cap0005">
+				<ce:simple-para id="spar0005">
+					Timeline of the experiment. Mice were divided into four groups. Two
+					groups of mice were exposed to
+					<ce:italic>Phlebotomus papatasi</ce:italic>
+					bites (black squares, EXP), two groups remained unexposed (white
+					squares, nEXP). One week after the second exposure, all mice were
+					intradermally challenged with 10
+					<ce:sup>4</ce:sup>
+					<ce:italic>L. major</ce:italic>
+					promastigotes in the presence of either (1) the equivalent of 0.5
+					salivary gland of
+					<ce:italic>P. papatasi</ce:italic>
+					(+P.pap) or (2) the equivalent of 0.5 salivary gland of
+					<ce:italic>P. duboscqi</ce:italic>
+					(+P.dub). The development of
+					<ce:italic>Leishmania</ce:italic>
+					lesion size was measured weekly for 9 consecutive weeks (gray
+					squares). Blood samples were collected from the tail vein of all
+					mice before exposure (T1), 3 days after the last exposure (T2) and
+					9 weeks post infection (T3). Each square represents 1 week.
+				</ce:simple-para>
+			</ce:caption>
+			<ce:link locator="gr1" />
+		</ce:figure>
+		<ce:figure id="fig0010">
+			<ce:label>Fig. 2</ce:label>
+			<ce:caption id="cap0010">
+				<ce:simple-para id="spar0010">
+					Development of
+					<ce:italic>Leishmania</ce:italic>
+					infection. Kinetics of
+					<ce:italic>L. major</ce:italic>
+					infection was studied in four groups of BALB/c mice. Two groups of
+					mice immunized by
+					<ce:italic>P. papatasi</ce:italic>
+					bites (EXP, open marks) and two control non-immunized groups (nEXP,
+					full marks) were infected with
+					<ce:italic>L. major</ce:italic>
+					promastigotes along with either
+					<ce:italic>P. papatasi</ce:italic>
+					SGH (EXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.pap, nEXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.pap; circles) or
+					<ce:italic>P. duboscqi</ce:italic>
+					SGH (EXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P. dub, nEXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.dub; triangles). The development of
+					<ce:italic>Leishmania</ce:italic>
+					lesion size was measured weekly for 9 consecutive weeks (A). The
+					ninth week after the infection, photos of the representative
+					inoculated ears were taken (B), parasite burdens in the inoculated
+					ears (C) as well as in corresponding draining lymph nodes (D) were
+					determined using qPCR, and anti-
+					<ce:italic>L. major</ce:italic>
+					antibodies in the sera were measured using ELISA (E). Data are
+					summarized from three independent experiments. Positive correlation
+					was achieved between the lesion size and the amount of parasites in
+					the inoculated ear (F) and between the lesion size and the levels
+					of anti-
+					<ce:italic>L. major</ce:italic>
+					IgG (G). Graph A: symbols are used as follows:
+					<ce:sup>+,
+						#, &dagger;
+					</ce:sup>
+					indicate significant difference (
+					<ce:italic>p</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05) in the lesion size in the individual weeks between P.dub
+					groups (EXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P
+					<ce:italic>.</ce:italic>
+					dub
+					<ce:italic>versus</ce:italic>
+					nEXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P. dub), P.pap groups (EXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.pap
+					<ce:italic>versus</ce:italic>
+					nEXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.pap), and immunized groups (EXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.pap
+					<ce:italic>versus</ce:italic>
+					EXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />P.dub),
+					respectively. Significant differences are shown for the week 5
+					onwards. Graphs C&ndash;E:
+					* indicates significant difference (
+					<ce:italic>p</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05) between indicated groups. In all graphs, vertical bars
+					represent standard errors of the means.
+				</ce:simple-para>
+			</ce:caption>
+			<ce:link locator="gr2" />
+		</ce:figure>
+		<ce:figure id="fig0015">
+			<ce:label>Fig. 3</ce:label>
+			<ce:caption id="cap0015">
+				<ce:simple-para id="spar0015">
+					Effect of sand fly saliva on the macrophages activity. BALB/c mice
+					were exposed to
+					<ce:italic>P. papatasi</ce:italic>
+					bites (EXP) or left non-exposed (nEXP). Mice were then infected
+					with
+					<ce:italic>L. major</ce:italic>
+					promastigotes along with either
+					<ce:italic>P. papatasi</ce:italic>
+					(EXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.pap, nEXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.pap) or
+					<ce:italic>P. duboscqi</ce:italic>
+					(EXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.dub, nEXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.dub) SGH. The activity of macrophages obtained by the peritoneal
+					lavage in the ninth week after infection was determined by
+					production of nitric oxide using Griess reaction (A) and by
+					production of urea using Arginase assay (B). Obtained macrophages
+					were incubated alone (neg) or stimulated
+					<ce:italic>ex vivo</ce:italic>
+					by combination of IFN-&gamma;
+					and LPS, or with
+					<ce:italic>Leishmania major</ce:italic>
+					promastigotes (Leish). * Indicates significant difference (
+					<ce:italic>p</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05) between groups. Vertical bars represent standard errors of
+					the means.
+				</ce:simple-para>
+			</ce:caption>
+			<ce:link locator="gr3" />
+		</ce:figure>
+		<ce:figure id="fig0020">
+			<ce:label>Fig. 4</ce:label>
+			<ce:caption id="cap0020">
+				<ce:simple-para id="spar0020">
+					Cytokine production of the peritoneal macrophages. BALB/c mice were
+					exposed to
+					<ce:italic>P. papatasi</ce:italic>
+					bites (EXP) or left non-exposed (nEXP). Mice were then infected
+					with
+					<ce:italic>L. major</ce:italic>
+					promastigotes along with either
+					<ce:italic>P. papatasi</ce:italic>
+					(EXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.pap, nEXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.pap) or
+					<ce:italic>P. duboscqi</ce:italic>
+					(EXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.dub, nEXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />P.dub)
+					SGH. Macrophages were obtained by the peritoneal lavage in the
+					ninth week after infection and stimulated by combination of IFN-&gamma;
+					and LPS (IFN-&gamma;
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					LPS) or
+					<ce:italic>Leishmania major</ce:italic>
+					promastigotes (Leish). Macrophages without any stimulation were
+					used as the negative control (Neg). The production of TNF-&alpha;
+					(A) and IL-10 (B) was determined from the supernatant collected
+					after 72
+					<ce:hsp sp="0.25" />
+					h of incubation. Data are stated in the stimulation index form; the
+					cytokine absorbance was divided by the negative control value.*
+					indicates significant difference (
+					<ce:italic>p</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05) between groups. Vertical bars represent standard errors of
+					the means.
+				</ce:simple-para>
+			</ce:caption>
+			<ce:link locator="gr4" />
+		</ce:figure>
+		<ce:figure id="fig0025">
+			<ce:label>Fig. 5</ce:label>
+			<ce:caption id="cap0025">
+				<ce:simple-para id="spar0025">
+					Anti-sand fly saliva antibody response. BALB/c mice were exposed to
+					<ce:italic>P. papatasi</ce:italic>
+					bites (EXP) or left non-exposed (nEXP). Mice were then infected
+					with
+					<ce:italic>L. major</ce:italic>
+					promastigotes along with either
+					<ce:italic>P. papatasi</ce:italic>
+					(EXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.pap, nEXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.pap) or
+					<ce:italic>P. duboscqi</ce:italic>
+					(EXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.dub, nEXP
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					P.dub) SGH. IgG against saliva of
+					<ce:italic>P. papatasi</ce:italic>
+					(A) and
+					<ce:italic>P. duboscqi</ce:italic>
+					(B) were measured in sera of mice at three time points: before sand
+					fly exposure (T1), after the last sand fly exposure (T2), and in
+					the ninth week post infection (T3). IgG1 and IgG2a against saliva
+					of
+					<ce:italic>P. papatasi</ce:italic>
+					(C) and
+					<ce:italic>P. duboscqi</ce:italic>
+					(D) were measured at T3. Symbols are used as follows:
+					<ce:sup>#</ce:sup>
+					indicates significant difference (
+					<ce:italic>p</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05) in production of specific antibodies within the group at
+					different time points; * indicates significant difference (
+					<ce:italic>p</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05) between groups within the same time point. Vertical bars
+					represent standard errors of the means.
+				</ce:simple-para>
+			</ce:caption>
+			<ce:link locator="gr5" />
+		</ce:figure>
+		<ce:figure id="fig0030">
+			<ce:label>Fig. 6</ce:label>
+			<ce:caption id="cap0030">
+				<ce:simple-para id="spar0030">
+					Cross-reactivity of
+					<ce:italic>P. papatasi</ce:italic>
+					and
+					<ce:italic>P. duboscqi</ce:italic>
+					salivary antigens. Salivary proteins of
+					<ce:italic>P. papatasi</ce:italic>
+					(PAP) and
+					<ce:italic>P. duboscqi</ce:italic>
+					(DUB) were separated under non-reducing conditions by SDS&ndash;PAGE
+					electrophoresis and silver staining was used to compare the
+					salivary profiles of both species (A). Western blot analysis (B)
+					was performed with sera of BALB/c mice experimentally bitten by
+					<ce:italic>P. papatasi</ce:italic>
+					(P1, P2) or by
+					<ce:italic>P. duboscqi</ce:italic>
+					(D1, D2). Serum from a naive mouse was used as the negative control
+					(N). Molecular weight standard (ST), stained by silver, for protein
+					profile and by amido black for western blot analysis, labeled with
+					the corresponding molecular weights are indicated (kDa).
+				</ce:simple-para>
+			</ce:caption>
+			<ce:link locator="gr6" />
+		</ce:figure>
+	</ce:floats>
+	<head>
+		<ce:title id="tit0005">
+			<ce:italic>Phlebotomus papatasi</ce:italic>
+			exposure cross-protects mice against
+			<ce:italic>Leishmania major</ce:italic>
+			co-inoculated with
+			<ce:italic>Phlebotomus duboscqi</ce:italic>
+			salivary gland homogenate
+		</ce:title>
+		<ce:author-group id="aug0005">
+			<ce:author id="aut0005">
+				<ce:given-name>Tereza</ce:given-name>
+				<ce:surname>
+					Lestinova<!--<query id="Q1">Please confirm that given names and surnames 
+						have been identified correctly.</query> -->
+				</ce:surname>
+				<ce:cross-ref id="crf0005" refid="cor0005">
+					<ce:sup>&#x204e;</ce:sup>
+				</ce:cross-ref>
+				<ce:e-address id="eadd0005" type="email">tereza.kratochvilova@natur.cuni.cz</ce:e-address>
+			</ce:author>
+			<ce:author id="aut0010">
+				<ce:given-name>Michaela</ce:given-name>
+				<ce:surname>
+					Vlkova<!--<query id="Q2"> &ldquo;Your article is registered as a regular 
+						item and is being processed for inclusion in a regular issue of the journal. 
+						If this is NOT correct and your article belongs to a Special Issue/Collection 
+						please contact shalini.kumar@elsevier.com immediately prior to returning 
+						your corrections.&rdquo;</query> -->
+				</ce:surname>
+				<ce:e-address id="eadd0010" type="email">mvlkova16@seznam.cz</ce:e-address>
+			</ce:author>
+			<ce:author id="aut0015">
+				<ce:given-name>Jan</ce:given-name>
+				<ce:surname>Votypka</ce:surname>
+				<ce:e-address id="eadd0015" type="email">jan.votypka@natur.cuni.cz</ce:e-address>
+			</ce:author>
+			<ce:author id="aut0020">
+				<ce:given-name>Petr</ce:given-name>
+				<ce:surname>Volf</ce:surname>
+				<ce:e-address id="eadd0020" type="email">volf@cesnet.cz</ce:e-address>
+			</ce:author>
+			<ce:author id="aut0025">
+				<ce:given-name>Iva</ce:given-name>
+				<ce:surname>Rohousova</ce:surname>
+				<ce:cross-ref id="crf0010" refid="cor0005">
+					<ce:sup>&#x204e;</ce:sup>
+				</ce:cross-ref>
+				<ce:e-address id="eadd0025" type="email">kolarova2011@gmail.com</ce:e-address>
+			</ce:author>
+			<ce:affiliation id="aff0005">
+				<ce:textfn>
+					Department of Parasitology, Faculty of Science, Charles University
+					in Prague, Vinicna 7, 128 44 Prague 2, <!--<country> -->
+					Czech Republic<!--</country> -->
+				</ce:textfn>
+				<sa:affiliation>
+					<sa:organization>Department of Parasitology</sa:organization>
+					<sa:organization>Faculty of Science</sa:organization>
+					<sa:organization>Charles University in Prague</sa:organization>
+					<sa:address-line>Vinicna 7</sa:address-line>
+					<sa:state>Prague 2</sa:state>
+					<sa:postal-code>128 44</sa:postal-code>
+					<sa:country>Czech Republic</sa:country>
+				</sa:affiliation>
+			</ce:affiliation>
+			<ce:correspondence id="cor0005">
+				<ce:label>&#x204e;</ce:label>
+				<ce:text>Corresponding authors. Tel.: +420 221 951 814; fax: +420
+					224 919 704.</ce:text>
+			</ce:correspondence>
+		</ce:author-group>
+		<ce:date-received day="19" month="9" year="2014" />
+		<ce:date-revised day="19" month="11" year="2014" />
+		<ce:date-accepted day="7" month="1" year="2015" />
+		<ce:abstract id="abs0005" class="graphical">
+			<ce:section-title id="sect0005">Graphical abstract</ce:section-title>
+			<ce:abstract-sec id="abst0005">
+				<ce:simple-para id="spar0035">
+					Mice were exposed (EXP) or not (nEXP) to
+					<ce:italic>P. papatasi</ce:italic>
+					bites and challenged with
+					<ce:italic>L. major</ce:italic>
+					plus either
+					<ce:italic>P. duboscqi</ce:italic>
+					(+P.dub) or
+					<ce:italic>P. papatasi</ce:italic>
+					saliva (+P.pap), thus demonstrating the cross-protection between
+					these two Phlebotomus sand fly species. Consequently, the potential
+					vaccine based on
+					<ce:italic>P. papatasi</ce:italic>
+					salivary proteins might be applicable in areas with leishmaniasis
+					transmitted by
+					<ce:italic>P. duboscqi</ce:italic>
+					.
+				</ce:simple-para>
+				<ce:simple-para id="spar0040">
+					<ce:display>
+						<ce:figure id="fig0035">
+							<ce:link locator="fx1" />
+						</ce:figure>
+					</ce:display>
+				</ce:simple-para>
+			</ce:abstract-sec>
+		</ce:abstract>
+		<ce:abstract id="abs0010" class="author-highlights">
+			<ce:section-title id="sect0010">Highlights</ce:section-title>
+			<ce:abstract-sec id="abst0010">
+				<ce:simple-para id="spar0045">
+					<ce:list id="lis0005">
+						<ce:list-item id="lsti0005">
+							<ce:label>&bull;
+							</ce:label>
+							<ce:para id="par0005">
+								<ce:italic>P. papatasi</ce:italic>
+								bitten mice suppressed
+								<ce:italic>Leishmania</ce:italic>
+								coinoculated with
+								<ce:italic>P. duboscqi</ce:italic>
+								saliva.
+							</ce:para>
+						</ce:list-item>
+						<ce:list-item id="lsti0010">
+							<ce:label>&bull;
+							</ce:label>
+							<ce:para id="par0010">
+								<ce:italic>Leishmania</ce:italic>
+								cross-protection was observed between
+								<ce:italic>P. papatasi</ce:italic>
+								and
+								<ce:italic>P. duboscqi</ce:italic>
+								saliva.
+							</ce:para>
+						</ce:list-item>
+						<ce:list-item id="lsti0015">
+							<ce:label>&bull;
+							</ce:label>
+							<ce:para id="par0015">
+								Sand fly saliva-based anti-
+								<ce:italic>Leishmania</ce:italic>
+								vaccine might be cross-protective.
+							</ce:para>
+						</ce:list-item>
+					</ce:list>
+				</ce:simple-para>
+			</ce:abstract-sec>
+		</ce:abstract>
+		<ce:abstract id="abs0015">
+			<ce:section-title id="sect0015">Abstract</ce:section-title>
+			<ce:abstract-sec id="abst0015">
+				<ce:simple-para id="spar0050">
+					<ce:italic>Leishmania</ce:italic>
+					parasites are inoculated into host skin together with sand fly
+					saliva and multiple exposures to uninfected sand fly bites protect
+					mice against
+					<ce:italic>Leishmania</ce:italic>
+					infection. However, sand fly vectors differ in composition of the
+					saliva and therefore the protection elicited by their salivary
+					proteins was shown to be species-specific. On the other hand, the
+					optimal vaccine based on sand fly salivary proteins should be based
+					on conserved salivary proteins conferring cross-reactivity. In the
+					present study we therefore focused on cross-protective properties
+					of saliva from
+					<ce:italic>Phlebotomus papatasi</ce:italic>
+					and
+					<ce:italic>
+						<ce:italic>Phlebotomus</ce:italic>
+						duboscqi
+					</ce:italic>
+					, the two natural vectors of
+					<ce:italic>
+						<ce:italic>Leishmania</ce:italic>
+						major
+					</ce:italic>
+					. Two groups of mice exposed to bites of
+					<ce:italic>P. papatasi</ce:italic>
+					and two control, non-immunized groups were infected with
+					<ce:italic>L. major</ce:italic>
+					promastigotes along with either
+					<ce:italic>P. papatasi</ce:italic>
+					or
+					<ce:italic>P. duboscqi</ce:italic>
+					salivary gland homogenate. All mice were followed for the
+					development of
+					<ce:italic>Leishmania</ce:italic>
+					lesions, parasite burdens, specific antibodies, and for production
+					of NO, urea, or cytokines by peritoneal macrophages. Protection
+					against
+					<ce:italic>Leishmania</ce:italic>
+					infection was observed not only in exposed mice challenged with
+					homologous saliva but also in the group challenged with
+					<ce:italic>P. duboscqi</ce:italic>
+					saliva. Comparing both exposed groups, no significant differences
+					were observed in parasite load, macrophage activity, or in the
+					levels of anti-
+					<ce:italic>L. major</ce:italic>
+					and anti-
+					<ce:italic>P. papatasi</ce:italic>
+					/
+					<ce:italic>P. duboscqi</ce:italic>
+					antibodies. This is the first study showing cross-protection caused
+					by salivary antigens of two
+					<ce:italic>Phlebotomus</ce:italic>
+					species. The cross-protective effect suggests that the anti-
+					<ce:italic>Leishmania</ce:italic>
+					vaccine based on
+					<ce:italic>P. papatasi</ce:italic>
+					salivary proteins might be applicable also in areas where
+					<ce:italic>L. major</ce:italic>
+					is transmitted by
+					<ce:italic>P. duboscqi</ce:italic>
+					.
+				</ce:simple-para>
+			</ce:abstract-sec>
+		</ce:abstract>
+		<ce:keywords id="kwd0005" class="abr">
+			<ce:section-title id="sect0020">Abbreviations</ce:section-title>
+			<ce:keyword id="kw0005">
+				<ce:text>DUB</ce:text>
+				<ce:keyword id="kw0010">
+					<ce:text>
+						<ce:italic>Phlebotomus duboscqi</ce:italic>
+					</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0015">
+				<ce:text>EXP</ce:text>
+				<ce:keyword id="kw0020">
+					<ce:text>exposed</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0025">
+				<ce:text>
+					<ce:italic>L.</ce:italic>
+				</ce:text>
+				<ce:keyword id="kw0030">
+					<ce:text>
+						<ce:italic>Leishmania</ce:italic>
+					</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0035">
+				<ce:text>
+					<ce:italic>Lu.</ce:italic>
+				</ce:text>
+				<ce:keyword id="kw0040">
+					<ce:text>
+						<ce:italic>Lutzomyia</ce:italic>
+					</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0045">
+				<ce:text>NB</ce:text>
+				<ce:keyword id="kw0050">
+					<ce:text>nitrocellulose membrane</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0055">
+				<ce:text>nEXP</ce:text>
+				<ce:keyword id="kw0060">
+					<ce:text>non-exposed</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0065">
+				<ce:text>
+					<ce:italic>P.</ce:italic>
+				</ce:text>
+				<ce:keyword id="kw0070">
+					<ce:text>
+						<ce:italic>Phlebotomus</ce:italic>
+					</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0075">
+				<ce:text>p.i.</ce:text>
+				<ce:keyword id="kw0080">
+					<ce:text>post infection</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0085">
+				<ce:text>PAP</ce:text>
+				<ce:keyword id="kw0090">
+					<ce:text>
+						<ce:italic>Phlebotomus papatasi</ce:italic>
+					</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0095">
+				<ce:text>PM&Phi;
+				</ce:text>
+				<ce:keyword id="kw0100">
+					<ce:text>peritoneal macrophages</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0105">
+				<ce:text>SGH</ce:text>
+				<ce:keyword id="kw0110">
+					<ce:text>salivary gland homogenate</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0115">
+				<ce:text>SI</ce:text>
+				<ce:keyword id="kw0120">
+					<ce:text>stimulation index</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+		</ce:keywords>
+		<ce:keywords id="kwd0010" class="keyword">
+			<ce:section-title id="sect0025">Keywords</ce:section-title>
+			<ce:keyword id="kw0125">
+				<ce:text>Sand fly saliva</ce:text>
+			</ce:keyword>
+			<ce:keyword id="kw0130">
+				<ce:text>
+					<ce:italic>Phlebotomus papatasi</ce:italic>
+				</ce:text>
+			</ce:keyword>
+			<ce:keyword id="kw0135">
+				<ce:text>
+					<ce:italic>Phlebotomus duboscqi</ce:italic>
+				</ce:text>
+			</ce:keyword>
+			<ce:keyword id="kw0140">
+				<ce:text>Macrophage</ce:text>
+			</ce:keyword>
+			<ce:keyword id="kw0145">
+				<ce:text>Cross-protection</ce:text>
+			</ce:keyword>
+		</ce:keywords>
+	</head>
+	<body>
+		<ce:sections>
+			<ce:section id="sec0005" role="introduction">
+				<ce:label>1</ce:label>
+				<ce:section-title id="sect0030">Introduction</ce:section-title>
+				<ce:para id="par0020">
+					The causative agents of leishmaniasis, protozoans from the genus
+					<ce:italic>Leishmania</ce:italic>
+					(Kinetoplastida: Trypanosomatidae), are transmitted to the
+					vertebrate hosts by the bites of female sand flies (Diptera:
+					Phlebotominae). During the bloodfeeding process, sand fly saliva is
+					obligatorily inoculated into the feeding lesion and if the females
+					are infected, it plays a crucial role in the establishment of
+					<ce:italic>Leishmania</ce:italic>
+					infection in vertebrate host (reviewed in
+					<ce:cross-ref id="crf0015" refid="bib0045">Gomes and Oliveira
+						(2012)</ce:cross-ref>
+					). In naive mice, it aggravates the development of the disease by
+					suppression of the immune system (
+					<ce:cross-ref id="crf0020" refid="bib0215">Titus and Ribeiro,
+						1988</ce:cross-ref>
+					), conversely, in mice repeatedly exposed to sand fly saliva, it
+					elicits strong Th1-derived immune milieu protective against
+					leishmaniasis (
+					<ce:cross-refs id="crfs0005"
+						refid="bib0005 bib0085 bib0170 bib0210 bib0260">Belkaid
+						et al., 1998; Kamhawi et al., 2000; Oliveira et al., 2008; Rohou&scaron;ov&aacute;
+						et al., 2011; Thiakaki et al., 2005; Xu et al., 2011
+					</ce:cross-refs>
+					).
+				</ce:para>
+				<ce:para id="par0025">
+					Repeated exposures to sand fly bites induce saliva-specific immune
+					response, both humoral and cell-mediated. While anti-saliva
+					antibody response correlates with the intensity of exposure (
+					<ce:cross-refs id="crfs0010" refid="bib0080 bib0225 bib0230">Hostomska et al.,
+						2008; Vlkova et al., 2011; Vlkova et al., 2012</ce:cross-refs>
+					) and can be used as a reliable epidemiological tool (e.g.
+					<ce:cross-refs id="crfs0015" refid="bib0015 bib0040">Clements et al.,
+						2010; Gidwani et al., 2011</ce:cross-refs>
+					), specific cellular immunity, particularly the delayed type
+					hypersensitive reaction (DTH), is responsible for protection
+					against leishmaniasis (
+					<ce:cross-refs id="crfs0020" refid="bib0050 bib0085 bib0220">Gomes et al.,
+						2008; Kamhawi et al., 2000; Valenzuela et al., 2001</ce:cross-refs>).
+					In the murine model, this immune response is characterized by
+					powerful recruitment of lymphocytes and macrophages (M&Phi;)
+					to the site of bite and it correlates with elevated production of
+					IFN-&gamma;
+					and IL-12 (
+					<ce:cross-refs id="crfs0025" refid="bib0085 bib0220">Kamhawi et al.,
+						2000; Valenzuela et al., 2001</ce:cross-refs>
+					).
+				</ce:para>
+				<ce:para id="par0030">
+					Macrophages are the key cells responsible for healing or for
+					progress of
+					<ce:italic>Leishmania</ce:italic>
+					infection (reviewed in
+					<ce:cross-ref id="crf0025" refid="bib0075">Horta et al. (2012)</ce:cross-ref>).
+					Their biological properties and function depend on the type of
+					activation which determines the processing of L-arginine, a common
+					substrate for two different enzymatic pathways. In the Th2 milieu
+					(alternative way of M&Phi;
+					activation), the metabolism of
+					<ce:small-caps>L</ce:small-caps>
+					-arginine is diverted towards the production of
+					<ce:small-caps>L</ce:small-caps>
+					-ornithine, the precursor of polyamines, which are utilized by
+					<ce:italic>Leishmania</ce:italic>
+					parasites for their intracellular growth (
+					<ce:cross-ref id="crf0030" refid="bib0120">Kropf et al., 2005</ce:cross-ref>).
+					On the contrary, in the Th1 environment, macrophages are activated
+					by IFN-&gamma;
+					(classical way of M&Phi;
+					activation) and
+					<ce:small-caps>L</ce:small-caps>
+					-arginine is transformed into
+					<ce:small-caps>L</ce:small-caps>
+					-citrulline and nitric oxide (NO); the latter, together with other
+					toxic intermediates, successfully eliminates
+					<ce:italic>Leishmania</ce:italic>
+					parasites (
+					<ce:cross-ref id="crf0035" refid="bib0155">Murray and Cartelli,
+						1983</ce:cross-ref>
+					). Therefore individual salivary proteins inducing strong Th1 DTH
+					reaction were suggested as promising candidates for anti-
+					<ce:italic>Leishmania</ce:italic>
+					vaccine and thus are the subject of intensive scientific research (
+					<ce:cross-refs id="crfs0030"
+						refid="bib0020 bib0050 bib0150 bib0165 bib0205 bib0220 bib0260">da Silva et al., 2011; Gomes et al., 2008; Morris et al.,
+						2001; Oliveira et al., 2006; Tavares et al., 2011; Valenzuela et
+						al., 2001; Xu et al., 2011</ce:cross-refs>
+					).
+				</ce:para>
+				<ce:para id="par0035">
+					However, several facts complicate the utilization of salivary
+					compounds in the control of
+					<ce:italic>Leishmania</ce:italic>
+					infection; such vaccines might have limited use due to different
+					saliva composition between various sand fly species (
+					<ce:cross-refs id="crfs0035" refid="bib0180 bib0195 bib0235 bib0240">Ribeiro
+						et al., 2010; Rohou&scaron;ov&aacute;
+						et al., 2012; Volf and Rohousov&aacute;,
+						2001; Volf et al., 2000
+					</ce:cross-refs>
+					). Indeed, the immunity elicited by sand fly salivary proteins (
+					<ce:cross-refs id="crfs0040" refid="bib0030 bib0185 bib0235">Drahota
+						et al., 2009; Rohousova et al., 2005; Volf and Rohousov&aacute;,
+						2001
+					</ce:cross-refs>
+					) as well as the protection (
+					<ce:cross-ref id="crf0040" refid="bib0210">Thiakaki et al., 2005</ce:cross-ref>
+					) was shown to be species-specific. On the other hand, the vaccine
+					could be cross-protective between phylogenetically related vector
+					species with more conserved salivary proteins (
+					<ce:cross-refs id="crfs0045" refid="bib0180 bib0195 bib0240">Ribeiro
+						et al., 2010; Rohou&scaron;ov&aacute;
+						et al., 2012; Volf et al., 2000
+					</ce:cross-refs>
+					) and as such could be applicable in more endemic foci.
+				</ce:para>
+				<ce:para id="par0040">
+					In this study, we focused on
+					<ce:italic>Phlebotomus papatasi</ce:italic>
+					and
+					<ce:italic>
+						<ce:italic>Phlebotomus</ce:italic>
+						duboscqi
+					</ce:italic>
+					, two sand fly species which serve as the natural vectors of
+					<ce:italic>Leishmania major</ce:italic>
+					(
+					<ce:cross-refs id="crfs0050" refid="bib0100 bib0175">Killick-Kendrick,
+						1999; Ready, 2013</ce:cross-refs>
+					). Using a BALB/c model,
+					<ce:italic>P. papatasi</ce:italic>
+					pre-exposed mice were challenged with
+					<ce:italic>L. major</ce:italic>
+					along with
+					<ce:italic>P. papatasi</ce:italic>
+					or
+					<ce:italic>P. duboscqi</ce:italic>
+					salivary gland homogenate and examined for the lesion size
+					development, parasite load, macrophage activity as well as for
+					antibody response. As far as we are aware, this is the first study
+					describing the cross-protection between
+					<ce:italic>Phlebotomus</ce:italic>
+					sand fly species.
+				</ce:para>
+			</ce:section>
+			<ce:section id="sec0010" role="materials-methods">
+				<ce:label>2</ce:label>
+				<ce:section-title id="sect0035">Methods</ce:section-title>
+				<ce:section id="sec0015">
+					<ce:label>2.1</ce:label>
+					<ce:section-title id="sect0040">Ethical statement</ce:section-title>
+					<ce:para id="par0045">All animals used in this study were maintained
+						and handled strictly in accordance with institutional guidelines
+						and legislation for the care and use of animals for research
+						purpose Czech Act No. 359/2012 coll on Protection Animals against
+						Cruelty in present statues at large that complies with all
+						relevant European Union and international guidelines for
+						experimental animals. The experiments were approved by the
+						Committee on the Ethics of Animal Experiments of the Charles
+						University in Prague (Permit Number: 24,773/2008-10001) and were
+						performed under the Certificate of Competency (Registration
+						Number: CZU 934/05) in accordance with the Examination Order
+						approved by Central Commission for Animal Welfare of the Czech
+						Republic. All efforts were made to minimize the number and the
+						suffering of experimental animals during the study.</ce:para>
+				</ce:section>
+				<ce:section id="sec0020">
+					<ce:label>2.2</ce:label>
+					<ce:section-title id="sect0045">Sand flies and salivary gland
+						dissection</ce:section-title>
+					<ce:para id="par0050">
+						Colonies of
+						<ce:italic>P. papatasi</ce:italic>
+						(originating from Turkey, colonized in 2005) and
+						<ce:italic>P. duboscqi</ce:italic>
+						(originating from Senegal, 1994) were reared under standard
+						conditions as described in (
+						<ce:cross-ref id="crf0045" refid="bib0245">Volf and Volfova,
+							2011</ce:cross-ref>
+						). Salivary glands were dissected from 3 to 5 day-old female sand
+						flies, placed into Tris-buffered saline (TBS) (20
+						<ce:hsp sp="0.25" />
+						mM Tris, 150
+						<ce:hsp sp="0.25" />mM
+						NaCl, pH 7.8) and stored at &minus;20
+						<ce:hsp sp="0.25" />&deg;C
+						until needed. Before use, salivary glands were disrupted by three
+						cycles of freezing-thawing to prepare salivary gland homogenate
+						(SGH). In SGH of both species the concentration of salivary
+						proteins was measured using Qubit&trade;
+						Fluorometer (Invitrogen). The protein concentrations were as
+						follows: 0.296
+						<ce:hsp sp="0.25" />&mu;g/gland
+						in
+						<ce:italic>P. papatasi</ce:italic>
+						and 0.347
+						<ce:hsp sp="0.25" />&mu;g/gland
+						in
+						<ce:italic>P. duboscqi</ce:italic>
+						.
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0025">
+					<ce:label>2.3</ce:label>
+					<ce:section-title id="sect0050">
+						<ce:italic>Leishmania</ce:italic>
+						parasites
+					</ce:section-title>
+					<ce:para id="par0055">
+						<ce:italic>L. major</ce:italic>
+						(strain MHOM/IL/67/LRC-L137 Jericho II) promastigotes were
+						maintained at 23
+						<ce:hsp sp="0.25" />&deg;C
+						in RPMI 1640 medium with HEPES (Sigma) supplemented with 10%
+						heat-inactivated fetal bovine serum (Gibco), 0.1% amikin
+						(Bristol-Myers Squibb), 1% BME vitamins (Sigma), and 0.5% sterile
+						urine. Before use, parasites were washed in 0.9% saline solution
+						by centrifugation for 8
+						<ce:hsp sp="0.25" />
+						min at 2900
+						<ce:hsp sp="0.25" />&times;
+						<ce:hsp sp="0.25" />
+						<ce:italic>g</ce:italic>
+						, resuspended in saline and the concentration of parasites was
+						determined using Burker chamber.
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0030">
+					<ce:label>2.4</ce:label>
+					<ce:section-title id="sect0055">Mice exposure and infection</ce:section-title>
+					<ce:para id="par0060">
+						Twenty-eight BALB/c mice in total (8-week-old females) from Anlab
+						(Czech Republic) were used within three independent experiments.
+						This mouse strain is highly susceptible to
+						<ce:italic>Leishmania</ce:italic>
+						infection and widely used to study the protective effect against
+						leishmaniasis (e.g.
+						<ce:cross-refs id="crfs0055" refid="bib0005 bib0085 bib0210">Belkaid
+							et al., 1998; Kamhawi et al., 2000; Rohou&scaron;ov&aacute;
+							et al., 2011; Thiakaki et al., 2005
+						</ce:cross-refs>
+						). Mice were divided into four groups of seven mice each. Two
+						groups of mice were intraperitoneally anesthetized by a
+						combination of ketamine (150
+						<ce:hsp sp="0.25" />
+						mg/kg) and xylazine (15
+						<ce:hsp sp="0.25" />
+						mg/kg) and were exposed individually to 35 females of
+						<ce:italic>P. papatasi</ce:italic>
+						, twice in 1 week interval (EXP groups) (
+						<ce:cross-ref id="crf0050" refid="fig0005">Fig. 1</ce:cross-ref>
+						<ce:float-anchor refid="fig0005" />
+						). The snout part and eyes were covered with damp cotton wool to
+						avoid drying and sand fly feeding on these parts. During each
+						exposure, an average of 29 females fed on each mouse (standard
+						error
+						<ce:hsp sp="0.25" />
+						=
+						<ce:hsp sp="0.25" />&plusmn;0.7).
+						The other two groups remained without any exposure to sand flies
+						(nEXP groups). Blood samples were collected from the tail vein of
+						all mice before exposure and 3 days after the last exposure. The
+						obtained sera were kept at &minus;20
+						<ce:hsp sp="0.25" />&deg;C
+						until needed.
+					</ce:para>
+					<ce:para id="par0065">
+						One week after the last exposure, mice of all four groups were
+						intradermally challenged in the right ear with 10
+						<ce:sup>4</ce:sup>
+						stationary phase promastigotes of
+						<ce:italic>L. major</ce:italic>
+						in the presence of either (1) the equivalent of 0.5 salivary gland
+						of
+						<ce:italic>P. papatasi</ce:italic>
+						(groups: EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap and nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap) or (2) the equivalent of 0.5 salivary gland of
+						<ce:italic>P. duboscqi</ce:italic>
+						(groups: EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub and nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub). The infectious dose by needle inoculation was chosen to
+						approximate the number of parasites naturally transmitted by sand
+						fly bites (e.g.
+						<ce:cross-refs id="crfs0060" refid="bib0110 bib0125 bib0255">Kimblin et al.,
+							2008; Maia et al., 2011; Warburg and Schlein, 1986</ce:cross-refs>).
+						Lesion size was measured weekly for 9 consecutive weeks using a
+						digital caliper. Mice were sacrificed 9 weeks after infection and
+						sampled for blood, both ears, draining lymph nodes, and peritoneal
+						macrophages (PM&Phi;).
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0035">
+					<ce:label>2.5</ce:label>
+					<ce:section-title id="sect0060">
+						Detection and quantification of
+						<ce:italic>Leishmania</ce:italic>
+						parasites in mice
+					</ce:section-title>
+					<ce:para id="par0070">
+						Parasite numbers were determined by quantitative PCR as previously
+						described (
+						<ce:cross-ref id="crf0055" refid="bib0160">Myskova et al., 2008</ce:cross-ref>
+						) with some modifications. Briefly, total DNA was isolated from
+						homogenized samples using DNA tissue isolation kit (High Pure PCR
+						Template Preparation Kit; Roche) according to the
+						manufacturer&#x301;s instruction.
+						<ce:italic>Leishmania</ce:italic>
+						parasites were quantified using SYBR Green detection method
+						(iQSYBR Green Supermix, Bio-Rad). Kinetoplast DNA was targeted
+						using primers described by
+						<ce:cross-ref id="crf0060" refid="bib0135">Mary et al. (2004)</ce:cross-ref>
+						. One microliter of eluted DNA was used for reaction which was
+						performed in duplicate. Thermal cycling scheme was 3
+						<ce:hsp sp="0.25" />
+						min at 95
+						<ce:hsp sp="0.25" />&deg;C
+						followed by 45 repetitive cycles: 10
+						<ce:hsp sp="0.25" />
+						s at 95
+						<ce:hsp sp="0.25" />&deg;C,
+						10
+						<ce:hsp sp="0.25" />
+						s at 56
+						<ce:hsp sp="0.25" />&deg;C,
+						and 10
+						<ce:hsp sp="0.25" />
+						s at 72
+						<ce:hsp sp="0.25" />&deg;C
+						(
+						<ce:cross-ref id="crf0065" refid="bib0160">Myskova et al., 2008</ce:cross-ref>
+						). Calibration was performed in the range of 10
+						<ce:sup>1</ce:sup>&ndash;10
+						<ce:sup>6</ce:sup>
+						<ce:italic>Leishmania</ce:italic>
+						promastigotes blended with homogenized liver from non-infected
+						mouse. The liver without
+						<ce:italic>Leishmania</ce:italic>
+						parasites served as a negative control.
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0040">
+					<ce:label>2.6</ce:label>
+					<ce:section-title id="sect0065">Macrophage activation studies</ce:section-title>
+					<ce:para id="par0075">PM&Phi;
+						were obtained by peritoneal lavage of BALB/c mice using 10
+						<ce:hsp sp="0.25" />
+						ml of RPMI 1640 medium with 10% heat-inactivated fetal calf serum,
+						2
+						<ce:hsp sp="0.25" />
+						mM
+						<ce:small-caps>L</ce:small-caps>
+						-glutamine, 50
+						<ce:hsp sp="0.25" />&mu;M
+						2-mercaptoethanol, 50
+						<ce:hsp sp="0.25" />&mu;g/ml
+						gentamicin, 100
+						<ce:hsp sp="0.25" />
+						U/ml penicilin (in the text referred to as complete medium). After
+						centrifugation (8
+						<ce:hsp sp="0.25" />
+						min, 4
+						<ce:hsp sp="0.25" />&deg;C,
+						260
+						<ce:hsp sp="0.25" />g),
+						the cell pellet was resuspended in complete medium, mixed with
+						Trypan Blue and counted by the Countess&trade;
+						Automated Cell Counter (Invitrogen) according to the
+						manufacturer&#x301;s guidelines and following criteria: cell size
+						<ce:hsp sp="0.25" />
+						=
+						<ce:hsp sp="0.25" />8&ndash;20,
+						roundness
+						<ce:hsp sp="0.25" />
+						=
+						<ce:hsp sp="0.25" />
+						80, sensitivity
+						<ce:hsp sp="0.25" />
+						=
+						<ce:hsp sp="0.25" />5.
+						Murine PM&Phi;
+						were cultured in 96-well plates at a concentration of 2
+						<ce:hsp sp="0.25" />&times;
+						<ce:hsp sp="0.25" />
+						10
+						<ce:sup>5</ce:sup>
+						living cells/ml at 37
+						<ce:hsp sp="0.25" />&deg;C,
+						5% CO
+						<ce:inf>2</ce:inf>
+						. After 2
+						<ce:hsp sp="0.25" />h,
+						non-adherent cells were removed by washing with warm complete
+						medium. Cells were then incubated alone in complete RPMI 1640,
+						with a combination of IFN-&gamma;
+						(25
+						<ce:hsp sp="0.25" />
+						U/ml, AbD SEROTEC) and LPS (0.5
+						<ce:hsp sp="0.25" />&mu;g/ml,
+						Sigma), or with
+						<ce:italic>L. major</ce:italic>
+						promastigotes (2
+						<ce:hsp sp="0.25" />&times;
+						<ce:hsp sp="0.25" />
+						10
+						<ce:sup>5</ce:sup>
+						cells per well). After 72
+						<ce:hsp sp="0.25" />
+						h of incubation, the supernatant and cell lysate were used for
+						nitrite/cytokine and urea analysis, respectively.
+					</ce:para>
+					<ce:section id="sec0045">
+						<ce:label>2.6.1</ce:label>
+						<ce:section-title id="sect0070">Nitrite analysis to measure
+							NO production</ce:section-title>
+						<ce:para id="par0080">
+							The accumulation of NO
+							<ce:inf>2</ce:inf>
+							<ce:sup>&minus;
+							</ce:sup>
+							produced by cultured macrophages over a 72
+							<ce:hsp sp="0.25" />
+							h period was determined in a microplate assay using Griess
+							reagent. A total of 100
+							<ce:hsp sp="0.25" />&mu;l
+							of culture supernatant was mixed with 50
+							<ce:hsp sp="0.25" />&mu;l
+							of 60
+							<ce:hsp sp="0.25" />
+							mM sulfanilamide in 2.5% phosphoric acid and incubated at room
+							temperature in the dark for 5
+							<ce:hsp sp="0.25" />
+							min. Thereafter, 50
+							<ce:hsp sp="0.25" />&mu;l
+							of 12
+							<ce:hsp sp="0.25" />
+							mM
+							<ce:italic>N</ce:italic>
+							-1-naphthylethyleneiamine dihydrochloride in 2.5% phosphoric acid
+							was added and incubated in the dark for additional 5
+							<ce:hsp sp="0.25" />
+							min. The absorbance was read at 550
+							<ce:hsp sp="0.25" />
+							nm using the microplate reader (Tecan Infinite M200). The NO
+							<ce:inf>2</ce:inf>
+							<ce:sup>&minus;
+							</ce:sup>
+							concentration was determined using sodium nitrite as a standard
+							in the range of 12.5&ndash;100
+							<ce:hsp sp="0.25" />&mu;M.
+						</ce:para>
+					</ce:section>
+					<ce:section id="sec0050">
+						<ce:label>2.6.2</ce:label>
+						<ce:section-title id="sect0075">Urea analysis to measure
+							arginase activity</ce:section-title>
+						<ce:para id="par0085">
+							Arginase activity was analyzed in macrophages lysate by measuring
+							the conversion of
+							<ce:small-caps>L</ce:small-caps>
+							-arginine to urea as previously described (
+							<ce:cross-ref id="crf0070" refid="bib0115">Kropf et al., 2007</ce:cross-ref>
+							) with slight modifications. Cells were lysed with a solution of
+							Triton X in combination with protease inhibitors (Complete Mini
+							Roche, one tablet per 10
+							<ce:hsp sp="0.25" />ml
+							of solution), Tris&ndash;HCl
+							and MnCl
+							<ce:inf>2.</ce:inf>
+							The enzyme was then activated by heating and arginine hydrolysis
+							was carried out by incubation of the activated enzyme with
+							arginine (Sigma&ndash;Aldrich)
+							at 37
+							<ce:hsp sp="0.25" />&deg;C
+							with 5% CO
+							<ce:inf>2</ce:inf>
+							for 120
+							<ce:hsp sp="0.25" />
+							min. The reaction was stopped with 400
+							<ce:hsp sp="0.25" />&mu;l
+							of solution containing H
+							<ce:inf>2</ce:inf>
+							SO
+							<ce:inf>4,</ce:inf>
+							H
+							<ce:inf>3</ce:inf>
+							PO
+							<ce:inf>4</ce:inf>
+							and distilled water. Color reaction was developed in the presence
+							of 20
+							<ce:hsp sp="0.25" />&mu;l
+							550
+							<ce:hsp sp="0.25" />mM &alpha;-isonitrosopropiophenone
+							(dissolved in 100% ethanol) after incubation at 100
+							<ce:hsp sp="0.25" />&deg;C
+							for 45
+							<ce:hsp sp="0.25" />
+							min. The absorbance was read at 540
+							<ce:hsp sp="0.25" />nm.
+							Urea concentration was determined using urea as a standard in the
+							range of 0.004&ndash;0.6
+							<ce:hsp sp="0.25" />
+							mg/ml.
+						</ce:para>
+					</ce:section>
+					<ce:section id="sec0055">
+						<ce:label>2.6.3</ce:label>
+						<ce:section-title id="sect0080">Detection of cytokine
+							production</ce:section-title>
+						<ce:para id="par0090">The
+							production of IL-10 and TNF-&alpha;
+							was determined by sandwich enzyme-linked immunosorbent assays
+							(ELISA). Microtiter plate wells were coated with primary antibody
+							(Purified Anti-mouse IL-10 or TNF-&alpha;;
+							eBioscience) in concentration of 2
+							<ce:hsp sp="0.25" />&mu;g/ml
+							in phosphate-buffered saline (PBS) (150
+							<ce:hsp sp="0.25" />
+							mM NaCl, 3
+							<ce:hsp sp="0.25" />
+							mM KCl, 8
+							<ce:hsp sp="0.25" />
+							mM Na
+							<ce:inf>2</ce:inf>
+							HPO
+							<ce:inf>4</ce:inf>
+							<ce:hsp sp="0.25" />&times;
+							<ce:hsp sp="0.25" />
+							12H
+							<ce:inf>2</ce:inf>
+							O, 1
+							<ce:hsp sp="0.25" />
+							mMKH
+							<ce:inf>2</ce:inf>
+							PO
+							<ce:inf>4</ce:inf>
+							, pH 7.2) at 4
+							<ce:hsp sp="0.25" />&deg;C
+							overnight. To block free binding sites, washed wells were
+							incubated with 6% low fat dry milk diluted in PBS with 0.05%
+							Tween 20 (PBS&ndash;Tween)
+							for 2
+							<ce:hsp sp="0.25" />
+							h. Plates with 100
+							<ce:hsp sp="0.25" />&mu;l
+							of undiluted macrophage supernatant per well were incubated at 4
+							<ce:hsp sp="0.25" />&deg;C
+							overnight. Secondary antibodies conjugated with biotin (Biotin
+							Conjugated Anti-mouse IL-10 or TNF-&alpha;;
+							eBioscience) were diluted in PBS&ndash;Tween
+							to a concentration of 2
+							<ce:hsp sp="0.25" />&mu;g/ml
+							and incubated for 1
+							<ce:hsp sp="0.25" />h
+							at room temperature. To visualize the antigen&ndash;antibody
+							complex avidine-peroxidase was applied at concentration of 500
+							<ce:hsp sp="0.25" />&mu;g/ml
+							for 30
+							<ce:hsp sp="0.25" />
+							min at room temperature. Orthophenylendiamine and H
+							<ce:inf>2</ce:inf>
+							O
+							<ce:inf>2</ce:inf>
+							in phosphate&ndash;citrate
+							buffer (0.11
+							<ce:hsp sp="0.25" />
+							M Na
+							<ce:inf>2</ce:inf>
+							HPO
+							<ce:inf>4</ce:inf>
+							<ce:hsp sp="0.25" />&times;
+							<ce:hsp sp="0.25" />
+							12H
+							<ce:inf>2</ce:inf>
+							O, 0.5
+							<ce:hsp sp="0.25" />
+							M citric acid; pH 5.5) were used as a substrate solution.
+							Absorbance was measured at 492
+							<ce:hsp sp="0.25" />
+							nm using a microplate reader (Tecan Infinite M200). Data are
+							stated in the form of stimulation index (SI); each cytokine
+							absorbance value was divided by the relevant negative control.
+						</ce:para>
+					</ce:section>
+				</ce:section>
+				<ce:section id="sec0060">
+					<ce:label>2.7</ce:label>
+					<ce:section-title id="sect0085">
+						Detection of anti-
+						<ce:italic>P. papatasi</ce:italic>
+						and anti-
+						<ce:italic>P. duboscqi</ce:italic>
+						saliva antibodies
+					</ce:section-title>
+					<ce:para id="par0095">
+						Anti-
+						<ce:italic>P. papatasi</ce:italic>
+						and anti-
+						<ce:italic>P. duboscqi</ce:italic>
+						IgG antibodies were measured in sera of BALB/c mice obtained at
+						three intervals: before exposure to
+						<ce:italic>P. papatasi</ce:italic>
+						bites (T1), 3 days after the last exposure to
+						<ce:italic>P. papatasi</ce:italic>
+						(T2) and 9 weeks post infection (T3). Microtiter plate wells were
+						coated with
+						<ce:italic>P. papatasi</ce:italic>
+						or
+						<ce:italic>P. duboscqi</ce:italic>
+						SGH (equivalent of 1/5 salivary gland per well) in 20
+						<ce:hsp sp="0.25" />mM
+						carbonate&ndash;bicarbonate
+						buffer (20
+						<ce:hsp sp="0.25" />
+						mM Na
+						<ce:inf>2</ce:inf>
+						CO
+						<ce:inf>3</ce:inf>&ndash;NaHCO
+						<ce:inf>3</ce:inf>,
+						pH 9.0&ndash;9.5)
+						at 4
+						<ce:hsp sp="0.25" />&deg;C
+						overnight. To block free binding sites, washed wells were
+						incubated with 6% low fat dry milk diluted in PBS&ndash;Tween.
+						Mice sera were diluted 1:200 in 2% low fat dry milk and incubated
+						for 90
+						<ce:hsp sp="0.25" />
+						min at 37
+						<ce:hsp sp="0.25" />&deg;C.
+						Secondary antibodies (goat anti-mouse IgG conjugated with
+						peroxidase, Serotec) were diluted 1:1000 in PBS&ndash;Tween
+						and incubated for 45
+						<ce:hsp sp="0.25" />
+						min at 37
+						<ce:hsp sp="0.25" />&deg;C.
+						Reaction was developed and measured as described above. Similar
+						protocol was used to determine anti-saliva IgG subclasses with the
+						following modifications: sera were incubated overnight at 4
+						<ce:hsp sp="0.25" />&deg;C;
+						secondary antibodies (goat anti-mouse IgG1 and IgG2a conjugated
+						with peroxidase, Serotec) were diluted 1:9000 for IgG1 and 1:200
+						for IgG2a in PBS&ndash;Tween
+						and incubated for 45
+						<ce:hsp sp="0.25" />
+						min and 2
+						<ce:hsp sp="0.25" />
+						h, respectively. Sera of two non-exposed and non-infected Balb/c
+						mice were used as a negative control.
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0065">
+					<ce:label>2.8</ce:label>
+					<ce:section-title id="sect0090">
+						Detection of anti-
+						<ce:italic>L. major</ce:italic>
+						antibodies
+					</ce:section-title>
+					<ce:para id="par0100">
+						Anti-
+						<ce:italic>L. major</ce:italic>
+						IgG antibodies were measured in sera of BALB/c mice obtained 9
+						weeks post infection. Stationary promastigotes of
+						<ce:italic>L. major</ce:italic>
+						were used as an antigen. Parasites were washed two-times in saline
+						solution, centrifuged for 8
+						<ce:hsp sp="0.25" />
+						min at 2900
+						<ce:hsp sp="0.25" />&times;
+						<ce:hsp sp="0.25" />
+						<ce:italic>g</ce:italic>
+						, counted in Burker chamber and frozen until used. Microtiter
+						plate wells were coated with crude
+						<ce:italic>L. major</ce:italic>
+						promastigotes at a concentration of 10
+						<ce:sup>7</ce:sup>
+						cells/ml at 37
+						<ce:hsp sp="0.25" />&deg;C
+						for 2
+						<ce:hsp sp="0.25" />
+						h. To block free binding sites, washed wells were incubated with
+						6% low fat dry milk diluted in PBS&ndash;Tween.
+						Mice sera were diluted 1:400 in 2% low fat dry milk and incubated
+						for 60
+						<ce:hsp sp="0.25" />
+						min at 37
+						<ce:hsp sp="0.25" />&deg;C.
+						Secondary antibodies (goat anti-mouse IgG conjugated with
+						peroxidase, Serotec) were diluted 1:1000 in PBS&ndash;Tween
+						and incubated for 45
+						<ce:hsp sp="0.25" />
+						min at 37
+						<ce:hsp sp="0.25" />&deg;C.
+						Reaction was developed and measured as described above. Similar
+						protocol was used to determine anti-
+						<ce:italic>L. major</ce:italic>
+						IgG subclasses with the following modifications: sera were
+						incubated overnight at 4
+						<ce:hsp sp="0.25" />&deg;C;
+						secondary antibodies (goat anti-mouse IgG1 and IgG2a conjugated
+						with peroxidase, Serotec) were diluted 1:9000 for IgG1 and 1:200
+						for IgG2a in PBS&ndash;Tween
+						and incubated for 45
+						<ce:hsp sp="0.25" />
+						min and 2
+						<ce:hsp sp="0.25" />
+						h, respectively. Sera of the two non-exposed and non-infected
+						Balb/c mice were used as a negative control.
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0070">
+					<ce:label>2.9</ce:label>
+					<ce:section-title id="sect0095">Western blot analysis</ce:section-title>
+					<ce:para id="par0105">
+						<ce:italic>P. papatasi</ce:italic>
+						and
+						<ce:italic>P. duboscqi</ce:italic>
+						SGH was separated on 12% SDS&ndash;PAGE
+						gel under non-reducing conditions using the Mini-Protean III
+						apparatus (BioRad). For the salivary profile, separated proteins
+						of both colonies (10 and 8.5 salivary glands for
+						<ce:italic>P. papatasi</ce:italic>
+						a
+						<ce:italic>P. duboscqi</ce:italic>
+						per well, respectively) were stained by silver. For the Western
+						blot analysis, salivary proteins (10 gland pairs per well) were
+						blotted onto a nitrocellulose membrane (NB) by Semi-Phor equipment
+						(Hoefer Scientific Instruments) and NB was cut into strips. The
+						strips were then blocked with 5% low fat dry milk in TBS with
+						0.05% Tween 20 (TBS-Tw) and subsequently incubated with sera
+						diluted 1:100 for 1
+						<ce:hsp sp="0.25" />
+						h. Sera from BALB/c mice immunized 10 times by
+						<ce:italic>P. papatasi</ce:italic>
+						or
+						<ce:italic>P. duboscqi</ce:italic>
+						bites or never exposed to sand flies were used (none of those mice
+						were infected by
+						<ce:italic>L. major</ce:italic>
+						). Then the strips were incubated for 1
+						<ce:hsp sp="0.25" />
+						h with peroxidase-conjugated goat anti-mouse IgG (Serotec) diluted
+						1:1000 in TBS-Tw. The chromogenic reaction was developed using a
+						substrate solution containing diaminobenzidine and H
+						<ce:inf>2</ce:inf>
+						O
+						<ce:inf>2</ce:inf>
+						.
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0075">
+					<ce:label>2.10</ce:label>
+					<ce:section-title id="sect0100">Statistical analysis</ce:section-title>
+					<ce:para id="par0110">
+						The data were analyzed using NCSS 6.0.21 software. Lesion size
+						development was analyzed by general linear models (GLM) ANOVA and
+						Scheffe's Multiple Comparison Test after data normalization using
+						ln(
+						<ce:italic>x</ce:italic>
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						1) transformation formula. The differences between and within
+						groups (parasite load, macrophage activity and antibody response)
+						were determined by the non-parametric Wilcoxon Rank Sum Test for
+						Differences in Medians and Wilcoxon Signed-Rank Test for
+						Difference in Medians, respectively. The non-parametric Spearman
+						Rank Correlation Matrix was used to test correlations. GraphPad
+						Prism 5.00 software was used for creating the correlation graphs.
+					</ce:para>
+				</ce:section>
+			</ce:section>
+			<ce:section id="sec0080" role="results">
+				<ce:label>3</ce:label>
+				<ce:section-title id="sect0105">Results</ce:section-title>
+				<ce:section id="sec0085">
+					<ce:label>3.1</ce:label>
+					<ce:section-title id="sect0110">
+						Development of
+						<ce:italic>L. major</ce:italic>
+						infection
+					</ce:section-title>
+					<ce:para id="par0115">
+						The development of
+						<ce:italic>L. major</ce:italic>
+						infection was monitored in four groups of mice; mice were followed
+						for 9 weeks after the infection by measuring the ear lesion size,
+						by quantification of
+						<ce:italic>Leishmania</ce:italic>
+						parasites in the ear dermis and in the draining lymph nodes, and
+						by detection of IgG antibodies against
+						<ce:italic>L. major</ce:italic>
+						antigens (
+						<ce:cross-ref id="crf0075" refid="fig0010">Fig. 2</ce:cross-ref>
+						<ce:float-anchor refid="fig0010" />
+						).
+					</ce:para>
+					<ce:para id="par0120">
+						Importantly, since week 5, both immunized groups revealed
+						significantly smaller
+						<ce:italic>Leishmania</ce:italic>
+						lesions when compared to the controls (
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) (
+						<ce:cross-ref id="crf0080" refid="fig0010">Fig. 2</ce:cross-ref>
+						A,B). Since the same week, no significant difference was detected
+						between control groups. On the other hand, the differences were
+						found between the immunized groups, for most of the time points
+						with EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P. pap group having smaller lesion sizes than EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P. dub.
+					</ce:para>
+					<ce:para id="par0125">
+						Nine weeks after infection, the inoculated ears and the
+						corresponding draining lymph nodes of all mice were sampled and
+						<ce:italic>Leishmania</ce:italic>
+						burden was quantified using qPCR. In EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap group, a significant reduction in the amount of the
+						<ce:italic>Leishmania</ce:italic>
+						parasites (
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) was detected, when compared to nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap group; fivefold in the inoculated ears and threefold in the
+						draining lymph nodes (
+						<ce:cross-ref id="crf0085" refid="fig0010">Fig. 2</ce:cross-ref>
+						C,D). Similar results were achieved comparing the EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub and nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub groups (
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05); the parasite burden in the draining lymph nodes was 11-fold
+						reduced in the immunized group and the same trend was observed
+						also in the inoculated ears, although the difference was not
+						significant (
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						=
+						<ce:hsp sp="0.25" />
+						0.064) (
+						<ce:cross-ref id="crf0090" refid="fig0010">Fig. 2</ce:cross-ref>
+						C,D). Moreover, the cumulative parasite load (the sum of parasites
+						in the inoculated ear and in the draining lymph node) was also
+						significantly reduced (
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) in both immunized groups, when compared to the either
+						control group (data not shown). No significant difference in the
+						amount of
+						<ce:italic>Leishmania</ce:italic>
+						parasites was found between the immunized groups, or the controls.
+						Importantly, positive correlation was detected between the ear
+						lesion size measured in the ninth week after infection and
+						parasite burden in the inoculated ear (
+						<ce:italic>&rho;
+						</ce:italic>
+						<ce:hsp sp="0.25" />
+						=
+						<ce:hsp sp="0.25" />
+						0.781;
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) (
+						<ce:cross-ref id="crf0095" refid="fig0010">Fig. 2</ce:cross-ref>
+						F) as well as between the number of
+						<ce:italic>Leishmania</ce:italic>
+						parasites in the inoculated ear and in the draining lymph node (
+						<ce:italic>&rho;
+						</ce:italic>
+						<ce:hsp sp="0.25" />
+						=
+						<ce:hsp sp="0.25" />
+						0.381;
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) (Table S1).
+					</ce:para>
+					<ce:para view="compact-standard" id="par0130">
+						Supplementary material related to this article found, in the
+						online version, at
+						<ce:inter-ref id="intr0005"
+							xlink:href="doi:10.1016/j.actatropica.2015.01.005">http://dx.doi.org/10.1016/j.actatropica.2015.01.005</ce:inter-ref>
+						.
+					</ce:para>
+					<ce:para view="extended" id="par0135">
+						<ce:display>
+							<ce:e-component id="upi0005">
+								<ce:label>Supplementary Table S1</ce:label>
+								<ce:caption id="cap0035">
+									<ce:simple-para id="spar0055">Correlation analysis between
+										different variables.</ce:simple-para>
+								</ce:caption>
+								<ce:link locator="mmc1" />
+							</ce:e-component>
+						</ce:display>
+					</ce:para>
+					<ce:para id="par0140">
+						The IgG antibodies against
+						<ce:italic>L. major</ce:italic>
+						were measured in the sera of mice in the ninth week after the
+						infection as a marker of disease severity. No significant
+						difference was found between the two immunized groups (EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap and EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub). However, significantly lower levels of specific antibodies
+						(
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) were detected in the EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap group, when compared to the nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap group (
+						<ce:cross-ref id="crf0100" refid="fig0010">Fig. 2</ce:cross-ref>
+						E). Although insignificantly, similar trend was observed between
+						the group infected together with heterologous antigen (EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub) and its control (nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub). Importantly, positive correlation was found between the
+						levels of anti-
+						<ce:italic>L. major</ce:italic>
+						IgG and the
+						<ce:italic>Leishmania</ce:italic>
+						lesion size in the ears (
+						<ce:italic>&rho;
+						</ce:italic>
+						<ce:hsp sp="0.25" />
+						=
+						<ce:hsp sp="0.25" />
+						0.583;
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) (
+						<ce:cross-ref id="crf0105" refid="fig0010">Fig. 2</ce:cross-ref>
+						G) as well as between the levels of specific antibodies and the
+						number of parasites in the inoculated ears (
+						<ce:italic>&rho;
+						</ce:italic>
+						<ce:hsp sp="0.25" />
+						=
+						<ce:hsp sp="0.25" />
+						0.619;
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) (Table S1).
+					</ce:para>
+					<ce:para id="par0145">
+						Furthermore, we also determined levels of specific IgG2a and IgG1
+						antibodies. Anti-
+						<ce:italic>L. major</ce:italic>
+						IgG1 antibodies were the dominant IgG subclass, whereas IgG2a
+						remained near the background levels of the negative control. No
+						significant difference was detected between the groups for either
+						IgG subclasses or the IgG1:IgG2a ratio (Fig. S1).
+					</ce:para>
+					<ce:para view="compact-standard" id="par0150">
+						Supplementary material related to this article found, in the
+						online version, at
+						<ce:inter-ref id="intr0010"
+							xlink:href="doi:10.1016/j.actatropica.2015.01.005">http://dx.doi.org/10.1016/j.actatropica.2015.01.005</ce:inter-ref>
+						.
+					</ce:para>
+					<ce:para view="extended" id="par0155">
+						<ce:display>
+							<ce:e-component id="upi0010">
+								<ce:label>Supplementary Fig. S1</ce:label>
+								<ce:caption id="cap0040">
+									<ce:simple-para id="spar0060">
+										Anti-
+										<ce:italic>Leishmania major</ce:italic>
+										IgG1 and IgG2a antibody response. BALB/c mice were exposed to
+										<ce:italic>P. papatasi</ce:italic>
+										bites (EXP) or left non-exposed (nEXP). Mice were then
+										infected with
+										<ce:italic>L. major</ce:italic>
+										promastigotes along with either
+										<ce:italic>P. papatasi</ce:italic>
+										(EXP
+										<ce:hsp sp="0.25" />
+										+
+										<ce:hsp sp="0.25" />
+										P.pap, nEXP
+										<ce:hsp sp="0.25" />
+										+
+										<ce:hsp sp="0.25" />
+										P.pap) or
+										<ce:italic>P. duboscqi</ce:italic>
+										(EXP
+										<ce:hsp sp="0.25" />
+										+
+										<ce:hsp sp="0.25" />
+										P.dub, nEXP
+										<ce:hsp sp="0.25" />
+										+
+										<ce:hsp sp="0.25" />
+										P.dub) SGH. IgG1 and IgG2a antibodies against
+										<ce:italic>L. major</ce:italic>
+										were measured in sera of mice obtained in the ninth week post
+										infection (T3) using ELISA. Vertical bars represent standard
+										errors of the means.
+									</ce:simple-para>
+								</ce:caption>
+								<ce:link locator="mmc2" />
+							</ce:e-component>
+						</ce:display>
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0090">
+					<ce:label>3.2</ce:label>
+					<ce:section-title id="sect0115">Macrophage activities</ce:section-title>
+					<ce:para id="par0160">
+						The activity of macrophages obtained by the peritoneal lavage was
+						determined by measuring the production of nitric oxide (NO)
+						(marker of classically activated macrophages), urea (marker of
+						alternatively activated macrophages), and cytokine production in
+						the ninth week after infection (
+						<ce:cross-refs id="crfs0065" refid="fig0015 fig0020">Figs. 3 and 4</ce:cross-refs>
+						<ce:float-anchor refid="fig0015" />
+						).
+					</ce:para>
+					<ce:para id="par0165">
+						No significant difference in the production of NO was detected
+						between the groups (
+						<ce:cross-ref id="crf0110" refid="fig0015">Fig. 3</ce:cross-ref>
+						A). Differences in urea production were observed between the two
+						groups challenged together with
+						<ce:italic>P. duboscqi</ce:italic>
+						saliva; EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub produced approximately threefold more urea (
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) than nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />P.dub,
+						both when the macrophages were stimulated with LPS and IFN-&gamma;
+						and in macrophages without any stimulation (
+						<ce:cross-ref id="crf0115" refid="fig0015">Fig. 3</ce:cross-ref>
+						B). A similar trend in urea production was observed in the exposed
+						and non-exposed groups (EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap compared to nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap and EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub compared to nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub) incubated with
+						<ce:italic>Leishmania</ce:italic>
+						parasites.
+					</ce:para>
+					<ce:para id="par0170">
+						When compared to nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap group, macrophages from the EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />P.pap
+						group produced significantly higher amount of TNF-&alpha;
+						and lower amounts of IL-10 after stimulation with
+						<ce:italic>Leishmania</ce:italic>
+						parasites (
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) (
+						<ce:cross-ref id="crf0120" refid="fig0020">Fig. 4</ce:cross-ref>
+						<ce:float-anchor refid="fig0020" />
+						). In the groups challenged together with
+						<ce:italic>P. duboscqi</ce:italic>
+						salivary gland homogenate, the production of TNF-&alpha;
+						and IL-10 was comparable (
+						<ce:cross-ref id="crf0125" refid="fig0020">Fig. 4</ce:cross-ref>
+						). Significant differences (
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) in tested cytokines were recorded between the non-exposed
+						groups after incubation with
+						<ce:italic>Leishmania</ce:italic>
+						promastigotes; the nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />P.dub
+						group produced significantly more TNF-&alpha;
+						and significantly less IL-10 compared to group nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap. No differences were found between the exposed groups (EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap compared to EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub) (
+						<ce:cross-ref id="crf0130" refid="fig0020">Fig. 4</ce:cross-ref>
+						).
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0095">
+					<ce:label>3.3</ce:label>
+					<ce:section-title id="sect0120">Anti-saliva antibody response</ce:section-title>
+					<ce:para id="par0175">
+						As a marker of exposure, the anti-
+						<ce:italic>P. papatasi</ce:italic>
+						and anti-
+						<ce:italic>P. duboscqi</ce:italic>
+						saliva IgG were measured in sera of mice of all four groups.
+					</ce:para>
+					<ce:para id="par0180">
+						Two exposures to
+						<ce:italic>P. papatasi</ce:italic>
+						females did not result in significantly increased levels of anti-
+						<ce:italic>P. papatasi</ce:italic>
+						IgG or anti-
+						<ce:italic>P. duboscqi</ce:italic>
+						IgG at T2 (
+						<ce:cross-ref id="crf0135" refid="fig0025">Fig. 5</ce:cross-ref>
+						<ce:float-anchor refid="fig0025" />
+						A,B). However, 9 weeks later, at T3, there was a significant
+						increase of anti-
+						<ce:italic>P. papatasi</ce:italic>
+						and anti-
+						<ce:italic>P. duboscqi</ce:italic>
+						antibodies (
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) in both exposed groups (EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap and EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub) (
+						<ce:cross-ref id="crf0140" refid="fig0025">Fig. 5</ce:cross-ref>
+						A,B).
+					</ce:para>
+					<ce:para id="par0185">
+						At T3, EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap as well as EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub mice produced significantly higher levels of anti-
+						<ce:italic>P. papatasi</ce:italic>
+						IgG antibodies (
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05,
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01, respectively) compared to the relevant non-exposed groups.
+						The levels of specific antibodies in the two exposed groups were
+						comparable throughout whole study. Comparison of the sera of the
+						non-exposed groups from the last sampling point (T3) revealed that
+						nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap presented significantly higher levels of anti-
+						<ce:italic>P. papatasi</ce:italic>
+						IgG (
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) than nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub group (
+						<ce:cross-ref id="crf0145" refid="fig0025">Fig. 5</ce:cross-ref>
+						A).
+					</ce:para>
+					<ce:para id="par0190">
+						When comparing the production of anti-
+						<ce:italic>P. duboscqi</ce:italic>
+						antibodies between the non-exposed groups in the ninth week after
+						infection, the nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub sera possessed significantly higher levels of specific IgG (
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) than the nEXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap group (
+						<ce:cross-ref id="crf0150" refid="fig0025">Fig. 5</ce:cross-ref>
+						B). No significant difference in the levels of specific antibodies
+						was detected between the exposed groups, although a trend towards
+						higher production in EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub group was observed at T3.
+					</ce:para>
+					<ce:para id="par0195">
+						A negative correlation was found between the levels of anti-
+						<ce:italic>P. papatasi</ce:italic>
+						IgG at T3 and the number of
+						<ce:italic>L. major</ce:italic>
+						parasites in the draining lymph node (
+						<ce:italic>&rho;
+						</ce:italic>
+						<ce:hsp sp="0.25" />
+						=
+						<ce:hsp sp="0.25" />&minus;0.548;
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01) as well as between the levels of anti-
+						<ce:italic>P. papatasi</ce:italic>
+						IgG and the size of ear lesion (
+						<ce:italic>&rho;
+						</ce:italic>
+						<ce:hsp sp="0.25" />
+						=
+						<ce:hsp sp="0.25" />&minus;0.406;
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) (Table S1).
+					</ce:para>
+					<ce:para id="par0200">
+						Furthermore, we also determined specific IgG2a and IgG1
+						antibodies. Since we did not detect any significant difference in
+						the production of total anti-saliva IgG between pre-immune sera
+						(T1) and sera after the second exposure (T2), the IgG1 and IgG2a
+						antibodies were measured only in T3 samples. Anti-
+						<ce:italic>P. papatasi</ce:italic>
+						IgG1 antibodies were the dominant IgG subclass in exposed groups,
+						whereas IgG2a remained near the background level of the negative
+						control (
+						<ce:cross-ref id="crf0155" refid="fig0025">Fig. 5</ce:cross-ref>
+						C). EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.pap as well as EXP
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						P.dub mice produced significantly higher anti
+						<ce:italic>P. papatasi</ce:italic>
+						IgG1 antibodies (
+						<ce:italic>p</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01) compared to the appropriate non-exposed groups (
+						<ce:cross-ref id="crf0160" refid="fig0025">Fig. 5</ce:cross-ref>
+						C). The levels of IgG1 and IgG2a in the two exposed as well as the
+						non-exposed groups were comparable (
+						<ce:cross-ref id="crf0165" refid="fig0025">Fig. 5</ce:cross-ref>
+						C).
+					</ce:para>
+					<ce:para id="par0205">
+						No significant difference in the production of anti-
+						<ce:italic>P. duboscqi</ce:italic>
+						IgG1 and IgG2a antibodies was detected between the groups, albeit
+						the trend of higher IgG1 production in exposed groups was also
+						observed (
+						<ce:cross-ref id="crf0170" refid="fig0025">Fig. 5</ce:cross-ref>
+						D).
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0100">
+					<ce:label>3.4</ce:label>
+					<ce:section-title id="sect0125">
+						Cross-reactivity of
+						<ce:italic>P. papatasi</ce:italic>
+						and
+						<ce:italic>P. duboscqi</ce:italic>
+						salivary antigens
+					</ce:section-title>
+					<ce:para id="par0210">
+						The protein profile of
+						<ce:italic>P. papatasi</ce:italic>
+						and
+						<ce:italic>P. duboscqi</ce:italic>
+						salivary glands was studied using SDS&ndash;PAGE.
+						In
+						<ce:italic>P. papatasi</ce:italic>
+						and
+						<ce:italic>P. duboscqi</ce:italic>
+						saliva, 11 and 13 prominent protein bands, respectively, were
+						visualized using silver staining. Comparison of both salivary
+						profiles revealed a significant difference particularly within the
+						10&ndash;50
+						<ce:hsp sp="0.25" />
+						kDa range (
+						<ce:cross-ref id="crf0175" refid="fig0030">Fig. 6</ce:cross-ref>
+						<ce:float-anchor refid="fig0030" />
+						A).
+					</ce:para>
+					<ce:para id="par0215">
+						To test the cross-reactivity of anti-
+						<ce:italic>P. papatasi</ce:italic>
+						and anti-
+						<ce:italic>P. duboscqi</ce:italic>
+						antibodies, Western blot analysis was performed using sera of mice
+						repeatedly bitten by either
+						<ce:italic>P. papatasi</ce:italic>
+						or
+						<ce:italic>P. duboscqi</ce:italic>
+						. In both sand fly species, strong reaction was observed in the
+						samples tested against homologous antigen (
+						<ce:cross-ref id="crf0180" refid="fig0030">Fig. 6</ce:cross-ref>
+						B). The sera of mice bitten by
+						<ce:italic>P. papatasi</ce:italic>
+						recognized 8&ndash;11
+						<ce:italic>P. papatasi</ce:italic>
+						salivary proteins within 10&ndash;50
+						<ce:hsp sp="0.25" />
+						kDa range. Similar reactivity was observed in sera of mice bitten
+						by
+						<ce:italic>P. duboscqi</ce:italic>;
+						they also reacted with 8&ndash;11
+						<ce:italic>P. duboscqi</ce:italic>
+						salivary antigens of the same molecular weights (
+						<ce:cross-ref id="crf0185" refid="fig0030">Fig. 6</ce:cross-ref>
+						B). Substantial cross-reactivity was observed among both sand fly
+						species when tested by reaction with heterologous antigen; however
+						the reactions were less intense compared to homologous antigen.
+						Sera of mice bitten by
+						<ce:italic>P. duboscqi</ce:italic>
+						recognized 6 out of 11
+						<ce:italic>P. papatasi</ce:italic>
+						protein bands (of approximately 12, 22, 23, 28, 29, and 32
+						<ce:hsp sp="0.25" />
+						kDa) (
+						<ce:cross-ref id="crf0190" refid="fig0030">Fig. 6</ce:cross-ref>
+						B), while sera of mice bitten by
+						<ce:italic>P. papatasi</ce:italic>
+						recognized only three
+						<ce:italic>P. duboscqi</ce:italic>
+						antigens, of about 15, 23, and 38
+						<ce:hsp sp="0.25" />
+						kDa (
+						<ce:cross-ref id="crf0195" refid="fig0030">Fig. 6</ce:cross-ref>
+						B).
+					</ce:para>
+				</ce:section>
+			</ce:section>
+			<ce:section id="sec0105" role="discussion">
+				<ce:label>4</ce:label>
+				<ce:section-title id="sect0130">Discussion</ce:section-title>
+				<ce:para id="par0220">
+					This study demonstrates for the first time the cross-protective
+					effect between saliva of two closely related
+					<ce:italic>Phlebotomus</ce:italic>
+					species:
+					<ce:italic>P. papatasi</ce:italic>
+					and
+					<ce:italic>P. duboscqi</ce:italic>
+					, both the natural vectors of
+					<ce:italic>L. major</ce:italic>
+					. In accordance with previous studies (
+					<ce:cross-refs id="crfs0070" refid="bib0005 bib0085">Belkaid et al.,
+						1998; Kamhawi et al., 2000</ce:cross-refs>
+					), mice immunized by
+					<ce:italic>P. papatasi</ce:italic>
+					saliva were protected against
+					<ce:italic>L. major</ce:italic>
+					infection co-inoculated with
+					<ce:italic>P. papatasi</ce:italic>
+					salivary gland homogenate. It was reflected in significantly
+					smaller ear lesion size and lower number of
+					<ce:italic>Leishmania</ce:italic>
+					parasites in the inoculated ear as well as in the draining lymph
+					node. The course of infection in mice exposed to
+					<ce:italic>P. papatasi</ce:italic>
+					sand flies but infected together with
+					<ce:italic>P. duboscqi</ce:italic>
+					SGH was similar. Herein, the cross-protective effect was
+					demonstrated by significantly smaller ear lesion size which
+					corresponded to lower number of
+					<ce:italic>Leishmania</ce:italic>
+					parasites in the draining lymph node with trend to lower number of
+					parasites also in the inoculated ear. Importantly, when compared to
+					<ce:italic>P. papatasi</ce:italic>
+					-challenged group, there was no difference in parasite load in the
+					inoculated ear and draining lymph node or anti-
+					<ce:italic>Leishmania</ce:italic>
+					IgG level.
+				</ce:para>
+				<ce:para id="par0225">
+					It has been shown that the prior exposure of mice to
+					<ce:italic>P. papatasi</ce:italic>
+					saliva attracts several immune cells to the bite site and promotes
+					the Th1-derived immune milieu capable of effective defense against
+					<ce:italic>L. major</ce:italic>
+					co-inoculated with sand fly saliva or transmitted by sand fly bite
+					(
+					<ce:cross-refs id="crfs0075" refid="bib0005 bib0085">Belkaid et al.,
+						1998; Kamhawi et al., 2000</ce:cross-refs>
+					). On the other hand, the Th2 type inducing saliva, for example of
+					<ce:italic>Lu. intermedia</ce:italic>
+					, failed to protect against challenge comprised of
+					<ce:italic>L. brasiliensis</ce:italic>
+					and homologous saliva (
+					<ce:cross-ref id="crf0200" refid="bib0025">de Moura et al., 2007</ce:cross-ref>
+					). Therefore, in addition to the course of infection, we also
+					tested several aspects of cellular and humoral immunity in the
+					infected mice.
+				</ce:para>
+				<ce:para id="par0230">
+					The peritoneal macrophages were employed to study the systemic
+					immune response. Although the protective effect elicited by the
+					<ce:italic>P. papatasi</ce:italic>
+					bite was observed in both exposed groups, the cytokine profile of
+					peritoneal macrophages (PM&Phi;)
+					was affected only in the group challenged in the presence of
+					homologous antigen. In this group, the production of the
+					proinflammatory cytokine TNF-&alpha;,
+					was enhanced, whereas the production of IL-10, the
+					anti-inflammatory cytokine, was significantly suppressed. These
+					data suggest similar polarization of the cytokine production by PM&Phi;
+					as described for dermal macrophages isolated from protected mice (
+					<ce:cross-ref id="crf0205" refid="bib0005">Belkaid et al., 1998</ce:cross-ref>
+					). The absence of such polarization in the exposed group challenged
+					together with
+					<ce:italic>P. duboscqi</ce:italic>
+					SGH might be explained by the fact that the immunity elicited by
+					the
+					<ce:italic>P. papatasi</ce:italic>
+					bites was probably not fully boosted by
+					<ce:italic>P. duboscqi</ce:italic>
+					whose salivary proteins might have different T-cell epitopes.
+					Nonetheless, further studies are needed to clarify this phenomenon.
+				</ce:para>
+				<ce:para id="par0235">
+					Besides the cytokine expression, macrophages also play a crucial
+					role in the establishment of
+					<ce:italic>Leishmania</ce:italic>
+					infection by processing
+					<ce:small-caps>L</ce:small-caps>
+					-arginine to the nitric oxide, the molecule produced by classically
+					activated macrophages necessary to kill
+					<ce:italic>Leishmania</ce:italic>
+					amastigotes (
+					<ce:cross-ref id="crf0210" refid="bib0065">Green et al., 1990</ce:cross-ref>
+					). Alternatively,
+					<ce:small-caps>L</ce:small-caps>
+					-arginine is processed to the ornithine and urea, the molecules
+					produced by alternatively activated macrophages that support
+					<ce:italic>Leishmania</ce:italic>
+					proliferation (reviewed in
+					<ce:cross-ref id="crf0215" refid="bib0075">Horta et al. (2012)</ce:cross-ref>
+					). Seemingly contradictory results were obtained in our study. The
+					production of nitric oxide was not increased in the protected group
+					when compared to the control one, but the opposite trend was
+					observed. Conversely, the urea production was enhanced in exposed
+					group. To our best knowledge, there are no comparable studies
+					describing the effect of
+					<ce:italic>P. papatasi</ce:italic>
+					saliva on nitric oxide and urea production in repeatedly exposed
+					host, however, several studies were performed on naive mice (
+					<ce:cross-refs id="crfs0080" refid="bib0070 bib0095 bib0140 bib0250">Hall and Titus,
+						1995; Katz et al., 2000; Mbow et al., 1998; Waitumbi and Warburg,
+						1998</ce:cross-refs>
+					).
+					<ce:cross-ref id="crf0220" refid="bib0140">Mbow et al. (1998)</ce:cross-ref>
+					described the association between the course of
+					<ce:italic>L. major</ce:italic>
+					infection and the expression of iNOS. They showed that the
+					enhancing effect observed in naive mice infected together with
+					<ce:italic>P. papatasi</ce:italic>
+					saliva corresponds to the inhibition of iNOS gene expression but
+					only until day 28 p.i. Since then, the expression of iNOS mRNA
+					corresponded with the amount of
+					<ce:italic>Leishmania</ce:italic>
+					parasites in tissues (
+					<ce:cross-ref id="crf0225" refid="bib0140">Mbow et al., 1998</ce:cross-ref>
+					). Furthermore,
+					<ce:cross-ref id="crf0230" refid="bib0010">Blos et al. (2003)</ce:cross-ref>
+					demonstrated that iNOS dependent macrophage cytotoxicity is
+					utilized mainly in the early phase of
+					<ce:italic>Leishmania</ce:italic>
+					infection, whereas in the chronic phase the defense of macrophages
+					relies mostly on NADPH oxidase-catalysed reactions. Our results are
+					in accordance with these findings; as the PM&Phi;
+					were taken at week 9 post infection we suppose that the higher
+					production of urea and decreased production of NO in both groups of
+					protected mice might be ascribed to the sampling time of PM&Phi;.
+					Although the time point was chosen with respect to the
+					<ce:italic>Leishmania</ce:italic>
+					lesion development, to better elucidate the association between
+					protective effect and macrophage activity, it might be beneficial
+					to focus further studies on early phase of
+					<ce:italic>Leishmania</ce:italic>
+					infection.
+				</ce:para>
+				<ce:para id="par0240">
+					Conversely to the cellular immunity, the anti-
+					<ce:italic>Leishmania</ce:italic>
+					antibody response is likely not employed in the protection against
+					leishmaniasis; however, the antibodies can serve as the indicator
+					of infection severity (
+					<ce:cross-refs id="crfs0085" refid="bib0145 bib0190">Miles et al.,
+						2005; Rohousova et al., 2011</ce:cross-refs>
+					). The production of anti-
+					<ce:italic>Leishmania</ce:italic>
+					IgG is linked with the formation of immune complexes responsible
+					for the aggravation of
+					<ce:italic>Leishmania</ce:italic>
+					infection (
+					<ce:cross-refs id="crfs0090" refid="bib0105 bib0145">Kima et al., 2000;
+						Miles et al., 2005</ce:cross-refs>
+					) as well as with the production of IL-10 (
+					<ce:cross-ref id="crf0235" refid="bib0145">Miles et al., 2005</ce:cross-ref>
+					). This complies well with our results as anti-
+					<ce:italic>Leishmania</ce:italic>
+					IgG levels were lower in exposed groups compared to non-exposed
+					ones and positively correlated with the
+					<ce:italic>Leishmania</ce:italic>
+					lesion size as well as with the amount of parasites in the lesion.
+					In accordance with previous studies (
+					<ce:cross-ref id="crf0240" refid="bib0035">Ebrahimpoor et al.,
+						2013</ce:cross-ref>
+					), we showed the dominancy of IgG1 over the IgG2a subclass in
+					BALB/c mice, indicating ongoing Th2 immune response; no differences
+					between the groups were observed.
+				</ce:para>
+				<ce:para id="par0245">
+					Sand fly salivary antigens are known to induce specific antibody
+					response in experimentally bitten animals (
+					<ce:cross-ref id="crf0245" refid="bib0235">Volf
+						and Rohousov&aacute;,
+						2001
+					</ce:cross-ref>
+					), as well as in humans (
+					<ce:cross-refs id="crfs0095" refid="bib0055 bib0185">Gomes et al.,
+						2002; Rohousova et al., 2005</ce:cross-refs>
+					) and wild animals (
+					<ce:cross-refs id="crfs0100" refid="bib0060 bib0130">Gomes
+						et al., 2007; Mart&iacute;n-Mart&iacute;n
+						et al., 2014
+					</ce:cross-refs>
+					). This antibody response can be utilized as a marker of exposure
+					(reviewed in (
+					<ce:cross-ref id="crf0250" refid="bib0045">Gomes and Oliveira,
+						2012</ce:cross-ref>
+					)). In our experiments, we did not detect any significant
+					difference in production of anti-
+					<ce:italic>P. papatasi</ce:italic>
+					saliva IgG between pre-immune sera and sera obtained after the
+					second exposure. In contrast, in the ninth week post infection,
+					both exposed groups produced around 2.5-fold more anti-
+					<ce:italic>P. papatasi</ce:italic>
+					IgG compared to non-exposed groups and over threefold higher levels
+					than the pre-immune sera. These findings are in accordance with our
+					recent study (
+					<ce:cross-ref id="crf0255" refid="bib0230">Vlkova et al., 2012</ce:cross-ref>
+					), where the antibody levels did not significantly increase till
+					the fourth week since the first exposure but once elevated, they
+					persisted in the murine sera for more than 20 weeks after the last
+					exposure (
+					<ce:cross-ref id="crf0260" refid="bib0230">Vlkova et al., 2012</ce:cross-ref>
+					).
+				</ce:para>
+				<ce:para id="par0250">
+					Similar to other studies (
+					<ce:cross-refs id="crfs0105" refid="bib0200 bib0230">Silva et al.,
+						2005; Vlkova et al., 2012</ce:cross-refs>
+					), IgG1 was the dominant IgG subclass in exposed groups; however
+					only anti-
+					<ce:italic>P. papatasi</ce:italic>
+					antibodies were found significantly elevated compared to
+					non-exposed groups, suggesting certain level of antigenic
+					species-specificity between
+					<ce:italic>P. papatasi</ce:italic>
+					and
+					<ce:italic>P. duboscqi</ce:italic>
+					salivary proteins. IgG1 is also dominant in mice immunized with
+					salivary gland homogenate (
+					<ce:cross-refs id="crfs0110" refid="bib0025 bib0165">de Moura et al.,
+						2007; Oliveira et al., 2006</ce:cross-refs>
+					), indicating that saliva and SGH elicit similar type of antibody
+					response in immunized mice.
+				</ce:para>
+				<ce:para id="par0255">
+					Salivary antigens of sand flies are mostly species-specific with
+					possible cross-reactions occurring only between closely related
+					species (
+					<ce:cross-refs id="crfs0115" refid="bib0030 bib0185 bib0210 bib0235">Drahota
+						et al., 2009; Rohousova et al., 2005; Thiakaki et al., 2005; Volf
+						and Rohousov&aacute;,
+						2001
+					</ce:cross-refs>
+					). However, sharing similar salivary antigens is one of the
+					conditions required for the successful cross-protection against
+					<ce:italic>Leishmania</ce:italic>
+					infection. Thus
+					<ce:italic>Lutzomyia longipalpis</ce:italic>
+					saliva did not mediate cross-protection against
+					<ce:italic>L. amazonensis</ce:italic>
+					challenge together with saliva of phylogenetically distant species,
+					<ce:italic>P. papatasi</ce:italic>
+					and
+					<ce:italic>P. sergenti</ce:italic>
+					(
+					<ce:cross-ref id="crf0265" refid="bib0210">Thiakaki et al., 2005</ce:cross-ref>
+					). In contrast, the cross-protective effect was demonstrated
+					between the
+					<ce:italic>Lutzomyia</ce:italic>
+					species;
+					<ce:italic>Lu. longipalpis</ce:italic>
+					and
+					<ce:italic>Lu. intermedia</ce:italic>
+					, vectors of
+					<ce:italic>L. brasiliensis</ce:italic>
+					. The golden hamsters immunized with
+					<ce:italic>Lu. longipalpis</ce:italic>
+					SGH or with a DNA plasmid coding LJM19 salivary protein were
+					protected against
+					<ce:italic>L. brasiliensis</ce:italic>
+					infection in the presence of
+					<ce:italic>Lu. intermedia</ce:italic>
+					saliva with reduced number of parasites in the inoculated ear and
+					in the draining lymph node (
+					<ce:cross-ref id="crf0270" refid="bib0205">Tavares et al., 2011</ce:cross-ref>
+					). In accordance with the aforementioned rules for effective
+					cross-protectivity, we observed cross-reactivity between
+					<ce:italic>P. papatasi</ce:italic>
+					and
+					<ce:italic>P. duboscqi</ce:italic>
+					salivary antigens using sera of hyperimmunized mice. This
+					cross-reactivity was observed despite the differences in the saliva
+					composition between both species (
+					<ce:cross-refs id="crfs0120" refid="bib0090 bib0240">Kato et al., 2006;
+						Volf et al., 2000</ce:cross-refs>
+					), but was likely efficient enough to provide the protective effect
+					to the mice infected together with heterologous antigen.
+				</ce:para>
+				<ce:para id="par0260">
+					In conclusion, this is the first study showing the cross-protection
+					in
+					<ce:italic>P. papatasi</ce:italic>
+					-exposed mice challenged with
+					<ce:italic>L. major</ce:italic>
+					in the presence of
+					<ce:italic>P. duboscqi</ce:italic>
+					saliva. The cross-protective effect suggests that the anti-
+					<ce:italic>Leishmania</ce:italic>
+					vaccine based on
+					<ce:italic>P. papatasi</ce:italic>
+					salivary proteins could be applicable also in sub-Saharan endemic
+					areas where
+					<ce:italic>L. major</ce:italic>
+					is transmitted by
+					<ce:italic>P. duboscqi</ce:italic>
+					. Moreover, similar cross-protection might be possible also between
+					other closely related sand fly species such as
+					<ce:italic>Larroussius</ce:italic>
+					species responsible for transmission of
+					<ce:italic>L. infantum</ce:italic>
+					in Mediterranean basin. We would like to further analyze immune
+					mechanisms of this cross-protective phenomenon using a sand fly
+					bite challenge model that mimic more closely the natural way of
+					<ce:italic>Leishmania</ce:italic>
+					transmission.
+				</ce:para>
+			</ce:section>
+		</ce:sections>
+		<ce:acknowledgment id="ack0005">
+			<ce:section-title id="sect0135">Acknowledgements</ce:section-title>
+			<ce:para id="par0265">
+				We would like to thank Helena Kulikova, Lenka Zitkova and Kristina
+				Simkova for great technical and administrative support. This study
+				was partially funded by <!--<query id="Q3">One or more sponsor names and 
+					the sponsor country identifier may have been edited to a standard format 
+					that enables better searching and identification of your article. Please 
+					check and correct if necessary.</query> -->
+				<ce:grant-sponsor id="gs0005">EU</ce:grant-sponsor>
+				grant
+				<ce:grant-number refid="gs0005">FP7-261504</ce:grant-number>
+				EDENext and is catalogued by the EDENext Steering Committee as
+				EDENext203 (
+				<ce:inter-ref id="intr0015" xlink:href="http://www.edenext.eu">http://www.edenext.eu</ce:inter-ref>
+				). The contents of this publication are the sole responsibility of
+				the authors and do not necessarily reflect the views of the European
+				Commission. This study was conducted under the frame of the
+				EurNegVec COST Action TD1303 and COST-CZ LD14076. The funders had no
+				role in study design, data collection and analysis, decision to
+				publish, or preparation of the manuscript.
+			</ce:para>
+		</ce:acknowledgment>
+	</body>
+	<tail>
+		<ce:bibliography id="bibl0005">
+			<ce:section-title id="sect0140">References</ce:section-title>
+			<ce:bibliography-sec id="bibs0005">
+				<ce:bib-reference id="bib0005">
+					<ce:label>Belkaid et al., 1998</ce:label>
+					<sb:reference id="sbref0005">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>Y.</ce:given-name>
+									<ce:surname>Belkaid</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Kamhawi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.</ce:given-name>
+									<ce:surname>Modi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Valenzuela</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>N.</ce:given-name>
+									<ce:surname>Noben-Trauth</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.</ce:given-name>
+									<ce:surname>Rowton</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Ribeiro</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.L.</ce:given-name>
+									<ce:surname>Sacks</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Development of a natural model of cutaneous leishmaniasis:
+									powerful effects of vector saliva and saliva preexposure on the
+									long-term outcome of
+									<ce:italic>Leishmania major</ce:italic>
+									infection in the mouse ear dermis
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Exp. Med.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>188</sb:volume-nr>
+								</sb:series>
+								<sb:date>1998</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1941</sb:first-page>
+								<sb:last-page>1953</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0010">
+					<ce:label>Blos et al., 2003</ce:label>
+					<sb:reference id="sbref0010">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Blos</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>U.</ce:given-name>
+									<ce:surname>Schleicher</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>F.J.</ce:given-name>
+									<ce:surname>Soares Rocha</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>U.</ce:given-name>
+									<ce:surname>Meissner</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>R&ouml;llinghoff
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.</ce:given-name>
+									<ce:surname>Bogdan</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Organ-specific and stage-dependent control of
+									<ce:italic>Leishmania major</ce:italic>
+									infection by inducible nitric oxide synthase and phagocyte
+									NADPH oxidase
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Eur. J. Immunol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>33</sb:volume-nr>
+								</sb:series>
+								<sb:date>2003</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1224</sb:first-page>
+								<sb:last-page>1234</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0015">
+					<ce:label>Clements et al., 2010</ce:label>
+					<sb:reference id="sbref0015">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>M.F.</ce:given-name>
+									<ce:surname>Clements</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.</ce:given-name>
+									<ce:surname>Gidwani</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.</ce:given-name>
+									<ce:surname>Kumar</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Hostomska</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.S.</ce:given-name>
+									<ce:surname>Dinesh</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>V.</ce:given-name>
+									<ce:surname>Kumar</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Das</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>M&uuml;ller
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.</ce:given-name>
+									<ce:surname>Hamilton</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>V.</ce:given-name>
+									<ce:surname>Volfova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Boelaert</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Das</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Rijal</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Picado</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Sundar</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.R.</ce:given-name>
+									<ce:surname>Davies</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.E.</ce:given-name>
+									<ce:surname>Rogers</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Measurement of recent exposure to
+									<ce:italic>Phlebotomus argentipes</ce:italic>
+									, the vector of Indian visceral Leishmaniasis, by using human
+									antibody responses to sand fly saliva
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Am. J. Trop. Med. Hyg.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>82</sb:volume-nr>
+								</sb:series>
+								<sb:date>2010</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>801</sb:first-page>
+								<sb:last-page>807</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0020">
+					<ce:label>da Silva et al., 2011</ce:label>
+					<sb:reference id="sbref0020">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>R.A.</ce:given-name>
+									<ce:surname>da Silva</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>N.M.</ce:given-name>
+									<ce:surname>Tavares</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.</ce:given-name>
+									<ce:surname>Costa</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Pitombo</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.</ce:given-name>
+									<ce:surname>Barbosa</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.</ce:given-name>
+									<ce:surname>Fukutani</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.C.</ce:given-name>
+									<ce:surname>Miranda</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.I.</ce:given-name>
+									<ce:surname>de Oliveira</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.G.</ce:given-name>
+									<ce:surname>Valenzuela</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Barral</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Soto</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Barral-Netto</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.</ce:given-name>
+									<ce:surname>Brodskyn</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									DNA vaccination with KMP11 and
+									<ce:italic>Lutzomyia longipalpis</ce:italic>
+									salivary protein protects hamsters against visceral
+									leishmaniasis
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Acta Trop.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>120</sb:volume-nr>
+								</sb:series>
+								<sb:date>2011</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>185</sb:first-page>
+								<sb:last-page>190</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0025">
+					<ce:label>de Moura et al., 2007</ce:label>
+					<sb:reference id="sbref0025">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>T.R.</ce:given-name>
+									<ce:surname>de Moura</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>F.</ce:given-name>
+									<ce:surname>Oliveira</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>F.O.</ce:given-name>
+									<ce:surname>Novais</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.C.</ce:given-name>
+									<ce:surname>Miranda</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Clar&ecirc;ncio
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>Follador</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.M.</ce:given-name>
+									<ce:surname>Carvalho</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.G.</ce:given-name>
+									<ce:surname>Valenzuela</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Barral-Netto</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Barral</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.</ce:given-name>
+									<ce:surname>Brodskyn</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.I.</ce:given-name>
+									<ce:surname>de Oliveira</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Enhanced
+									<ce:italic>Leishmania braziliensis</ce:italic>
+									infection following pre-exposure to sandfly saliva
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>PLoS Negl. Trop. Dis.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>1</sb:volume-nr>
+								</sb:series>
+								<sb:date>2007</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>e84</sb:first-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0030">
+					<ce:label>Drahota et al., 2009</ce:label>
+					<sb:reference id="sbref0030">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Drahota</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Lipoldov&aacute;
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>Rohousov&aacute;
+									</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Specificity of anti-saliva immune response in mice repeatedly
+									bitten by
+									<ce:italic>Phlebotomus sergenti</ce:italic>
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Parasite Immunol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>31</sb:volume-nr>
+								</sb:series>
+								<sb:date>2009</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>766</sb:first-page>
+								<sb:last-page>770</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0035">
+					<ce:label>Ebrahimpoor et al., 2013</ce:label>
+					<sb:reference id="sbref0035">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Ebrahimpoor</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.R.</ce:given-name>
+									<ce:surname>Pakzad</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Ajdary</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									IgG1 and IgG2a profile of serum antibodies to
+									<ce:italic>Leishmania major</ce:italic>
+									amastigote in BALB/c and C57BL/6Mice
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Iran J. Allergy Asthma Immunol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>12</sb:volume-nr>
+								</sb:series>
+								<sb:date>2013</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>361</sb:first-page>
+								<sb:last-page>367</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0040">
+					<ce:label>Gidwani et al., 2011</ce:label>
+					<sb:reference id="sbref0040">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>K.</ce:given-name>
+									<ce:surname>Gidwani</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Picado</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Rijal</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.P.</ce:given-name>
+									<ce:surname>Singh</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.</ce:given-name>
+									<ce:surname>Roy</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>V.</ce:given-name>
+									<ce:surname>Volfova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.W.</ce:given-name>
+									<ce:surname>Andersen</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Uranw</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>B.</ce:given-name>
+									<ce:surname>Ostyn</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Sudarshan</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Chakravarty</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Sundar</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Boelaert</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.E.</ce:given-name>
+									<ce:surname>Rogers</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Serological markers of sand fly exposure to
+									evaluate insecticidal nets against visceral leishmaniasis in
+									India and Nepal: a cluster-randomized trial</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>PLoS Negl. Trop. Dis.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>5</sb:volume-nr>
+								</sb:series>
+								<sb:date>2011</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>e1296</sb:first-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0045">
+					<ce:label>Gomes and Oliveira, 2012</ce:label>
+					<sb:reference id="sbref0045">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>R.</ce:given-name>
+									<ce:surname>Gomes</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>F.</ce:given-name>
+									<ce:surname>Oliveira</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>The immune response to sand fly salivary proteins
+									and its influence on leishmania immunity</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Front. Immunol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>3</sb:volume-nr>
+								</sb:series>
+								<sb:date>2012</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>110</sb:first-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0050">
+					<ce:label>Gomes et al., 2008</ce:label>
+					<sb:reference id="sbref0050">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>R.</ce:given-name>
+									<ce:surname>Gomes</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.</ce:given-name>
+									<ce:surname>Teixeira</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.J.</ce:given-name>
+									<ce:surname>Teixeira</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>F.</ce:given-name>
+									<ce:surname>Oliveira</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.J.</ce:given-name>
+									<ce:surname>Menezes</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.</ce:given-name>
+									<ce:surname>Silva</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.I.</ce:given-name>
+									<ce:surname>de Oliveira</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.C.</ce:given-name>
+									<ce:surname>Miranda</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.E.</ce:given-name>
+									<ce:surname>Elnaiem</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Kamhawi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.G.</ce:given-name>
+									<ce:surname>Valenzuela</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.I.</ce:given-name>
+									<ce:surname>Brodskyn</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Immunity to a salivary protein of a sand fly
+									vector protects against the fatal outcome of visceral
+									leishmaniasis in a hamster model</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Proc. Natl. Acad. Sci. U. S. A.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>105</sb:volume-nr>
+								</sb:series>
+								<sb:date>2008</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>7845</sb:first-page>
+								<sb:last-page>7850</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0055">
+					<ce:label>Gomes et al., 2002</ce:label>
+					<sb:reference id="sbref0055">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>R.B.</ce:given-name>
+									<ce:surname>Gomes</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.</ce:given-name>
+									<ce:surname>Brodskyn</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.I.</ce:given-name>
+									<ce:surname>de Oliveira</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Costa</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.C.</ce:given-name>
+									<ce:surname>Miranda</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Caldas</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.G.</ce:given-name>
+									<ce:surname>Valenzuela</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Barral-Netto</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Barral</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Seroconversion against
+									<ce:italic>Lutzomyia longipalpis</ce:italic>
+									saliva concurrent with the development of anti-
+									<ce:italic>Leishmania chagasi</ce:italic>
+									delayed-type hypersensitivity
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Infect. Dis.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>186</sb:volume-nr>
+								</sb:series>
+								<sb:date>2002</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1530</sb:first-page>
+								<sb:last-page>1534</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0060">
+					<ce:label>Gomes et al., 2007</ce:label>
+					<sb:reference id="sbref0060">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>R.B.</ce:given-name>
+									<ce:surname>Gomes</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>I.L.</ce:given-name>
+									<ce:surname>Mendon&ccedil;a
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>V.C.</ce:given-name>
+									<ce:surname>Silva</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Ruas</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.B.</ce:given-name>
+									<ce:surname>Silva</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.S.</ce:given-name>
+									<ce:surname>Cruz</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Barral</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.H.</ce:given-name>
+									<ce:surname>Costa</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Antibodies against
+									<ce:italic>Lutzomyia longipalpis</ce:italic>
+									saliva in the fox
+									<ce:italic>Cerdocyon thous</ce:italic>
+									and the sylvatic cycle of
+									<ce:italic>Leishmania chagasi</ce:italic>
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Trans. R. Soc. Trop. Med. Hyg.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>101</sb:volume-nr>
+								</sb:series>
+								<sb:date>2007</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>127</sb:first-page>
+								<sb:last-page>133</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0065">
+					<ce:label>Green et al., 1990</ce:label>
+					<sb:reference id="sbref0065">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>S.J.</ce:given-name>
+									<ce:surname>Green</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.S.</ce:given-name>
+									<ce:surname>Meltzer</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.B.</ce:given-name>
+									<ce:surname>Hibbs</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.A.</ce:given-name>
+									<ce:surname>Nacy</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Activated macrophages destroy intracellular
+									<ce:italic>Leishmania major</ce:italic>
+									amastigotes by an
+									<ce:small-caps>L</ce:small-caps>
+									-arginine-dependent killing mechanism
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Immunol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>144</sb:volume-nr>
+								</sb:series>
+								<sb:date>1990</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>278</sb:first-page>
+								<sb:last-page>283</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0070">
+					<ce:label>Hall and Titus, 1995</ce:label>
+					<sb:reference id="sbref0070">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>L.R.</ce:given-name>
+									<ce:surname>Hall</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.G.</ce:given-name>
+									<ce:surname>Titus</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Sand fly vector saliva selectively modulates macrophage
+									functions that inhibit killing of
+									<ce:italic>Leishmania major</ce:italic>
+									and nitric oxide production
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Immunol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>155</sb:volume-nr>
+								</sb:series>
+								<sb:date>1995</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>3501</sb:first-page>
+								<sb:last-page>3506</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0075">
+					<ce:label>Horta et al., 2012</ce:label>
+					<sb:reference id="sbref0075">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>M.F.</ce:given-name>
+									<ce:surname>Horta</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>B.P.</ce:given-name>
+									<ce:surname>Mendes</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.H.</ce:given-name>
+									<ce:surname>Roma</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>F.S.</ce:given-name>
+									<ce:surname>Noronha</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.P.</ce:given-name>
+									<ce:surname>Mac&ecirc;do
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.S.</ce:given-name>
+									<ce:surname>Oliveira</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.M.</ce:given-name>
+									<ce:surname>Duarte</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.Q.</ce:given-name>
+									<ce:surname>Vieira</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Reactive oxygen species and nitric oxide in
+									cutaneous leishmaniasis</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Parasitol. Res.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>2012</sb:volume-nr>
+								</sb:series>
+								<sb:date>2012</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>203818</sb:first-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0080">
+					<ce:label>Hostomska et al., 2008</ce:label>
+					<sb:reference id="sbref0080">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Hostomska</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>Rohousova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>V.</ce:given-name>
+									<ce:surname>Volfova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.</ce:given-name>
+									<ce:surname>Stanneck</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>N.</ce:given-name>
+									<ce:surname>Mencke</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Kinetics of canine antibody response to saliva of the sand fly
+									<ce:italic>Lutzomyia longipalpis</ce:italic>
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Vector Borne Zoonotic Dis.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>8</sb:volume-nr>
+								</sb:series>
+								<sb:date>2008</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>443</sb:first-page>
+								<sb:last-page>450</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0085">
+					<ce:label>Kamhawi et al., 2000</ce:label>
+					<sb:reference id="sbref0085">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Kamhawi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>Y.</ce:given-name>
+									<ce:surname>Belkaid</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.</ce:given-name>
+									<ce:surname>Modi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.</ce:given-name>
+									<ce:surname>Rowton</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.</ce:given-name>
+									<ce:surname>Sacks</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Protection against cutaneous Leishmaniasis
+									resulting from bites of uninfected sand flies</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Science</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>290</sb:volume-nr>
+								</sb:series>
+								<sb:date>2000</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1351</sb:first-page>
+								<sb:last-page>1354</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0090">
+					<ce:label>Kato et al., 2006</ce:label>
+					<sb:reference id="sbref0090">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>H.</ce:given-name>
+									<ce:surname>Kato</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.M.</ce:given-name>
+									<ce:surname>Anderson</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Kamhawi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>F.</ce:given-name>
+									<ce:surname>Oliveira</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.G.</ce:given-name>
+									<ce:surname>Lawyer</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>V.M.</ce:given-name>
+									<ce:surname>Pham</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.S.</ce:given-name>
+									<ce:surname>Sangare</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Samake</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>Sissoko</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Garfield</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.</ce:given-name>
+									<ce:surname>Sigutova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Doumbia</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.G.</ce:given-name>
+									<ce:surname>Valenzuela</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									High degree of conservancy among secreted salivary gland
+									proteins from two geographically distant
+									<ce:italic>Phlebotomus</ce:italic>
+									<ce:italic>duboscqi</ce:italic>
+									sandflies populations (Mali and Kenya)
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>BMC Genomics</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>7</sb:volume-nr>
+								</sb:series>
+								<sb:date>2006</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>226</sb:first-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0095">
+					<ce:label>Katz et al., 2000</ce:label>
+					<sb:reference id="sbref0095">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>O.</ce:given-name>
+									<ce:surname>Katz</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.N.</ce:given-name>
+									<ce:surname>Waitumbi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.</ce:given-name>
+									<ce:surname>Zer</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Warburg</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Adenosine, AMP, and protein phosphatase activity
+									in sandfly saliva</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Am. J. Trop. Med. Hyg.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>62</sb:volume-nr>
+								</sb:series>
+								<sb:date>2000</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>145</sb:first-page>
+								<sb:last-page>150</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0100">
+					<ce:label>Killick-Kendrick, 1999</ce:label>
+					<sb:reference id="sbref0100">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>R.</ce:given-name>
+									<ce:surname>Killick-Kendrick</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>The biology and control of phlebotomine sand flies</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Clin. Dermatol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>17</sb:volume-nr>
+								</sb:series>
+								<sb:date>1999</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>279</sb:first-page>
+								<sb:last-page>289</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0105">
+					<ce:label>Kima et al., 2000</ce:label>
+					<sb:reference id="sbref0105">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>P.E.</ce:given-name>
+									<ce:surname>Kima</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.L.</ce:given-name>
+									<ce:surname>Constant</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.</ce:given-name>
+									<ce:surname>Hannum</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Colmenares</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.S.</ce:given-name>
+									<ce:surname>Lee</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.M.</ce:given-name>
+									<ce:surname>Haberman</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.J.</ce:given-name>
+									<ce:surname>Shlomchik</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.</ce:given-name>
+									<ce:surname>McMahon-Pratt</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Internalization of
+									<ce:italic>Leishmania mexicana</ce:italic>
+									complex amastigotes via the Fc receptor is required to sustain
+									infection in murine cutaneous leishmaniasis
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Exp. Med.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>191</sb:volume-nr>
+								</sb:series>
+								<sb:date>2000</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1063</sb:first-page>
+								<sb:last-page>1067</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0110">
+					<ce:label>Kimblin et al., 2008</ce:label>
+					<sb:reference id="sbref0110">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>N.</ce:given-name>
+									<ce:surname>Kimblin</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>N.</ce:given-name>
+									<ce:surname>Peters</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Debrabant</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>N.</ce:given-name>
+									<ce:surname>Secundino</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Egen</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Lawyer</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.P.</ce:given-name>
+									<ce:surname>Fay</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Kamhawi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.</ce:given-name>
+									<ce:surname>Sacks</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Quantification of the infectious dose of
+									<ce:italic>Leishmania major</ce:italic>
+									transmitted to the skin by single sand flies
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Proc. Natl. Acad. Sci. U.S.A.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>105</sb:volume-nr>
+								</sb:series>
+								<sb:date>2008</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>10125</sb:first-page>
+								<sb:last-page>10130</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0115">
+					<ce:label>Kropf et al., 2007</ce:label>
+					<sb:reference id="sbref0115">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Kropf</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.</ce:given-name>
+									<ce:surname>Baud</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.E.</ce:given-name>
+									<ce:surname>Marshall</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Munder</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Mosley</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.M.</ce:given-name>
+									<ce:surname>Fuentes</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.R.</ce:given-name>
+									<ce:surname>Bangham</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.P.</ce:given-name>
+									<ce:surname>Taylor</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Herath</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>B.S.</ce:given-name>
+									<ce:surname>Choi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.</ce:given-name>
+									<ce:surname>Soler</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>T.</ce:given-name>
+									<ce:surname>Teoh</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Modolell</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>M&uuml;ller
+									</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Arginase activity mediates reversible T cell
+									hyporesponsiveness in human pregnancy</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Eur. J. Immunol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>37</sb:volume-nr>
+								</sb:series>
+								<sb:date>2007</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>935</sb:first-page>
+								<sb:last-page>945</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0120">
+					<ce:label>Kropf et al., 2005</ce:label>
+					<sb:reference id="sbref0120">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Kropf</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.M.</ce:given-name>
+									<ce:surname>Fuentes</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.</ce:given-name>
+									<ce:surname>Fahnrich</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.</ce:given-name>
+									<ce:surname>Arpa</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Herath</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>V.</ce:given-name>
+									<ce:surname>Weber</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.</ce:given-name>
+									<ce:surname>Soler</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Celada</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Modolell</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>Muller</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Arginase and polyamine synthesis are key factors
+									in the regulation of experimental leishmaniasis in vivo</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>FASEB J.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>19</sb:volume-nr>
+								</sb:series>
+								<sb:date>2005</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1000</sb:first-page>
+								<sb:last-page>1002</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0125">
+					<ce:label>Maia et al., 2011</ce:label>
+					<sb:reference id="sbref0125">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>C.</ce:given-name>
+									<ce:surname>Maia</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>V.</ce:given-name>
+									<ce:surname>Seblova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Sadlova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Votypka</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Experimental transmission of
+									<ce:italic>Leishmania</ce:italic>
+									<ce:italic>infantum</ce:italic>
+									by two major vectors: a comparison between a viscerotropic and
+									a dermotropic strain
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>PLoS Negl. Trop. Dis.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>5</sb:volume-nr>
+								</sb:series>
+								<sb:date>2011</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>e1181</sb:first-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0130">
+					<ce:label>Mart&iacute;n-Mart&iacute;n
+						et al., 2014
+					</ce:label>
+					<sb:reference id="sbref0130">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>Mart&iacute;n-Mart&iacute;n
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.</ce:given-name>
+									<ce:surname>Molina</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>Rohou&scaron;ov&aacute;
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Drahota</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Jim&eacute;nez
+									</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									High levels of anti-
+									<ce:italic>Phlebotomus perniciosus</ce:italic>
+									saliva antibodies in different vertebrate hosts from the
+									re-emerging leishmaniosis focus in Madrid, Spain
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Vet. Parasitol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>202</sb:volume-nr>
+								</sb:series>
+								<sb:date>2014</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>207</sb:first-page>
+								<sb:last-page>216</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0135">
+					<ce:label>Mary et al., 2004</ce:label>
+					<sb:reference id="sbref0135">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>C.</ce:given-name>
+									<ce:surname>Mary</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>F.</ce:given-name>
+									<ce:surname>Faraut</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.</ce:given-name>
+									<ce:surname>Lascombe</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>H.</ce:given-name>
+									<ce:surname>Dumon</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Quantification of
+									<ce:italic>Leishmania infantum</ce:italic>
+									DNA by a real-time PCR assay with high sensitivity
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Clin. Microbiol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>42</sb:volume-nr>
+								</sb:series>
+								<sb:date>2004</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>5249</sb:first-page>
+								<sb:last-page>5255</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0140">
+					<ce:label>Mbow et al., 1998</ce:label>
+					<sb:reference id="sbref0140">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>M.L.</ce:given-name>
+									<ce:surname>Mbow</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.A.</ce:given-name>
+									<ce:surname>Bleyenberg</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.R.</ce:given-name>
+									<ce:surname>Hall</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.G.</ce:given-name>
+									<ce:surname>Titus</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Phlebotomus papatasi sand fly salivary gland lysate
+									down-regulates a Th1, but up-regulates a Th2, response in mice
+									infected with
+									<ce:italic>Leishmania major</ce:italic>
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Immunol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>161</sb:volume-nr>
+								</sb:series>
+								<sb:date>1998</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>5571</sb:first-page>
+								<sb:last-page>5577</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0145">
+					<ce:label>Miles et al., 2005</ce:label>
+					<sb:reference id="sbref0145">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>S.A.</ce:given-name>
+									<ce:surname>Miles</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.M.</ce:given-name>
+									<ce:surname>Conrad</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.G.</ce:given-name>
+									<ce:surname>Aves</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.M.B.</ce:given-name>
+									<ce:surname>Jeronimo</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.M.</ce:given-name>
+									<ce:surname>Mosser</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									A role for IgG immune complexes during infection with the
+									intracellular pathogen
+									<ce:italic>Leishmania</ce:italic>
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Exp. Med.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>201</sb:volume-nr>
+								</sb:series>
+								<sb:date>2005</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>747</sb:first-page>
+								<sb:last-page>754</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0150">
+					<ce:label>Morris et al., 2001</ce:label>
+					<sb:reference id="sbref0150">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>R.V.</ce:given-name>
+									<ce:surname>Morris</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.B.</ce:given-name>
+									<ce:surname>Shoemaker</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.R.</ce:given-name>
+									<ce:surname>David</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.C.</ce:given-name>
+									<ce:surname>Lanzaro</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.G.</ce:given-name>
+									<ce:surname>Titus</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Sandfly maxadilan exacerbates infection with
+									<ce:italic>Leishmania major</ce:italic>
+									and vaccinating against it protects against
+									<ce:italic>L. major</ce:italic>
+									infection
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Immunol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>167</sb:volume-nr>
+								</sb:series>
+								<sb:date>2001</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>5226</sb:first-page>
+								<sb:last-page>5230</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0155">
+					<ce:label>Murray and Cartelli, 1983</ce:label>
+					<sb:reference id="sbref0155">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>H.W.</ce:given-name>
+									<ce:surname>Murray</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.M.</ce:given-name>
+									<ce:surname>Cartelli</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Killing of intracellular
+									<ce:italic>Leishmania donovani</ce:italic>
+									by human mononuclear phagocytes&ndash;evidence
+									for oxygen-dependent and oxygen-independent leishmanicidal
+									activity
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Clin. Invest.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>72</sb:volume-nr>
+								</sb:series>
+								<sb:date>1983</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>32</sb:first-page>
+								<sb:last-page>44</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0160">
+					<ce:label>Myskova et al., 2008</ce:label>
+					<sb:reference id="sbref0160">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Myskova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Votypka</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Leishmania in sand flies: Comparison of
+									quantitative polymerase chain reaction with other techniques to
+									determine the intensity of infection</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Med. Entomol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>45</sb:volume-nr>
+								</sb:series>
+								<sb:date>2008</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>133</sb:first-page>
+								<sb:last-page>138</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0165">
+					<ce:label>Oliveira et al., 2006</ce:label>
+					<sb:reference id="sbref0165">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>F.</ce:given-name>
+									<ce:surname>Oliveira</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Kamhawi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.E.</ce:given-name>
+									<ce:surname>Seitz</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>V.M.</ce:given-name>
+									<ce:surname>Pham</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.M.</ce:given-name>
+									<ce:surname>Guigal</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.</ce:given-name>
+									<ce:surname>Fischer</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Ward</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.G.</ce:given-name>
+									<ce:surname>Valenzuela</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									From transcriptome to immunome: identification of DTH inducing
+									proteins from a
+									<ce:italic>Phlebotomus ariasi</ce:italic>
+									salivary gland cDNA library
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Vaccine</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>24</sb:volume-nr>
+								</sb:series>
+								<sb:date>2006</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>374</sb:first-page>
+								<sb:last-page>390</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0170">
+					<ce:label>Oliveira et al., 2008</ce:label>
+					<sb:reference id="sbref0170">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>F.</ce:given-name>
+									<ce:surname>Oliveira</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.G.</ce:given-name>
+									<ce:surname>Lawyer</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Kamhawi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.G.</ce:given-name>
+									<ce:surname>Valenzuela</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Immunity to Distinct Sand Fly Salivary Proteins Primes the
+									Anti-
+									<ce:italic>Leishmania</ce:italic>
+									Immune Response towards Protection or Exacerbation of Disease
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>PLoS Negl. Trop. Dis.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>2</sb:volume-nr>
+								</sb:series>
+								<sb:date>2008</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>e226</sb:first-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0175">
+					<ce:label>Ready, 2013</ce:label>
+					<sb:reference id="sbref0175">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>P.D.</ce:given-name>
+									<ce:surname>Ready</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Biology of phlebotomine sand flies as vectors of
+									disease agents</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Annu. Rev. Entomol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>58</sb:volume-nr>
+								</sb:series>
+								<sb:date>2013</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>227</sb:first-page>
+								<sb:last-page>250</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0180">
+					<ce:label>Ribeiro et al., 2010</ce:label>
+					<sb:reference id="sbref0180">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>J.M.</ce:given-name>
+									<ce:surname>Ribeiro</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>B.J.</ce:given-name>
+									<ce:surname>Mans</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>B.</ce:given-name>
+									<ce:surname>Arc&agrave;
+									</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>An insight into the sialome of blood-feeding
+									Nematocera</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Insect Biochem. Mol. Biol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>40</sb:volume-nr>
+								</sb:series>
+								<sb:date>2010</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>767</sb:first-page>
+								<sb:last-page>784</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0185">
+					<ce:label>Rohousova et al., 2005</ce:label>
+					<sb:reference id="sbref0185">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>Rohousova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Ozensoy</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>Y.</ce:given-name>
+									<ce:surname>Ozbel</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Detection of species-specific antibody response of
+									humans and mice bitten by sand flies</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Parasitology</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>130</sb:volume-nr>
+								</sb:series>
+								<sb:date>2005</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>493</sb:first-page>
+								<sb:last-page>499</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0190">
+					<ce:label>Rohousova et al., 2011</ce:label>
+					<sb:reference id="sbref0190">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>Rohou&scaron;ov&aacute;
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Hostomsk&aacute;
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Vlkov&aacute;
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>T.</ce:given-name>
+									<ce:surname>Kobets</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Lipoldov&aacute;
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									The protective effect against
+									<ce:italic>Leishmania infection</ce:italic>
+									conferred by sand fly bites is limited to short-term exposure
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Int. J. Parasitol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>41</sb:volume-nr>
+								</sb:series>
+								<sb:date>2011</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>481</sb:first-page>
+								<sb:last-page>485</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0195">
+					<ce:label>Rohou&scaron;ov&aacute;
+						et al., 2012
+					</ce:label>
+					<sb:reference id="sbref0195">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>Rohou&scaron;ov&aacute;
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>V.</ce:given-name>
+									<ce:surname>Volfov&aacute;
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Nov&aacute;
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Individual variability of salivary gland proteins in three
+									<ce:italic>Phlebotomus</ce:italic>
+									species
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Acta Trop.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>122</sb:volume-nr>
+								</sb:series>
+								<sb:date>2012</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>80</sb:first-page>
+								<sb:last-page>86</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0200">
+					<ce:label>Silva et al., 2005</ce:label>
+					<sb:reference id="sbref0200">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>F.</ce:given-name>
+									<ce:surname>Silva</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.</ce:given-name>
+									<ce:surname>Gomes</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.</ce:given-name>
+									<ce:surname>Prates</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.C.</ce:given-name>
+									<ce:surname>Miranda</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>B.</ce:given-name>
+									<ce:surname>Andrade</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Barral-Netto</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Barral</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Inflammatory cell infiltration and high antibody production in
+									BALB/c mice caused by natural exposure to
+									<ce:italic>Lutzomyia longipalpis</ce:italic>
+									bites
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Am. J. Trop. Med. Hyg.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>72</sb:volume-nr>
+								</sb:series>
+								<sb:date>2005</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>94</sb:first-page>
+								<sb:last-page>98</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0205">
+					<ce:label>Tavares et al., 2011</ce:label>
+					<sb:reference id="sbref0205">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>N.M.</ce:given-name>
+									<ce:surname>Tavares</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.A.</ce:given-name>
+									<ce:surname>Silva</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.J.</ce:given-name>
+									<ce:surname>Costa</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.A.</ce:given-name>
+									<ce:surname>Pitombo</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.F.</ce:given-name>
+									<ce:surname>Fukutani</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.C.</ce:given-name>
+									<ce:surname>Miranda</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.G.</ce:given-name>
+									<ce:surname>Valenzuela</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Barral</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.I.</ce:given-name>
+									<ce:surname>de Oliveira</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Barral-Netto</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.</ce:given-name>
+									<ce:surname>Brodskyn</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Lutzomyia longipalpis saliva or salivary protein LJM19 protects
+									against
+									<ce:italic>Leishmania braziliensis</ce:italic>
+									and the saliva of its vector,
+									<ce:italic>Lutzomyia intermedia</ce:italic>
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>PLoS Negl. Trop. Dis.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>5</sb:volume-nr>
+								</sb:series>
+								<sb:date>2011</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>e1169</sb:first-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0210">
+					<ce:label>Thiakaki et al., 2005</ce:label>
+					<sb:reference id="sbref0210">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Thiakaki</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>Rohousova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>V.</ce:given-name>
+									<ce:surname>Volfova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.P.</ce:given-name>
+									<ce:surname>Chang</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.</ce:given-name>
+									<ce:surname>Soteriadou</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Sand fly specificity of saliva-mediated protective immunity in
+									<ce:italic>Leishmania amazonensis</ce:italic>
+									-BALB/c mouse model
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Microbes Infect.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>7</sb:volume-nr>
+								</sb:series>
+								<sb:date>2005</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>760</sb:first-page>
+								<sb:last-page>766</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0215">
+					<ce:label>Titus and Ribeiro, 1988</ce:label>
+					<sb:reference id="sbref0215">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>R.G.</ce:given-name>
+									<ce:surname>Titus</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.M.C.</ce:given-name>
+									<ce:surname>Ribeiro</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Salivary gland lysates from the sand lfy Lutzomyia
+									longipalpis enhance Leishmania infectivity</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Science</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>239</sb:volume-nr>
+								</sb:series>
+								<sb:date>1988</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1306</sb:first-page>
+								<sb:last-page>1308</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0220">
+					<ce:label>Valenzuela et al., 2001</ce:label>
+					<sb:reference id="sbref0220">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>J.G.</ce:given-name>
+									<ce:surname>Valenzuela</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>Y.</ce:given-name>
+									<ce:surname>Belkaid</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.K.</ce:given-name>
+									<ce:surname>Garfield</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Mendez</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Kamhawi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.D.</ce:given-name>
+									<ce:surname>Rowton</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.L.</ce:given-name>
+									<ce:surname>Sacks</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.M.C.</ce:given-name>
+									<ce:surname>Ribeiro</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Toward a defined anti-
+									<ce:italic>Leishmania</ce:italic>
+									vaccine targeting vector antigens: Characterization of a
+									protective salivary protein
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Exp. Med.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>194</sb:volume-nr>
+								</sb:series>
+								<sb:date>2001</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>331</sb:first-page>
+								<sb:last-page>342</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0225">
+					<ce:label>Vlkova et al., 2011</ce:label>
+					<sb:reference id="sbref0225">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Vlkova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>Rohousova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Drahota</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.</ce:given-name>
+									<ce:surname>Stanneck</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.M.</ce:given-name>
+									<ce:surname>Kruedewagen</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>N.</ce:given-name>
+									<ce:surname>Mencke</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.</ce:given-name>
+									<ce:surname>Otranto</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Canine antibody response to
+									<ce:italic>Phlebotomus perniciosus</ce:italic>
+									bites negatively correlates with the risk of
+									<ce:italic>Leishmania infantum</ce:italic>
+									transmission
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>PLoS Negl. Trop. Dis.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>5</sb:volume-nr>
+								</sb:series>
+								<sb:date>2011</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>e1344</sb:first-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0230">
+					<ce:label>Vlkova et al., 2012</ce:label>
+					<sb:reference id="sbref0230">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Vlkova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>Rohousova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Hostomska</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.</ce:given-name>
+									<ce:surname>Pohankova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.</ce:given-name>
+									<ce:surname>Zidkova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Drahota</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.G.</ce:given-name>
+									<ce:surname>Valenzuela</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Kinetics of Antibody Response in BALB/c and C57BL/6 Mice Bitten
+									by
+									<ce:italic>Phlebotomus papatasi</ce:italic>
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>PLoS Negl. Trop. Dis.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>6</sb:volume-nr>
+								</sb:series>
+								<sb:date>2012</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>e1719</sb:first-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0235">
+					<ce:label>Volf
+						and Rohousov&aacute;,
+						2001
+					</ce:label>
+					<ce:other-ref id="oref0235">
+						<ce:textref>Volf,
+							P., Rohousov&aacute;,
+							I., 2001. Species-specific antigens in salivary glands of
+							phlebotomine sandflies. Parasitology 122 Pt 1, 37&ndash;41.
+						</ce:textref>
+					</ce:other-ref>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0240">
+					<ce:label>Volf et al., 2000</ce:label>
+					<sb:reference id="sbref0240">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Tesarova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.</ce:given-name>
+									<ce:surname>Nohynkova</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Salivary proteins and glycoproteins in
+									phlebotomine sandflies of various species, sex and age</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Med. Vet. Entomol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>14</sb:volume-nr>
+								</sb:series>
+								<sb:date>2000</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>251</sb:first-page>
+								<sb:last-page>256</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0245">
+					<ce:label>Volf and Volfova, 2011</ce:label>
+					<sb:reference id="sbref0245">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Volf</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>V.</ce:given-name>
+									<ce:surname>Volfova</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Establishment and maintenance of sand fly colonies</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Vector Ecol.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>36</sb:volume-nr>
+								</sb:series>
+								<sb:date>2011</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>S1</sb:first-page>
+								<sb:last-page>S9</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0250">
+					<ce:label>Waitumbi and Warburg, 1998</ce:label>
+					<sb:reference id="sbref0250">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Waitumbi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Warburg</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Phlebotomus papatasi saliva inhibits protein
+									phosphatase activity and nitric oxide production by murine
+									macrophages</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Infect. Immun.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>66</sb:volume-nr>
+								</sb:series>
+								<sb:date>1998</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1534</sb:first-page>
+								<sb:last-page>1537</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0255">
+					<ce:label>Warburg and Schlein, 1986</ce:label>
+					<sb:reference id="sbref0255">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Warburg</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>Y.</ce:given-name>
+									<ce:surname>Schlein</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									The effect of post-bloodmeal nutrition of
+									<ce:italic>Phlebotomus papatasi</ce:italic>
+									on the transmission of Leishmania major
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Am. J. Trop. Med. Hyg.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>35</sb:volume-nr>
+								</sb:series>
+								<sb:date>1986</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>926</sb:first-page>
+								<sb:last-page>930</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0260">
+					<ce:label>Xu et al., 2011</ce:label>
+					<sb:reference id="sbref0260">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>X.</ce:given-name>
+									<ce:surname>Xu</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>F.</ce:given-name>
+									<ce:surname>Oliveira</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>B.W.</ce:given-name>
+									<ce:surname>Chang</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>N.</ce:given-name>
+									<ce:surname>Collin</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.</ce:given-name>
+									<ce:surname>Gomes</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.</ce:given-name>
+									<ce:surname>Teixeira</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.</ce:given-name>
+									<ce:surname>Reynoso</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>V.</ce:given-name>
+									<ce:surname>My Pham</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.E.</ce:given-name>
+									<ce:surname>Elnaiem</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Kamhawi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.M.</ce:given-name>
+									<ce:surname>Ribeiro</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.G.</ce:given-name>
+									<ce:surname>Valenzuela</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.F.</ce:given-name>
+									<ce:surname>Andersen</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Structure and function of a yellow protein from saliva of the
+									sand fly
+									<ce:italic>Lutzomyia longipalpis</ce:italic>
+									that confers protective immunity against
+									<ce:italic>Leishmania major</ce:italic>
+									infection
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Biol. Chem.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>286</sb:volume-nr>
+								</sb:series>
+								<sb:date>2011</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>32383</sb:first-page>
+								<sb:last-page>32393</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+			</ce:bibliography-sec>
+		</ce:bibliography>
+	</tail>
+</article>

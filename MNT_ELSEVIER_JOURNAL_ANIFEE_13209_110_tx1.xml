@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE book-review PUBLIC "-//ES//DTD journal article DTD version 5.2.0//EN//XML" "art520.dtd" []>
+<book-review version="5.2" xml:lang="en" docsubtype="brv">
+	<item-info>
+		<jid>ANIFEE</jid>
+		<aid>13209</aid>
+		<ce:pii>S0377-8401(14)00409-X</ce:pii>
+		<ce:doi>10.1016/j.anifeedsci.2014.12.008</ce:doi>
+		<ce:copyright type="full-transfer" year="2014">Elsevier B.V.</ce:copyright>
+	</item-info>
+	<book-review-head>
+		<ce:dochead id="doh0005">
+			<ce:textfn>Book review</ce:textfn>
+		</ce:dochead>
+		<ce:other-ref id="oref1a">
+			<ce:textref>Handbook
+				on the Toxicology of Metals, G.F. Nordberg, B.A. Fowler, M. Nordberg
+				(Eds.), Fourth ed., Volume I: General Considerations, Volume II:
+				Specific Metals Academic Press as an imprint of Elsevier, Amsterdam
+				(2015). 1385 pp., Hardcover, Price: 358.93 USD; 290.00 &z.euro;;
+				229.53 GBP; ISBN: 978-0-444-594532-2 (Set); 978-0-12-388292-6 (Vol.
+				I) (print); 978-0-12-398293-2 (Vol. II)
+			</ce:textref>
+		</ce:other-ref>
+		<ce:author-group id="aug0005">
+			<ce:author id="aut0005">
+				<ce:given-name>Gerhard</ce:given-name>
+				<ce:surname>Flachowsky</ce:surname>
+				<ce:cross-ref id="crf0005" refid="cor0005">
+					<ce:sup>&#x204e;</ce:sup>
+				</ce:cross-ref>
+				<ce:e-address id="eadd0005" type="email">gerhard.flachowsky@fli.bund.de</ce:e-address>
+			</ce:author>
+			<ce:affiliation id="aff0005">
+				<ce:textfn>
+					Institute of Animal Nutrition, Friedrich-Loeffler-Institute (FLI),
+					Federal Research Institute of Animal Health, Bundesallee 50,
+					D-38116 <!--<city> -->
+					Braunschweig<!--</city> -->
+					, <!--<country> -->
+					Germany<!--</country> -->
+				</ce:textfn>
+				<sa:affiliation>
+					<sa:organization>Institute of Animal Nutrition,
+						Friedrich-Loeffler-Institute (FLI), Federal Research Institute of
+						Animal Health</sa:organization>
+					<sa:address-line>Bundesallee 50</sa:address-line>
+					<sa:city>Braunschweig</sa:city>
+					<sa:postal-code>D-38116</sa:postal-code>
+					<sa:country>Germany</sa:country>
+				</sa:affiliation>
+			</ce:affiliation>
+			<ce:correspondence id="cor0005">
+				<ce:label>&#x204e;</ce:label>
+				<ce:text>Tel.: +49 531 514112; fax: +49 531 58044 299.</ce:text>
+			</ce:correspondence>
+		</ce:author-group>
+	</book-review-head>
+	<body>
+		<ce:sections>
+			<ce:para id="par0005">
+				Feed and food safety is one of the key elements of the present food
+				and nutrition policy. Minerals such as heavy elements and toxic
+				elements (
+				<ce:italic>e.g.</ce:italic>
+				, arsenic, cadmium, lead, mercury) and excesses of essential
+				minerals (
+				<ce:italic>e.g.</ce:italic>
+				, copper, iodine, zinc) can contribute to feed and food unsafety.
+			</ce:para>
+			<ce:para id="par0010">The &ldquo;
+				<ce:italic>Handbook on the Toxicology of Metals</ce:italic>&rdquo;
+				is the leading book dealing with the toxicology of metals. The first
+				edition of the Handbook was published in 1979, followed by the
+				second edition in 1986 and the third edition in 2007. The book
+				became a standard reference work for toxicologists, physicians,
+				engineers and other people working in the fields of human, animal,
+				environmental and occupational health.
+			</ce:para>
+			<ce:para id="par0015">There
+				was a short interim period between the publishing of the 3rd, and
+				4th editions (2007 until 2015). The reasons for this were activities
+				of the Scientific Committee on the Toxicology of Metals under the
+				International Commission on Occupational Health. A wealth of new
+				data has appeared and therefore several chapters were completely
+				rewritten and 14 new chapters were introduced in the book. In
+				consequence, the fourth edition is published in two volumes &ndash;
+				(I) General Considerations (25 chapters) and (II) Specific Metals
+				(36 chapters). The new chapters deal with specific topics, such as
+				issues of metal toxicology in developing countries; metals in food;
+				the toxicology of metal and metal oxide nanoparticles; the toxic
+				potential of metals released from medical devices; gene&ndash;environmental
+				interactions; neurotoxicology of metals; cardiovascular disease;
+				renal effects of exposure to metals, and also deals with metals of
+				increasing concern such as Gold, Iridium, Lanthanum, Lithium and
+				Rhodium.
+			</ce:para>
+			<ce:para id="par0020">In
+				addition to these new chapters, all chapters from the third edition
+				of the book have been updated to provide a state of the science
+				perspective on a number of major public health issues. The
+				increasing use of biomarkers in health has made it essential to
+				update and expand the chapter on &ldquo;Biological
+				monitoring and biomarkers&rdquo;. &ldquo;Exposure
+				assessment, forward and reverse dosimetry&rdquo;
+				has also been added to provide information on how data generated
+				from biological monitoring and biomarker studies may be translated
+				for risk assessment purposes through computer modeling techniques.
+				Furthermore, immunotoxicology is also an expanding field; therefore
+				the chapter on &ldquo;Immunotoxicology
+				of metals&rdquo;
+				has been expanded. Important chapters for risk assessment, such as &ldquo;Principles
+				for prevention of the toxic effects of metals&rdquo;, &ldquo;Risk
+				assessment&rdquo;
+				and &ldquo;Essential
+				metals: Assessing risks from deficiency and toxicity&rdquo;
+				have been also expanded. The focus of the book is only on metals.
+				From the view of feed science and animal nutrition, it would be
+				favorable to expand the handbook to also include the toxicological
+				effects of some non-metal elements such as phosphorus, sulfur,
+				fluorine, iodine and further rare earth elements (not only
+				lanthanum).
+			</ce:para>
+			<ce:para id="par0025">The editors of the book have for many years been
+				involved in research with metals. Gunnar F. Nordberg is Professor
+				Emeritus at the Department of Public Health and Clinical Medicine of
+				the Umea University, Sweden; Bruce A. Fowler works as Adjunct
+				Professor at the Rollins School of Public Health, Emory University,
+				Atlanta, GA, and the Center for Alaska Native Health Research,
+				University of Alaska Fairbanks, Fairbanks, AK, USA, and Monica
+				Nordberg is Professor Emerita at the Institute of Environmental
+				Medicine, Karolinska Institutet, Stockholm, Sweden. Ninety-six
+				colleagues from 16 countries supported the editors as chapter
+				authors. Seventy scientists worked as chapter reviewers and
+				contributed to the high scientific standard of the book.</ce:para>
+			<ce:para id="par0030">
+				All chapters are characterized by a similar structure. The General
+				Considerations in the first volume (545 p.) describe some principles
+				of Toxicology of metals: (1); Sampling. Analytical methods and
+				speciation as general chemistry (2); Routes of exposure, dose and
+				toxicokinetics of metals (3); Toxicity of metals and metal oxide
+				nanoparticles (4); Toxicity of metals released from implanted
+				medical devices (5); Toxic metals in food with subchapters for
+				Cadmium, Lead, Mercury, Arsenic and food contamination from
+				packaging (
+				<ce:italic>e.g.</ce:italic>,
+				Tin, Aluminum, Silver nanoparticles and Nickel (6); Exposure
+				assessment, forward and reverse dosimetry (7); Biological monitoring
+				and biomarkers including reference values (8); Selected molecular
+				mechanisms of metal toxicity and carcinogenicity (9); General
+				considerations of dose&ndash;effect
+				and dose&ndash;response
+				relationships (10); Interactions and mixtures in metal toxicology
+				(11); Gene&ndash;environmental
+				interactions for metals (12); Epidemiological approaches to metal
+				toxicology (13); Essential metals: Assessing risks from deficiency
+				and toxicology (14); Neurotoxicology of metals (15); Cardiovascular
+				disease (16); Renal effects of exposure to metals (17);
+				Carcinogenicity of metal compounds (18); Immunotoxicology of metals
+				(19); Effects of metallic elements on reproduction and development
+				(20); Risk assessment (22); Diagnosis and treatment of metal
+				poisoning: General aspects (23); Principles for prevention of the
+				toxic effects of metals (24) and Metal toxicology in developing
+				countries (25). The length of the chapters in Volume I varies
+				between 10 and 38 pages.
+			</ce:para>
+			<ce:para id="par0035">Volume II deals with specific metals in 31
+				chapters on 836 pages. The metals are described in alphabetical
+				order, beginning with Aluminum (26); followed by Antimony (27);
+				Arsenic (28); Barium (29); Beryllium (30); Bismuth (31); Cadmium
+				(32); Chromium (33); Cobalt (34); Copper (35); Gallium and Gallium
+				semiconductor compounds (36); Germanium (37); Gold and Gold mining
+				(38); Indium (39); Iridium (40); Iron (41); Lanthanum (42); Lead
+				(43); Lithium (44); Manganese (45); Mercury (46); Molybdenum (47);
+				Nickel (48); Palladium (49); Platinum (50); Rhodium (51); Selenium
+				(52); Silver (53); Tellurium (54); Thallium (55); Tin (56) Titanium
+				(57); Tungsten (58); Uranium (59); Vanadium (60) and Zinc (61). The
+				length of the chapters in Volume II varies between 7 (Lanthanum) and
+				63 (Mercury) pages.</ce:para>
+			<ce:para id="par0040">There
+				is an Index (31 pages) at the end both volumes. The book offers a
+				complete review on general aspects on metals, such as physical and
+				chemical properties, analytical methods, production and uses,
+				toxicology, environmental levels and exposures, metabolism, levels
+				in tissues and biological fluids, effects of dose&ndash;response
+				relationships and many other topics.
+			</ce:para>
+			<ce:para id="par0045">The &ldquo;Handbook
+				on the Toxicology of Metals&rdquo;
+				is an excellent tool for MSc and PhD students in various fields of
+				natural sciences, scientists in chemical laboratories and in
+				general, for all those working with metals, also in feed and animal
+				production and in feed and food safety.
+			</ce:para>
+		</ce:sections>
+	</body>
+</book-review>

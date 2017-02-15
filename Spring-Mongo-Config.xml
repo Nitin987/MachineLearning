@@ -1,0 +1,70 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:mongo="http://www.springframework.org/schema/data/mongo"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.0.xsd
+http://www.springframework.org/schema/data/mongo http://www.springframework.org/schema/data/mongo/spring-mongo-1.5.xsd">
+
+ <!-- <context:component-scan base-package="td.xps" />
+<bean id="taskExecutor" class="org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor">
+	<property name="corePoolSize" value="5" />
+	<property name="maxPoolSize" value="10" />
+	<property name="WaitForTasksToCompleteOnShutdown" value="true" />
+</bean> -->
+
+<!--  *********************** MONGO DB SEPCIFIC XML DEFINITION BY PRIYAM ************** -->	
+<mongo:mongo host="172.16.0.144" port="27017" id="mongo" />
+<mongo:db-factory dbname="MachineLearning" mongo-ref="mongo" id="mongoDbFactory" />
+ 
+ <bean id="mappingContext"
+	class="org.springframework.data.mongodb.core.mapping.MongoMappingContext" />
+ 
+ <bean id="defaultMongoTypeMapper"
+	class="org.springframework.data.mongodb.core.convert.DefaultMongoTypeMapper">
+	<constructor-arg name="typeKey"><null/></constructor-arg>
+ </bean>
+ 
+ <bean id="mappingMongoConverter"
+	class="org.springframework.data.mongodb.core.convert.MappingMongoConverter">
+	<constructor-arg name="mongoDbFactory" ref="mongoDbFactory" />
+	<constructor-arg name="mappingContext" ref="mappingContext" />
+	<property name="typeMapper" ref="defaultMongoTypeMapper" />
+ </bean>
+
+<bean id="mongoTemplate" class="org.springframework.data.mongodb.core.MongoTemplate">
+    <constructor-arg name="mongoDbFactory" ref="mongoDbFactory" />
+    <constructor-arg name="mongoConverter" ref="mappingMongoConverter" />
+</bean>
+
+<bean id="artifactDao" class="com.td.mongodb.dao.ArtifactDaoImpl">
+    <constructor-arg name="mongoOps" ref="mongoTemplate"/>
+</bean>
+<bean id="publishDao" class="com.td.mongodb.dao.PublisherDaoImpl">
+    <constructor-arg name="mongoOps" ref="mongoTemplate"/>
+</bean>
+
+<bean id="organizationDao" class="com.td.mongodb.dao.OrganizationDaoImpl">
+    <constructor-arg name="mongoOps" ref="mongoTemplate"/>
+</bean>
+<bean id="grantDao" class="com.td.mongodb.dao.GrantDaoImpl">
+    <constructor-arg name="mongoOps" ref="mongoTemplate"/>
+</bean>
+ <bean id="geographicalDao" class="com.td.mongodb.dao.GeographicalDaoImpl">
+    <constructor-arg name="mongoOps" ref="mongoTemplate"/>
+</bean> 
+<bean id="countryDao" class="com.td.mongodb.dao.CountryDaoImpl">
+     <constructor-arg name="mongoOps" ref="mongoTemplate"/> 
+</bean>
+
+<bean id="datasetZipEntryDao" class="com.td.mongodb.dao.DatasetZipEntryDaoImpl">
+    <constructor-arg name="mongoOps" ref="mongoTemplate"/>
+</bean>
+
+<bean id="authorDao" class="com.td.mongodb.dao.AuthorDaoImpl">
+    <constructor-arg name="mongoOps" ref="mongoTemplate"/>
+</bean>
+
+<!-- **********************END OF MONGO DB SPECIFIC XML*************  -->
+	
+</beans>

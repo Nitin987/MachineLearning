@@ -1,0 +1,3712 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE article PUBLIC "-//ES//DTD journal article DTD version 5.2.0//EN//XML" "art520.dtd" [<!ENTITY gr1 SYSTEM "gr1" NDATA IMAGE><!ENTITY gr2 SYSTEM "gr2" NDATA IMAGE>]>
+<article version="5.2" xml:lang="en" docsubtype="fla">
+	<item-info>
+		<jid>ANIFEE</jid>
+		<aid>13210</aid>
+		<ce:pii>S0377-8401(14)00427-1</ce:pii>
+		<ce:doi>10.1016/j.anifeedsci.2014.12.009</ce:doi>
+		<ce:copyright type="full-transfer" year="2014">Elsevier B.V.</ce:copyright>
+	</item-info>
+	<ce:floats>
+		<ce:figure id="fig0005">
+			<ce:label>Fig. 1</ce:label>
+			<ce:caption id="cap0005">
+				<ce:simple-para id="spar0005">
+					Enrichment of
+					<ce:sup>15</ce:sup>
+					N
+					<ce:sup>15</ce:sup>
+					N urea (N30) and
+					<ce:sup>14</ce:sup>
+					N
+					<ce:sup>15</ce:sup>
+					N urea (N29) in urine from steers during the 78
+					<ce:hsp sp="0.25" />
+					h infusion of
+					<ce:sup>15</ce:sup>
+					N
+					<ce:sup>15</ce:sup>
+					N urea.
+				</ce:simple-para>
+			</ce:caption>
+			<ce:link locator="gr1" />
+		</ce:figure>
+		<ce:figure id="fig0010">
+			<ce:label>Fig. 2</ce:label>
+			<ce:caption id="cap0010">
+				<ce:simple-para id="spar0010">
+					Plasma urea over time in steers fed 0.89, 1.00 and 1.14 DIP diets
+					with UREA or
+					<ce:sup>(r)</ce:sup>
+					OPTIGEN
+					<ce:sup>&reg;
+					</ce:sup>
+					. Pooled SEM
+					<ce:hsp sp="0.25" />
+					=
+					<ce:hsp sp="0.25" />
+					0.18,
+					<ce:italic>n</ce:italic>
+					<ce:hsp sp="0.25" />
+					=
+					<ce:hsp sp="0.25" />
+					8.
+				</ce:simple-para>
+			</ce:caption>
+			<ce:link locator="gr2" />
+		</ce:figure>
+		<ce:table id="tbl0005" frame="topbot" rowsep="0" colsep="0">
+			<ce:label>Table 1</ce:label>
+			<ce:caption id="cap0015">
+				<ce:simple-para id="spar0015">
+					Diet ingredients and chemical composition of diets in steers fed
+					0.89, 1.00 and 1.14 DIP diets with UREA or OPTIGEN
+					<ce:sup>&reg;
+					</ce:sup>
+					.
+				</ce:simple-para>
+			</ce:caption>
+			<tgroup cols="5">
+				<colspec colname="col1" />
+				<colspec colname="col2" />
+				<colspec colname="col3" />
+				<colspec colname="col4" />
+				<colspec colname="col5" />
+				<thead valign="top">
+					<row rowsep="1">
+						<entry align="left" />
+						<entry align="left">
+							1.14 DIP, OPTIGEN
+							<ce:sup>&reg;
+							</ce:sup>
+							(g/kg DM)
+						</entry>
+						<entry align="left">
+							1.01 DIP, OPTIGEN
+							<ce:sup>&reg;
+							</ce:sup>
+							(g/kg DM)
+						</entry>
+						<entry align="left">1.00 DIP, UREA (g/kg DM)</entry>
+						<entry align="left">0.89 DIP, UREA (g/kg DM)</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry align="left" namest="col1" nameend="col5">Feedstuff</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Cracked corn
+						</entry>
+						<entry align="char" char=".">470.3</entry>
+						<entry align="char" char=".">489.2</entry>
+						<entry align="char" char=".">472.7</entry>
+						<entry align="char" char=".">491.4</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Fescue hay
+						</entry>
+						<entry align="char" char=".">237.0</entry>
+						<entry align="char" char=".">237.6</entry>
+						<entry align="char" char=".">238.2</entry>
+						<entry align="char" char=".">238.6</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Cottonseed hulls
+						</entry>
+						<entry align="char" char=".">222.2</entry>
+						<entry align="char" char=".">222.7</entry>
+						<entry align="char" char=".">223.3</entry>
+						<entry align="char" char=".">223.7</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Soybean meal
+						</entry>
+						<entry align="char" char=".">18.5</entry>
+						<entry align="char" char=".">0.00</entry>
+						<entry align="char" char=".">18.6</entry>
+						<entry align="char" char=".">0.00</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Urea
+							<ce:cross-ref id="crf0005" refid="tblfn0005">
+								<ce:sup>a</ce:sup>
+							</ce:cross-ref>
+						</entry>
+						<entry align="char" char=".">0.00</entry>
+						<entry align="char" char=".">0.00</entry>
+						<entry align="char" char=".">10.4</entry>
+						<entry align="char" char=".">9.5</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							OPTIGEN
+							<ce:sup>&reg;
+							</ce:sup>
+							<ce:cross-ref id="crf0010" refid="tblfn0010">
+								<ce:sup>b</ce:sup>
+							</ce:cross-ref>
+						</entry>
+						<entry align="char" char=".">15.4</entry>
+						<entry align="char" char=".">13.9</entry>
+						<entry align="char" char=".">0.00</entry>
+						<entry align="char" char=".">0.00</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Molasses
+						</entry>
+						<entry align="char" char=".">19.3</entry>
+						<entry align="char" char=".">19.3</entry>
+						<entry align="char" char=".">19.4</entry>
+						<entry align="char" char=".">19.4</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Limestone
+						</entry>
+						<entry align="char" char=".">8.0</entry>
+						<entry align="char" char=".">8.0</entry>
+						<entry align="char" char=".">8.0</entry>
+						<entry align="char" char=".">8.1</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Dicalcium phosphate
+						</entry>
+						<entry align="char" char=".">1.9</entry>
+						<entry align="char" char=".">1.9</entry>
+						<entry align="char" char=".">1.9</entry>
+						<entry align="char" char=".">1.9</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Calcium sulfate
+						</entry>
+						<entry align="char" char=".">1.1</entry>
+						<entry align="char" char=".">1.1</entry>
+						<entry align="char" char=".">1.1</entry>
+						<entry align="char" char=".">1.1</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Vitamin premix
+							<ce:cross-ref id="crf0015" refid="tblfn0015">
+								<ce:sup>c</ce:sup>
+							</ce:cross-ref>
+						</entry>
+						<entry align="char" char=".">0.4</entry>
+						<entry align="char" char=".">0.4</entry>
+						<entry align="char" char=".">0.4</entry>
+						<entry align="char" char=".">0.4</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Trace mineral premix
+							<ce:cross-ref id="crf0020" refid="tblfn0020">
+								<ce:sup>d</ce:sup>
+							</ce:cross-ref>
+						</entry>
+						<entry align="char" char=".">5.9</entry>
+						<entry align="char" char=".">5.9</entry>
+						<entry align="char" char=".">6.0</entry>
+						<entry align="char" char=".">6.0</entry>
+					</row>
+					<row>
+						<entry align="left" namest="col1" nameend="col5">Chemical
+							composition</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Crude protein
+						</entry>
+						<entry align="char" char=".">147.5</entry>
+						<entry align="char" char=".">130.8</entry>
+						<entry align="char" char=".">132.3</entry>
+						<entry align="char" char=".">120.4</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							NDF
+						</entry>
+						<entry align="char" char=".">419.1</entry>
+						<entry align="char" char=".">419.6</entry>
+						<entry align="char" char=".">421.2</entry>
+						<entry align="char" char=".">421.4</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							NFC
+						</entry>
+						<entry align="char" char=".">415.0</entry>
+						<entry align="char" char=".">424.4</entry>
+						<entry align="char" char=".">417.1</entry>
+						<entry align="char" char=".">426.3</entry>
+					</row>
+				</tbody>
+			</tgroup>
+			<ce:table-footnote id="tblfn0005">
+				<ce:label>a</ce:label>
+				<ce:note-para id="npar0005">
+					Urea nitrogen content: 450
+					<ce:hsp sp="0.25" />
+					g/kg
+					<ce:hsp sp="0.25" />
+					N.
+				</ce:note-para>
+			</ce:table-footnote>
+			<ce:table-footnote id="tblfn0010">
+				<ce:label>b</ce:label>
+				<ce:note-para id="npar0010">
+					Optigen
+					<ce:sup>&reg;
+					</ce:sup>
+					nitrogen content: 410
+					<ce:hsp sp="0.25" />
+					g/kg
+					<ce:hsp sp="0.25" />
+					N.
+				</ce:note-para>
+			</ce:table-footnote>
+			<ce:table-footnote id="tblfn0015">
+				<ce:label>c</ce:label>
+				<ce:note-para id="npar0015">
+					Vitamin premix composition: 8811
+					<ce:hsp sp="0.25" />
+					IU vitamin A, 1762
+					<ce:hsp sp="0.25" />
+					IU vitamin D, 1100
+					<ce:hsp sp="0.25" />
+					IU vitamin E.
+				</ce:note-para>
+			</ce:table-footnote>
+			<ce:table-footnote id="tblfn0020">
+				<ce:label>d</ce:label>
+				<ce:note-para id="npar0020">
+					Trace mineral premix composition: 6.6
+					<ce:hsp sp="0.25" />
+					g/kg Ca, 563.4
+					<ce:hsp sp="0.25" />
+					g/kg Cl, 365.3
+					<ce:hsp sp="0.25" />
+					g/kg Na, 12.0
+					<ce:hsp sp="0.25" />
+					g/kg S, 68.9
+					<ce:hsp sp="0.25" />
+					ppm Co, 1837.7
+					<ce:hsp sp="0.25" />
+					ppm Cu, 119.9
+					<ce:hsp sp="0.25" />
+					ppm I, 9290.2
+					<ce:hsp sp="0.25" />
+					ppm Fe, 4792.3
+					<ce:hsp sp="0.25" />
+					ppm Mn, 18.5
+					<ce:hsp sp="0.25" />
+					ppm Se, 5520.2
+					<ce:hsp sp="0.25" />
+					ppm Zn.
+				</ce:note-para>
+			</ce:table-footnote>
+		</ce:table>
+		<ce:table id="tbl0010" frame="topbot" rowsep="0" colsep="0">
+			<ce:label>Table 2</ce:label>
+			<ce:caption id="cap0020">
+				<ce:simple-para id="spar0020">
+					Dry matter intake, diet digestibility and N-balance in steers fed
+					0.89, 1.00 and 1.14 DIP diets with UREA or
+					<ce:sup>(r)</ce:sup>
+					OPTIGEN
+					<ce:sup>&reg;
+					</ce:sup>
+					.
+				</ce:simple-para>
+			</ce:caption>
+			<tgroup cols="9">
+				<colspec colname="col1" />
+				<colspec colname="col2" />
+				<colspec colname="col3" />
+				<colspec colname="col4" />
+				<colspec colname="col5" />
+				<colspec colname="col6" />
+				<colspec colname="col7" />
+				<colspec colname="col8" />
+				<colspec colname="col9" />
+				<thead valign="top">
+					<row>
+						<entry align="left" />
+						<entry align="left" rowsep="1" namest="col2" nameend="col5">Treatment</entry>
+						<entry align="left">SEM</entry>
+						<entry align="left" rowsep="1" namest="col7" nameend="col9">Contrasts</entry>
+					</row>
+					<row rowsep="1">
+						<entry align="left" />
+						<entry align="left">
+							1.14 DIP OPTIGEN
+							<ce:sup>&reg;
+							</ce:sup>
+						</entry>
+						<entry align="left">
+							1.01 DIP OPTIGEN
+							<ce:sup>&reg;
+							</ce:sup>
+						</entry>
+						<entry align="left">1.00 DIP UREA</entry>
+						<entry align="left">0.89 DIP UREA</entry>
+						<entry align="left" />
+						<entry align="left">
+							1.14 vs. 1.01, OPTIGEN
+							<ce:sup>&reg;
+							</ce:sup>
+						</entry>
+						<entry align="left">1.00 vs. 0.89, Urea</entry>
+						<entry align="left">
+							1.00 Urea vs. 1.01 OPTIGEN
+							<ce:sup>&reg;
+							</ce:sup>
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry align="left" namest="col1" nameend="col9">Item</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							DMI, kg/day
+						</entry>
+						<entry align="char" char=".">7.11</entry>
+						<entry align="char" char=".">7.11</entry>
+						<entry align="char" char=".">7.23</entry>
+						<entry align="char" char=".">7.20</entry>
+						<entry align="char" char=".">0.84</entry>
+						<entry align="char" char=".">0.96</entry>
+						<entry align="char" char=".">0.81</entry>
+						<entry align="char" char=".">0.26</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							ADG, kg/day
+						</entry>
+						<entry align="char" char=".">1.26</entry>
+						<entry align="char" char=".">1.14</entry>
+						<entry align="char" char=".">1.22</entry>
+						<entry align="char" char=".">1.24</entry>
+						<entry align="char" char=".">0.14</entry>
+						<entry align="char" char=".">0.049</entry>
+						<entry align="char" char=".">0.69</entry>
+						<entry align="char" char=".">0.16</entry>
+					</row>
+					<row>
+						<entry align="left" namest="col1" nameend="col6">Digestibility</entry>
+						<entry align="left" />
+						<entry align="left" />
+						<entry align="left" />
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							DM
+						</entry>
+						<entry align="char" char=".">0.598</entry>
+						<entry align="char" char=".">0.582</entry>
+						<entry align="char" char=".">0.607</entry>
+						<entry align="char" char=".">0.588</entry>
+						<entry align="char" char=".">0.016</entry>
+						<entry align="char" char=".">0.09</entry>
+						<entry align="char" char=".">0.06</entry>
+						<entry align="char" char=".">0.01</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							OM
+						</entry>
+						<entry align="char" char=".">0.596</entry>
+						<entry align="char" char=".">0.580</entry>
+						<entry align="char" char=".">0.608</entry>
+						<entry align="char" char=".">0.587</entry>
+						<entry align="char" char=".">0.017</entry>
+						<entry align="char" char=".">0.11</entry>
+						<entry align="char" char=".">0.05</entry>
+						<entry align="char" char=".">0.01</entry>
+					</row>
+					<row>
+						<entry align="left" namest="col1" nameend="col8">N balance, g/day</entry>
+						<entry align="left" />
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							N intake
+						</entry>
+						<entry align="char" char=".">167.8</entry>
+						<entry align="char" char=".">148.8</entry>
+						<entry align="char" char=".">153.1</entry>
+						<entry align="char" char=".">138.7</entry>
+						<entry align="char" char=".">18.10</entry>
+						<entry align="left" />
+						<entry align="left" />
+						<entry align="left" />
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Fecal N
+						</entry>
+						<entry align="char" char=".">67.6</entry>
+						<entry align="char" char=".">66.0</entry>
+						<entry align="char" char=".">67.1</entry>
+						<entry align="char" char=".">65.2</entry>
+						<entry align="char" char=".">7.95</entry>
+						<entry align="char" char=".">0.38</entry>
+						<entry align="char" char=".">0.29</entry>
+						<entry align="char" char=".">0.55</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Urine N
+						</entry>
+						<entry align="char" char=".">62.2</entry>
+						<entry align="char" char=".">53.6</entry>
+						<entry align="char" char=".">54.3</entry>
+						<entry align="char" char=".">41.7</entry>
+						<entry align="char" char=".">7.42</entry>
+						<entry align="char" char=".">0.0006</entry>
+						<entry align="char" char=".">&lt;0.0001</entry>
+						<entry align="char" char=".">0.75</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Absorbed N
+						</entry>
+						<entry align="char" char=".">102.9</entry>
+						<entry align="char" char=".">86.3</entry>
+						<entry align="char" char=".">91.0</entry>
+						<entry align="char" char=".">77.2</entry>
+						<entry align="char" char=".">10.26</entry>
+						<entry align="char" char=".">&lt;0.0001</entry>
+						<entry align="char" char=".">0.001</entry>
+						<entry align="char" char=".">0.18</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							N retention
+							<ce:cross-ref id="crf0025" refid="tblfn0030">
+								<ce:sup>b</ce:sup>
+							</ce:cross-ref>
+						</entry>
+						<entry align="char" char=".">39.6</entry>
+						<entry align="char" char=".">31.3</entry>
+						<entry align="char" char=".">34.8</entry>
+						<entry align="char" char=".">34.1</entry>
+						<entry align="char" char=".">4.00</entry>
+						<entry align="char" char=".">0.001</entry>
+						<entry align="char" char=".">0.73</entry>
+						<entry align="char" char=".">0.096</entry>
+					</row>
+					<row>
+						<entry align="left">
+							Retained N/N intake
+							<ce:cross-ref id="crf0030" refid="tblfn0025">
+								<ce:sup>a</ce:sup>
+							</ce:cross-ref>
+						</entry>
+						<entry align="char" char=".">0.23</entry>
+						<entry align="char" char=".">0.20</entry>
+						<entry align="char" char=".">0.22</entry>
+						<entry align="char" char=".">0.24</entry>
+						<entry align="char" char=".">0.009</entry>
+						<entry align="char" char=".">0.04</entry>
+						<entry align="char" char=".">0.21</entry>
+						<entry align="char" char=".">0.12</entry>
+					</row>
+				</tbody>
+			</tgroup>
+			<ce:table-footnote id="tblfn0025">
+				<ce:label>a</ce:label>
+				<ce:note-para id="npar0025">Data were transformed to obtain a
+					normal distribution for statistical analysis. SEM of original data
+					is reported.</ce:note-para>
+			</ce:table-footnote>
+			<ce:table-footnote id="tblfn0030">
+				<ce:label>b</ce:label>
+				<ce:note-para id="npar0030">
+					N retention
+					<ce:hsp sp="0.25" />
+					=
+					<ce:hsp sp="0.25" />
+					N intake
+					<ce:hsp sp="0.25" />&minus;
+					<ce:hsp sp="0.25" />
+					N output (Fecal N
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					Urine
+					<ce:hsp sp="0.25" />
+					N).
+				</ce:note-para>
+			</ce:table-footnote>
+		</ce:table>
+		<ce:table id="tbl0015" frame="topbot" rowsep="0" colsep="0">
+			<ce:label>Table 3</ce:label>
+			<ce:caption id="cap0025">
+				<ce:simple-para id="spar0025">
+					Plasma urea and urinary excretion of purine derivatives in steers
+					fed 0.89, 1.00 and 1.14 DIP diets with UREA or OPTIGEN
+					<ce:sup>&reg;
+					</ce:sup>
+					.
+				</ce:simple-para>
+			</ce:caption>
+			<tgroup cols="9">
+				<colspec colname="col1" />
+				<colspec colname="col2" />
+				<colspec colname="col3" />
+				<colspec colname="col4" />
+				<colspec colname="col5" />
+				<colspec colname="col6" />
+				<colspec colname="col7" />
+				<colspec colname="col8" />
+				<colspec colname="col9" />
+				<thead valign="top">
+					<row>
+						<entry align="left" />
+						<entry align="left" rowsep="1" namest="col2" nameend="col5">Treatment</entry>
+						<entry align="left">SEM</entry>
+						<entry align="left" rowsep="1" namest="col7" nameend="col9">
+							Contrasts
+							<ce:cross-ref id="crf0035" refid="tblfn0035">
+								<ce:sup>a</ce:sup>
+							</ce:cross-ref>
+						</entry>
+					</row>
+					<row rowsep="1">
+						<entry align="left" />
+						<entry align="left">
+							1.14 DIP OPTIGEN
+							<ce:sup>&reg;
+							</ce:sup>
+						</entry>
+						<entry align="left">
+							1.01 DIP OPTIGEN
+							<ce:sup>&reg;
+							</ce:sup>
+						</entry>
+						<entry align="left">1.00 DIP UREA</entry>
+						<entry align="left">0.89 DIP UREA</entry>
+						<entry align="left" />
+						<entry align="left">
+							1.14 vs. 1.01, OPTIGEN
+							<ce:sup>&reg;
+							</ce:sup>
+						</entry>
+						<entry align="left">1.00 vs. 0.89, Urea</entry>
+						<entry align="left">
+							1.00 Urea vs. 1.01 OPTIGEN
+							<ce:sup>&reg;
+							</ce:sup>
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry align="left" namest="col1" nameend="col9">Item</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Plasma urea, mM
+							<ce:cross-ref id="crf0040" refid="tblfn0040">
+								<ce:sup>b</ce:sup>
+							</ce:cross-ref>
+						</entry>
+						<entry align="char" char=".">2.86</entry>
+						<entry align="char" char=".">2.36</entry>
+						<entry align="char" char=".">2.55</entry>
+						<entry align="char" char=".">1.90</entry>
+						<entry align="char" char=".">0.120</entry>
+						<entry align="char" char=".">&lt;0.0001</entry>
+						<entry align="char" char=".">&lt;0.0001</entry>
+						<entry align="char" char=".">0.03</entry>
+					</row>
+					<row>
+						<entry align="left" namest="col1" nameend="col9">Urinary purine
+							derivatives, mmol/kg DMI</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Purine derivatives
+							<ce:cross-ref id="crf0045" refid="tblfn0045">
+								<ce:sup>c</ce:sup>
+							</ce:cross-ref>
+						</entry>
+						<entry align="char" char=".">22.6</entry>
+						<entry align="char" char=".">21.2</entry>
+						<entry align="char" char=".">22.4</entry>
+						<entry align="char" char=".">21.5</entry>
+						<entry align="char" char=".">1.72</entry>
+						<entry align="char" char=".">0.57</entry>
+						<entry align="char" char=".">0.73</entry>
+						<entry align="char" char=".">0.65</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Allantoin
+						</entry>
+						<entry align="char" char=".">14.8</entry>
+						<entry align="char" char=".">14.0</entry>
+						<entry align="char" char=".">14.1</entry>
+						<entry align="char" char=".">13.5</entry>
+						<entry align="char" char=".">1.08</entry>
+						<entry align="char" char=".">0.58</entry>
+						<entry align="char" char=".">0.72</entry>
+						<entry align="char" char=".">0.96</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Pseudouridine
+						</entry>
+						<entry align="char" char=".">0.45</entry>
+						<entry align="char" char=".">0.44</entry>
+						<entry align="char" char=".">0.47</entry>
+						<entry align="char" char=".">0.42</entry>
+						<entry align="char" char=".">0.04</entry>
+						<entry align="char" char=".">0.85</entry>
+						<entry align="char" char=".">0.33</entry>
+						<entry align="char" char=".">0.51</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Uric acid
+						</entry>
+						<entry align="char" char=".">7.8</entry>
+						<entry align="char" char=".">7.3</entry>
+						<entry align="char" char=".">8.3</entry>
+						<entry align="char" char=".">8.0</entry>
+						<entry align="char" char=".">0.84</entry>
+						<entry align="char" char=".">0.66</entry>
+						<entry align="char" char=".">0.78</entry>
+						<entry align="char" char=".">0.35</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Hypoxanthine
+						</entry>
+						<entry align="char" char=".">4.2</entry>
+						<entry align="char" char=".">4.3</entry>
+						<entry align="char" char=".">3.7</entry>
+						<entry align="char" char=".">4.5</entry>
+						<entry align="char" char=".">1.02</entry>
+						<entry align="char" char=".">0.86</entry>
+						<entry align="char" char=".">0.22</entry>
+						<entry align="char" char=".">0.33</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Creatinine
+						</entry>
+						<entry align="char" char=".">14.3</entry>
+						<entry align="char" char=".">12.5</entry>
+						<entry align="char" char=".">13.0</entry>
+						<entry align="char" char=".">12.7</entry>
+						<entry align="char" char=".">0.83</entry>
+						<entry align="char" char=".">0.11</entry>
+						<entry align="char" char=".">0.83</entry>
+						<entry align="char" char=".">0.67</entry>
+					</row>
+				</tbody>
+			</tgroup>
+			<ce:table-footnote id="tblfn0035">
+				<ce:label>a</ce:label>
+				<ce:note-para id="npar0035">Main effects interaction with time
+					were non-significant (P>0.10).</ce:note-para>
+			</ce:table-footnote>
+			<ce:table-footnote id="tblfn0040">
+				<ce:label>b</ce:label>
+				<ce:note-para id="npar0040">Data were transformed to obtain a
+					normal distribution for statistical analysis. SEM of the original
+					data are reported.</ce:note-para>
+			</ce:table-footnote>
+			<ce:table-footnote id="tblfn0045">
+				<ce:label>c</ce:label>
+				<ce:note-para id="npar0045">
+					Purine derivatives
+					<ce:hsp sp="0.25" />
+					=
+					<ce:hsp sp="0.25" />
+					Allantoin
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					uric<!--<query id="Q1">The footnote citation of "purine derivates b" 
+						has been changed as "purine derivates c". Please check and confirm</query> -->
+					acid.
+				</ce:note-para>
+			</ce:table-footnote>
+		</ce:table>
+		<ce:table id="tbl0020" frame="topbot" rowsep="0" colsep="0">
+			<ce:label>Table 4</ce:label>
+			<ce:caption id="cap0030">
+				<ce:simple-para id="spar0030">
+					Urea kinetics variables in steers fed 0.89, 1.00 and 1.14 DIP diets
+					with UREA or
+					<ce:sup>(r)</ce:sup>
+					OPTIGEN
+					<ce:sup>&reg;
+					</ce:sup>
+					.
+				</ce:simple-para>
+			</ce:caption>
+			<tgroup cols="9">
+				<colspec colname="col1" />
+				<colspec colname="col2" />
+				<colspec colname="col3" />
+				<colspec colname="col4" />
+				<colspec colname="col5" />
+				<colspec colname="col6" />
+				<colspec colname="col7" />
+				<colspec colname="col8" />
+				<colspec colname="col9" />
+				<thead valign="top">
+					<row>
+						<entry align="left">Item</entry>
+						<entry align="left" rowsep="1" namest="col2" nameend="col5">Treatment</entry>
+						<entry align="left">SEM</entry>
+						<entry align="left" rowsep="1" namest="col7" nameend="col9">Contrasts</entry>
+					</row>
+					<row rowsep="1">
+						<entry align="left" />
+						<entry align="left">
+							1.14 DIP OPTIGEN
+							<ce:sup>&reg;
+							</ce:sup>
+						</entry>
+						<entry align="left">
+							1.01 DIP OPTIGEN
+							<ce:sup>&reg;
+							</ce:sup>
+						</entry>
+						<entry align="left">1.00 DIP UREA</entry>
+						<entry align="left">0.89 DIP UREA</entry>
+						<entry align="left" />
+						<entry align="left">
+							1.14 vs. 1.01, OPTIGEN
+							<ce:sup>&reg;
+							</ce:sup>
+						</entry>
+						<entry align="left">1.00 vs. 0.89, Urea</entry>
+						<entry align="left">
+							1.00 Urea vs. 1.01 OPTIGEN
+							<ce:sup>&reg;
+							</ce:sup>
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry align="left" namest="col1" nameend="col9">Urea kinetic
+							variables (g urea N/day)</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Urea entry rate (UER)
+						</entry>
+						<entry align="char" char=".">70.1</entry>
+						<entry align="char" char=".">57.8</entry>
+						<entry align="char" char=".">56.7</entry>
+						<entry align="char" char=".">45.4</entry>
+						<entry align="char" char=".">8.09</entry>
+						<entry align="char" char=".">0.002</entry>
+						<entry align="char" char=".">0.004</entry>
+						<entry align="char" char=".">0.75</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Urinary urea excretion (UUE)
+						</entry>
+						<entry align="char" char=".">36.3</entry>
+						<entry align="char" char=".">26.5</entry>
+						<entry align="char" char=".">26.6</entry>
+						<entry align="char" char=".">15.5</entry>
+						<entry align="char" char=".">2.50</entry>
+						<entry align="char" char=".">0.0002</entry>
+						<entry align="char" char=".">&lt;0.0001</entry>
+						<entry align="char" char=".">0.96</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Entry to gut (GER)
+						</entry>
+						<entry align="char" char=".">33.8</entry>
+						<entry align="char" char=".">31.3</entry>
+						<entry align="char" char=".">30.1</entry>
+						<entry align="char" char=".">30.0</entry>
+						<entry align="char" char=".">7.35</entry>
+						<entry align="char" char=".">0.47</entry>
+						<entry align="char" char=".">0.97</entry>
+						<entry align="char" char=".">0.73</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Return to ornithine cycle (ROC)
+							<ce:cross-ref id="crf0050" refid="tblfn0050">
+								<ce:sup>a</ce:sup>
+							</ce:cross-ref>
+						</entry>
+						<entry align="char" char=".">7.92</entry>
+						<entry align="char" char=".">6.31</entry>
+						<entry align="char" char=".">6.16</entry>
+						<entry align="char" char=".">5.92</entry>
+						<entry align="char" char=".">1.29</entry>
+						<entry align="char" char=".">0.03</entry>
+						<entry align="char" char=".">0.73</entry>
+						<entry align="char" char=".">0.83</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Loss to feces (UFE)
+						</entry>
+						<entry align="char" char=".">6.67</entry>
+						<entry align="char" char=".">6.13</entry>
+						<entry align="char" char=".">6.16</entry>
+						<entry align="char" char=".">6.66</entry>
+						<entry align="char" char=".">0.66</entry>
+						<entry align="char" char=".">0.11</entry>
+						<entry align="char" char=".">0.13</entry>
+						<entry align="char" char=".">0.93</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							Re-use for anabolism (UUA)
+						</entry>
+						<entry align="char" char=".">19. 6</entry>
+						<entry align="char" char=".">22.0</entry>
+						<entry align="char" char=".">20.7</entry>
+						<entry align="char" char=".">22.0</entry>
+						<entry align="char" char=".">6.11</entry>
+						<entry align="char" char=".">0.50</entry>
+						<entry align="char" char=".">0.72</entry>
+						<entry align="char" char=".">0.72</entry>
+					</row>
+					<row>
+						<entry align="left" namest="col1" nameend="col9">Fractional
+							transfers</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							UER to urine (u)
+						</entry>
+						<entry align="char" char=".">0.54</entry>
+						<entry align="char" char=".">0.48</entry>
+						<entry align="char" char=".">0.48</entry>
+						<entry align="char" char=".">0.34</entry>
+						<entry align="char" char=".">0.065</entry>
+						<entry align="char" char=".">0.25</entry>
+						<entry align="char" char=".">0.01</entry>
+						<entry align="char" char=".">0.90</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							UER to gut (1-u)
+						</entry>
+						<entry align="char" char=".">0.46</entry>
+						<entry align="char" char=".">0.52</entry>
+						<entry align="char" char=".">0.52</entry>
+						<entry align="char" char=".">0.66</entry>
+						<entry align="char" char=".">0.065</entry>
+						<entry align="char" char=".">0.25</entry>
+						<entry align="char" char=".">0.01</entry>
+						<entry align="char" char=".">0.90</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							GER to ROC (r)
+							<ce:cross-ref id="crf0055" refid="tblfn0050">
+								<ce:sup>a</ce:sup>
+							</ce:cross-ref>
+						</entry>
+						<entry align="char" char=".">0.30</entry>
+						<entry align="char" char=".">0.18</entry>
+						<entry align="char" char=".">0.22</entry>
+						<entry align="char" char=".">0.19</entry>
+						<entry align="char" char=".">0.033</entry>
+						<entry align="char" char=".">0.003</entry>
+						<entry align="char" char=".">0.42</entry>
+						<entry align="char" char=".">0.20</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							GER to feces (f)
+							<ce:cross-ref id="crf0060" refid="tblfn0050">
+								<ce:sup>a</ce:sup>
+							</ce:cross-ref>
+						</entry>
+						<entry align="char" char=".">0.11</entry>
+						<entry align="char" char=".">0.10</entry>
+						<entry align="char" char=".">0.09</entry>
+						<entry align="char" char=".">0.06</entry>
+						<entry align="char" char=".">0.037</entry>
+						<entry align="char" char=".">0.60</entry>
+						<entry align="char" char=".">0.01</entry>
+						<entry align="char" char=".">0.71</entry>
+					</row>
+					<row>
+						<entry align="left">
+							<ce:hsp sp="1.0" />
+							GER to UUA (a)
+							<ce:cross-ref id="crf0065" refid="tblfn0050">
+								<ce:sup>a</ce:sup>
+							</ce:cross-ref>
+						</entry>
+						<entry align="char" char=".">0.64</entry>
+						<entry align="char" char=".">0.71</entry>
+						<entry align="char" char=".">0.68</entry>
+						<entry align="char" char=".">0.75</entry>
+						<entry align="char" char=".">0.041</entry>
+						<entry align="char" char=".">0.03</entry>
+						<entry align="char" char=".">0.003</entry>
+						<entry align="char" char=".">0.26</entry>
+					</row>
+				</tbody>
+			</tgroup>
+			<ce:table-footnote id="tblfn0050">
+				<ce:label>a</ce:label>
+				<ce:note-para id="npar0050">Data were transformed to obtain a
+					normal distribution for statistical analysis. SEM of the original
+					data are reported.</ce:note-para>
+			</ce:table-footnote>
+		</ce:table>
+	</ce:floats>
+	<head>
+		<ce:title id="tit0005">The effects of degradable nitrogen level and
+			slow release urea on nitrogen balance and urea kinetics in Holstein
+			steers</ce:title>
+		<ce:author-group id="aug0005">
+			<ce:author id="aut0005">
+				<ce:given-name>V.B.</ce:given-name>
+				<ce:surname>Holder</ce:surname>
+				<ce:cross-ref id="crf0070" refid="aff0005">
+					<ce:sup>a</ce:sup>
+				</ce:cross-ref>
+			</ce:author>
+			<ce:author id="aut0010">
+				<ce:given-name>J.M.</ce:given-name>
+				<ce:surname>Tricarico</ce:surname>
+				<ce:cross-ref id="crf0075" refid="aff0010">
+					<ce:sup>b</ce:sup>
+				</ce:cross-ref>
+			</ce:author>
+			<ce:author id="aut0015">
+				<ce:given-name>D.H.</ce:given-name>
+				<ce:surname>Kim</ce:surname>
+				<ce:cross-ref id="crf0080" refid="aff0015">
+					<ce:sup>c</ce:sup>
+				</ce:cross-ref>
+			</ce:author>
+			<ce:author id="aut0020">
+				<ce:given-name>N.B.</ce:given-name>
+				<ce:surname>Kristensen</ce:surname>
+				<ce:cross-ref id="crf0085" refid="aff0020">
+					<ce:sup>d</ce:sup>
+				</ce:cross-ref>
+			</ce:author>
+			<ce:author id="aut0025">
+				<ce:given-name>D.L.</ce:given-name>
+				<ce:surname>Harmon</ce:surname>
+				<ce:cross-ref id="crf0090" refid="aff0005">
+					<ce:sup>a</ce:sup>
+				</ce:cross-ref>
+				<ce:cross-ref id="crf0095" refid="cor0005">
+					<ce:sup>&#x204e;</ce:sup>
+				</ce:cross-ref>
+				<ce:e-address id="eadd0005" type="email">dharmon@uky.edu</ce:e-address>
+			</ce:author>
+			<ce:affiliation id="aff0005">
+				<ce:label>a</ce:label>
+				<ce:textfn>
+					Department of Animal and Food Sciences, University of Kentucky, 814
+					W.P. Garrigus Building, Lexington, KY 40546-0215, <!--<country> -->
+					USA<!--</country> -->
+				</ce:textfn>
+				<sa:affiliation>
+					<sa:organization>Department of Animal and Food Sciences, University
+						of Kentucky</sa:organization>
+					<sa:address-line>814&thinsp;W.P.
+						Garrigus Building
+					</sa:address-line>
+					<sa:city>Lexington</sa:city>
+					<sa:state>KY</sa:state>
+					<sa:postal-code>40546</sa:postal-code>
+					<sa:country>USA</sa:country>
+				</sa:affiliation>
+			</ce:affiliation>
+			<ce:affiliation id="aff0010">
+				<ce:label>b</ce:label>
+				<ce:textfn>Innovation Center for U.S. Dairy, 10255 W. Higgins Road,
+					Suite 900, Rosemont, IL 60018-5616, USA</ce:textfn>
+				<sa:affiliation>
+					<sa:organization>Innovation Center for U.S. Dairy</sa:organization>
+					<sa:address-line>10255&thinsp;W.
+						Higgins Road, Suite 900
+					</sa:address-line>
+					<sa:city>Rosemont</sa:city>
+					<sa:state>IL</sa:state>
+					<sa:postal-code>60018-5616</sa:postal-code>
+					<sa:country>USA</sa:country>
+				</sa:affiliation>
+			</ce:affiliation>
+			<ce:affiliation id="aff0015">
+				<ce:label>c</ce:label>
+				<ce:textfn>
+					National Institute of Animal Science, Rural Development
+					Administration, Suwon 441-706, <!--<country> -->
+					Republic of Korea<!--</country> -->
+				</ce:textfn>
+				<sa:affiliation>
+					<sa:organization>National Institute of Animal Science, Rural
+						Development Administration</sa:organization>
+					<sa:city>Suwon</sa:city>
+					<sa:postal-code>441-706</sa:postal-code>
+					<sa:country>Republic of Korea</sa:country>
+				</sa:affiliation>
+			</ce:affiliation>
+			<ce:affiliation id="aff0020">
+				<ce:label>d</ce:label>
+				<ce:textfn>Knowledge Centre for Agriculture, DK-8200 Aarhus N,
+					Denmark</ce:textfn>
+				<sa:affiliation>
+					<sa:organization>Knowledge Centre for Agriculture</sa:organization>
+					<sa:city>Aarhus N</sa:city>
+					<sa:postal-code>DK-8200</sa:postal-code>
+					<sa:country>Denmark</sa:country>
+				</sa:affiliation>
+			</ce:affiliation>
+			<ce:correspondence id="cor0005">
+				<ce:label>&#x204e;</ce:label>
+				<ce:text>Corresponding author. Tel.: +1 859 257 7516; fax: +1 859
+					257 3412.</ce:text>
+			</ce:correspondence>
+		</ce:author-group>
+		<ce:date-received day="14" month="2" year="2014" />
+		<ce:date-revised day="11" month="12" year="2014" />
+		<ce:date-accepted day="12" month="12" year="2014" />
+		<ce:abstract id="abs0005" class="author-highlights">
+			<ce:section-title id="sect0005">Highlights</ce:section-title>
+			<ce:abstract-sec id="abst0005">
+				<ce:simple-para id="spar0035">
+					<ce:list id="lis0005">
+						<ce:list-item id="lsti0005">
+							<ce:label>&bull;
+							</ce:label>
+							<ce:para id="par0005">Effect of level and source of DIP on nitrogen
+								metabolism in cattle were evaluated.</ce:para>
+						</ce:list-item>
+						<ce:list-item id="lsti0010">
+							<ce:label>&bull;
+							</ce:label>
+							<ce:para id="par0010">Increased DIP intake increased diet
+								digestibility and nitrogen excretion.</ce:para>
+						</ce:list-item>
+						<ce:list-item id="lsti0015">
+							<ce:label>&bull;
+							</ce:label>
+							<ce:para id="par0015">Diet digestibility was greater for urea than
+								Optigen at recommended DIP levels.</ce:para>
+						</ce:list-item>
+						<ce:list-item id="lsti0020">
+							<ce:label>&bull;
+							</ce:label>
+							<ce:para id="par0020">Correcting a deficiency in DIP intake did not
+								increase N retention for urea.</ce:para>
+						</ce:list-item>
+						<ce:list-item id="lsti0025">
+							<ce:label>&bull;
+							</ce:label>
+							<ce:para id="par0025">Increasing DIP intake above requirements
+								increased N retention for Optigen.</ce:para>
+						</ce:list-item>
+					</ce:list>
+				</ce:simple-para>
+			</ce:abstract-sec>
+		</ce:abstract>
+		<ce:abstract id="abs0010">
+			<ce:section-title id="sect0010">Abstract</ce:section-title>
+			<ce:abstract-sec id="abst0010">
+				<ce:simple-para id="spar0040">
+					The objective of this study was to compare nitrogen metabolism and
+					urea kinetics between diets containing either rapidly degrading or
+					slow degrading non-protein nitrogen (NPN) at varying levels of
+					degradable intake protein (DIP). Treatments were slow release urea
+					(Optigen
+					<ce:sup>&reg;
+					</ce:sup>
+					, Alltech, Inc.) fed at 1.01 and 1.14 and feed grade urea (UREA)
+					fed at 0.89 and 1.00 of calculated DIP requirements. Eight Holstein
+					steers (209
+					<ce:hsp sp="0.25" />&thinsp;&plusmn;
+					<ce:hsp sp="0.25" />
+					15
+					<ce:hsp sp="0.25" />
+					kg) implanted with 28
+					<ce:hsp sp="0.25" />
+					mg estradiol
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					200
+					<ce:hsp sp="0.25" />
+					mg trenbolone acetate (Synovex Plus, Fort Dodge Animal Health, Fort
+					Dodge, IA) were used in a replicated 4
+					<ce:hsp sp="0.25" />&times;
+					<ce:hsp sp="0.25" />4
+					Latin square. Experimental periods were 27&thinsp;days,
+					with 19&thinsp;day
+					adaptation followed by 7&thinsp;day
+					of urine and fecal collection and 1&thinsp;day
+					of blood sampling. Continuous (78
+					<ce:hsp sp="0.25" />
+					h) intravenous infusion of
+					<ce:sup>15</ce:sup>
+					N
+					<ce:sup>15</ce:sup>
+					N-urea allowed the estimation of systemic urea kinetics. Dry matter
+					intake was not different between treatments (7.2
+					<ce:hsp sp="0.25" />
+					kg/day). Increasing DIP had a tendency to increase dry matter
+					digestibility (DMD) for both Urea and Optigen
+					<ce:sup>&reg;
+					</ce:sup>
+					. Urea had higher DMD than Optigen
+					<ce:sup>&reg;
+					</ce:sup>
+					. Increasing DIP increased urinary N output for both UREA and
+					Optigen
+					<ce:sup>&reg;
+					</ce:sup>
+					, and increased N-retention at 1.14 Optigen
+					<ce:sup>&reg;
+					</ce:sup>
+					. Increasing DIP increased urea-N entry rate (UER) and urinary
+					urea-N excretion (UUE) for both Optigen
+					<ce:sup>&reg;
+					</ce:sup>
+					and UREA. Gastrointestinal entry of urea-N, urea-N lost to feces
+					and urea-N apparently used for anabolism were not different between
+					treatments. Plasma urea concentration was greater in higher DIP
+					diets and higher for Urea than Optigen
+					<ce:sup>&reg;
+					</ce:sup>
+					at 1.00 DIP. Therefore increasing DIP level will increase
+					N-excretion related to higher urea production and excretion in
+					urine but may also increase diet digestibility. Most changes in N
+					metabolism were driven by N intake.
+				</ce:simple-para>
+			</ce:abstract-sec>
+		</ce:abstract>
+		<ce:keywords id="kwd0005" class="abr">
+			<ce:section-title id="sect0015">Abbreviations</ce:section-title>
+			<ce:keyword id="kw0005">
+				<ce:text>CP</ce:text>
+				<ce:keyword id="kw0010">
+					<ce:text>crude protein</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0015">
+				<ce:text>DIP</ce:text>
+				<ce:keyword id="kw0020">
+					<ce:text>degradable intake protein</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0025">
+				<ce:text>DM</ce:text>
+				<ce:keyword id="kw0030">
+					<ce:text>dry matter</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0035">
+				<ce:text>DMI</ce:text>
+				<ce:keyword id="kw0040">
+					<ce:text>dry matter intake</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0045">
+				<ce:text>GER</ce:text>
+				<ce:keyword id="kw0050">
+					<ce:text>gut entry rate of urea N</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0055">
+				<ce:text>NPN</ce:text>
+				<ce:keyword id="kw0060">
+					<ce:text>non-protein nitrogen</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0065">
+				<ce:text>ROC</ce:text>
+				<ce:keyword id="kw0070">
+					<ce:text>Urea N returned to the ornithine cycle</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0075">
+				<ce:text>UER</ce:text>
+				<ce:keyword id="kw0080">
+					<ce:text>urea N entry rate</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0085">
+				<ce:text>UFE</ce:text>
+				<ce:keyword id="kw0090">
+					<ce:text>urea N excreted in the feces</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0095">
+				<ce:text>UUA</ce:text>
+				<ce:keyword id="kw0100">
+					<ce:text>urea N apparently used for anabolism</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0105">
+				<ce:text>UUE</ce:text>
+				<ce:keyword id="kw0110">
+					<ce:text>urinary urea N excretion</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+		</ce:keywords>
+		<ce:keywords id="kwd0010" class="keyword">
+			<ce:section-title id="sect0020">Keywords</ce:section-title>
+			<ce:keyword id="kw0115">
+				<ce:text>Urea recycling</ce:text>
+			</ce:keyword>
+			<ce:keyword id="kw0120">
+				<ce:text>Nitrogen metabolism</ce:text>
+			</ce:keyword>
+			<ce:keyword id="kw0125">
+				<ce:text>Cattle</ce:text>
+			</ce:keyword>
+		</ce:keywords>
+	</head>
+	<body>
+		<ce:sections>
+			<ce:section id="sec0005" role="introduction">
+				<ce:label>1</ce:label>
+				<ce:section-title id="sect0025">Introduction</ce:section-title>
+				<ce:para id="par0030">
+					The efficiency of utilization of dietary N by cattle is generally
+					relatively low under normal production conditions (
+					<ce:cross-ref id="crf0100" refid="bib0040">Castillo et al., 2001</ce:cross-ref>
+					) with an estimated global average N-efficiency in cattle estimated
+					at 7.7% (
+					<ce:cross-ref id="crf0105" refid="bib0160">Van der Hoek, 1998</ce:cross-ref>
+					). Urea is used rather inefficiently for production of protein
+					products (
+					<ce:cross-ref id="crf0110" refid="bib0030">Broderick et al.,
+						2009</ce:cross-ref>
+					) and due to its wide use in ruminant feeds, may be partially
+					responsible for the overall poor N efficiency in cattle. Low
+					efficiency of utilization of dietary urea has been attributed to
+					the rapid hydrolysis of urea to NH
+					<ce:inf>3</ce:inf>
+					in the rumen by microbial urease which occurs at a higher rate than
+					NH
+					<ce:inf>3</ce:inf>
+					utilization by rumen bacteria, leading to ruminal NH
+					<ce:inf>3</ce:inf>
+					accumulation and the subsequent absorption of ammonia and excretion
+					of urea in the urine (
+					<ce:cross-refs id="crfs0005" refid="bib0050 bib0055">Golombeski et al.,
+						2006; Highstreet et al., 2010</ce:cross-refs>
+					). In addition, excretion of urea in the urine has been shown to be
+					particularly sensitive to the concentration of protein,
+					particularly rumen degradable protein (
+					<ce:cross-ref id="crf0115" refid="bib0100">Marini and Van
+						Amburgh, 2005</ce:cross-ref>
+					) in the diet. Excessive excretion of urinary urea may be related
+					to high ruminal ammonia concentrations, which result in increased
+					absorption of ammonia from the rumen and subsequent conversion to
+					urea in the liver (
+					<ce:cross-ref id="crf0120" refid="bib0145">Symonds et al., 1981</ce:cross-ref>
+					), ultimately leading to increased excretion of urea in the urine.
+					Therefore, attempts have been made to produce a form of urea that
+					would degrade less rapidly in the rumen, potentially resulting in
+					increased incorporation into microbial proteins and consequently
+					lower excretion in the urine. Therefore the objectives of this
+					experiment were to determine the effects of dietary DIP level and
+					slow release urea on N balance and ruminal and systemic urea
+					kinetics in Holstein steers.
+				</ce:para>
+			</ce:section>
+			<ce:section id="sec0010" role="materials-methods">
+				<ce:label>2</ce:label>
+				<ce:section-title id="sect0030">Materials and methods</ce:section-title>
+				<ce:section id="sec0015">
+					<ce:label>2.1</ce:label>
+					<ce:section-title id="sect0035">Experimental design</ce:section-title>
+					<ce:para id="par0035">
+						The experiment was conducted using eight growing Holstein steers
+						with an average initial body weight of 209
+						<ce:hsp sp="0.25" />&plusmn;
+						<ce:hsp sp="0.25" />
+						15
+						<ce:hsp sp="0.25" />
+						kg to evaluate N balance and urea kinetics. The experimental
+						design was a replicated 4
+						<ce:hsp sp="0.25" />&times;
+						<ce:hsp sp="0.25" />
+						4 Latin square with a 2
+						<ce:hsp sp="0.25" />&times;
+						<ce:hsp sp="0.25" />2
+						factorial treatment structure. Treatment factors were NPN source
+						(slow release urea, OPTIGEN&reg;&ndash;Alltech,
+						Inc.; or regular feed grade urea, UREA) and dietary DIP level
+						(1.00 and 0.89 of NRC requirements (
+						<ce:cross-ref id="crf0125" refid="bib0110">NRC, 2000</ce:cross-ref>
+						). Degradable intake protein of all dietary ingredients was
+						characterized as 13% of TDN according to level 1 of the NRC for
+						beef cattle (
+						<ce:cross-ref id="crf0130" refid="bib0110">NRC, 2000</ce:cross-ref>
+						). Diets were formulated for UREA, and OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						diets were subsequently formulated by isonitrogenous substitution
+						of urea for Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						assuming 100% DIP for each. However, the DIP level in experimental
+						diets containing Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						were higher in DIP than formulated, resulting in the following
+						four treatment combinations: 1.14 DIP, OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						; 1.01 DIP, OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						; 1.00 DIP, UREA; 0.89 DIP, UREA (
+						<ce:cross-ref id="crf0135" refid="tbl0005">Table 1</ce:cross-ref>
+						<ce:float-anchor refid="tbl0005" />
+						). Dry matter intakes were set to 0.0258 of body weight and were
+						offered twice daily (08:00 and 17:00). Intakes were updated weekly
+						throughout the study; however, DMI was not adjusted the week prior
+						to each N balance period. Each period consisted of a 19 day
+						adaptation period followed by 7 days of N balance and a single day
+						of blood sampling.
+					</ce:para>
+					<ce:para id="par0040">
+						All animals were implanted with Synovex
+						<ce:sup>&reg;
+						</ce:sup>
+						Plus (200
+						<ce:hsp sp="0.25" />
+						mg trenbolone actetate, 28
+						<ce:hsp sp="0.25" />
+						mg estradiol benzoate, Fort Dodge Animal Health, Fort Dodge, IA)
+						in order to increase muscle deposition and the animals' N
+						requirement. Animals were implanted at the beginning of the first
+						adaptation period and were then re-implanted at the start of the
+						adaptation of the 3rd period (56 days later).
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0020">
+					<ce:label>2.2</ce:label>
+					<ce:section-title id="sect0040">Nitrogen balance</ce:section-title>
+					<ce:para id="par0045">
+						At the beginning of each N balance period, steers were moved from
+						holding pens (3
+						<ce:hsp sp="0.25" />
+						m
+						<ce:hsp sp="0.25" />&times;
+						<ce:hsp sp="0.25" />
+						3
+						<ce:hsp sp="0.25" />
+						m) into individual metabolism tie stalls (1.2
+						<ce:hsp sp="0.25" />
+						m
+						<ce:hsp sp="0.25" />&times;
+						<ce:hsp sp="0.25" />
+						2.4
+						<ce:hsp sp="0.25" />m),
+						each with its own feed bunk and water supply. During the N balance
+						period, total fecal and urine output were quantified before each
+						morning feeding. Feces were weighed, sub-sampled (0.05), and
+						immediately frozen (&minus;20
+						<ce:hsp sp="0.25" />&deg;C).
+						Total urine output was continuously collected and kept separate
+						from feces by fitting each steer with a rubber urine funnel under
+						continuous vacuum (
+						<ce:cross-ref id="crf0140" refid="bib0065">Huntington, 1989</ce:cross-ref>
+						). Urine collection vessels contained sufficient H
+						<ce:inf>3</ce:inf>
+						PO
+						<ce:inf>4</ce:inf>
+						to ensure a final pH of 3.0 or less. Each day, a 0.015 sub-sample
+						of the acidified urine was frozen (&minus;20
+						<ce:hsp sp="0.25" />&deg;C).
+						After sampling on day 7 of the N balance, each steer was returned
+						to its original holding pen and the evening feeding took place as
+						usual.
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0025">
+					<ce:label>2.3</ce:label>
+					<ce:section-title id="sect0045">Urea kinetics study</ce:section-title>
+					<ce:para id="par0050">
+						The method used to evaluate urea kinetics was developed by
+						<ce:cross-ref id="crf0145" refid="bib0135">Sarraseca et al.
+							(1998)</ce:cross-ref>
+						for use in sheep and refined by
+						<ce:cross-ref id="crf0150" refid="bib0085">Lobley et al. (2000)</ce:cross-ref>
+						and later validated for use in cattle (
+						<ce:cross-refs id="crfs0010" refid="bib0010 bib0095">Archibeque et
+							al., 2002; Marini and Van Amburgh, 2003</ce:cross-refs>
+						). Urine was collected for a full 24
+						<ce:hsp sp="0.25" />
+						h in order to account for the potential effect that meal feeding
+						(non-steady state) might have on the enrichment of urea species in
+						the urine (
+						<ce:cross-ref id="crf0155" refid="bib0165">Wickersham et al.,
+							2009</ce:cross-ref>
+						).
+					</ce:para>
+					<ce:para id="par0055">
+						At the beginning of each N balance period, animals were fitted
+						with an indwelling jugular catheter for infusion of tracer. The
+						jugular vein was punctured with a 14
+						<ce:hsp sp="0.25" />
+						ga. thin walled hypodermic needle (Delmed, Inc., Canton, MA). A 20
+						<ce:hsp sp="0.25" />
+						cm length of sterile Tygon tubing (ID: 0.05
+						<ce:hsp sp="0.25" />
+						in., OD: 0.09
+						<ce:hsp sp="0.25" />
+						in., Saint-Gobain, Akron, OH) was passed through the needle into
+						the jugular vein. The needle was then removed and an 18
+						<ce:hsp sp="0.25" />
+						ga. Luer stub adapter (Becton Dickinson, Rutherford, NJ) was then
+						fitted into the tubing and cutaneous sutures were used to secure
+						the catheter in place. The catheter was then covered with gauze
+						with a topical antibiotic secured by a protective cloth flap that
+						was glued to the skin to prevent damage. During the first 78
+						<ce:hsp sp="0.25" />
+						h of each N balance period, steers were continuously infused via
+						the jugular catheter with a sterile solution of
+						<ce:sup>15</ce:sup>
+						N
+						<ce:sup>15</ce:sup>
+						N urea (NLM-233-5, Cambridge Isotope Laboratories, Andover, MA) in
+						physiological saline to provide approximately 0.12
+						<ce:hsp sp="0.25" />
+						g of
+						<ce:sup>15</ce:sup>
+						N
+						<ce:sup>15</ce:sup>
+						N urea per day in an attempt to reach a predicted enrichment of
+						<ce:sup>15</ce:sup>
+						N
+						<ce:sup>15</ce:sup>
+						N urea of 0.1 atom percent excess at plateau.
+					</ce:para>
+					<ce:para id="par0060">
+						The
+						<ce:sup>15</ce:sup>
+						N
+						<ce:sup>15</ce:sup>
+						N solution was prepared in sterile 5
+						<ce:hsp sp="0.25" />
+						L 0.009 sodium chloride irrigation bags (Baxter, Deerfield, IL) by
+						injecting a sterile
+						<ce:sup>15</ce:sup>
+						N
+						<ce:sup>15</ce:sup>
+						N urea solution into the bag through a sterile 0.2
+						<ce:hsp sp="0.25" />&mu;m
+						syringe filter (Millipore, Corporation, Billerica, MA). Medical
+						grade intravenous infusion pumps (MVP&trade;1
+						volumetric pump, International Medical Systems, Inc., Huntington,
+						NY) were used to achieve a continuous and constant infusion rate.
+						During the final 24
+						<ce:hsp sp="0.25" />
+						h of the infusion period urine samples were collected every 6
+						<ce:hsp sp="0.25" />h
+						and immediately frozen (&minus;20
+						<ce:hsp sp="0.25" />&deg;C)
+						to determine enrichment of
+						<ce:sup>15</ce:sup>N
+						urea species. Infusates were sampled at the beginning and end of
+						each infusion period to monitor the concentration of tracer
+						infused. Fecal samples were collected at the start and end of each
+						infusion and immediately frozen (&minus;20
+						<ce:hsp sp="0.25" />&deg;C)
+						to determine the background and final
+						<ce:sup>15</ce:sup>
+						N enrichment in the feces respectively.
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0030">
+					<ce:label>2.4</ce:label>
+					<ce:section-title id="sect0050">Blood sampling</ce:section-title>
+					<ce:para id="par0065">
+						On the morning of day 8 each steer was fitted with jugular
+						catheter (BD Angiocath, Product number: 382259). Blood samples
+						were collected into heparinized syringes (35
+						<ce:hsp sp="0.25" />
+						mL) at 0 (before feeding) and 1, 2, 4, 6, 8, and 10
+						<ce:hsp sp="0.25" />h
+						after feeding. Plasma was harvested and immediately frozen (&minus;20
+						<ce:hsp sp="0.25" />&deg;C)
+						for subsequent analysis of plasma urea.
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0035">
+					<ce:label>2.5</ce:label>
+					<ce:section-title id="sect0055">Laboratory analyses</ce:section-title>
+					<ce:para id="par0070">
+						Feed, urine and fecal samples were composited by animal and period
+						during the experiment. Feed and orts samples were dried in a
+						forced-air oven at 100
+						<ce:hsp sp="0.25" />&deg;C
+						for 24
+						<ce:hsp sp="0.25" />
+						h to determine DM composition. Organic matter was determined
+						according to the methods of the AOAC (Method 942.05). Urine
+						composites were thawed, mixed and sampled for N analysis. Feed and
+						fecal composites were thawed and mixed in a commercial mixer
+						before being subsampled for N analysis. Samples of feed, fecal and
+						urine composites were analyzed fresh for total N by combustion
+						using a Vario Max CN elemental analyzer (Elementar Analysensysteme
+						GmbH, Hanau, Germany). Additionally, urine composites were used to
+						determine output of urinary purine derivatives, as an estimate of
+						microbial protein production (
+						<ce:cross-ref id="crf0160" refid="bib0140">Shingfield and
+							Offer, 1999</ce:cross-ref>
+						) by high pressure liquid chromatography.
+					</ce:para>
+					<ce:para id="par0075">Urea
+						was purified from urine samples utilizing cation exchange
+						chromatography (AG 50W-X8, 100&ndash;200
+						mesh hydrogen form, Bio-Rad Laboratories, Richmond, CA). Urea
+						samples and infusates were diluted to a constant urea
+						concentration of 1.65
+						<ce:hsp sp="0.25" />
+						mM. The samples were prepared for the Hoffman degradation (
+						<ce:cross-ref id="crf0165" refid="bib0135">Sarraseca et al.,
+							1998</ce:cross-ref>
+						) by transferring 2.73
+						<ce:hsp sp="0.25" />
+						mL of diluted urine sample or infusate into a 12
+						<ce:hsp sp="0.25" />
+						mL Exetainer tube (Labco, Ltd. UK). Lithium hypobromite solution
+						was prepared by slowly adding 2
+						<ce:hsp sp="0.25" />mL
+						of bromine (&ge;0.9999,
+						Sigma&ndash;Aldrich,
+						St. Louis, MO, USA) to 60
+						<ce:hsp sp="0.25" />mL
+						of 0.10 LiOH solution (Sigma&ndash;Aldrich,
+						St. Louis, MO, USA). Urea samples and LiOBr (
+						<ce:cross-ref id="crf0170" refid="bib0125">Page, 1982</ce:cross-ref>
+						) were bubbled with high purity He gas at 60
+						<ce:hsp sp="0.25" />
+						mL/min for 20
+						<ce:hsp sp="0.25" />
+						min to remove N
+						<ce:inf>2</ce:inf>
+						from solution. With He gas still flowing, samples were frozen by
+						immersion of the Exetainer in liquid N
+						<ce:inf>2</ce:inf>
+						. Exetainers were uncapped and 0.5
+						<ce:hsp sp="0.25" />
+						mL of LiOBr was added and tubes were recapped. Tubes were then
+						flushed with high purity He at 60
+						<ce:hsp sp="0.25" />
+						mL/min for 3
+						<ce:hsp sp="0.25" />
+						min by inserting 19
+						<ce:hsp sp="0.25" />
+						ga. (inlet) and 23
+						<ce:hsp sp="0.25" />
+						ga. (outlet) non-coring hypodermic needles. The needles were then
+						removed (23
+						<ce:hsp sp="0.25" />
+						ga. first) and the tubes were transferred to a heating block at 65
+						<ce:hsp sp="0.25" />&deg;C
+						for 20&ndash;25
+						<ce:hsp sp="0.25" />
+						min to complete the Hoffman degradation. Enrichments of
+						<ce:sup>15</ce:sup>
+						N species in the resulting N
+						<ce:inf>2</ce:inf>
+						gas and fecal samples were determined according to the methods
+						described by
+						<ce:cross-ref id="crf0175" refid="bib0090">Marini and
+							Attene-Ramos (2006)</ce:cross-ref>
+						by isotope ratio mass spectrometry (Finnigan Delta V Plus, Thermo
+						Scientific, Bremen, Germany). The method accounted for the
+						correction of
+						<ce:sup>15</ce:sup>
+						N
+						<ce:sup>14</ce:sup>
+						N urea in the infusate as well as the amount of
+						<ce:sup>15</ce:sup>
+						N
+						<ce:sup>14</ce:sup>
+						N urea produced by the non-monomolecular reaction of
+						<ce:sup>15</ce:sup>
+						N
+						<ce:sup>15</ce:sup>
+						N urea and other species (
+						<ce:cross-ref id="crf0180" refid="bib0085">Lobley et al., 2000</ce:cross-ref>
+						).
+					</ce:para>
+					<ce:para id="par0080">
+						Plasma urea was determined by colorimetric assay using a Technicon
+						AAII Autoanalyzer (
+						<ce:cross-ref id="crf0185" refid="bib0105">Marsh et al., 1965</ce:cross-ref>
+						).
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0040">
+					<ce:label>2.6</ce:label>
+					<ce:section-title id="sect0060">Calculations</ce:section-title>
+					<ce:para id="par0085">
+						Nitrogen retention was calculated as the difference between N
+						intake and N output (feces plus urine). Urine urea concentration,
+						ratios of N species (
+						<ce:sup>15</ce:sup>
+						N
+						<ce:sup>15</ce:sup>
+						N and
+						<ce:sup>15</ce:sup>
+						N
+						<ce:sup>14</ce:sup>
+						N urea) in urinary urea and fecal
+						<ce:sup>15</ce:sup>
+						N enrichment were used to calculate urea production, urea
+						recycling and use of urea for anabolic purposes according to the
+						methods described by
+						<ce:cross-ref id="crf0190" refid="bib0085">Lobley et al. (2000)</ce:cross-ref>
+						.
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0045">
+					<ce:label>2.7</ce:label>
+					<ce:section-title id="sect0065">Statistical analysis</ce:section-title>
+					<ce:para id="par0090">
+						Data were analyzed as a replicated 4
+						<ce:hsp sp="0.25" />&times;
+						<ce:hsp sp="0.25" />
+						4 Latin square design using PROC MIXED of SAS. Plasma urea data
+						were analyzed as a split plot in time with steer as the main plot
+						and time (h) as the subplot. Period, DIP level and NPN source were
+						treated as fixed effects and animal was treated as random. The
+						interaction between DIP level and NPN source with time (h) were
+						evaluated. In addition, data for certain variables (Retained N as
+						a fraction of N intake, plasma urea, purine derivatives and select
+						urea kinetics variables were log transformed to obtain a normal
+						distribution for statistical analysis. For these data, reverse
+						transformed least squared means are presented, along with SEM from
+						the original data.
+					</ce:para>
+					<ce:para id="par0095">
+						Actual N intakes differed from what was intended, therefore, data
+						analysis was performed by using contrasts between DIP levels
+						within each NPN source and a contrast between 1.01 DIP OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						and 1.00 DIP UREA, which had similar N and DIP intakes. This
+						allowed the determination of the effects of DIP level for both
+						OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						and UREA and to compare OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						and UREA at approximately 1.00 DIP. It should be noted however,
+						that the analysis of the data by these methods limited our ability
+						to determine the strict effects of NPN source on the variables of
+						interest. A combination of SBM and urea or Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						was used to raise the DIP level of the 1.00 DIP UREA and 1.14 DIP
+						OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						diets respectively. Therefore the comparison between Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						and urea at 1.00 DIP evaluated the replacement of a combination of
+						urea and SBM with Optigen
+						<ce:sup>&reg;
+						</ce:sup>.
+						Differences among treatments were considered to be significant
+						when P&lt;0.05, whereas when P>0.05 but &lt;0.10 differences were
+						considered to indicate a trend towards a significant effect.
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0050" role="results">
+					<ce:label>3</ce:label>
+					<ce:section-title id="sect0070">Results</ce:section-title>
+					<ce:para id="par0100">
+						The higher DIP diets (1.14 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						and 1.00 UREA) differed from lower DIP diets (1.01 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						and 0.89 UREA) by addition of SBM and additional urea or Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						for each diet respectively (
+						<ce:cross-ref id="crf0195" refid="tbl0005">Table 1</ce:cross-ref>
+						). In lower DIP diets (1.01 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						and 0.89 Urea), SBM was replaced by cracked corn.
+					</ce:para>
+					<ce:para id="par0105">
+						By design, DMI did not differ between treatments (
+						<ce:cross-ref id="crf0200" refid="tbl0010">Table 2</ce:cross-ref>
+						<ce:float-anchor refid="tbl0010" />
+						). Average daily gain was higher for 1.14 vs. 1.01 Optigen
+						(P=0.049) but did not differ from other treatments. Dry matter
+						(P=0.09) and OM (P=0.1) digestibility tended to be higher for 1.14
+						vs. 1.01 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						and higher for 1.00 vs. 0.89 UREA (DM: P=0.06; OM: P=0.05). In
+						other words, DM and OM digestibility tended to be greater with
+						higher DIP within the Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						and UREA treatments. At 1.00 DIP, OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						had lower DM and OM digestibility than UREA (DM: P=0.01; OM:
+						P=0.01). Changes in DIP levels of the diet were reflected in the N
+						intakes and were a consequence of the imposed treatment structure.
+						Fecal N output was not different between treatments. Urinary N
+						excretion was higher for 1.14 vs. 1.01 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						(P&lt;0.001) and higher for 1.00 vs. 0.89 UREA (P&lt;0.0001).
+						Urinary N excretion was not different between OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						and UREA at 1.00 DIP. Nitrogen retention was greater (P=0.001) at
+						1.14 vs. 1.01 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						; however, N retention was not different between 0.89 and 1.00
+						UREA. There was a tendency (P=0.096) for UREA to have greater N
+						retention than OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						at 1.00 DIP. Retained N, expressed as a percentage of N intake,
+						was higher (P=0.04) for 1.14 vs. 1.01 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						but was not different between the other treatments.
+					</ce:para>
+					<ce:para id="par0110">Plasma
+						urea was higher (P&lt;0.0001) for 1.14 vs. 1.01 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						and higher (P&lt;0.0001) for 1.00 vs. 0.89 UREA (
+						<ce:cross-ref id="crf0205" refid="fig0010">Fig. 2</ce:cross-ref>
+						). Plasma urea was higher (P=0.03) for UREA than OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						at 1.00 DIP. There was no difference in the urinary excretion of
+						purine derivatives between treatments.
+					</ce:para>
+					<ce:para id="par0115">
+						<ce:cross-ref id="crf0210" refid="fig0005">Fig. 1</ce:cross-ref>
+						<ce:float-anchor refid="fig0005" />
+						<ce:float-anchor refid="fig0010" />
+						represents the enrichment of [
+						<ce:sup>15</ce:sup>
+						N
+						<ce:sup>15</ce:sup>
+						N] urea (N
+						<ce:inf>30</ce:inf>
+						) and [
+						<ce:sup>14</ce:sup>
+						N
+						<ce:sup>15</ce:sup>
+						N] urea (N
+						<ce:inf>29</ce:inf>
+						) in urine during the last 24
+						<ce:hsp sp="0.25" />
+						h of the 78
+						<ce:hsp sp="0.25" />
+						h infusion of
+						<ce:sup>15</ce:sup>
+						N
+						<ce:sup>15</ce:sup>
+						N urea. Both N
+						<ce:inf>30</ce:inf>
+						and N
+						<ce:inf>29</ce:inf>
+						urea species reached plateau enrichment by 54
+						<ce:hsp sp="0.25" />
+						h of infusion as is required by the assumptions of this model. The
+						N
+						<ce:inf>30</ce:inf>
+						urea species reached plateau at approximately 0.13% atom percent
+						excess (APE) while the N
+						<ce:inf>29</ce:inf>
+						species reached plateau at 0.03% APE.
+					</ce:para>
+					<ce:para id="par0120">
+						<ce:cross-ref id="crf0215" refid="tbl0020">Table 4</ce:cross-ref>
+						contains urea kinetic variables presented as mass movements of
+						urea N in gram/day as well as fractional transfers of urea N
+						between various body pools. Urea entry rate (UER) was higher
+						(P=0.002) for 1.14 vs. 1.01 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						and higher (P=0.004) for 1.00 vs. 0.89 UREA. Urea entry rate was
+						not different between UREA and OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						at 1.00 DIP. Similarly, urinary urea excretion (UUE) was higher
+						(P&lt;0.001) for 1.14 vs. 1.01 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						and higher (P&lt;0.0001) for 1.00 vs. 0.89 UREA. Urinary urea
+						excretion was not different between UREA and OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						at 1.00 DIP. Urea N returned to the ornithine cycle (ROC) was
+						higher (P=0.03) for 1.14 vs. 1.01 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						and was not different between 1.00 and 0.89 UREA or between UREA
+						and OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						at 1.00 DIP. Increasing DIP level: increased (P=0.01) the fraction
+						of UER that was transferred to urine (u) for UREA but not OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						; increased (P=0.003) the amount of entry to the gut (GER) that
+						went to ROC (r) for OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						; increased (P=0.01) the fraction of GER in the feces for UREA and
+						reduced the fraction of GER in re-use for anabolism (UUA) for both
+						UREA (P=0.003) and OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						(P=0.03).
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0055" role="discussion">
+					<ce:label>4</ce:label>
+					<ce:section-title id="sect0075">Discussion</ce:section-title>
+					<ce:para id="par0125">
+						Due to the nature of the diet composition, we were only able to
+						compare the effect of DIP level within each NPN source, and could
+						only compare OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						and UREA at the 1.00 DIP level. This still provides the important
+						comparison of OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						and UREA at 1.00 DIP, and determines the effect of replacing the
+						SBM and urea N in the 1.00 UREA diet with DIP from Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						.
+					</ce:para>
+					<ce:para id="par0130">
+						In this experiment, higher DIP diets tended to have higher diet
+						digestibility. Increased diet digestibility may be related to
+						increased supply of degradable N to the rumen, resulting in higher
+						microbial activity and thus, improved ruminal degradation of the
+						diet (
+						<ce:cross-ref id="crf0220" refid="bib0075">K&ouml;ster
+							et al., 1996
+						</ce:cross-ref>
+						). Additionally, the inclusion of SBM in the high DIP diets may
+						have provided stimulatory growth factors such as peptides,
+						nucleotides, branched chain fatty acids and other unidentified
+						growth factors to the rumen microbial population, resulting in
+						increased diet digestibility (
+						<ce:cross-refs id="crfs0015" refid="bib0155 bib0045">Van Soest, 1994;
+							Dehority, 2003</ce:cross-refs>
+						) and may also explain the increased digestibility of UREA vs.
+						OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						diets at 1.00 DIP.
+					</ce:para>
+					<ce:para id="par0135">
+						The changes in DIP levels of the diet were reflected in the N
+						intakes (
+						<ce:cross-ref id="crf0225" refid="tbl0010">Table 2</ce:cross-ref>
+						) and were a consequence of the imposed treatment structure. Fecal
+						N excretion was not affected by treatment even though increased
+						diet digestibility has been shown to reduce fecal N excretion (
+						<ce:cross-ref id="crf0230" refid="bib0025">Bierman et al., 1999</ce:cross-ref>
+						).
+					</ce:para>
+					<ce:para id="par0140">
+						Excretion of N in urine reflected the changes in DIP level of the
+						diet. Urinary N excretion is primarily driven by N intake (
+						<ce:cross-refs id="crfs0020" refid="bib0100 bib0120">Marini and Van
+							Amburgh, 2005; Olmos Colmenero and Broderick, 2006</ce:cross-refs>
+						) and is particularly sensitive to the rumen degradable N content
+						of the diet (
+						<ce:cross-ref id="crf0235" refid="bib0115">Nennich et al., 2006</ce:cross-ref>
+						). Therefore the addition of SBM and either urea or Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						(high DIP diets) increased ruminal N supply, ultimately leading to
+						increased excretion of urea in the urine. When comparing UREA and
+						OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						at 1.00 DIP, there was no difference in urinary N excretion,
+						suggesting that a certain amount of SBM and urea may be replaced
+						by Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						without significantly affecting urinary N excretion.
+					</ce:para>
+					<ce:para id="par0145">
+						Increasing the DIP content of the diet from 0.89 to 1.00 did not
+						have a significant effect on N balance for UREA, with increases in
+						N intake being excreted in the urine. However, for OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						, there was an increase in N retention and improved efficiency of
+						N retention when DIP was increased from 1.01 to 1.14. Nitrogen
+						balance studies generally tend to overestimate the amount of N
+						retained, as N retained is determined by difference. The result is
+						that any nitrogen losses from incomplete urine or fecal
+						collection, volatilization of N as ammonia and scurf losses will
+						be computed as N retained with this method (
+						<ce:cross-ref id="crf0240" refid="bib0150">van Kempen et al.,
+							2003</ce:cross-ref>
+						). However, N retention numbers from this study ranged between
+						31.3
+						<ce:hsp sp="0.25" />
+						g/day for 1.01 Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						and 39.6
+						<ce:hsp sp="0.25" />
+						g/day for 1.14 Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						, which would result in lean tissue accretion of 848
+						<ce:hsp sp="0.25" />
+						g/day and 1077
+						<ce:hsp sp="0.25" />
+						g/day respectively. These figures compare well with the total gain
+						figures of 1.14
+						<ce:hsp sp="0.25" />
+						kg/day and 1.26
+						<ce:hsp sp="0.25" />
+						kg/day for 1.01 Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						and 39.6
+						<ce:hsp sp="0.25" />
+						g/day for 1.14 Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						groups respectively The difference between the 1.01 and 1.14
+						OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						diets is the inclusion of 1.85% soybean meal and 0.15% Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						in the 1.14 DIP diet at the expense of cracked corn in the 1.01
+						DIP diet. It is possible that the SBM inclusion resulted in
+						increased N retention and improved N efficiency of the 1.14 vs.
+						the 1.01 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						diet by providing a ruminal (
+						<ce:cross-ref id="crf0245" refid="bib0100">Marini and Van
+							Amburgh, 2005</ce:cross-ref>
+						) and/or post ruminal (
+						<ce:cross-ref id="crf0250" refid="bib0015">Atkinson et al.,
+							2007</ce:cross-ref>
+						) source of protein, or that SBM may have provided stimulatory
+						growth factors to the rumen microbial population, as previously
+						discussed. However, the 1.00 UREA diet included the same amount of
+						SBM and urea but did not increase N retention or improve N
+						efficiency when compared to the 0.89 UREA diet. Degradable N may
+						still have been limiting at the 1.00 DIP level and improved N
+						retention and efficiency in the 1.14 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						diet may have been solely due to improved supply of degradable N
+						to the rumen. However, N retention did not increase as urea was
+						increased from 0.89 to 1.00 DIP so others factors must have
+						contributed. It is possible that OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						slow release properties resulted in improved synchrony of
+						carbohydrate and N degradation in the rumen (
+						<ce:cross-ref id="crf0255" refid="bib0070">Johnson, 1976</ce:cross-ref>
+						), resulting in more efficient capture of degradable N or the slow
+						release properties of OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						could have limited N availability for the 1.01 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						treatment. A more detailed study including an expanded dose
+						titration of urea and Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						feeding may be warranted to test this hypothesis.
+					</ce:para>
+					<ce:para id="par0150">
+						Increasing the supply of degradable N from 89 to 1.00 DIP with
+						UREA did not improve N retention, suggesting that supplying
+						additional rapidly degradable urea would not improve N retention.
+						In addition, the reduction in the fraction of recycled urea that
+						was used for anabolic purposes (a) when DIP was reduced from 100
+						to 0.89 DIP for UREA indicates that urea recycling was making up
+						for some part of the deficiency in ruminal N at 0.89 DIP. The
+						decrease in useful recycled urea (a) was less drastic when DIP was
+						raised from 1.00 to 1.14 in Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						diets than when DIP was raised from 0.89 to 1.00 for UREA. This
+						may indicate that the increase in N retention for 1.14 DIP Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						diets was due to an increased retention of urea N on the first
+						pass through the rumen, and that urea recycling may not be as
+						severely depressed in high CP diets containing Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						as they are in diets containing rapidly degradable NPN sources. At
+						higher concentrations of DIP, as are often used in commercial
+						cattle feeding operations, Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						may result in improved N retention and increased efficiency of N
+						retention related to prolonged supply of degradable N to the
+						rumen, resulting in a lower percentage of N being excreted and a
+						higher percentage being retained (i.e. never entering the
+						circulation) as microbial protein. This hypothesis is supported by
+						the fact that the fraction of urea N that was excreted in the
+						urine (u) only increased with increased DIP for UREA but not for
+						Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						. In addition, the fraction of recycled N that was used for
+						anabolism (a), decreased as DIP was increased, and N retention and
+						efficiency increased simultaneously, indicating that more N from
+						Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						was captured during &ldquo;1st
+						pass&rdquo;
+						ruminal metabolism. However, the excretion of urinary purine
+						derivatives, as an indicator of microbial protein production, was
+						not different between treatments (
+						<ce:cross-ref id="crf0260" refid="tbl0015">Table 3</ce:cross-ref>
+						<ce:float-anchor refid="tbl0015" />
+						<ce:float-anchor refid="tbl0020" />
+						). This would suggest that there was no difference in microbial
+						protein production between treatments. If there was no difference
+						in microbial protein production, then it is possible that
+						increased N retention in 1.14 vs. 1.01 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						diets was due to the inclusion of soybean meal in the 1.14 DIP
+						diet and that the soybean meal was absorbed intestinally rather
+						than used for microbial protein production. However, a similar
+						increase in N retention was not apparent for 1.00 vs. 0.89 UREA
+						treatments where the same amount of soybean meal was included in
+						the diet. Urea entry rate and UUE are driven by N intake and DIP
+						level (
+						<ce:cross-ref id="crf0265" refid="bib0095">Marini and Van
+							Amburgh, 2003</ce:cross-ref>
+						). Increasing dietary degradable N leads to higher production (
+						<ce:cross-ref id="crf0270" refid="bib0070">Johnson, 1976</ce:cross-ref>
+						) and absorption (
+						<ce:cross-ref id="crf0275" refid="bib0020">Bartley et al., 1976</ce:cross-ref>
+						) of ammonia from the rumen, and subsequently higher production of
+						urea in the liver. Higher circulating urea results in increased
+						excretion of urea in the urine (
+						<ce:cross-ref id="crf0280" refid="bib0120">Olmos Colmenero and
+							Broderick, 2006</ce:cross-ref>
+						). Urea entry rate ranges from approximately 33% of N intake on
+						the 0.89 UREA diet to 42% of N intake on the 1.14 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						diet. This is within the same range reported by
+						<ce:cross-ref id="crf0285" refid="bib0095">Marini and Van
+							Amburgh (2003)</ce:cross-ref>
+						who reported UER between 35 and 65% of ingested N in growing
+						cattle and considerably lower than values reported by
+						<ce:cross-ref id="crf0290" refid="bib0060">Huntington et al.
+							(1996)</ce:cross-ref>
+						in non-growing cattle. Urea entry rate is dependent on the N and
+						energy content of the diet, as well as on the physiological state
+						of the animal (
+						<ce:cross-ref id="crf0295" refid="bib0095">Marini and Van
+							Amburgh, 2003</ce:cross-ref>
+						). Steers on this experiment were fed isoenergetically, were all
+						growing, and therefore assumed to have similar physiological
+						status. For these reasons, changes in urea entry rate are assumed
+						to be a result of changes in N intake.
+					</ce:para>
+					<ce:para id="par0155">
+						Urinary urea excretion reflected UER and varied between 15.5
+						<ce:hsp sp="0.25" />
+						g/day on the 0.89 UREA treatment (N intake: 139
+						<ce:hsp sp="0.25" />
+						g/day) and 36.3
+						<ce:hsp sp="0.25" />
+						g/day on the 1.14 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						treatment (N intake: 168
+						<ce:hsp sp="0.25" />
+						g/day). This equates to between 11 and 22% of intake N excreted as
+						urea in the urine. This is comparable to values reported by
+						<ce:cross-ref id="crf0300" refid="bib0095">Marini and Van
+							Amburgh (2003)</ce:cross-ref>
+						that between 15 and 71% of intake N was UUE using diets that
+						varied in N intake between 88 and 204
+						<ce:hsp sp="0.25" />
+						g/day. Gut entry rate of urea N includes urea that is recycled to
+						the gut via saliva as well as across the gut wall directly (
+						<ce:cross-ref id="crf0305" refid="bib0085">Lobley et al., 2000</ce:cross-ref>).
+						Gut entry rate of urea N did not differ between treatments (&sim;31
+						<ce:hsp sp="0.25" />
+						g/day). However, as a percentage of N intake, GER ranged from 20%
+						on the 1.14 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						diet to approximately 22% of intake N on the 0.89 UREA diet. It
+						has been postulated that UER is more dependent on energy
+						availability in the rumen than it is on the N content of the diet
+						(
+						<ce:cross-ref id="crf0310" refid="bib0065">Huntington, 1989</ce:cross-ref>
+						), although many such studies are confounded by the use of
+						different energy and protein sources used to change dietary
+						protein concentration. The diets used in the current study were
+						formulated to be isoenergetic and should have had similar rumen
+						energy availability. Therefore the constant GER between treatments
+						was not unexpected. In addition, several studies have shown the
+						urea recycling in absolute amounts does not change in response to
+						change in N status (
+						<ce:cross-refs id="crfs0025" refid="bib0095 bib0130">Marini
+							and Van Amburgh, 2003; R&oslash;jen
+							et al., 2008
+						</ce:cross-refs>
+						). Conversely, a numerical increase in GER was apparent in the
+						current study, possibly indicating a subtle increase in GER with
+						increasing degradable protein intake.
+					</ce:para>
+					<ce:para id="par0160">
+						Return of urea N to the ornithine cycle (ROC) was higher for 1.14
+						vs. 1.01 Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						. The 1.14 OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						diets may have elevated rumen ammonia for a prolonged period as
+						suggested by improved N retention and efficiency data as well as
+						elevated plasma urea concentration. This is reflected in ROC. If
+						rumen ammonia concentration is maintained at a higher level, then
+						more ammonia would be returned to the ornithine cycle for
+						re-synthesis to urea, resulting in higher ROC. In addition, it has
+						been shown that urea may be hydrolyzed by microbes at the
+						epithelial border, and that the resulting ammonia may never enter
+						the rumen pool resulting in increased ROC (
+						<ce:cross-ref id="crf0315" refid="bib0080">Kristensen et al.,
+							2010</ce:cross-ref>
+						). The percentage of GER that was ROC (r) was between 18 and 30%.
+						<ce:cross-ref id="crf0320" refid="bib0005">Archibeque et al.
+							(2001)</ce:cross-ref>
+						using beef steers and
+						<ce:cross-ref id="crf0325" refid="bib0135">Sarraseca et al.
+							(1998)</ce:cross-ref>
+						using sheep reported a similar range (26&ndash;41%
+						of GER).
+						<ce:cross-ref id="crf0330" refid="bib0095">Marini and Van
+							Amburgh (2003)</ce:cross-ref>
+						found that increasing daily N intake from 88 to 110
+						<ce:hsp sp="0.25" />
+						g/day lead to an increase in ROC but did not find any further
+						increase at higher N intakes. In contrast, we only found increased
+						ROC at higher N intakes (168
+						<ce:hsp sp="0.25" />
+						g/day) for OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						. There were no differences between treatments for UFE or UUA.
+						Increased N retention of 1.14 vs. 1.01 DIP diets should have
+						resulted from an increase in microbial protein production, as NPN
+						from Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						must be converted to microbial protein before being useful to the
+						animal. This was not reflected in UUA. However, this method only
+						accounts for recycled urea that was converted to microbial protein
+						and does not account for potential increase in &ldquo;1st
+						pass&rdquo;
+						ammonia assimilation that may have resulted in increased microbial
+						protein production on the 114% CP OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						diet. Increasing dietary N intake has been shown to decrease the
+						quantity of N excreted in the feces that originated from urea (
+						<ce:cross-ref id="crf0335" refid="bib0095">Marini and Van
+							Amburgh, 2003</ce:cross-ref>
+						). However, this decrease was not apparent with increased N intake
+						in the current study and the percentage GER to feces was actually
+						lower for the 0.89 vs. the 1.00 DIP UREA diet.
+					</ce:para>
+					<ce:para id="par0165">
+						Predictably, plasma urea was higher for the high DIP treatments
+						for both UREA and OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						. Higher dietary DIP concentrations presumably led to more ammonia
+						production in the rumen and consequently more ammonia entering the
+						blood which is converted to urea, primarily in the liver (
+						<ce:cross-ref id="crf0340" refid="bib0065">Huntington, 1989</ce:cross-ref>
+						). The sensitivity of plasma urea to N intake is well documented (
+						<ce:cross-refs id="crfs0030" refid="bib0035 bib0065 bib0010">Bunting et al.,
+							1987; Huntington, 1989; Archibeque et al., 2002</ce:cross-refs>
+						). Lower plasma urea of OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						vs. UREA at 1.00 DIP may be as a result of OPTIGEN
+						<ce:sup>&reg;
+						</ce:sup>
+						slow release properties, resulting in lower ammonia concentrations
+						in the rumen, less entry into the blood and subsequently lower
+						plasma urea concentrations.
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0060" role="conclusion">
+					<ce:label>5</ce:label>
+					<ce:section-title id="sect0080">Conclusions</ce:section-title>
+					<ce:para id="par0170">
+						Although the reduction of DIP content of diets predictably reduces
+						N excretion into the environment, it is not an effective strategy
+						for farmers wishing to maintain or improve productivity.
+						Restricting DIP does not increase the absolute amount of urea
+						recycled to the gut and therefore cannot make up for a dietary DIP
+						deficiency under these conditions. Efforts should therefore be
+						focused on improving the utilization of ammonia in the rumen
+						before it is absorbed from the gut. Although the necessary
+						statistical modifications in this experiment prevent the direct
+						comparison of urea and Optigen
+						<ce:sup>&reg;
+						</ce:sup>
+						as DIP sources, the 1.14 OPTIGEN treatment indicated that N levels
+						may need to be increased when feeding a low release urea.
+					</ce:para>
+				</ce:section>
+			</ce:section>
+		</ce:sections>
+		<ce:acknowledgment id="ack0005">
+			<ce:section-title id="sect0085">Acknowledgements</ce:section-title>
+			<ce:para id="par0175">Support for this research was provided by the
+				Kentucky Agricultural Experiment Station and is Publication No.
+				14-07-010.</ce:para>
+		</ce:acknowledgment>
+	</body>
+	<tail>
+		<ce:bibliography id="bibl0005">
+			<ce:section-title id="sect0090">References</ce:section-title>
+			<ce:bibliography-sec id="bibs0005">
+				<ce:bib-reference id="bib0005">
+					<ce:label>Archibeque et al., 2001</ce:label>
+					<sb:reference id="sbref0005">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>S.L.</ce:given-name>
+									<ce:surname>Archibeque</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.C.</ce:given-name>
+									<ce:surname>Burns</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.B.</ce:given-name>
+									<ce:surname>Huntington</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Urea flux in beef steers: effects of forage
+									species and nitrogen fertilization</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Anim. Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>79</sb:volume-nr>
+								</sb:series>
+								<sb:date>2001</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1937</sb:first-page>
+								<sb:last-page>1943</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0010">
+					<ce:label>Archibeque et al., 2002</ce:label>
+					<sb:reference id="sbref0010">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>S.L.</ce:given-name>
+									<ce:surname>Archibeque</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.C.</ce:given-name>
+									<ce:surname>Burns</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.B.</ce:given-name>
+									<ce:surname>Huntington</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Nitrogen metabolism of beef steers fed
+									endophyte-free tall fescue hay: effects of ruminally protected
+									methionine supplementation</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Anim. Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>80</sb:volume-nr>
+								</sb:series>
+								<sb:date>2002</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1344</sb:first-page>
+								<sb:last-page>1351</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0015">
+					<ce:label>Atkinson et al., 2007</ce:label>
+					<sb:reference id="sbref0015">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>R.L.</ce:given-name>
+									<ce:surname>Atkinson</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.D.</ce:given-name>
+									<ce:surname>Toone</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>T.J.</ce:given-name>
+									<ce:surname>Robinson</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.L.</ce:given-name>
+									<ce:surname>Harmon</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.A.</ce:given-name>
+									<ce:surname>Ludden</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Effects of supplemental ruminally degradable
+									protein versus increasing amounts of supplemental ruminally
+									undegradable protein on nitrogen retention, apparent
+									digestibility, and nutrient flux across visceral tissues in
+									lambs fed low-quality forage</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Anim Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>85</sb:volume-nr>
+								</sb:series>
+								<sb:date>2007</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>3331</sb:first-page>
+								<sb:last-page>3339</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0020">
+					<ce:label>Bartley et al., 1976</ce:label>
+					<sb:reference id="sbref0020">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>E.E.</ce:given-name>
+									<ce:surname>Bartley</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.D.</ce:given-name>
+									<ce:surname>Davidovich</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.W.</ce:given-name>
+									<ce:surname>Barr</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.W.</ce:given-name>
+									<ce:surname>Griffel</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.D.</ce:given-name>
+									<ce:surname>Dayton</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.W.</ce:given-name>
+									<ce:surname>Deyoe</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.M.</ce:given-name>
+									<ce:surname>Bechtle</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Ammonia toxicity in cattle. I. Rumen and blood
+									changes associated with toxicity and treatment methods</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Anim. Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>43</sb:volume-nr>
+								</sb:series>
+								<sb:date>1976</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>835</sb:first-page>
+								<sb:last-page>841</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0025">
+					<ce:label>Bierman et al., 1999</ce:label>
+					<sb:reference id="sbref0025">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Bierman</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.E.</ce:given-name>
+									<ce:surname>Erickson</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>T.J.</ce:given-name>
+									<ce:surname>Klopfenstein</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.A.</ce:given-name>
+									<ce:surname>Stock</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.H.</ce:given-name>
+									<ce:surname>Shain</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Evaluation of nitrogen and organic matter balance
+									in the feedlot as affected by level and source of dietary fiber</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Anim. Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>77</sb:volume-nr>
+								</sb:series>
+								<sb:date>1999</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1645</sb:first-page>
+								<sb:last-page>1653</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0030">
+					<ce:label>Broderick et al., 2009</ce:label>
+					<sb:reference id="sbref0030">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>G.A.</ce:given-name>
+									<ce:surname>Broderick</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.J.</ce:given-name>
+									<ce:surname>Stevenson</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.A.</ce:given-name>
+									<ce:surname>Patton</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Effect of dietary protein concentration and
+									degradability on response to rumen-protected methionine in
+									lactating dairy cows1</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Dairy Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>92</sb:volume-nr>
+								</sb:series>
+								<sb:date>2009</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>2719</sb:first-page>
+								<sb:last-page>2728</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0035">
+					<ce:label>Bunting et al., 1987</ce:label>
+					<sb:reference id="sbref0035">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>L.D.</ce:given-name>
+									<ce:surname>Bunting</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.A.</ce:given-name>
+									<ce:surname>Boling</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.T.</ce:given-name>
+									<ce:surname>MacKown</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.B.</ce:given-name>
+									<ce:surname>Muntifering</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Effect of dietary protein level on nitrogen
+									metabolism in lambs: studies using 15N-nitrogen</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Anim. Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>64</sb:volume-nr>
+								</sb:series>
+								<sb:date>1987</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>855</sb:first-page>
+								<sb:last-page>867</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0040">
+					<ce:label>Castillo et al., 2001</ce:label>
+					<sb:reference id="sbref0040">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>A.R.</ce:given-name>
+									<ce:surname>Castillo</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.</ce:given-name>
+									<ce:surname>Kebreab</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.E.</ce:given-name>
+									<ce:surname>Beever</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.H.</ce:given-name>
+									<ce:surname>Barbi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.D.</ce:given-name>
+									<ce:surname>Sutton</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>H.C.</ce:given-name>
+									<ce:surname>Kirby</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>France</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>The effect of protein supplementation on nitrogen
+									utilization in lactating dairy cows fed grass silage diets</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Anim. Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>79</sb:volume-nr>
+								</sb:series>
+								<sb:date>2001</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>247</sb:first-page>
+								<sb:last-page>253</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0045">
+					<ce:label>Dehority, 2003</ce:label>
+					<sb:reference id="sbref0045">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>B.A.</ce:given-name>
+									<ce:surname>Dehority</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Rumen microbiology</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:book>
+								<sb:date>2003</sb:date>
+								<sb:publisher>
+									<sb:name>Nottingham University Press</sb:name>
+								</sb:publisher>
+							</sb:book>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0050">
+					<ce:label>Golombeski et al., 2006</ce:label>
+					<sb:reference id="sbref0050">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>G.L.</ce:given-name>
+									<ce:surname>Golombeski</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.F.</ce:given-name>
+									<ce:surname>Kalscheur</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.R.</ce:given-name>
+									<ce:surname>Hippen</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.J.</ce:given-name>
+									<ce:surname>Schingoethe</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Slow-release urea and highly fermentable sugars in
+									diets fed to lactating dairy cows</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Dairy Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>89</sb:volume-nr>
+								</sb:series>
+								<sb:date>2006</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>4395</sb:first-page>
+								<sb:last-page>4403</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0055">
+					<ce:label>Highstreet et al., 2010</ce:label>
+					<sb:reference id="sbref0055">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Highstreet</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.H.</ce:given-name>
+									<ce:surname>Robinson</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Robison</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.G.</ce:given-name>
+									<ce:surname>Garrett</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Response of Holstein cows to replacing urea with
+									with a slowly rumen released urea in a diet high in soluble
+									crude protein</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Livest. Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>129</sb:volume-nr>
+								</sb:series>
+								<sb:date>2010</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>179</sb:first-page>
+								<sb:last-page>185</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0060">
+					<ce:label>Huntington et al., 1996</ce:label>
+					<sb:reference id="sbref0060">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>G.B.</ce:given-name>
+									<ce:surname>Huntington</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.J.</ce:given-name>
+									<ce:surname>Zetina</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.M.</ce:given-name>
+									<ce:surname>Whitt</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>W.</ce:given-name>
+									<ce:surname>Potts</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Effects of dietary concentrate level on nutrient
+									absorption, liver metabolism, and urea kinetics of beef steers
+									fed isonitrogenous and isoenergetic diets</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Anim. Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>74</sb:volume-nr>
+								</sb:series>
+								<sb:date>1996</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>908</sb:first-page>
+								<sb:last-page>916</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0065">
+					<ce:label>Huntington, 1989</ce:label>
+					<sb:reference id="sbref0065">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>G.B.</ce:given-name>
+									<ce:surname>Huntington</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Hepatic urea synthesis and site and rate of urea
+									removal from blood beef steers fed alfalfa hay or a high
+									concentrate diet</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Can. J. Anim. Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>69</sb:volume-nr>
+								</sb:series>
+								<sb:date>1989</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>215</sb:first-page>
+								<sb:last-page>223</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0070">
+					<ce:label>Johnson, 1976</ce:label>
+					<sb:reference id="sbref0070">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>R.R.</ce:given-name>
+									<ce:surname>Johnson</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Influence of carbohydrate solubility on
+									non-protein nitrogen utilization in the ruminant</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Anim. Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>43</sb:volume-nr>
+								</sb:series>
+								<sb:date>1976</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>184</sb:first-page>
+								<sb:last-page>191</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0075">
+					<ce:label>K&ouml;ster
+						et al., 1996
+					</ce:label>
+					<sb:reference id="sbref0075">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>H.H.</ce:given-name>
+									<ce:surname>K&ouml;ster
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.C.</ce:given-name>
+									<ce:surname>Cochran</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.C.</ce:given-name>
+									<ce:surname>Titgemeyer</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.S.</ce:given-name>
+									<ce:surname>Vanzant</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>I.</ce:given-name>
+									<ce:surname>Abdelgadir</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.</ce:given-name>
+									<ce:surname>St-Jean</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Effect of increasing degradable intake protein on
+									intake and digestion of low-quality, tallgrass-prairie forage
+									by beef cows</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Anim. Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>74</sb:volume-nr>
+								</sb:series>
+								<sb:date>1996</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>2473</sb:first-page>
+								<sb:last-page>2481</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0080">
+					<ce:label>Kristensen et al., 2010</ce:label>
+					<sb:reference id="sbref0080">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>N.B.</ce:given-name>
+									<ce:surname>Kristensen</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.C.</ce:given-name>
+									<ce:surname>Storm</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Larsen</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Effect of dietary nitrogen content and intravenous
+									urea infusion on ruminal and portal-drained visceral extraction
+									of arterial urea in lactating Holstein cows</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Dairy Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>93</sb:volume-nr>
+								</sb:series>
+								<sb:date>2010</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>2670</sb:first-page>
+								<sb:last-page>2683</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0085">
+					<ce:label>Lobley et al., 2000</ce:label>
+					<sb:reference id="sbref0085">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>G.E.</ce:given-name>
+									<ce:surname>Lobley</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.M.</ce:given-name>
+									<ce:surname>Bremner</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.</ce:given-name>
+									<ce:surname>Zuur</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Effects of diet quality on urea fates in sheep as
+									assessed by refined: non-invasive [NN] urea kinetics</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Br. J. Nutr.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>84</sb:volume-nr>
+								</sb:series>
+								<sb:date>2000</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>459</sb:first-page>
+								<sb:last-page>468</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0090">
+					<ce:label>Marini and Attene-Ramos, 2006</ce:label>
+					<sb:reference id="sbref0090">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>J.C.</ce:given-name>
+									<ce:surname>Marini</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.S.</ce:given-name>
+									<ce:surname>Attene-Ramos</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>An improved analytical method for the
+									determination of urea nitrogen isotopomers in biological
+									samples utilizing continuous flow isotope ratio mass
+									spectrometry</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Rapid Commun. Mass Spectrom.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>20</sb:volume-nr>
+								</sb:series>
+								<sb:date>2006</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>3736</sb:first-page>
+								<sb:last-page>3740</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0095">
+					<ce:label>Marini and Van Amburgh, 2003</ce:label>
+					<sb:reference id="sbref0095">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>J.C.</ce:given-name>
+									<ce:surname>Marini</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.E.</ce:given-name>
+									<ce:surname>Van Amburgh</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Nitrogen metabolism and recycling in Holstein
+									heifers</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Anim. Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>81</sb:volume-nr>
+								</sb:series>
+								<sb:date>2003</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>545</sb:first-page>
+								<sb:last-page>552</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0100">
+					<ce:label>Marini and Van Amburgh, 2005</ce:label>
+					<sb:reference id="sbref0100">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>J.C.</ce:given-name>
+									<ce:surname>Marini</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.E.</ce:given-name>
+									<ce:surname>Van Amburgh</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Partition of nitrogen excretion in urine and the
+									feces of Holstein replacement heifers</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Dairy Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>88</sb:volume-nr>
+								</sb:series>
+								<sb:date>2005</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1778</sb:first-page>
+								<sb:last-page>1784</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0105">
+					<ce:label>Marsh et al., 1965</ce:label>
+					<sb:reference id="sbref0105">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>W.H.</ce:given-name>
+									<ce:surname>Marsh</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>B.</ce:given-name>
+									<ce:surname>Fingerhut</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>H.</ce:given-name>
+									<ce:surname>Miller</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Automated and manual direct methods for the
+									determination of blood urea</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Clin. Chem.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>11</sb:volume-nr>
+								</sb:series>
+								<sb:date>1965</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>624</sb:first-page>
+								<sb:last-page>627</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0110">
+					<ce:label>NRC, 2000</ce:label>
+					<sb:reference id="sbref0110">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:surname>NRC</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Nutrient requirements of beef cattle: seventh
+									revised edition: update 2000</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:book>
+								<sb:date>2000</sb:date>
+								<sb:publisher>
+									<sb:name>The National Academies Press</sb:name>
+									<sb:location>Washington, DC</sb:location>
+								</sb:publisher>
+							</sb:book>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0115">
+					<ce:label>Nennich et al., 2006</ce:label>
+					<sb:reference id="sbref0115">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>T.D.</ce:given-name>
+									<ce:surname>Nennich</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.H.</ce:given-name>
+									<ce:surname>Harrison</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.M.</ce:given-name>
+									<ce:surname>VanWieringen</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>N.R.</ce:given-name>
+									<ce:surname>St-Pierre</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.L.</ce:given-name>
+									<ce:surname>Kincaid</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.A.</ce:given-name>
+									<ce:surname>Wattiaux</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.L.</ce:given-name>
+									<ce:surname>Davidson</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.</ce:given-name>
+									<ce:surname>Block</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Prediction and evaluation of urine and urinary
+									nitrogen and mineral excretion from dairy cattle</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Dairy Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>89</sb:volume-nr>
+								</sb:series>
+								<sb:date>2006</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>353</sb:first-page>
+								<sb:last-page>364</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0120">
+					<ce:label>Olmos Colmenero and Broderick, 2006</ce:label>
+					<sb:reference id="sbref0120">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>J.J.O.</ce:given-name>
+									<ce:surname>Olmos Colmenero</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.A.</ce:given-name>
+									<ce:surname>Broderick</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Effect of dietary crude protein concentration on
+									ruminal nitrogen metabolism in lactating dairy cows</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Dairy Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>89</sb:volume-nr>
+								</sb:series>
+								<sb:date>2006</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1694</sb:first-page>
+								<sb:last-page>1703</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0125">
+					<ce:label>Page, 1982</ce:label>
+					<sb:reference id="sbref0125">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>A.L.</ce:given-name>
+									<ce:surname>Page</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Methods of soil analysis. Part 2. Chemical and
+									microbiological properties</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:book>
+								<sb:date>1982</sb:date>
+								<sb:publisher>
+									<sb:name>American Society of Agronomy, Soil Science Society of
+										America</sb:name>
+									<sb:location>Madison, Wisconsin</sb:location>
+								</sb:publisher>
+							</sb:book>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0130">
+					<ce:label>R&oslash;jen
+						et al., 2008
+					</ce:label>
+					<sb:reference id="sbref0130">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>B.</ce:given-name>
+									<ce:surname>R&oslash;jen
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Lund</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>N.</ce:given-name>
+									<ce:surname>Kristensen</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Urea and short-chain fatty acids metabolism in
+									Holstein cows fed a low-nitrogen grass-based diet</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Animal</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>2</sb:volume-nr>
+								</sb:series>
+								<sb:date>2008</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>500</sb:first-page>
+								<sb:last-page>513</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0135">
+					<ce:label>Sarraseca et al., 1998</ce:label>
+					<sb:reference id="sbref0135">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Sarraseca</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.</ce:given-name>
+									<ce:surname>Milne</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.J.</ce:given-name>
+									<ce:surname>Metcalf</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.E.</ce:given-name>
+									<ce:surname>Lobley</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Urea recycling in sheep: effects of intake</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Br. J. Nutr.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>79</sb:volume-nr>
+								</sb:series>
+								<sb:date>1998</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>79</sb:first-page>
+								<sb:last-page>88</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0140">
+					<ce:label>Shingfield and Offer, 1999</ce:label>
+					<sb:reference id="sbref0140">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>K.J.</ce:given-name>
+									<ce:surname>Shingfield</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>N.W.</ce:given-name>
+									<ce:surname>Offer</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Simultaneous determination of purine metabolites,
+									creatinine and pseudouridine in ruminant urine by
+									reversed-phase high-performance liquid chromatography</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Chromatogr. B Biomed. Sci. Appl.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>723</sb:volume-nr>
+								</sb:series>
+								<sb:date>1999</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>81</sb:first-page>
+								<sb:last-page>94</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0145">
+					<ce:label>Symonds et al., 1981</ce:label>
+					<sb:reference id="sbref0145">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>H.W.</ce:given-name>
+									<ce:surname>Symonds</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.L.</ce:given-name>
+									<ce:surname>Mather</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.A.</ce:given-name>
+									<ce:surname>Collis</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>The maximum capacity of the liver of the adult
+									dairy cow to metabolize ammonia</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Br. J. Nutr.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>46</sb:volume-nr>
+								</sb:series>
+								<sb:date>1981</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>481</sb:first-page>
+								<sb:last-page>486</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0150">
+					<ce:label>van Kempen et al., 2003</ce:label>
+					<sb:reference id="sbref0150">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>T.A.T.G.</ce:given-name>
+									<ce:surname>van Kempen</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.H.</ce:given-name>
+									<ce:surname>Baker</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.</ce:given-name>
+									<ce:surname>van Heugten</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Nitrogen losses in metabolism trials</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J. Anim. Sci.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>81</sb:volume-nr>
+								</sb:series>
+								<sb:date>2003</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>2649</sb:first-page>
+								<sb:last-page>2650</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0155">
+					<ce:label>Van Soest, 1994</ce:label>
+					<sb:reference id="sbref0155">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>P.J.</ce:given-name>
+									<ce:surname>Van Soest</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Nutritional ecology of the ruminant</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:book>
+								<sb:date>1994</sb:date>
+								<sb:publisher>
+									<sb:name>Comstock Pub</sb:name>
+									<sb:location>Ithaca, NY</sb:location>
+								</sb:publisher>
+							</sb:book>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0160">
+					<ce:label>Van der Hoek, 1998</ce:label>
+					<sb:reference id="sbref0160">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>K.W.</ce:given-name>
+									<ce:surname>Van der Hoek</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Nitrogen efficiency in global animal production</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Environ. Pollut.</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>102</sb:volume-nr>
+								</sb:series>
+								<sb:date>1998</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>127</sb:first-page>
+								<sb:last-page>132</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0165">
+					<ce:label>Wickersham et al., 2009</ce:label>
+					<sb:reference id="sbref0165">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>T.A.</ce:given-name>
+									<ce:surname>Wickersham</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.C.</ce:given-name>
+									<ce:surname>Titgemeyer</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.C.</ce:given-name>
+									<ce:surname>Cochran</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Methodology for concurrent determination of urea
+									kinetics and the capture of recycled urea nitrogen by ruminal
+									microbes in cattle</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Animal</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>3</sb:volume-nr>
+								</sb:series>
+								<sb:date>2009</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>372</sb:first-page>
+								<sb:last-page>379</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+			</ce:bibliography-sec>
+		</ce:bibliography>
+	</tail>
+</article>

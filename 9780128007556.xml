@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE book PUBLIC "-//ES//DTD book DTD version 5.3.0//EN//XML" "book530.dtd" [<!ENTITY cover SYSTEM "cover" NDATA IMAGE>]>
+<book version="5.3" xmlns="http://www.elsevier.com/xml/bk/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" docsubtype="bk">
+<info>
+<ce:pii>C2013-0-18847-2</ce:pii>
+<ce:isbn>978-0-12-800755-6</ce:isbn>
+<ce:copyright type="full-transfer" year="2015">Elsevier Inc.</ce:copyright>
+<ce:imprint>Academic Press</ce:imprint>
+</info>
+<top>
+<ce:title>Flashback Mechanisms in Lean Premixed Gas Turbine Combustion</ce:title>
+<ce:copyright-line>Copyright © 2015 Elsevier Inc. All rights reserved</ce:copyright-line>
+<cover-image>
+<ce:figure id="f0010">
+<ce:link id="lk0010" locator="cover"/>
+</ce:figure>
+</cover-image>
+<ce:author-group>
+<ce:author id="au0010">
+<ce:given-name>Ali Cemal</ce:given-name>
+<ce:surname>Benim</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:author-group>
+<ce:author id="au0015">
+<ce:given-name>Khawar J.</ce:given-name>
+<ce:surname>Syed</ce:surname>
+</ce:author>
+</ce:author-group>
+<ce:sections>
+<ce:para id="p0010">Copyright © 2015 Elsevier Inc. All rights reserved</ce:para>
+</ce:sections>
+</top>
+<front>
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00013-1</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00013-1</ce:doi>
+<ce:title>Front matter</ce:title>
+<ce:pages>
+<ce:first-page>iii</ce:first-page>
+</ce:pages>
+</ce:include-item>
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00018-0</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00018-0</ce:doi>
+<ce:title>Copyright</ce:title>
+<ce:pages>
+<ce:first-page>iv</ce:first-page>
+</ce:pages>
+</ce:include-item>
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00017-9</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00017-9</ce:doi>
+<ce:title>Author bios</ce:title>
+<ce:pages>
+<ce:first-page>vii</ce:first-page>
+<ce:last-page>viii</ce:last-page>
+</ce:pages>
+</ce:include-item>
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00016-7</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00016-7</ce:doi>
+<ce:title>Preface</ce:title>
+<ce:pages>
+<ce:first-page>ix</ce:first-page>
+</ce:pages>
+</ce:include-item>
+</front>
+<body>
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00001-5</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00001-5</ce:doi>
+<ce:title>Introduction</ce:title>
+<ce:pages>
+<ce:first-page>1</ce:first-page>
+<ce:last-page>3</ce:last-page>
+</ce:pages>
+</ce:include-item>
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00002-7</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00002-7</ce:doi>
+<ce:title>Concepts Related to Combustion and Flow in Premix Burners</ce:title>
+<ce:pages>
+<ce:first-page>5</ce:first-page>
+<ce:last-page>18</ce:last-page>
+</ce:pages>
+</ce:include-item>
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00003-9</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00003-9</ce:doi>
+<ce:title>Properties of Hydrogen-Containing Fuels</ce:title>
+<ce:pages>
+<ce:first-page>19</ce:first-page>
+<ce:last-page>24</ce:last-page>
+</ce:pages>
+</ce:include-item>
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00004-0</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00004-0</ce:doi>
+<ce:title>An Overview of Flashback Mechanisms</ce:title>
+<ce:pages>
+<ce:first-page>25</ce:first-page>
+<ce:last-page>26</ce:last-page>
+</ce:pages>
+</ce:include-item>
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00005-2</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00005-2</ce:doi>
+<ce:title>Flashback by Autoignition</ce:title>
+<ce:pages>
+<ce:first-page>27</ce:first-page>
+<ce:last-page>39</ce:last-page>
+</ce:pages>
+</ce:include-item>
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00006-4</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00006-4</ce:doi>
+<ce:title>Flashback Due to Combustion Instabilities</ce:title>
+<ce:pages>
+<ce:first-page>41</ce:first-page>
+<ce:last-page>44</ce:last-page>
+</ce:pages>
+</ce:include-item>
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00007-6</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00007-6</ce:doi>
+<ce:title>Flashback Due to Turbulent Flame Propagation in the Core Flow</ce:title>
+<ce:pages>
+<ce:first-page>45</ce:first-page>
+<ce:last-page>57</ce:last-page>
+</ce:pages>
+</ce:include-item>
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00008-8</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00008-8</ce:doi>
+<ce:title>Flashback Due to Flame Propagation in Boundary Layers</ce:title>
+<ce:pages>
+<ce:first-page>59</ce:first-page>
+<ce:last-page>71</ce:last-page>
+</ce:pages>
+</ce:include-item>
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00009-X</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00009-X</ce:doi>
+<ce:title>Combustion-Induced Vortex Breakdown–Driven Flashback</ce:title>
+<ce:pages>
+<ce:first-page>73</ce:first-page>
+<ce:last-page>102</ce:last-page>
+</ce:pages>
+</ce:include-item>
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00010-6</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00010-6</ce:doi>
+<ce:title>Flameholding by Fuel Injection Jets</ce:title>
+<ce:pages>
+<ce:first-page>103</ce:first-page>
+<ce:last-page>111</ce:last-page>
+</ce:pages>
+</ce:include-item>
+</body>
+<rear>
+<rearpart id="re0010">
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00011-8</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00011-8</ce:doi>
+<ce:title>References</ce:title>
+<ce:pages>
+<ce:first-page>113</ce:first-page>
+<ce:last-page>119</ce:last-page>
+</ce:pages>
+</ce:include-item>
+<ce:include-item>
+<ce:pii>B978-0-12-800755-6.00012-X</ce:pii>
+<ce:doi>10.1016/B978-0-12-800755-6.00012-X</ce:doi>
+<ce:title>Nomenclature</ce:title>
+<ce:pages>
+<ce:first-page>121</ce:first-page>
+<ce:last-page>123</ce:last-page>
+</ce:pages>
+</ce:include-item>
+</rearpart>
+</rear>
+</book>

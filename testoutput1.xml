@@ -1,0 +1,181 @@
+[Text: 
+][Element: <info [Namespace: http://www.elsevier.com/xml/bk/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: C2013-0-18847-2][Text: 
+][Element: <ce:isbn [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 978-0-12-800755-6][Text: 
+][Element: <ce:copyright [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Elsevier Inc.][Text: 
+][Element: <ce:imprint [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Academic Press][Text: 
+][Text: 
+][Element: <top [Namespace: http://www.elsevier.com/xml/bk/dtd]/>][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Flashback Mechanisms in Lean Premixed Gas Turbine Combustion][Text: 
+][Element: <ce:copyright-line [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Copyright © 2015 Elsevier Inc. All rights reserved][Text: 
+][Element: <cover-image [Namespace: http://www.elsevier.com/xml/bk/dtd]/>][Text: 
+][Element: <ce:figure [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:link [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Text: 
+][Text: 
+][Element: <ce:author-group [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:author [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:given-name [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Ali Cemal][Text: 
+][Element: <ce:surname [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Benim][Text: 
+][Text: 
+][Text: 
+][Element: <ce:author-group [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:author [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:given-name [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Khawar J.][Text: 
+][Element: <ce:surname [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Syed][Text: 
+][Text: 
+][Text: 
+][Element: <ce:sections [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:para [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Copyright © 2015 Elsevier Inc. All rights reserved][Text: 
+][Text: 
+][Text: 
+][Element: <front [Namespace: http://www.elsevier.com/xml/bk/dtd]/>][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00013-1][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00013-1][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Front matter][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: iii][Text: 
+][Text: 
+][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00018-0][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00018-0][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Copyright][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: iv][Text: 
+][Text: 
+][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00017-9][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00017-9][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Author bios][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: vii][Text: 
+][Element: <ce:last-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: viii][Text: 
+][Text: 
+][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00016-7][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00016-7][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Preface][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: ix][Text: 
+][Text: 
+][Text: 
+][Text: 
+][Element: <body [Namespace: http://www.elsevier.com/xml/bk/dtd]/>][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00001-5][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00001-5][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Introduction][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 1][Text: 
+][Element: <ce:last-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 3][Text: 
+][Text: 
+][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00002-7][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00002-7][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Concepts Related to Combustion and Flow in Premix Burners][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 5][Text: 
+][Element: <ce:last-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 18][Text: 
+][Text: 
+][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00003-9][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00003-9][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Properties of Hydrogen-Containing Fuels][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 19][Text: 
+][Element: <ce:last-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 24][Text: 
+][Text: 
+][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00004-0][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00004-0][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: An Overview of Flashback Mechanisms][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 25][Text: 
+][Element: <ce:last-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 26][Text: 
+][Text: 
+][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00005-2][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00005-2][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Flashback by Autoignition][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 27][Text: 
+][Element: <ce:last-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 39][Text: 
+][Text: 
+][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00006-4][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00006-4][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Flashback Due to Combustion Instabilities][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 41][Text: 
+][Element: <ce:last-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 44][Text: 
+][Text: 
+][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00007-6][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00007-6][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Flashback Due to Turbulent Flame Propagation in the Core Flow][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 45][Text: 
+][Element: <ce:last-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 57][Text: 
+][Text: 
+][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00008-8][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00008-8][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Flashback Due to Flame Propagation in Boundary Layers][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 59][Text: 
+][Element: <ce:last-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 71][Text: 
+][Text: 
+][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00009-X][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00009-X][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Combustion-Induced Vortex Breakdown–Driven Flashback][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 73][Text: 
+][Element: <ce:last-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 102][Text: 
+][Text: 
+][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00010-6][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00010-6][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Flameholding by Fuel Injection Jets][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 103][Text: 
+][Element: <ce:last-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 111][Text: 
+][Text: 
+][Text: 
+][Text: 
+][Element: <rear [Namespace: http://www.elsevier.com/xml/bk/dtd]/>][Text: 
+][Element: <rearpart [Namespace: http://www.elsevier.com/xml/bk/dtd]/>][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00011-8][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00011-8][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: References][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 113][Text: 
+][Element: <ce:last-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 119][Text: 
+][Text: 
+][Text: 
+][Element: <ce:include-item [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:pii [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: B978-0-12-800755-6.00012-X][Text: 
+][Element: <ce:doi [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 10.1016/B978-0-12-800755-6.00012-X][Text: 
+][Element: <ce:title [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: Nomenclature][Text: 
+][Element: <ce:pages [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 
+][Element: <ce:first-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 121][Text: 
+][Element: <ce:last-page [Namespace: http://www.elsevier.com/xml/common/dtd]/>][Text: 123][Text: 
+][Text: 
+][Text: 
+][Text: 
+][Text: 
+]

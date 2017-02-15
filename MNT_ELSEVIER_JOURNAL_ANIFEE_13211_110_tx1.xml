@@ -1,0 +1,2676 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//ES//DTD journal article DTD version 5.2.0//EN//XML" "art520.dtd" []>
+<article version="5.2" xml:lang="en" docsubtype="fla">
+<item-info>
+<jid>ANIFEE</jid>
+<aid>13211</aid>
+<ce:pii>S0377-8401(14)00428-3</ce:pii>
+<ce:doi>10.1016/j.anifeedsci.2014.12.010</ce:doi>
+<ce:copyright type="unknown" year="2015"/>
+</item-info>
+<ce:floats>
+<ce:table id="tbl0005" frame="topbot" rowsep="0" colsep="0">
+<ce:label>Table 1</ce:label>
+<ce:caption id="cap0005">
+<ce:simple-para id="spar0005">Compositions of basal weanling pig diets (as-fed basis).<ce:cross-ref id="crf0005" refid="tblfn0005">
+<ce:sup>a</ce:sup>
+</ce:cross-ref>
+</ce:simple-para>
+</ce:caption>
+<tgroup cols="3">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<thead valign="top">
+<row rowsep="1">
+<entry align="left">Item</entry>
+<entry align="left">Phase 1 (d 0&ndash;14)</entry>
+<entry align="left">Phase 2 (d 15&ndash;28)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" namest="col1" nameend="col3">Ingredient, g/kg</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Extruded corn</entry>
+<entry align="char" char=".">110.3</entry>
+<entry align="char" char=".">354.2</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Extruded oat</entry>
+<entry align="char" char=".">100.0</entry>
+<entry align="left"/>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Biscuit meal<ce:cross-ref id="crf0010" refid="tblfn0010">
+<ce:sup>b</ce:sup>
+</ce:cross-ref>
+</entry>
+<entry align="char" char="."/>
+<entry align="char" char=".">50.0</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Soybean meal, 44% CP</entry>
+<entry align="char" char=".">80.0</entry>
+<entry align="char" char=".">200.0</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Fermented soybean meal</entry>
+<entry align="char" char=".">78.0</entry>
+<entry align="char" char=".">82.0</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Fish meal</entry>
+<entry align="char" char=".">50.0</entry>
+<entry align="char" char=".">40.0</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Soy oil</entry>
+<entry align="char" char=".">41.5</entry>
+<entry align="char" char=".">48.0</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Lactose</entry>
+<entry align="char" char=".">100.0</entry>
+<entry align="char" char=".">60.0</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Whey powder</entry>
+<entry align="char" char=".">171.0</entry>
+<entry align="char" char=".">103.0</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Milk product<ce:cross-ref id="crf0015" refid="tblfn0015">
+<ce:sup>c</ce:sup>
+</ce:cross-ref>
+</entry>
+<entry align="char" char=".">130.0</entry>
+<entry align="char" char=".">20.0</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Monocalcium phosphate</entry>
+<entry align="char" char=".">12.5</entry>
+<entry align="char" char=".">10.0</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Sugar</entry>
+<entry align="char" char=".">40.0</entry>
+<entry align="char" char=".">20.0</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Plasma powder</entry>
+<entry align="char" char=".">65.2</entry>
+<entry align="left"/>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />
+<ce:small-caps>L</ce:small-caps>-Lysine-HCl, 78%</entry>
+<entry align="char" char=".">1.2</entry>
+<entry align="char" char=".">2.5</entry>
+</row>
+<row>
+<entry align="left">
+<ce:inf>
+<ce:hsp sp="1.0" />
+<ce:small-caps>DL</ce:small-caps>-Methionine,</ce:inf> 50%</entry>
+<entry align="char" char=".">2.6</entry>
+<entry align="char" char=".">1.5</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />
+<ce:small-caps>L</ce:small-caps>-Threonine, 89%</entry>
+<entry align="char" char=".">7.7</entry>
+<entry align="char" char=".">0.8</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Choline chloride, 25%</entry>
+<entry align="char" char=".">2.0</entry>
+<entry align="char" char=".">1.0</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Vitamin premix<ce:cross-ref id="crf0020" refid="tblfn0020">
+<ce:sup>d</ce:sup>
+</ce:cross-ref>
+</entry>
+<entry align="char" char=".">1.0</entry>
+<entry align="char" char=".">1.0</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Mineral premix<ce:cross-ref id="crf0025" refid="tblfn0025">
+<ce:sup>e</ce:sup>
+</ce:cross-ref>
+</entry>
+<entry align="char" char=".">2.0</entry>
+<entry align="char" char=".">2.0</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Limestone</entry>
+<entry align="char" char=".">2.0</entry>
+<entry align="char" char=".">2.0</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Salt</entry>
+<entry align="char" char=".">3.0</entry>
+<entry align="char" char=".">2.0</entry>
+</row>
+<row>
+<entry align="left" namest="col1" nameend="col3">Calculated composition, g/kg</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Metabolizable energy, MJ/kg</entry>
+<entry align="char" char=".">14.80</entry>
+<entry align="char" char=".">14.69</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Crude protein</entry>
+<entry align="char" char=".">217.3</entry>
+<entry align="char" char=".">208.6</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Lysine</entry>
+<entry align="char" char=".">15.5</entry>
+<entry align="char" char=".">13.9</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Methionine</entry>
+<entry align="char" char=".">5.2</entry>
+<entry align="char" char=".">4.8</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Calcium</entry>
+<entry align="char" char=".">8.2</entry>
+<entry align="char" char=".">7.7</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Total Phosphorus</entry>
+<entry align="char" char=".">8.0</entry>
+<entry align="char" char=".">7.6</entry>
+</row>
+<row>
+<entry align="left" namest="col1" nameend="col3">Analyzed composition, g/kg</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Crude protein</entry>
+<entry align="char" char=".">216.6</entry>
+<entry align="char" char=".">207.5</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Lysine</entry>
+<entry align="char" char=".">15.8</entry>
+<entry align="char" char=".">14.9</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Methionine</entry>
+<entry align="char" char=".">5.5</entry>
+<entry align="char" char=".">5.2</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Calcium</entry>
+<entry align="char" char=".">7.9</entry>
+<entry align="char" char=".">7.6</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />Total Phosphorus</entry>
+<entry align="char" char=".">8.1</entry>
+<entry align="char" char=".">7.9</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:table-footnote id="tblfn0005">
+<ce:label>a</ce:label>
+<ce:note-para id="npar0005">Dietary treatments were NC<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>basal diet; PC<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.01% apramycin; RP1<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.1% probiotics (<ce:italic>Lactobacillus reuteri</ce:italic> and <ce:italic>Lactobacillus plantarum</ce:italic> complex); and RP2<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.2% probiotics. Additives were added by replacing corn.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tblfn0010">
+<ce:label>b</ce:label>
+<ce:note-para id="npar0010">Biscuit meal was obtained by grinding by-products from the bakery industry such as bread, biscuits, breakfast cereals, cakes, crisps, and snacks.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tblfn0015">
+<ce:label>c</ce:label>
+<ce:note-para id="npar0015">Whole milk product that contains 210<ce:hsp sp="0.25"/>g of crude fat and 220<ce:hsp sp="0.25"/>g of CP/kg.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tblfn0020">
+<ce:label>d</ce:label>
+<ce:note-para id="npar0020">Provided per kg of complete diet: vitamin A, 11,025<ce:hsp sp="0.25"/>IU; vitamin D<ce:inf>3</ce:inf>, 1103<ce:hsp sp="0.25"/>IU; vitamin E, 44<ce:hsp sp="0.25"/>IU; vitamin K, 4.4<ce:hsp sp="0.25"/>mg; riboflavin, 8.3<ce:hsp sp="0.25"/>mg; niacin, 50<ce:hsp sp="0.25"/>mg; thiamine, 4<ce:hsp sp="0.25"/>mg; <ce:small-caps>D</ce:small-caps>-pantothenic, 29<ce:hsp sp="0.25"/>mg; choline, 166<ce:hsp sp="0.25"/>mg; and vitamin B<ce:inf>12</ce:inf>, 33<ce:hsp sp="0.25"/>&mu;g.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tblfn0025">
+<ce:label>e</ce:label>
+<ce:note-para id="npar0025">Provided per kilogram of complete diet: Fe (as FeSO<ce:inf>4</ce:inf>
+<ce:hsp sp="0.25"/>&middot;<ce:hsp sp="0.25"/>7H<ce:inf>2</ce:inf>O), 80<ce:hsp sp="0.25"/>mg; Cu (as CuSO<ce:inf>4</ce:inf>
+<ce:hsp sp="0.25"/>&middot;<ce:hsp sp="0.25"/>5H<ce:inf>2</ce:inf>O), 12<ce:hsp sp="0.25"/>mg; Zn (as ZnSO<ce:inf>4</ce:inf>), 85<ce:hsp sp="0.25"/>mg; Mn (as MnO<ce:inf>2</ce:inf>), 8<ce:hsp sp="0.25"/>mg; I (as KI), 0.28<ce:hsp sp="0.25"/>mg; and Se (as Na<ce:inf>2</ce:inf>SeO<ce:inf>3</ce:inf>
+<ce:hsp sp="0.25"/>&middot;<ce:hsp sp="0.25"/>5H2O), 0.15<ce:hsp sp="0.25"/>mg.</ce:note-para>
+</ce:table-footnote>
+</ce:table>
+<ce:table id="tbl0010" frame="topbot" rowsep="0" colsep="0">
+<ce:label>Table 2</ce:label>
+<ce:caption id="cap0010">
+<ce:simple-para id="spar0010">Effects of <ce:italic>Lactobacillus reuteri</ce:italic> and <ce:italic>Lactobacillus plantarum</ce:italic> complex on growth performance in weanling pigs.<ce:cross-ref id="crf0030" refid="tblfn0030">
+<ce:sup>c</ce:sup>
+</ce:cross-ref>
+<ce:sup>,</ce:sup>
+<ce:cross-ref id="crf0035" refid="tblfn0035">
+<ce:sup>d</ce:sup>
+</ce:cross-ref>
+</ce:simple-para>
+</ce:caption>
+<tgroup cols="7">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<colspec colname="col5"/>
+<colspec colname="col6"/>
+<colspec colname="col7"/>
+<thead valign="top">
+<row rowsep="1">
+<entry align="left">Item</entry>
+<entry align="left">NC</entry>
+<entry align="left">PC</entry>
+<entry align="left">RP1</entry>
+<entry align="left">RP2</entry>
+<entry align="left">SE</entry>
+<entry align="left">P-value</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" namest="col1" nameend="col7">d 0&ndash;14</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />ADG, g</entry>
+<entry align="char" char=".">341<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">379<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">370<ce:sup>ab</ce:sup>
+</entry>
+<entry align="char" char=".">351<ce:sup>ab</ce:sup>
+</entry>
+<entry align="char" char=".">9</entry>
+<entry align="char" char=".">&lt;0.05</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />ADFI, g</entry>
+<entry align="char" char=".">431</entry>
+<entry align="char" char=".">444</entry>
+<entry align="char" char=".">445</entry>
+<entry align="char" char=".">437</entry>
+<entry align="char" char=".">16</entry>
+<entry align="char" char=".">0.99</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />G:F</entry>
+<entry align="char" char=".">0.791</entry>
+<entry align="char" char=".">0.854</entry>
+<entry align="char" char=".">0.831</entry>
+<entry align="char" char=".">0.803</entry>
+<entry align="char" char=".">0.071</entry>
+<entry align="char" char=".">0.63</entry>
+</row>
+<row>
+<entry align="left" namest="col1" nameend="col7">d 15&ndash;28</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />ADG, g</entry>
+<entry align="char" char=".">458</entry>
+<entry align="char" char=".">497</entry>
+<entry align="char" char=".">499</entry>
+<entry align="char" char=".">475</entry>
+<entry align="char" char=".">14</entry>
+<entry align="char" char=".">0.16</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />ADFI, g</entry>
+<entry align="char" char=".">673</entry>
+<entry align="char" char=".">665</entry>
+<entry align="char" char=".">669</entry>
+<entry align="char" char=".">667</entry>
+<entry align="char" char=".">19</entry>
+<entry align="char" char=".">0.99</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />G:F</entry>
+<entry align="char" char=".">0.681</entry>
+<entry align="char" char=".">0.747</entry>
+<entry align="char" char=".">0.746</entry>
+<entry align="char" char=".">0.712</entry>
+<entry align="char" char=".">0.023</entry>
+<entry align="char" char=".">0.26</entry>
+</row>
+<row>
+<entry align="left" namest="col1" nameend="col7">d 0&ndash;28</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />ADG, g</entry>
+<entry align="char" char=".">400<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">439<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">435<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">413<ce:sup>ab</ce:sup>
+</entry>
+<entry align="char" char=".">10</entry>
+<entry align="char" char=".">&lt;0.05</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />ADFI, g</entry>
+<entry align="char" char=".">612</entry>
+<entry align="char" char=".">599</entry>
+<entry align="char" char=".">607</entry>
+<entry align="char" char=".">602</entry>
+<entry align="char" char=".">26</entry>
+<entry align="char" char=".">0.99</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />G:F</entry>
+<entry align="char" char=".">0.653</entry>
+<entry align="char" char=".">0.732</entry>
+<entry align="char" char=".">0.716</entry>
+<entry align="char" char=".">0.686</entry>
+<entry align="char" char=".">0.025</entry>
+<entry align="char" char=".">0.16</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="spar0015">
+<ce:sup>a,b</ce:sup>Within a row, means without a common superscript differ (P&lt;0.05).</ce:simple-para>
+</ce:legend>
+<ce:table-footnote id="tblfn0030">
+<ce:label>c</ce:label>
+<ce:note-para id="npar0030">Used 168 pigs with an initial BW of 7.90<ce:hsp sp="0.25"/>&plusmn;<ce:hsp sp="0.25"/>0.92<ce:hsp sp="0.25"/>kg. Each mean represents 7 pens with 6 pigs/pen.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tblfn0035">
+<ce:label>d</ce:label>
+<ce:note-para id="npar0035">NC<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>negative control, basal diet; PC<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>positive control, NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.01% apramycin; RP1<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.1% probiotics (<ce:italic>Lactobacillus reuteri</ce:italic> and <ce:italic>Lactobacillus plantarum</ce:italic> complex); RP2<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.2% probiotics.</ce:note-para>
+</ce:table-footnote>
+</ce:table>
+<ce:table id="tbl0015" frame="topbot" rowsep="0" colsep="0">
+<ce:label>Table 3</ce:label>
+<ce:caption id="cap0015">
+<ce:simple-para id="spar0020">Effects of <ce:italic>Lactobacillus reuteri</ce:italic> and <ce:italic>Lactobacillus plantarum</ce:italic> complex on apparent total tract digestibility of DM, N, and energy in weanling pigs.<ce:cross-ref id="crf0040" refid="tblfn0040">
+<ce:sup>c</ce:sup>
+</ce:cross-ref>
+<ce:sup>,</ce:sup>
+<ce:cross-ref id="crf0045" refid="tblfn0045">
+<ce:sup>d</ce:sup>
+</ce:cross-ref>
+</ce:simple-para>
+</ce:caption>
+<tgroup cols="7">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<colspec colname="col5"/>
+<colspec colname="col6"/>
+<colspec colname="col7"/>
+<thead valign="top">
+<row rowsep="1">
+<entry align="left">Item</entry>
+<entry align="left">NC</entry>
+<entry align="left">PC</entry>
+<entry align="left">RP1</entry>
+<entry align="left">RP2</entry>
+<entry align="left">SE</entry>
+<entry align="left">P-value</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" namest="col1" nameend="col7">d 14</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />DM</entry>
+<entry align="char" char=".">0.818</entry>
+<entry align="char" char=".">0.825</entry>
+<entry align="char" char=".">0.825</entry>
+<entry align="char" char=".">0.821</entry>
+<entry align="char" char=".">0.35</entry>
+<entry align="char" char=".">0.41</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />N</entry>
+<entry align="char" char=".">0.776<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">0.799<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">0.783<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">0.781<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">0.47</entry>
+<entry align="char" char=".">&lt;0.05</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />GE</entry>
+<entry align="char" char=".">0.791</entry>
+<entry align="char" char=".">0.803</entry>
+<entry align="char" char=".">0.811</entry>
+<entry align="char" char=".">0.804</entry>
+<entry align="char" char=".">0.58</entry>
+<entry align="char" char=".">0.12</entry>
+</row>
+<row>
+<entry align="left" namest="col1" nameend="col7">d 28</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />DM</entry>
+<entry align="char" char=".">0.808</entry>
+<entry align="char" char=".">0.814</entry>
+<entry align="char" char=".">0.814</entry>
+<entry align="char" char=".">0.816</entry>
+<entry align="char" char=".">0.33</entry>
+<entry align="char" char=".">0.34</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />N</entry>
+<entry align="char" char=".">0.783<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">0.802<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">0.810<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">0.801<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">0.38</entry>
+<entry align="char" char=".">&lt;0.05</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />GE</entry>
+<entry align="char" char=".">0.807<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">0.815<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">0.839<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">0.831<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">0.30</entry>
+<entry align="char" char=".">&lt;0.05</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="spar0025">
+<ce:sup>a,b</ce:sup>Within a row, means without a common superscript differ (P&lt;0.05).</ce:simple-para>
+</ce:legend>
+<ce:table-footnote id="tblfn0040">
+<ce:label>c</ce:label>
+<ce:note-para id="npar0040">Used 168 pigs with an initial BW of 7.90<ce:hsp sp="0.25"/>&plusmn;<ce:hsp sp="0.25"/>0.92<ce:hsp sp="0.25"/>kg. Each mean represents 7 pens with 6 pigs/pen.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tblfn0045">
+<ce:label>d</ce:label>
+<ce:note-para id="npar0045">NC<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>negative control, basal diet; PC<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>positive control, NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.01% apramycin; RP1<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.1% probiotics (<ce:italic>Lactobacillus reuteri</ce:italic> and <ce:italic>Lactobacillus plantarum</ce:italic> complex); RP2<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.2% probiotics.</ce:note-para>
+</ce:table-footnote>
+</ce:table>
+<ce:table id="tbl0020" frame="topbot" rowsep="0" colsep="0">
+<ce:label>Table 4</ce:label>
+<ce:caption id="cap0020">
+<ce:simple-para id="spar0030">Effects of <ce:italic>Lactobacillus</ce:italic> <ce:italic>reuteri</ce:italic> and <ce:italic>Lactobacillus</ce:italic> <ce:italic>plantarum</ce:italic> complex on fecal microbial flora and diarrhea score in weanling pigs.<ce:cross-ref id="crf0050" refid="tblfn0050">
+<ce:sup>c</ce:sup>
+</ce:cross-ref>
+<ce:sup>,</ce:sup>
+<ce:cross-ref id="crf0055" refid="tblfn0055">
+<ce:sup>d</ce:sup>
+</ce:cross-ref>
+</ce:simple-para>
+</ce:caption>
+<tgroup cols="7">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<colspec colname="col5"/>
+<colspec colname="col6"/>
+<colspec colname="col7"/>
+<thead valign="top">
+<row rowsep="1">
+<entry align="left">Item</entry>
+<entry align="left">NC</entry>
+<entry align="left">PC</entry>
+<entry align="left">RP1</entry>
+<entry align="left">RP2</entry>
+<entry align="left">SE</entry>
+<entry align="left">P-value</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left">Escherichia coli, log<ce:inf>10</ce:inf> cfu/g</entry>
+<entry align="char" char=".">7.13<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">6.52<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">6.31<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">6.66<ce:sup>ab</ce:sup>
+</entry>
+<entry align="char" char=".">0.12</entry>
+<entry align="char" char=".">&lt;0.05</entry>
+</row>
+<row>
+<entry align="left">Lactobacillus, log<ce:inf>10</ce:inf> cfu/g</entry>
+<entry align="char" char=".">7.13<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">7.35<ce:sup>ab</ce:sup>
+</entry>
+<entry align="char" char=".">7.68<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">7.52<ce:sup>ab</ce:sup>
+</entry>
+<entry align="char" char=".">0.10</entry>
+<entry align="char" char=".">&lt;0.05</entry>
+</row>
+<row>
+<entry align="left">Diarrhea score<ce:cross-ref id="crf0060" refid="tblfn0060">
+<ce:sup>e</ce:sup>
+</ce:cross-ref>
+</entry>
+<entry align="char" char=".">1.83<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">1.17<ce:sup>ab</ce:sup>
+</entry>
+<entry align="char" char=".">1.00<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">1.33<ce:sup>ab</ce:sup>
+</entry>
+<entry align="char" char=".">0.24</entry>
+<entry align="char" char=".">&lt;0.05</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="spar0035">
+<ce:sup>a,b</ce:sup>Within a row, means without a common superscript differ (P&lt;0.05).</ce:simple-para>
+</ce:legend>
+<ce:table-footnote id="tblfn0050">
+<ce:label>c</ce:label>
+<ce:note-para id="npar0050">Used 168 pigs with an initial BW of 7.90<ce:hsp sp="0.25"/>&plusmn;<ce:hsp sp="0.25"/>0.92<ce:hsp sp="0.25"/>kg. Each mean represents 7 pens with 6 pigs/pen.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tblfn0055">
+<ce:label>d</ce:label>
+<ce:note-para id="npar0055">NC<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>negative control, basal diet; PC<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>positive control, NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.01% apramycin; RP1<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.1% probiotics (<ce:italic>Lactobacillus reuteri</ce:italic> and <ce:italic>Lactobacillus plantarum</ce:italic> complex); RP2<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.2% probiotics.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tblfn0060">
+<ce:label>e</ce:label>
+<ce:note-para id="npar0060">Diarrhea score: 1&ndash;3, where 1<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>well-formed feces, 2<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>sloppy feces, and 3<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>diarrhea.</ce:note-para>
+</ce:table-footnote>
+</ce:table>
+<ce:table id="tbl0025" frame="topbot" rowsep="0" colsep="0">
+<ce:label>Table 5</ce:label>
+<ce:caption id="cap0025">
+<ce:simple-para id="spar0040">Effect of <ce:italic>Lactobacillus reuteri</ce:italic> and <ce:italic>Lactobacillus plantarum</ce:italic> complex on fecal noxious gas emission in weanling pigs.<ce:cross-ref id="crf0065" refid="tblfn0065">
+<ce:sup>d</ce:sup>
+</ce:cross-ref>
+<ce:sup>,</ce:sup>
+<ce:cross-ref id="crf0070" refid="tblfn0070">
+<ce:sup>e</ce:sup>
+</ce:cross-ref>
+</ce:simple-para>
+</ce:caption>
+<tgroup cols="7">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<colspec colname="col5"/>
+<colspec colname="col6"/>
+<colspec colname="col7"/>
+<thead valign="top">
+<row rowsep="1">
+<entry align="left">Item</entry>
+<entry align="left">NC</entry>
+<entry align="left">PC</entry>
+<entry align="left">RP1</entry>
+<entry align="left">RP2</entry>
+<entry align="left">SE</entry>
+<entry align="left">P-value</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" namest="col1" nameend="col7">NH<ce:inf>3</ce:inf>, ppm</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />d 5</entry>
+<entry align="char" char=".">5.77</entry>
+<entry align="char" char=".">5.37</entry>
+<entry align="char" char=".">4.74</entry>
+<entry align="char" char=".">4.88</entry>
+<entry align="char" char=".">0.33</entry>
+<entry align="char" char=".">0.150</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />d 10</entry>
+<entry align="char" char=".">9.41<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">7.28<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">6.14<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">7.02<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">0.42</entry>
+<entry align="char" char=".">&lt;0.05</entry>
+</row>
+<row>
+<entry align="left" namest="col1" nameend="col7">Total mercaptans, ppm</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />d 5</entry>
+<entry align="char" char=".">3.07<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">2.50<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">1.94<ce:sup>c</ce:sup>
+</entry>
+<entry align="char" char=".">2.20<ce:sup>b,c</ce:sup>
+</entry>
+<entry align="char" char=".">0.13</entry>
+<entry align="char" char=".">&lt;0.05</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />d 10</entry>
+<entry align="char" char=".">3.69<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">2.76<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">2.23<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">2.59<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">0.16</entry>
+<entry align="char" char=".">&lt;0.05</entry>
+</row>
+<row>
+<entry align="left" namest="col1" nameend="col7">H<ce:inf>2</ce:inf>S, ppm</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />d 5</entry>
+<entry align="char" char=".">2.03</entry>
+<entry align="char" char=".">1.78</entry>
+<entry align="char" char=".">1.50</entry>
+<entry align="char" char=".">1.80</entry>
+<entry align="char" char=".">0.17</entry>
+<entry align="char" char=".">0.22</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />d 10</entry>
+<entry align="char" char=".">2.65<ce:sup>a</ce:sup>
+</entry>
+<entry align="char" char=".">2.13<ce:sup>a,b</ce:sup>
+</entry>
+<entry align="char" char=".">1.88<ce:sup>b</ce:sup>
+</entry>
+<entry align="char" char=".">2.13<ce:sup>a,b</ce:sup>
+</entry>
+<entry align="char" char=".">0.18</entry>
+<entry align="char" char=".">&lt;0.05</entry>
+</row>
+<row>
+<entry align="left" namest="col1" nameend="col7">Acetic acid, ppm</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />d 5</entry>
+<entry align="char" char=".">0.98</entry>
+<entry align="char" char=".">0.91</entry>
+<entry align="char" char=".">0.95</entry>
+<entry align="char" char=".">0.92</entry>
+<entry align="char" char=".">0.09</entry>
+<entry align="char" char=".">0.95</entry>
+</row>
+<row>
+<entry align="left">
+<ce:hsp sp="1.0" />d 10</entry>
+<entry align="char" char=".">1.19</entry>
+<entry align="char" char=".">1.14</entry>
+<entry align="char" char=".">1.25</entry>
+<entry align="char" char=".">1.24</entry>
+<entry align="char" char=".">0.08</entry>
+<entry align="char" char=".">0.75</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:legend>
+<ce:simple-para id="spar0045">
+<ce:sup>a&ndash;c</ce:sup>Within a row, means without a common superscript differ (P&lt;0.05).</ce:simple-para>
+</ce:legend>
+<ce:table-footnote id="tblfn0065">
+<ce:label>d</ce:label>
+<ce:note-para id="npar0065">Used 168 pigs with an initial BW of 7.90<ce:hsp sp="0.25"/>&plusmn;<ce:hsp sp="0.25"/>0.92<ce:hsp sp="0.25"/>kg. Each mean represents 7 pens with 6 pigs/pen.</ce:note-para>
+</ce:table-footnote>
+<ce:table-footnote id="tblfn0070">
+<ce:label>e</ce:label>
+<ce:note-para id="npar0070">NC<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>negative control, basal diet; PC<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>positive control, NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.01% apramycin; RP1<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.1% probiotics (<ce:italic>Lactobacillus reuteri</ce:italic> and <ce:italic>Lactobacillus plantarum</ce:italic> complex); RP2<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.2% probiotics.</ce:note-para>
+</ce:table-footnote>
+</ce:table>
+</ce:floats>
+<head>
+<ce:title id="tit0005">Effect of direct-fed microbial on growth performance, nutrient digestibility, fecal noxious gas emission, fecal microbial flora and diarrhea score in weanling pigs</ce:title>
+<ce:author-group id="aug0005">
+<ce:author id="aut0005">
+<ce:given-name>P.Y.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</ce:author>
+<ce:author id="aut0010">
+<ce:given-name>I.H.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+<ce:cross-ref id="crf0075" refid="cor0005">
+<ce:sup>&#x204e;</ce:sup>
+</ce:cross-ref>
+<ce:e-address id="eadd0005" type="email">inhokim@dankook.ac.kr</ce:e-address>
+</ce:author>
+<ce:affiliation id="aff0005">
+<ce:textfn>Department of Animal Resource and Science, Dankook University, <!--<city>-->Cheonan<!--</city>-->, <!--<state>-->Choongnam<!--</state>--> 330-714, <!--<country>-->South Korea<!--</country>-->
+</ce:textfn>
+<sa:affiliation>
+<sa:organization>Department of Animal Resource &amp; Science, Dankook University</sa:organization>
+<sa:city>Cheonan</sa:city>
+<sa:state>Choongnam</sa:state>
+<sa:postal-code>330-714</sa:postal-code>
+<sa:country>South Korea</sa:country>
+</sa:affiliation>
+</ce:affiliation>
+<ce:correspondence id="cor0005">
+<ce:label>&#x204e;</ce:label>
+<ce:text>Corresponding author. Tel.: +82 41 550 3652; fax: +82 41 559 7881.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="23" month="8" year="2014"/>
+<ce:date-revised day="16" month="12" year="2014"/>
+<ce:date-accepted day="17" month="12" year="2014"/>
+<ce:abstract id="abs0005" class="author-highlights">
+<ce:section-title id="sect0005">Highlights</ce:section-title>
+<ce:abstract-sec id="abst0005">
+<ce:simple-para id="spar0050">
+<ce:list id="lis0005">
+<ce:list-item id="lsti0005">
+<ce:label>&bull;</ce:label>
+<ce:para id="par0005">We used 168 weanling pigs to evaluate effects of <ce:italic>L. reuteri</ce:italic> and <ce:italic>L. plantarum</ce:italic> complex.</ce:para>
+</ce:list-item>
+<ce:list-item id="lsti0010">
+<ce:label>&bull;</ce:label>
+<ce:para id="par0010">0.1% probiotics complex increased ATTD of N, GE, and fecal <ce:italic>Lactobacillus</ce:italic> concentration.</ce:para>
+</ce:list-item>
+<ce:list-item id="lsti0015">
+<ce:label>&bull;</ce:label>
+<ce:para id="par0015">Decreased fecal gas emission, diarrhea score, and <ce:italic>E. coli</ce:italic> concentration were observed.</ce:para>
+</ce:list-item>
+<ce:list-item id="lsti0020">
+<ce:label>&bull;</ce:label>
+<ce:para id="par0020">Further study need to focus on various concentrations of lactobacilli and growth phases.</ce:para>
+</ce:list-item>
+</ce:list>
+</ce:simple-para>
+</ce:abstract-sec>
+</ce:abstract>
+<ce:abstract id="abs0010">
+<ce:section-title id="sect0010">Abatract</ce:section-title>
+<ce:abstract-sec id="abst0010">
+<ce:simple-para id="spar0055">A total of 168 weanling pigs [(Yorkshire<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>Landrace)<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>Duroc] with an average body weight of 7.90<ce:hsp sp="0.25"/>&plusmn;<ce:hsp sp="0.25"/>0.92<ce:hsp sp="0.25"/>kg (28 d of age) were used in a 28-d trial to determine the effects of dietary <ce:italic>Lactobacillus reuteri</ce:italic> and <ce:italic>Lactobacillus plantarum</ce:italic> complex supplementation on different parameters of piglets after weanling. Pigs were allotted randomly to 1&ndash;4 dietary treatments: (1) negative control (NC), basal diet, (2) positive control (PC), NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.01% apramycin, (3) NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.1% probiotics (<ce:italic>L. reuteri</ce:italic> and <ce:italic>L. plantarum</ce:italic> complex) (RP1), and (4) NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.2% probiotics (RP2). There were 7 pens per treatment with 6 pigs/pen (3 gilts and 3 barrows). From d 0 to 14, pigs fed PC diet had a greater (P&lt;0.05) average daily gain (ADG) than pigs fed NC diet. During the overall period, pigs fed PC and RP1 diets had a greater (P&lt;0.05) ADG than pigs fed NC diet. On d 14, the apparent total tract digestibility (ATTD) of nitrogen (N) for pigs fed PC diet was greater (P&lt;0.05) than pigs fed NC, RP1, and RP2 diets. At the end of the experiment, pigs fed RP1 and RP2 diets had a greater (P&lt;0.05) ATTD of N and gross energy (GE) compared with pigs fed NC diet. Additionally, pigs fed PC diet had a greater (P&lt;0.05) ATTD of N compared with pigs fed NC diet. Fecal <ce:italic>Escherichia coli</ce:italic> concentration was decreased (P&lt;0.05) in pigs fed PC and RP1 diets, whereas <ce:italic>Lactobacillus</ce:italic> concentration was increased (P&lt;0.05) in pigs fed RP1 diet compared with NC diet. Diarrhea score was lower (P&lt;0.05) in RP1 treatment compared with NC treatment. On d 5, fecal total mercaptans emission was lower (P&lt;0.05) in PC, RP1, and RP2 treatments compared with NC treatment, and the lowest (P&lt;0.05) was observed in RP1 treatment. On d 10, ammonia and total mercaptans emissions were decreased (P&lt;0.05) by PC, RP1, and RP2 treatments compared with NC treatment. Hydrogen sulfide emission was lower (P&lt;0.05) in RP1 treatment compared with NC treatment. In conclusion, direct-fed 0.1% <ce:italic>L. reuteri</ce:italic> and <ce:italic>L. plantarum</ce:italic> complex (1<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg) improved N and GE digestibility, increased fecal <ce:italic>Lactobacillus</ce:italic> concentration, decreased diarrhea score, fecal noxious gas emission, and <ce:italic>E. coli</ce:italic> concentration in weanling pigs.</ce:simple-para>
+</ce:abstract-sec>
+</ce:abstract>
+<ce:keywords id="kwd0005" class="abr">
+<ce:section-title id="sect0015">Abbreviations</ce:section-title>
+<ce:keyword id="kw0005">
+<ce:text>ADFI</ce:text>
+<ce:keyword id="kw0010">
+<ce:text>average daily feed intake</ce:text>
+</ce:keyword>
+</ce:keyword>
+<ce:keyword id="kw0015">
+<ce:text>ADG</ce:text>
+<ce:keyword id="kw0020">
+<ce:text>average daily gain</ce:text>
+</ce:keyword>
+</ce:keyword>
+<ce:keyword id="kw0025">
+<ce:text>ATTD</ce:text>
+<ce:keyword id="kw0030">
+<ce:text>apparent total tract digestibility</ce:text>
+</ce:keyword>
+</ce:keyword>
+<ce:keyword id="kw0035">
+<ce:text>BW</ce:text>
+<ce:keyword id="kw0040">
+<ce:text>body weight</ce:text>
+</ce:keyword>
+</ce:keyword>
+<ce:keyword id="kw0045">
+<ce:text>DM</ce:text>
+<ce:keyword id="kw0050">
+<ce:text>dry matter</ce:text>
+</ce:keyword>
+</ce:keyword>
+<ce:keyword id="kw0055">
+<ce:text>GE</ce:text>
+<ce:keyword id="kw0060">
+<ce:text>gross energy</ce:text>
+</ce:keyword>
+</ce:keyword>
+<ce:keyword id="kw0065">
+<ce:text>G:F</ce:text>
+<ce:keyword id="kw0070">
+<ce:text>gain:feed</ce:text>
+</ce:keyword>
+</ce:keyword>
+<ce:keyword id="kw0075">
+<ce:text>H<ce:inf>2</ce:inf>S</ce:text>
+<ce:keyword id="kw0080">
+<ce:text>hydrogen sulfide</ce:text>
+</ce:keyword>
+</ce:keyword>
+<ce:keyword id="kw0085">
+<ce:text>N</ce:text>
+<ce:keyword id="kw0090">
+<ce:text>nitrogen</ce:text>
+</ce:keyword>
+</ce:keyword>
+<ce:keyword id="kw0095">
+<ce:text>NH<ce:inf>3</ce:inf>
+</ce:text>
+<ce:keyword id="kw0100">
+<ce:text>ammonia</ce:text>
+</ce:keyword>
+</ce:keyword>
+<ce:keyword id="kw0105">
+<ce:text>SE</ce:text>
+<ce:keyword id="kw0110">
+<ce:text>standard error</ce:text>
+</ce:keyword>
+</ce:keyword>
+</ce:keywords>
+<ce:keywords id="kwd0010" class="keyword">
+<ce:section-title id="sect0020">Keywords</ce:section-title>
+<ce:keyword id="kw0115">
+<ce:text>Fecal microbial flora</ce:text>
+</ce:keyword>
+<ce:keyword id="kw0120">
+<ce:text>Fecal noxious gas emission</ce:text>
+</ce:keyword>
+<ce:keyword id="kw0125">
+<ce:text>Growth performance</ce:text>
+</ce:keyword>
+<ce:keyword id="kw0130">
+<ce:text>
+<ce:italic>Lactobacillus plantarum</ce:italic> and <ce:italic>Lactobacillus reuteri</ce:italic> complex</ce:text>
+</ce:keyword>
+<ce:keyword id="kw0135">
+<ce:text>Nutrient digestibility</ce:text>
+</ce:keyword>
+<ce:keyword id="kw0140">
+<ce:text>Weanling pig</ce:text>
+</ce:keyword>
+</ce:keywords>
+</head>
+<body>
+<ce:sections>
+<ce:section id="sec0005" role="introduction">
+<ce:label>1</ce:label>
+<ce:section-title id="sect0025">Introduction</ce:section-title>
+<ce:para id="par0025">Antibiotics have been widely used to reduce pathogen infection since the early 1950s. Published research data clearly show that the use of antibiotics during all phases of growth benefits the rate and efficiency of body weight gain (<ce:cross-refs id="crfs0005" refid="bib0160 bib0175">Yokoyama et al., 1982; Zimmerman, 1986</ce:cross-refs>), reduces mortality and morbidity (<ce:cross-ref id="crf0080" refid="bib0040">Cromwell, 2002</ce:cross-ref>), and improves health in pigs by destroying or slowing down the growth of harmful bacteria, but antibiotic resistance is a growing issue. Thus, it is urgent that we need to find alternatives to antibiotics, especially after the use of antibiotics has been banned in European since 2006. Organic acids, probiotics, prebiotics (oligosaccharides), other carbohydrates, and enzymes have been used as antibiotic alternatives.</ce:para>
+<ce:para id="par0030">Probiotics are harmless bacteria or yeast species, which have been demonstrated to be useful in equilibrating intestinal microflora and improve animal health (<ce:cross-refs id="crfs0010" refid="bib0065 bib0110">Fuller, 1989; Meng et al., 2010</ce:cross-refs>). Previous investigations have already used direct-fed microbial complex such as <ce:italic>Bacillus licheniformis</ce:italic>, <ce:italic>Saccharomyces cervisea</ce:italic>, and <ce:italic>Lactobacillus reuteri</ce:italic> for growth promoter in weanling pigs (<ce:cross-ref id="crf0085" refid="bib0095">Kyriakis et al., 1999</ce:cross-ref> <ce:cross-ref id="crf0090" refid="bib0015">Chang et al., 2000</ce:cross-ref> <ce:cross-ref id="crf0095" refid="bib0150">Xuan et al., 2001</ce:cross-ref>), growing pigs (<ce:cross-ref id="crf0100" refid="bib0055">Fialho et al., 1998</ce:cross-ref>), finishing pigs (<ce:cross-ref id="crf0105" refid="bib0085">Hong et al., 2002</ce:cross-ref>), and reduced fecal gas emissions (<ce:cross-ref id="crf0110" refid="bib0030">Chiang and Hsieh, 1995</ce:cross-ref> <ce:cross-ref id="crf0115" refid="bib0085">Hong et al., 2002</ce:cross-ref>). However, other studies reported that no significant effects were observed on growth performance in growing-finishing pigs fed 0.2% <ce:italic>L. reuteri</ce:italic> complex (<ce:cross-ref id="crf0120" refid="bib0145">Shon et al., 2005</ce:cross-ref>) and 0.1% <ce:italic>Lactobacillus</ce:italic> (<ce:cross-ref id="crf0125" refid="bib0080">Harper et al., 1983</ce:cross-ref>). We hypothesize that the addition of <ce:italic>Lactobacillus</ce:italic> complex as probiotics can improve nutrient digestibility and decrease diarrhea score in weanling pig. In addition, due to the different results and limited studies in pigs, the principal objective of this study was to evaluate effects of dietary <ce:italic>L. reuteri</ce:italic> and <ce:italic>Lactobacillus plantarum</ce:italic> complex supplementation on growth performance, nutrient digestibility, blood profile, fecal noxious gas emission, fecal microbial flora, and diarrhea score in weanling pigs.</ce:para>
+</ce:section>
+<ce:section id="sec0010" role="materials-methods">
+<ce:label>2</ce:label>
+<ce:section-title id="sect0030">Materials and methods</ce:section-title>
+<ce:para id="par0035">The experimental protocol used in this study was approved by the Animal Care and Use Committee of Dankook University.</ce:para>
+<ce:section id="sec0015">
+<ce:label>2.1</ce:label>
+<ce:section-title id="sect0035">Experimental design, animals, and housing</ce:section-title>
+<ce:para id="par0040">A total of 168 weanling pigs [(Yorkshire<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>Landrace)<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>Duroc] with an average body weight (BW) of 7.90<ce:hsp sp="0.25"/>&plusmn;<ce:hsp sp="0.25"/>0.92<ce:hsp sp="0.25"/>kg (28&thinsp;d of age) were used in a 28-d experiment. Pigs were randomly allotted to four experimental diets according to their initial BW and gender (7 pens; 3 gilts; and 3 barrows/pen). Dietary treatment groups were: (1) negative control (NC), basal diet, (2) positive control (PC), NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.01% apramycin, (3) NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.1% probiotics (<ce:italic>L. reuteri</ce:italic> and <ce:italic>L. plantarum</ce:italic> complex) (RP1), and (4) NC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>0.2% probiotics (RP2). The diets were formulated to meet or exceed the NRC (2012) nutrient requirements (<ce:cross-ref id="crf0130" refid="tbl0005">Table 1</ce:cross-ref>
+<ce:float-anchor refid="tbl0005"/>). The concentrations of <ce:italic>L. reuteri</ce:italic> and <ce:italic>L. plantarum</ce:italic> are both 1<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg. The form of our experimental feed is mash. The probiotics complex was added after grinding the raw material, and then mixed them uniformly. The probiotics bioactivities were not affected by the process technology. Treatment additives were included in the diet by replacing the same amount of corn. All pigs were housed in an environmentally controlled room with a slatted plastic floor. Each pen was equipped with a one-sided self feeder and a nipple waterer to allow the pig <ce:italic>ad libitum</ce:italic> access to feed and water throughout the experimental period. Temperature during wk 1 was maintained at 32<ce:hsp sp="0.25"/>&deg;C and was lowered 2.5<ce:hsp sp="0.25"/>&deg;C each week thereafter.</ce:para>
+</ce:section>
+<ce:section id="sec0020">
+<ce:label>2.2</ce:label>
+<ce:section-title id="sect0040">Experimental procedures and sampling</ce:section-title>
+<ce:para id="par0045">Individual pig BW was recorded at the beginning, middle (d 14), and end (d 28) of the experimental period, and feed consumption was recorded on a pen basis during the experiment to calculate average daily gain (ADG), average daily feed intake (ADFI), and gain:feed ratio (G:F). From d 8 to 14 and d 22 to 28, pigs were fed diets mixed with chromic oxide (0.2%) as an indigestible marker to determine apparent total tract digestibility (ATTD) for dry matter (DM) and nitrogen (N) (<ce:cross-ref id="crf0135" refid="bib0050">Fenton and Fenton, 1979</ce:cross-ref>). On d 14 and 28, fecal samples were collected from at least 2 pigs in each pen via rectal massage. All feed and fecal samples were stored at &minus;20<ce:hsp sp="0.25"/>&deg;C until analysis.</ce:para>
+<ce:para id="par0050">Fresh feces and urine samples were collected randomly from at least 2 pigs (1 gilt and 1 barrow) in each pen on the last 2 d of the experiment. Fresh feces were collected directly via massaging the rectum. Fresh urine was collected in a bucket via a funnel below the cage. For fecal microbial flora, fecal samples collected in each pen were pooled and placed on ice for transportation to the laboratory where analysis was immediately carried out. For fecal gas emission, samples were kept in sealed containers and were immediately stored at &minus;4<ce:hsp sp="0.25"/>&deg;C for the duration of the period. After the collection period, feces and urine samples were pooled and each mixed well for each pen. As described by <ce:cross-ref id="crf0140" refid="bib0170">Zhao et al. (2013)</ce:cross-ref>, subsamples of slurry (150<ce:hsp sp="0.25"/>g feces and 150<ce:hsp sp="0.25"/>g of urine were mixed well; 1:1 on the wet weight basis) were taken and stored in 2.6-L plastic boxes in duplicate. Each box had a small hole in the middle of one side wall, which was sealed with adhesive plaster.</ce:para>
+<ce:para id="par0055">Subjective diarrhea scores were recorded daily from d 0 to 7 by the same person and were based on the following: 1<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>well-formed feces, 2<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>sloppy feces, 3<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>diarrhea (<ce:cross-ref id="crf0145" refid="bib0100">Marquardt et al., 1999</ce:cross-ref>). Scores were recorded on a pen basis following observations of individual pig and signs of stool consistency in the pen. The score is reported as average daily diarrhea of individual pig score.</ce:para>
+</ce:section>
+<ce:section id="sec0025">
+<ce:label>2.3</ce:label>
+<ce:section-title id="sect0045">Laboratory analysis</ce:section-title>
+<ce:para id="par0060">Before chemical analysis, fecal samples were dried at 57<ce:hsp sp="0.25"/>&deg;C for 72<ce:hsp sp="0.25"/>h, after which they were ground to pass through a 1-mm screen. All feed and fecal samples were analyzed for DM (method 930.15, <ce:cross-ref id="crf0150" refid="bib0005">AOAC, 1995</ce:cross-ref>) and crude protein (method 990.03, <ce:cross-ref id="crf0155" refid="bib0005">AOAC, 1995</ce:cross-ref>). Chromium was analyzed via UV absorption spectrophotometry (Shimadzu UV-1201, Shimadzu, Kyoto, Japan). The ATTD was then calculated using the following formula:<ce:display>
+<ce:formula id="eq0005">
+<mml:math altimg="si1.gif">
+<mml:mrow>
+<mml:mi mathvariant="normal">Digestibility</mml:mi>
+<mml:mtext>&thinsp;</mml:mtext>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mo>%</mml:mo>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mtext>&thinsp;</mml:mtext>
+<mml:mo>=</mml:mo>
+<mml:mtext>&thinsp;</mml:mtext>
+<mml:mrow>
+<mml:mo stretchy="true">{</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>&minus;</mml:mo>
+<mml:mrow>
+<mml:mo stretchy="true">[</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi mathvariant="normal">Nf</mml:mi>
+<mml:mo>&times;</mml:mo>
+<mml:mi mathvariant="normal">Cd</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi mathvariant="normal">Nd</mml:mi>
+<mml:mo>&times;</mml:mo>
+<mml:mi mathvariant="normal">Cf</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+</mml:mrow>
+</mml:mfrac>
+<mml:mo stretchy="true">]</mml:mo>
+</mml:mrow>
+<mml:mo stretchy="true">}</mml:mo>
+</mml:mrow>
+<mml:mo>&times;</mml:mo>
+<mml:mn>100</mml:mn>
+<mml:mo>,</mml:mo>
+</mml:mrow>
+</mml:math>
+</ce:formula>
+</ce:display>
+</ce:para>
+<ce:para id="par0065">where Nf<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>nutrient concentration in feces (%DM), Nd<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>nutrient concentration in diet (%DM), Cd<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>chromium concentration in diet (%DM), and Cf<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>chromium concentration in feces (%DM).</ce:para>
+<ce:para id="par0070">One gram of the composite fecal sample from each pen for fecal microbial flora was diluted with 9<ce:hsp sp="0.25"/>mL of 1% peptone broth (Becton, Dickinson and Co.) and then homogenized. Viable counts of bacteria in the fecal samples were then conducted by plating serial 10-fold dilutions (in 1% peptone solution) onto MacConkey agar plates (Difco Laboratories, Detroit, MI) and lactobacilli medium III agar plates (Medium 638; DSMZ, Braunschweig, Germany) to isolate the <ce:italic>Escherichia coli</ce:italic> and <ce:italic>Lactobacillus</ce:italic>, respectively. The lactobacilli medium III agar plates were then incubated for 48<ce:hsp sp="0.25"/>h at 39<ce:hsp sp="0.25"/>&deg;C under anaerobic conditions. The MacConkey agar plates were incubated for 24<ce:hsp sp="0.25"/>h at 37<ce:hsp sp="0.25"/>&deg;C. The <ce:italic>E. coli</ce:italic> and <ce:italic>Lactobacillus</ce:italic> colonies were counted immediately after removal from the incubator.</ce:para>
+<ce:para id="par0075">The samples for gas emission were permitted to ferment for 7<ce:hsp sp="0.25"/>d at room temperature (25<ce:hsp sp="0.25"/>&deg;C). The concentrations of gas were determined on d 1, 3, 5, and 7 during the fermentation period. A gas sampling pump (Model GV-100; Gastec Corp., Ayase, Japan) was utilized for gas detection (Gastec detector tube No. 3La for ammonia (NH<ce:inf>3</ce:inf>), No. 4LK for hydrogen sulfide (H<ce:inf>2</ce:inf>S), No. 70 for mercaptans, and No. 81<ce:hsp sp="0.25"/>L for acetic acid; Gastec Corp.). Prior to the measurements, slurry samples were shaken manually for approximately 30<ce:hsp sp="0.25"/>s to disrupt any crust formation on the surface of the slurry sample and to homogenize them. The adhesive plasters were punctured, and 100<ce:hsp sp="0.25"/>mL of headspace air was sampled approximately 2.0<ce:hsp sp="0.25"/>cm above the slurry surface. Two samples from each pen were measured and then the average was calculated.</ce:para>
+</ce:section>
+<ce:section id="sec0030">
+<ce:label>2.4</ce:label>
+<ce:section-title id="sect0050">Statistical analysis</ce:section-title>
+<ce:para id="par0080">All experimental data were analyzed as a randomized complete block design using the GLM procedure of SAS (SAS Inst. Inc., Cary, NC). The pen was used as the experimental unit. The initial BW was used as a covariate for ADFI and ADG. Differences among treatment means were determined using the Tukey's range test. A probability level of P&lt;0.05 was considered significant.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="sec0035" role="results">
+<ce:label>3</ce:label>
+<ce:section-title id="sect0055">Results</ce:section-title>
+<ce:section id="sec0040">
+<ce:label>3.1</ce:label>
+<ce:section-title id="sect0060">Growth performance</ce:section-title>
+<ce:para id="par0085">From d 0 to 14, pigs fed PC diet had a greater (P&lt;0.05) ADG than pigs fed NC diet (<ce:cross-ref id="crf0160" refid="tbl0010">Table 2</ce:cross-ref>
+<ce:float-anchor refid="tbl0010"/>). From d 15 to 28, there were no differences in ADG, ADFI, and G:F among dietary treatments. During the overall period (d 0&ndash;28), pigs fed PC and RP1 diets had a greater (P&lt;0.05) ADG than pigs fed NC diet. However, no differences were observed among dietary treatments in ADFI and G:F during the overall period.</ce:para>
+</ce:section>
+<ce:section id="sec0045">
+<ce:label>3.2</ce:label>
+<ce:section-title id="sect0065">Nutrient digestibility</ce:section-title>
+<ce:para id="par0090">On d 14, the ATTD of N for pigs fed PC diet was greater (P&lt;0.05) than pigs fed NC, RP1, and RP2 diets (<ce:cross-ref id="crf0165" refid="tbl0015">Table 3</ce:cross-ref>
+<ce:float-anchor refid="tbl0015"/>). The ATTD of DM and GE was not affected by dietary treatments. At the end of the experiment, pigs fed RP1 and RP2 diets had a greater (P&lt;0.05) ATTD of N and GE compared with pigs fed NC diet. Additionally, pigs fed PC diet had a greater (P&lt;0.05) ATTD of N compared with pigs fed NC diet. There was no difference among dietary treatments in the ATTD of DM on d 28.</ce:para>
+</ce:section>
+<ce:section id="sec0050">
+<ce:label>3.3</ce:label>
+<ce:section-title id="sect0070">Fecal microbial flora, diarrhea score, and fecal noxious gas emission</ce:section-title>
+<ce:para id="par0095">Fecal <ce:italic>E. coli</ce:italic> concentration was decreased (P&lt;0.05) in pigs fed PC and RP1 diets, whereas <ce:italic>Lactobacillus</ce:italic> concentration was increased (P&lt;0.05) in pigs fed RP1 diet compared with NC diet (<ce:cross-ref id="crf0170" refid="tbl0020">Table 4</ce:cross-ref>
+<ce:float-anchor refid="tbl0020"/>). Diarrhea score was lower (P&lt;0.05) in RP1 treatment compared with NC treatment. On d 5, total mercaptans emission was lower (P&lt;0.05) in PC, RP1, and RP2 treatments compared with NC treatment (<ce:cross-ref id="crf0175" refid="tbl0025">Table 5</ce:cross-ref>
+<ce:float-anchor refid="tbl0025"/>). Moreover, total mercaptans emission in RP1 treatment was the lowest (P&lt;0.05). No effect was observed on NH<ce:inf>3</ce:inf>, H<ce:inf>2</ce:inf>S, and acetic acid emissions among dietary treatments. On d 10, fecal NH<ce:inf>3</ce:inf> and total mercaptans emissions were lower (P&lt;0.05) in PC, RP1, and RP2 treatments compared with NC treatment. While H<ce:inf>2</ce:inf>S emission was lower (P&lt;0.05) in RP1 treatment compared with NC treatment. However, there was no difference on acetic acid emissions among dietary treatments.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="sec0055" role="discussion">
+<ce:label>4</ce:label>
+<ce:section-title id="sect0075">Discussion</ce:section-title>
+<ce:section id="sec0060">
+<ce:label>4.1</ce:label>
+<ce:section-title id="sect0080">Growth performance</ce:section-title>
+<ce:para id="par0100">In our study, there was no effect on ADG, ADFI, and G:F during d 0&ndash;14 and d 15&ndash;28 in 0.1% and 0.2% probiotics supplementation (<ce:italic>L. reuteri</ce:italic> and <ce:italic>L. plantarum</ce:italic>, 1<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg complex) treatments compared with NC treatment. This is in agreement with <ce:cross-ref id="crf0180" refid="bib0090">Huang et al. (2004)</ce:cross-ref>, who reported that dietary lactobacilli complex supplementation (<ce:italic>Lactobacillus gasseri</ce:italic>, <ce:italic>L. reuteri</ce:italic>, <ce:italic>Lactobacillus acidophilus</ce:italic>, and <ce:italic>Lactobacillus fermentum</ce:italic>) had no effect on ADG and feed/gain ratio during d 0&ndash;14 and d 15&ndash;21 in weanling pigs. <ce:cross-ref id="crf0185" refid="bib0060">Frantz et al. (2003)</ce:cross-ref> reported that weanling pigs fed the 0.1% <ce:italic>Lactobacillus</ce:italic> strain supplementation diet did not show positive effect on ADG and ADFI during d 0&ndash;14 and d 15&ndash;32. Those studies showed that lactobacilli complex had no beneficial effects on growth performance during each experimental period. However, there were some studies which showed positive effect on ADG, ADFI, or feed/gain ratio. <ce:cross-ref id="crf0190" refid="bib0070">Giang et al. (2010)</ce:cross-ref> reported that pigs fed diets with lactobacilli complex (<ce:italic>L. acidophilus</ce:italic>, 4<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg, <ce:italic>L. plantarum</ce:italic>, 2<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg, and <ce:italic>L. plantarum</ce:italic>, 7<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg) had higher ADG, ADFI, and lower feed/gain ratio from d 0 to 14. But from d 15 to 35, the inclusion of lactobacilli complex did not affect the growth performance of weanling pigs. Additionally, <ce:cross-ref id="crf0195" refid="bib0090">Huang et al. (2004)</ce:cross-ref> showed that dietary lactobacilli complex supplementation improved ADFI of piglets from d 0 to 14. In our study, no significant effect was detected on growth performance, but an increasing tendency in ADG was showed during d 0&ndash;14. It indicated that positive effects on growth performance were observed in the early period after weanling by the addition of lactobacilli complex, but there were no positive effects in later period after weanling. It may due to the big changes in gut after weanling (<ce:cross-ref id="crf0200" refid="bib0130">Pluske, 2001</ce:cross-ref>), and the gut need time to adapt the new situation (<ce:cross-ref id="crf0205" refid="bib0105">McCracken and Kelly, 1993</ce:cross-ref>). Thus, the efficiency of probiotics should be expected to be higher when the animals are confronted with stress during the early days after weanling. When the most critical phase after weanling is passed, a normal gut function has been re-established (<ce:cross-ref id="crf0210" refid="bib0130">Pluske, 2001</ce:cross-ref>). According to the results of our and previous studies, the effects of lactobacilli complex may be related to age of weanling pigs.</ce:para>
+</ce:section>
+<ce:section id="sec0065">
+<ce:label>4.2</ce:label>
+<ce:section-title id="sect0085">Nutrient digestibility</ce:section-title>
+<ce:para id="par0105">Growing pigs fed the 0.2% <ce:italic>L.</ce:italic> <ce:italic>reuteri</ce:italic> and <ce:italic>Lactobacillus salivarius</ce:italic> complex (1<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg) did not affect the ATTD of DM and N in a 42-d trial (<ce:cross-ref id="crf0215" refid="bib0145">Shon et al., 2005</ce:cross-ref>). <ce:cross-ref id="crf0220" refid="bib0165">Yu et al. (2008)</ce:cross-ref> reported that the ATTD of DM and GE were not influenced by <ce:italic>L. fermentum</ce:italic> (3.2<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>, 5.8<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>10</ce:sup>, or 2.9<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>11</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg) or 3.4<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>8</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg Lactobacillicomplex (as ratio of <ce:italic>L. gasseri</ce:italic>, <ce:italic>L. reuteri</ce:italic>, <ce:italic>L. acidophilus</ce:italic>, and <ce:italic>L. fermentum</ce:italic> being 2:3:5:2) in weanling pigs from d 0 to 21. On the other hand, pigs fed 0.1% and 0.2% lactobacilli complex (<ce:italic>L. reuteri</ce:italic> and <ce:italic>L. plantarum</ce:italic>, 1<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg) diets had a greater ATTD of N and GE at the end of the experiment in our study. <ce:cross-ref id="crf0225" refid="bib0070">Giang et al. (2010)</ce:cross-ref> demonstrated that supplementation with lactobacilli complex (<ce:italic>L. acidophilus</ce:italic>, 4<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg, <ce:italic>L. plantarum</ce:italic>, 2<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg, and <ce:italic>L. plantarum</ce:italic>, 7<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg) increased the ATTD of crude protein and crude fiber in the first 2 weeks after weanling. <ce:cross-ref id="crf0230" refid="bib0010">Champs et al. (2002)</ce:cross-ref> reported that <ce:italic>Lactobacillus</ce:italic> could survive in the gastrointestinal tract of pigs when the daily intake was between 10<ce:sup>9</ce:sup> and10<ce:sup>10</ce:sup>
+<ce:hsp sp="0.25"/>cfu. Lactobacilli are known to be associated with competitive exclusion against pathogenic microorganisms on the gastrointestinal tract epithelium of pigs, improve host microbial balance, and nutrient digestibility. Moreover, an increased number of lactobacilli in the gut would potentially increase the activity of useful enzymes such as &beta;-galactosidase, which will add to the beneficial effects on nutrient utilization (<ce:cross-ref id="crf0235" refid="bib0065">Fuller, 1989</ce:cross-ref>). In our study, we got different results from some previous studies. The different lactobacilli complex, concentration, pig growth phase, and measured period may cause the different results mentioned above.</ce:para>
+</ce:section>
+<ce:section id="sec0070">
+<ce:label>4.3</ce:label>
+<ce:section-title id="sect0090">Fecal microbial flora and diarrhea score</ce:section-title>
+<ce:para id="par0110">Fecal <ce:italic>E. coli</ce:italic> concentration was decreased in pigs fed 0.1% lactobacilli complex diet, whereas <ce:italic>Lactobacillus</ce:italic> concentration was increased in the same group. That means lactobacilli complex in our study have beneficial effect on <ce:italic>Lactobacillus</ce:italic> counts, and inhibit the increase of <ce:italic>E. coli</ce:italic>. This was also reported by <ce:cross-ref id="crf0240" refid="bib0045">Dong et al. (2013)</ce:cross-ref>, who demonstrated that the population of <ce:italic>E. coli</ce:italic> in piglet feces was lower in <ce:italic>L. plantarum</ce:italic> GF103 treatment. We did not find other researches about the effect of lactobacilli complex on fecal microbial flora in pig. Both used as a probiotic, on the other hand, <ce:italic>Bacillus subtilis</ce:italic> H4 (6<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>11</ce:sup>
+<ce:hsp sp="0.25"/>cfu/mL) supplementation did not affect fecal <ce:italic>Lactobacillus</ce:italic> and <ce:italic>E. coli</ce:italic> counts in both growing and finishing pigs (<ce:cross-ref id="crf0245" refid="bib0075">Giang et al., 2011</ce:cross-ref>). <ce:cross-ref id="crf0250" refid="bib0135">Pollmann (1986)</ce:cross-ref> also reported that the fecal <ce:italic>Lactobacillus</ce:italic> and <ce:italic>E. coli</ce:italic> counts were not affected when feeding sows with a diet that contained <ce:italic>Bacillus</ce:italic>. Those inconsistent results indicate that the effect of probiotics on fecal microbial flora in pig may relate to pig growth phase and probiotic concentration.</ce:para>
+<ce:para id="par0115">Several previous studies have found that a probiotic lactobacilli culture complex supplementation reduced the incidence of diarrhea in weanling pigs, such as, a fermented liquid feed contained lactobacilli (<ce:cross-ref id="crf0255" refid="bib0115">Mikkelsen and Jensen, 1997</ce:cross-ref>), diets contained 8.0&ndash;8.5<ce:hsp sp="0.25"/>log<ce:hsp sp="0.25"/>cfu<ce:sup>&minus;1</ce:sup> of lactobacilli (<ce:cross-ref id="crf0260" refid="bib0125">Pedersen et al., 2005</ce:cross-ref>), diets supplemented a complex of <ce:italic>L. gasseri</ce:italic>, <ce:italic>L. reuteri</ce:italic>, <ce:italic>L. acidophilus</ce:italic>, and <ce:italic>L. fermentum</ce:italic> (<ce:cross-ref id="crf0265" refid="bib0090">Huang et al., 2004</ce:cross-ref>), diets supplemented <ce:italic>L. acidophilus</ce:italic> and <ce:italic>L. fermentum</ce:italic> (<ce:cross-ref id="crf0270" refid="bib0035">Conway, 1989</ce:cross-ref>). In the second week and overall, lactobacilli complex groups had lower diarrhea incidence and fecal score (<ce:cross-ref id="crf0275" refid="bib0070">Giang et al., 2010</ce:cross-ref>). Those results are in consistent with our study that diarrhea score was decreased by the 0.1% lactobacilli complex. <ce:cross-ref id="crf0280" refid="bib0120">Muralidhara et al. (1977)</ce:cross-ref> found that the number of lactobacilli was higher and that of <ce:italic>E. coli</ce:italic> was lower in piglet's intestinal tissue after dosing with <ce:italic>Lactobacillus</ce:italic>. <ce:italic>Lactobacillus</ce:italic> was able to produce an unknown antimicrobial substance against <ce:italic>E. coli</ce:italic> (<ce:cross-ref id="crf0285" refid="bib0140">Silva et al., 1987</ce:cross-ref>). The adhesion of <ce:italic>E. coli</ce:italic> to gastrointestinal mucosa may have been inhibited by the complex lactobacilli supplementation. Therefore, the lactobacilli preparation enhanced pig resistance to <ce:italic>E. coli</ce:italic> infection by regulating the balance of microflora. Thus, the diarrhea sore was decreased by the supplementation of lactobacilli complex.</ce:para>
+</ce:section>
+<ce:section id="sec0075">
+<ce:label>4.4</ce:label>
+<ce:section-title id="sect0095">Fecal noxious gas emission</ce:section-title>
+<ce:para id="par0120">In this study, NH<ce:inf>3</ce:inf>, total mercaptans, and H<ce:inf>2</ce:inf>S emissions were reduced by the supplementation of probiotic complex. This was also reported by <ce:cross-ref id="crf0290" refid="bib0030">Chiang and Hsieh (1995)</ce:cross-ref> and <ce:cross-ref id="crf0295" refid="bib0085">Hong et al. (2002)</ce:cross-ref>. Additionally, <ce:cross-ref id="crf0300" refid="bib0020">Chen et al. (2005)</ce:cross-ref> observed that NH<ce:inf>3</ce:inf> concentration in the 0.2% complex probiotic (<ce:italic>L. acidophilus</ce:italic>, 1.0<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>10</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg; <ce:italic>S. cerevisae</ce:italic>, 4.3<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg; <ce:italic>B. subtilis</ce:italic> 2.0<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg) treatment was decreased in growing pigs. <ce:cross-ref id="crf0305" refid="bib0025">Chen et al. (2006)</ce:cross-ref> also reported that pigs fed diets with <ce:italic>Bacillus</ce:italic>-based probiotic (<ce:italic>B. subtilis</ce:italic>, 1.0<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>10</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg; <ce:italic>Bacillus coagulans</ce:italic>, 2.0<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg, and <ce:italic>L. acidophilus</ce:italic>, 5.0<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg) showed lower fecal NH<ce:inf>3</ce:inf> emission in finishing pigs. The fecal noxious gas emission is related to the nutrient digestibility because the increased digestibility may allow less substrate for the microbial fermentation in the large intestine, which consequently decreases the fecal noxious gas emission (<ce:cross-ref id="crf0310" refid="bib0155">Yan et al., 2011</ce:cross-ref>). That means the lactobacilli complex from feed improved the intestine microbial and nutrient digestibility, which could also reduce fecal NH<ce:inf>3</ce:inf>, total mercaptans, and H<ce:inf>2</ce:inf>S emissions. Those studies did not concern with the concentration of microbial, so future studies need to be conducted to evaluate the concentration effect on fecal noxious gas emissions in weanling pigs.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="sec0080" role="conclusion">
+<ce:label>5</ce:label>
+<ce:section-title id="sect0100">Conclusions</ce:section-title>
+<ce:para id="par0125">Direct-fed 0.1% <ce:italic>L. reuteri</ce:italic> and <ce:italic>L. plantarum</ce:italic> complex (1<ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>10<ce:sup>9</ce:sup>
+<ce:hsp sp="0.25"/>cfu/kg) improved ATTD of N and GE at the end of the experiment, increased the fecal <ce:italic>Lactobacillus</ce:italic> concentration, decreased fecal noxious gas emission, diarrhea score, and <ce:italic>E. coli</ce:italic> concentration in weanling pigs. We think <ce:italic>L. reuteri</ce:italic> and <ce:italic>L. plantarum</ce:italic> complex used as probiotic may be a good alternative to antibiotics.</ce:para>
+</ce:section>
+<ce:section id="sec0085">
+<ce:section-title id="sect0105">Conflict of interest statement</ce:section-title>
+<ce:para id="par0130">We wish to confirm that there are no known conflicts of interest associated with this publication.</ce:para>
+</ce:section>
+</ce:sections>
+</body>
+<tail>
+<ce:bibliography id="bibl0005">
+<ce:section-title id="sect0110">References</ce:section-title>
+<ce:bibliography-sec id="bibs0005">
+<ce:bib-reference id="bib0005">
+<ce:label>AOAC, 1995</ce:label>
+<sb:reference id="sbref0005">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:surname>AOAC</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Official methods of analysis</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:book>
+<sb:edition>16th ed.</sb:edition>
+<sb:date>1995</sb:date>
+<sb:publisher>
+<sb:name>Association of Official Analytical Chemists</sb:name>
+<sb:location>Gaithersburg, MD</sb:location>
+</sb:publisher>
+</sb:book>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0010">
+<ce:label>Champs et al., 2002</ce:label>
+<sb:reference id="sbref0010">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>C.D.</ce:given-name>
+<ce:surname>Champs</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.</ce:given-name>
+<ce:surname>Maroncle</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Balestrino</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Rich</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Forestier</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Persistence of colonization of intestinal mucosa by a probiotic strain <ce:italic>Lactobacillus casei</ce:italic> subsp. <ce:italic>rhamnosus</ce:italic> Lcr35, after oral consumption</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Clin. Microbiol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>41</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1270</sb:first-page>
+<sb:last-page>1273</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0015">
+<ce:label>Chang et al., 2000</ce:label>
+<sb:reference id="sbref0015">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.H.</ce:given-name>
+<ce:surname>Chang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.K.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.H.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.Y.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.B.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.H.</ce:given-name>
+<ce:surname>Park</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Probiotics effects of <ce:italic>Lactobacillus reuteri</ce:italic> BSA-131 on piglets</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Kor. J. Appl. Microb. Biotechnol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>28</sb:volume-nr>
+</sb:series>
+<sb:date>2000</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>8</sb:first-page>
+<sb:last-page>13</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0020">
+<ce:label>Chen et al., 2005</ce:label>
+<sb:reference id="sbref0020">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.J.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Son</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.J.</ce:given-name>
+<ce:surname>Min</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.H.</ce:given-name>
+<ce:surname>Cho</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.S.</ce:given-name>
+<ce:surname>Kwon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.H.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Effects of dietary probiotic on growth performance nutrients digestibility, blood characteristics and fecal noxious gas content in growing pigs</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Asian-Aust. J. Anim. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>10</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1464</sb:first-page>
+<sb:last-page>1468</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0025">
+<ce:label>Chen et al., 2006</ce:label>
+<sb:reference id="sbref0025">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>Y.J.</ce:given-name>
+<ce:surname>Chen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.J.</ce:given-name>
+<ce:surname>Min</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.H.</ce:given-name>
+<ce:surname>Cho</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.S.</ce:given-name>
+<ce:surname>Kwon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Son</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.J.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.H.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Effects of dietary <ce:italic>Bacillus</ce:italic>-based probiotic on growth performance nutrients digestibility, blood characteristics and fecal noxious gas content in finishing pigs</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Asian-Aust. J. Anim. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>19</sb:volume-nr>
+</sb:series>
+<sb:date>2006</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>587</sb:first-page>
+<sb:last-page>592</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0030">
+<ce:label>Chiang and Hsieh, 1995</ce:label>
+<sb:reference id="sbref0030">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>S.H.</ce:given-name>
+<ce:surname>Chiang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.M.</ce:given-name>
+<ce:surname>Hsieh</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Effect of direct-fed microorganisms on broiler growth performance and litter ammonia level</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Asian-Aust. J. Anim. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>8</sb:volume-nr>
+</sb:series>
+<sb:date>1995</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>159</sb:first-page>
+<sb:last-page>162</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0035">
+<ce:label>Conway, 1989</ce:label>
+<sb:reference id="sbref0035">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>P.L.</ce:given-name>
+<ce:surname>Conway</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Lactobacilli: fact or fiction</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Grubb</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>The Regulatory and Protective Role of the Normal Microflora</sb:maintitle>
+</sb:title>
+<sb:date>1989</sb:date>
+<sb:publisher>
+<sb:name>Macmillan Press</sb:name>
+<sb:location>Basingstoke, UK</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>263</sb:first-page>
+<sb:last-page>281</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0040">
+<ce:label>Cromwell, 2002</ce:label>
+<sb:reference id="sbref0040">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>G.L.</ce:given-name>
+<ce:surname>Cromwell</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Why and how antibiotics are used in swine production</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Anim. Biotechnol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>13</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>7</sb:first-page>
+<sb:last-page>27</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0045">
+<ce:label>Dong et al., 2013</ce:label>
+<sb:reference id="sbref0045">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>X.L.</ce:given-name>
+<ce:surname>Dong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.F.</ce:given-name>
+<ce:surname>Zhang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.</ce:given-name>
+<ce:surname>Tu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.D.</ce:given-name>
+<ce:surname>Deng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.Y.</ce:given-name>
+<ce:surname>Diao</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Effects of dietary probiotics on growth performance: faecal microbiota and serum profiles in weaned piglets</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Anim. Prod. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>54</sb:volume-nr>
+</sb:series>
+<sb:date>2013</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>616</sb:first-page>
+<sb:last-page>621</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0050">
+<ce:label>Fenton and Fenton, 1979</ce:label>
+<sb:reference id="sbref0050">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>T.W.</ce:given-name>
+<ce:surname>Fenton</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Fenton</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>An improved method for chromic oxide determination in feed and feces</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Can. J. Anim. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>59</sb:volume-nr>
+</sb:series>
+<sb:date>1979</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>631</sb:first-page>
+<sb:last-page>634</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0055">
+<ce:label>Fialho et al., 1998</ce:label>
+<sb:reference id="sbref0055">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>E.T.</ce:given-name>
+<ce:surname>Fialho</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Vassalo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.A.F.</ce:given-name>
+<ce:surname>Lima</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.G.</ce:given-name>
+<ce:surname>Bertechine</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Probiotic utilization for piglets from 10 to 30&thinsp;kg (performance and metabolism assay)</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:title>
+<sb:maintitle>Proc. 8th World Conf Anim. Prod. Seoul Natl. Univ.</sb:maintitle>
+</sb:title>
+<sb:conference>Seoul, Korea</sb:conference>
+<sb:date>1998</sb:date>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>622</sb:first-page>
+<sb:last-page>623</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0060">
+<ce:label>Frantz et al., 2003</ce:label>
+<sb:reference id="sbref0060">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>N.Z.</ce:given-name>
+<ce:surname>Frantz</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.L.</ce:given-name>
+<ce:surname>Nelssen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.M.</ce:given-name>
+<ce:surname>DeRouchey</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>R.D.</ce:given-name>
+<ce:surname>Goodband</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.D.</ce:given-name>
+<ce:surname>Tokach</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.S.</ce:given-name>
+<ce:surname>Dritz</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Effects of a prebiotic, inulin, and a direct fed microbial on growth performance of weanling pigs</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Swine Day</sb:maintitle>
+</sb:title>
+</sb:series>
+<sb:date>2003</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>123</sb:first-page>
+<sb:last-page>127</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0065">
+<ce:label>Fuller, 1989</ce:label>
+<sb:reference id="sbref0065">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>R.</ce:given-name>
+<ce:surname>Fuller</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Probiotics in man and animals</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Appl. Bacteriol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>66</sb:volume-nr>
+</sb:series>
+<sb:date>1989</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>365</sb:first-page>
+<sb:last-page>378</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0070">
+<ce:label>Giang et al., 2010</ce:label>
+<sb:reference id="sbref0070">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>H.H.</ce:given-name>
+<ce:surname>Giang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.Q.</ce:given-name>
+<ce:surname>Viet</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Ogle</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.E.</ce:given-name>
+<ce:surname>Lindberg</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Growth performance digestibility, gut environment and health status in weaned piglets fed a diet supplemented with potentially probiotic complexes of lactic acid bacteria</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Livest. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>129</sb:volume-nr>
+</sb:series>
+<sb:date>2010</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>95</sb:first-page>
+<sb:last-page>103</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0075">
+<ce:label>Giang et al., 2011</ce:label>
+<sb:reference id="sbref0075">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>H.H.</ce:given-name>
+<ce:surname>Giang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.Q.</ce:given-name>
+<ce:surname>Viet</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.</ce:given-name>
+<ce:surname>Ogle</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.E.</ce:given-name>
+<ce:surname>Lindberg</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Effects of supplementation of probiotics on the performance: nutrient digestibility and faecal microflora in growing-finishing pigs</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Asian-Aust. J. Anim. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>24</sb:volume-nr>
+</sb:series>
+<sb:date>2011</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>655</sb:first-page>
+<sb:last-page>661</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0080">
+<ce:label>Harper et al., 1983</ce:label>
+<sb:reference id="sbref0080">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>A.F.</ce:given-name>
+<ce:surname>Harper</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.T.</ce:given-name>
+<ce:surname>Kornegay</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.L.</ce:given-name>
+<ce:surname>Bryant</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.R.</ce:given-name>
+<ce:surname>Thomas</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Efficacy of virginiamycin and a commercially-available lactobacillus probiotic in swine diets</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Anim. Feed Sci. Tech.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>8</sb:volume-nr>
+</sb:series>
+<sb:date>1983</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>69</sb:first-page>
+<sb:last-page>76</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0085">
+<ce:label>Hong et al., 2002</ce:label>
+<sb:reference id="sbref0085">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>J.W.</ce:given-name>
+<ce:surname>Hong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.H.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.S.</ce:given-name>
+<ce:surname>Kwon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.H.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.J.</ce:given-name>
+<ce:surname>Min</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.B.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Effects of dietary probiotics supplementation on growth performance and fecal gas emission in nursing and finishing pigs</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Anim. Sci. Technol. Kor.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>44</sb:volume-nr>
+</sb:series>
+<sb:date>2002</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>305</sb:first-page>
+<sb:last-page>314</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0090">
+<ce:label>Huang et al., 2004</ce:label>
+<sb:reference id="sbref0090">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Huang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.</ce:given-name>
+<ce:surname>Qiao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Piao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Ren</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Effects of Lactobacillus on the performance diarrhea incidence, VFA concentration and gastrointestinal microbial flora of weaning pigs</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Asian-Austr. J. Anim. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>17</sb:volume-nr>
+</sb:series>
+<sb:date>2004</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>401</sb:first-page>
+<sb:last-page>409</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0095">
+<ce:label>Kyriakis et al., 1999</ce:label>
+<sb:reference id="sbref0095">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>S.C.</ce:given-name>
+<ce:surname>Kyriakis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>V.K.</ce:given-name>
+<ce:surname>Tsiloyiannis</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.</ce:given-name>
+<ce:surname>Vlemmas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Sarris</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.C.</ce:given-name>
+<ce:surname>Tsinas</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Alexopoulos</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Jansegers</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The effect of probiotic LSP 122 on the control of post-weaning diarrhea syndrome of piglets</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Res. Vet. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>67</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>223</sb:first-page>
+<sb:last-page>228</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0100">
+<ce:label>Marquardt et al., 1999</ce:label>
+<sb:reference id="sbref0100">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>R.R.</ce:given-name>
+<ce:surname>Marquardt</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.Z.</ce:given-name>
+<ce:surname>Jin</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.W.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Fang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.A.</ce:given-name>
+<ce:surname>Frohlich</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.K.</ce:given-name>
+<ce:surname>Baidoo</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Passive protective effect of egg-yolk antibodies against enterotoxigenic <ce:italic>Escherichia coli</ce:italic> K88+ infection in neonatal and early-weaned piglets</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>FEMS Immunol. Med. Microbiol.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>23</sb:volume-nr>
+</sb:series>
+<sb:date>1999</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>283</sb:first-page>
+<sb:last-page>288</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0105">
+<ce:label>McCracken and Kelly, 1993</ce:label>
+<sb:reference id="sbref0105">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>K.J.</ce:given-name>
+<ce:surname>McCracken</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>D.</ce:given-name>
+<ce:surname>Kelly</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Development of digestive function and nutrition/disease interactions in the weaned pig</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>D.J.</ce:given-name>
+<ce:surname>Farrell</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Recent Advances in Animal Nutrition in Australia</sb:maintitle>
+</sb:title>
+<sb:date>1993</sb:date>
+<sb:publisher>
+<sb:name>Univ. of New England Press</sb:name>
+<sb:location>Armidale, AU</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>182</sb:first-page>
+<sb:last-page>192</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0110">
+<ce:label>Meng et al., 2010</ce:label>
+<sb:reference id="sbref0110">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>Q.W.</ce:given-name>
+<ce:surname>Meng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Yan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.</ce:given-name>
+<ce:surname>Ao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>T.X.</ce:given-name>
+<ce:surname>Zhou</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.H.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.H.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Influence of probiotics in different energy and nutrient density diets on growth performance, nutrient digestibility, meat quality, and blood characteristics in growing-finishing pigs</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Anim. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>88</sb:volume-nr>
+</sb:series>
+<sb:date>2010</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>3320</sb:first-page>
+<sb:last-page>3326</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0115">
+<ce:label>Mikkelsen and Jensen, 1997</ce:label>
+<sb:reference id="sbref0115">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>L.L.</ce:given-name>
+<ce:surname>Mikkelsen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.B.</ce:given-name>
+<ce:surname>Jensen</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Effect of fermented liquid feed (FLF) on growth performance microbial activity in the gastrointestinal tract of weaned piglets</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Laplace</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Fevrier</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Barbeau</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Digestive Physiology in Pigs</sb:maintitle>
+</sb:title>
+<sb:date>1997</sb:date>
+<sb:publisher>
+<sb:name>EAAP pub.</sb:name>
+<sb:location>Saint Malo, France</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>639</sb:first-page>
+<sb:last-page>642</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0120">
+<ce:label>Muralidhara et al., 1977</ce:label>
+<sb:reference id="sbref0120">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Muralidhara</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>G.G.</ce:given-name>
+<ce:surname>Sheggeby</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>P.R.</ce:given-name>
+<ce:surname>Elliker</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Effect of feeding lactobacilli on the coliform and <ce:italic>Lactobacillus</ce:italic> flora of intestinal tissue and feces from piglets</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Food Prot.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>40</sb:volume-nr>
+</sb:series>
+<sb:date>1977</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>288</sb:first-page>
+<sb:last-page>295</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0125">
+<ce:label>Pedersen et al., 2005</ce:label>
+<sb:reference id="sbref0125">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>M.B.</ce:given-name>
+<ce:surname>Pedersen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.L.</ce:given-name>
+<ce:surname>Iversen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.I.</ce:given-name>
+<ce:surname>S&oslash;rensen</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.</ce:given-name>
+<ce:surname>Johansen</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The long and winding road from the research laboratory to industrial applications of lactic acid bacteria</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>FEMS Microbiol. Rev.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>29</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>611</sb:first-page>
+<sb:last-page>624</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0130">
+<ce:label>Pluske, 2001</ce:label>
+<sb:reference id="sbref0130">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>J.R.</ce:given-name>
+<ce:surname>Pluske</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Morphological and functional changes in the small intestine of the newly-weaned pig</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>A.</ce:given-name>
+<ce:surname>Piva</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>K.E.</ce:given-name>
+<ce:surname>Bach Knudsen</ce:surname>
+</sb:editor>
+<sb:editor>
+<ce:given-name>J.E.</ce:given-name>
+<ce:surname>Lindberg</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Gut Environment of Pigs</sb:maintitle>
+</sb:title>
+<sb:date>2001</sb:date>
+<sb:publisher>
+<sb:name>Nottingham Univ. Press</sb:name>
+<sb:location>Loughborough, UK</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>1</sb:first-page>
+<sb:last-page>27</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0135">
+<ce:label>Pollmann, 1986</ce:label>
+<sb:reference id="sbref0135">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>D.S.</ce:given-name>
+<ce:surname>Pollmann</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Probiotics in pig diets</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:edited-book>
+<sb:editors>
+<sb:editor>
+<ce:given-name>D.J.A.</ce:given-name>
+<ce:surname>Haresign</ce:surname>
+</sb:editor>
+</sb:editors>
+<sb:title>
+<sb:maintitle>Recent Advances in Animal Nutrition</sb:maintitle>
+</sb:title>
+<sb:date>1986</sb:date>
+<sb:publisher>
+<sb:name>Butterworth</sb:name>
+<sb:location>London</sb:location>
+</sb:publisher>
+</sb:edited-book>
+<sb:pages>
+<sb:first-page>193</sb:first-page>
+<sb:last-page>205</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0140">
+<ce:label>Silva et al., 1987</ce:label>
+<sb:reference id="sbref0140">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>M.</ce:given-name>
+<ce:surname>Silva</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>N.V.</ce:given-name>
+<ce:surname>Jacobus</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Deneke</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.L.</ce:given-name>
+<ce:surname>Gorbach</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Antimicrobial substance from a human <ce:italic>Lactobacillus</ce:italic> strain</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Antimicrob. Agents Chemother.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>31</sb:volume-nr>
+</sb:series>
+<sb:date>1987</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1231</sb:first-page>
+<sb:last-page>1233</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0145">
+<ce:label>Shon et al., 2005</ce:label>
+<sb:reference id="sbref0145">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>K.S.</ce:given-name>
+<ce:surname>Shon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.W.</ce:given-name>
+<ce:surname>Hong</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>O.S.</ce:given-name>
+<ce:surname>Kwon</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>B.J.</ce:given-name>
+<ce:surname>Min</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>W.B.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.H.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.H.</ce:given-name>
+<ce:surname>Park</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.S.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Effects of <ce:italic>Lactobacillus reuteri</ce:italic>-based direct-fed microbial supplementation for growing-finishing pigs</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Asian-Aust. J. Anim. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>3</sb:volume-nr>
+</sb:series>
+<sb:date>2005</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>370</sb:first-page>
+<sb:last-page>374</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0150">
+<ce:label>Xuan et al., 2001</ce:label>
+<sb:reference id="sbref0150">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>Z.N.</ce:given-name>
+<ce:surname>Xuan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.D.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.N.</ce:given-name>
+<ce:surname>Heo</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>H.J.</ce:given-name>
+<ce:surname>Jung</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.H.</ce:given-name>
+<ce:surname>Lee</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.K.</ce:given-name>
+<ce:surname>Han</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Y.Y.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>K.</ce:given-name>
+<ce:surname>Han In</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Study on the development of a probiotics complex for weaned pigs</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Asian-Aust. J. Anim. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>14</sb:volume-nr>
+</sb:series>
+<sb:date>2001</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1425</sb:first-page>
+<sb:last-page>1428</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0155">
+<ce:label>Yan et al., 2011</ce:label>
+<sb:reference id="sbref0155">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>L.</ce:given-name>
+<ce:surname>Yan</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>Q.W.</ce:given-name>
+<ce:surname>Meng</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.H.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The effect of an herb extract mixture on growth performance nutrient digestibility, blood characteristics and fecal noxious gas content in growing pigs</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Livest Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>141</sb:volume-nr>
+</sb:series>
+<sb:date>2011</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>143</sb:first-page>
+<sb:last-page>147</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0160">
+<ce:label>Yokoyama et al., 1982</ce:label>
+<sb:reference id="sbref0160">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>M.T.</ce:given-name>
+<ce:surname>Yokoyama</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>C.</ce:given-name>
+<ce:surname>Tabori</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>E.R.</ce:given-name>
+<ce:surname>Miller</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>M.G.</ce:given-name>
+<ce:surname>Hogberg</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>The effects of antibiotics in the weanling pig diet on growth and the excretion of volatile phenolic and aromatic bacterial metabolites</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>Am. J. Clin. Nutr.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>35</sb:volume-nr>
+</sb:series>
+<sb:date>1982</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>1417</sb:first-page>
+<sb:last-page>1424</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0165">
+<ce:label>Yu et al., 2008</ce:label>
+<sb:reference id="sbref0165">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>H.F.</ce:given-name>
+<ce:surname>Yu</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>A.N.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>X.J.</ce:given-name>
+<ce:surname>Li</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>S.Y.</ce:given-name>
+<ce:surname>Qiao</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Effect of viable <ce:italic>Lactobacillus fermentum</ce:italic> on the growth performance, nutrient digestibility and immunity of weaned pigs</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Anim. Feed Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>17</sb:volume-nr>
+</sb:series>
+<sb:date>2008</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>61</sb:first-page>
+<sb:last-page>69</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0170">
+<ce:label>Zhao et al., 2013</ce:label>
+<sb:reference id="sbref0170">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>P.Y.</ce:given-name>
+<ce:surname>Zhao</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>J.P.</ce:given-name>
+<ce:surname>Wang</ce:surname>
+</sb:author>
+<sb:author>
+<ce:given-name>I.H.</ce:given-name>
+<ce:surname>Kim</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Evaluation of dietary fructan supplementation on growth performance, nutrient digestibility, meat quality, fecal microbial flora, and fecal noxious gas emission in finishing pigs</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Anim. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>91</sb:volume-nr>
+</sb:series>
+<sb:date>2013</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>5280</sb:first-page>
+<sb:last-page>5286</sb:last-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+<ce:bib-reference id="bib0175">
+<ce:label>Zimmerman, 1986</ce:label>
+<sb:reference id="sbref0175">
+<sb:contribution>
+<sb:authors>
+<sb:author>
+<ce:given-name>D.R.</ce:given-name>
+<ce:surname>Zimmerman</ce:surname>
+</sb:author>
+</sb:authors>
+<sb:title>
+<sb:maintitle>Role of subtherapeutic antimicrobials in animal production</sb:maintitle>
+</sb:title>
+</sb:contribution>
+<sb:host>
+<sb:issue>
+<sb:series>
+<sb:title>
+<sb:maintitle>J. Anim. Sci.</sb:maintitle>
+</sb:title>
+<sb:volume-nr>62</sb:volume-nr>
+</sb:series>
+<sb:issue-nr>Suppl. 3</sb:issue-nr>
+<sb:date>1986</sb:date>
+</sb:issue>
+<sb:pages>
+<sb:first-page>6</sb:first-page>
+</sb:pages>
+</sb:host>
+</sb:reference>
+</ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography>
+</tail>
+</article>

@@ -1,0 +1,4120 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE article PUBLIC "-//ES//DTD journal article DTD version 5.2.0//EN//XML" "art520.dtd" [<!ENTITY mmc1 SYSTEM "mmc1" NDATA APPLICATION><!ENTITY mmc2 SYSTEM "mmc2" NDATA IMAGE><!ENTITY gr1 SYSTEM "gr1" NDATA IMAGE><!ENTITY gr2 SYSTEM "gr2" NDATA IMAGE><!ENTITY gr3 SYSTEM "gr3" NDATA IMAGE><!ENTITY gr4 SYSTEM "gr4" NDATA IMAGE><!ENTITY gr5 SYSTEM "gr5" NDATA IMAGE><!ENTITY gr6 SYSTEM "gr6" NDATA IMAGE><!ENTITY fx1 SYSTEM "fx1" NDATA IMAGE>]>
+<article version="5.2" xml:lang="en" docsubtype="fla">
+	<item-info>
+		<jid>ACTHIS</jid>
+		<aid>50946</aid>
+		<ce:pii>S0065-1281(14)00293-1</ce:pii>
+		<ce:doi>10.1016/j.acthis.2014.12.005</ce:doi>
+		<ce:copyright type="full-transfer" year="2014">Elsevier GmbH</ce:copyright>
+	</item-info>
+	<ce:floats>
+		<ce:figure id="fig0005">
+			<ce:label>Fig. 1</ce:label>
+			<ce:caption id="cap0005">
+				<ce:simple-para id="spar0005">Micrographs
+					showing jejunal mucosa: (a) Immunohistochemical detection of the
+					MPO-positive cell population (arrows) in the experimental FL group
+					on WD (anti-MPO); (b) histological detection of the IEL population
+					(arrows) in the experimental SL group on WD (HE); (c)
+					immunohistochemical detection of the CD163-positive cell population
+					(arrows) in the experimental F group on WD (anti-CD163); (d)
+					histochemical detection of the GC population (arrows) in the
+					experimental SL group on WD (alcian blue/nuclear red, 1000×
+					magnification); scale bars
+					<ce:hsp sp="0.25" />
+					=
+					<ce:hsp sp="0.25" />
+					100
+					<ce:hsp sp="0.25" />μm.
+					(For interpretation of the references to colour in this figure
+					legend, the reader is referred to the web version of this article.)
+				</ce:simple-para>
+			</ce:caption>
+			<ce:link locator="gr1" />
+		</ce:figure>
+		<ce:figure id="fig0010">
+			<ce:label>Fig. 2</ce:label>
+			<ce:caption id="cap0010">
+				<ce:simple-para id="spar0010">MPO-positive
+					cell populations in the jejunal biopsies –
+					time-dependent tendency in experimental groups; the values are
+					compared with those measured in each group on WD (Day 0) *
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05, **
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.01.
+				</ce:simple-para>
+			</ce:caption>
+			<ce:link locator="gr2" />
+		</ce:figure>
+		<ce:figure id="fig0015">
+			<ce:label>Fig. 3</ce:label>
+			<ce:caption id="cap0015">
+				<ce:simple-para id="spar0015">IEL
+					population in the jejunal biopsies –
+					time-dependent tendency in experimental groups; the values are
+					compared with those measured in each group on WD (Day 0) *
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05, **
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.01, ***
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.001.
+				</ce:simple-para>
+			</ce:caption>
+			<ce:link locator="gr3" />
+		</ce:figure>
+		<ce:figure id="fig0020">
+			<ce:label>Fig. 4</ce:label>
+			<ce:caption id="cap0020">
+				<ce:simple-para id="spar0020">CD163-positive
+					cell population in the jejunal biop sies –
+					time-dependent tendency in experimental groups; the values are
+					compared with those measured in each group on WD (Day 0) *
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05, **
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.01.
+				</ce:simple-para>
+			</ce:caption>
+			<ce:link locator="gr4" />
+		</ce:figure>
+		<ce:figure id="fig0025">
+			<ce:label>Fig. 5</ce:label>
+			<ce:caption id="cap0025">
+				<ce:simple-para id="spar0025">Mucous-producing
+					GC population in the jejunal biopsies –
+					time-dependent tendency in experimental groups; the values are
+					compared with those measured in each group on WD (Day 0) **
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.01, ***
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.001.
+				</ce:simple-para>
+			</ce:caption>
+			<ce:link locator="gr5" />
+		</ce:figure>
+		<ce:table id="tbl0005" frame="topbot" rowsep="0" colsep="0">
+			<ce:label>Table 1</ce:label>
+			<ce:caption id="cap0030">
+				<ce:simple-para id="spar0030">Fatty acid compositions
+					(percentage) of flaxseed oil, sunflower oil and feed mixtures.</ce:simple-para>
+			</ce:caption>
+			<tgroup cols="4">
+				<colspec colname="col1" />
+				<colspec colname="col2" />
+				<colspec colname="col3" />
+				<colspec colname="col4" />
+				<thead valign="top">
+					<row rowsep="1">
+						<entry align="left">Fatty acid</entry>
+						<entry align="left">Flaxseed oil</entry>
+						<entry align="left">Sunflower oil</entry>
+						<entry align="left">Feed mixtures</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry align="left">Lipids</entry>
+						<entry align="char" char=".">45.78</entry>
+						<entry align="left">ND</entry>
+						<entry align="char" char=".">2.19</entry>
+					</row>
+					<row>
+						<entry align="left">Palmitic. C16:0</entry>
+						<entry align="char" char=".">5.1</entry>
+						<entry align="left">6.3</entry>
+						<entry align="char" char=".">17.4</entry>
+					</row>
+					<row>
+						<entry align="left">Stearic. C18:0</entry>
+						<entry align="char" char=".">3.7</entry>
+						<entry align="left">3.2</entry>
+						<entry align="char" char=".">2.2</entry>
+					</row>
+					<row>
+						<entry align="left">Oleic. C18:1</entry>
+						<entry align="char" char=".">18.4</entry>
+						<entry align="left">22.6</entry>
+						<entry align="char" char=".">24.7</entry>
+					</row>
+					<row>
+						<entry align="left">Linoleic. C18:2</entry>
+						<entry align="char" char=".">16.1</entry>
+						<entry align="left">67.9</entry>
+						<entry align="char" char=".">51.9</entry>
+					</row>
+					<row>
+						<entry align="left">Linolenic. C18:3</entry>
+						<entry align="char" char=".">56.8</entry>
+						<entry align="left">0</entry>
+						<entry align="char" char=".">3.8</entry>
+					</row>
+				</tbody>
+			</tgroup>
+			<ce:legend>
+				<ce:simple-para id="spar0035">ND, not detected.</ce:simple-para>
+			</ce:legend>
+		</ce:table>
+		<ce:table id="tbl0010" frame="topbot" rowsep="0" colsep="0">
+			<ce:label>Table 2</ce:label>
+			<ce:caption id="cap0035">
+				<ce:simple-para id="spar0040">Antibodies employed in this
+					experimental study.</ce:simple-para>
+			</ce:caption>
+			<tgroup cols="4">
+				<colspec colname="col1" />
+				<colspec colname="col2" />
+				<colspec colname="col3" />
+				<colspec colname="col4" />
+				<thead valign="top">
+					<row rowsep="1">
+						<entry align="left">Primary and secondary antibodies</entry>
+						<entry align="left">Antibody working dilution</entry>
+						<entry align="left">
+							Incubation parameters
+							<ce:cross-ref id="crf0005" refid="tblfn0005">
+								<ce:sup>a</ce:sup>
+							</ce:cross-ref>
+						</entry>
+						<entry align="left">Source/code</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry align="left">Anti-myeloperoxidase rabbit polyclonal antibody</entry>
+						<entry align="left">1:100</entry>
+						<entry align="left">
+							1
+							<ce:hsp sp="0.25" />
+							h, RT
+						</entry>
+						<entry align="left">Thermo Scientific (RB-373-A0)</entry>
+					</row>
+					<row>
+						<entry align="left">
+							Anti-mouse IgG (H
+							<ce:hsp sp="0.25" />
+							+
+							<ce:hsp sp="0.25" />
+							L)/anti-rabbit IgG (H
+							<ce:hsp sp="0.25" />
+							+
+							<ce:hsp sp="0.25" />
+							L)
+						</entry>
+						<entry align="left">
+							1
+							<ce:cross-ref id="crf0010" refid="tblfn0010">
+								<ce:sup>b</ce:sup>
+							</ce:cross-ref>
+						</entry>
+						<entry align="left">
+							30
+							<ce:hsp sp="0.25" />
+							min, RT
+						</entry>
+						<entry align="left">Thermo Scientific (TL-015-HDS)</entry>
+					</row>
+					<row>
+						<entry align="left">Anti-CD163 rabbit clonal antibody</entry>
+						<entry align="left">1:100</entry>
+						<entry align="left">
+							1
+							<ce:hsp sp="0.25" />
+							h, RT
+						</entry>
+						<entry align="left">DB-Biotech (DB 045-0.5)</entry>
+					</row>
+					<row>
+						<entry align="left">Biotinylated goat anti-mouse IgG/goat
+							anti-rabbit IgG</entry>
+						<entry align="left">
+							1
+							<ce:cross-ref id="crf0015" refid="tblfn0010">
+								<ce:sup>b</ce:sup>
+							</ce:cross-ref>
+						</entry>
+						<entry align="left">
+							40
+							<ce:hsp sp="0.25" />
+							min, RT
+						</entry>
+						<entry align="left">Millipore IHC Select (DAB150)</entry>
+					</row>
+				</tbody>
+			</tgroup>
+			<ce:table-footnote id="tblfn0005">
+				<ce:label>a</ce:label>
+				<ce:note-para id="npar0005">RT, room temperature.</ce:note-para>
+			</ce:table-footnote>
+			<ce:table-footnote id="tblfn0010">
+				<ce:label>b</ce:label>
+				<ce:note-para id="npar0010">The antibody is supplied ready-to-use
+					by the manufacturer.</ce:note-para>
+			</ce:table-footnote>
+		</ce:table>
+		<ce:table id="tbl0015" frame="topbot" rowsep="0" colsep="0">
+			<ce:label>Table 3</ce:label>
+			<ce:caption id="cap0040">
+				<ce:simple-para id="spar0045">MPO-positive cell population in
+					the jejunal biopsies.</ce:simple-para>
+			</ce:caption>
+			<tgroup cols="5">
+				<colspec colname="col1" />
+				<colspec colname="col2" />
+				<colspec colname="col3" />
+				<colspec colname="col4" />
+				<colspec colname="col5" />
+				<thead valign="top">
+					<row rowsep="1">
+						<entry align="left" />
+						<entry align="left">WD</entry>
+						<entry align="left">3 Days PW</entry>
+						<entry align="left">7 Days PW</entry>
+						<entry align="left">21 Days PW</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry align="left">S</entry>
+						<entry align="left">
+							4.20
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.20
+						</entry>
+						<entry align="left">
+							4.46
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.87
+						</entry>
+						<entry align="left">
+							4.80
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.34
+						</entry>
+						<entry align="left">
+							3.26
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.63
+						</entry>
+					</row>
+					<row>
+						<entry align="left">SL</entry>
+						<entry align="left">
+							2.34
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.39
+						</entry>
+						<entry align="left">
+							5.93
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							1.03
+						</entry>
+						<entry align="left">
+							6.66
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.56
+						</entry>
+						<entry align="left">
+							5.00
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.61
+						</entry>
+					</row>
+					<row>
+						<entry align="left">F</entry>
+						<entry align="left">
+							11.53
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.89
+							<ce:cross-ref id="crf0020" refid="tblfn0020">
+								<ce:sup>**</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S;
+							<ce:cross-ref id="crf0025" refid="tblfn0025">
+								<ce:sup>***</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							SL;
+						</entry>
+						<entry align="left">
+							10.00
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.31
+							<ce:cross-ref id="crf0030" refid="tblfn0015">
+								<ce:sup>*</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							SL;
+							<ce:cross-ref id="crf0035" refid="tblfn0020">
+								<ce:sup>**</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S;
+						</entry>
+						<entry align="left">
+							11.73
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.99
+							<ce:cross-ref id="crf0040" refid="tblfn0020">
+								<ce:sup>**</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							SL;
+							<ce:cross-ref id="crf0045" refid="tblfn0025">
+								<ce:sup>***</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S
+						</entry>
+						<entry align="left">
+							6.73
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.65
+						</entry>
+					</row>
+					<row>
+						<entry align="left">FL</entry>
+						<entry align="left">
+							11.60
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							1.40
+							<ce:cross-ref id="crf0050" refid="tblfn0020">
+								<ce:sup>**</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S;
+							<ce:cross-ref id="crf0055" refid="tblfn0025">
+								<ce:sup>***</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							SL
+						</entry>
+						<entry align="left">
+							9.80
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.80
+							<ce:cross-ref id="crf0060" refid="tblfn0015">
+								<ce:sup>*</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							SL;
+							<ce:cross-ref id="crf0065" refid="tblfn0020">
+								<ce:sup>**</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S;
+						</entry>
+						<entry align="left">
+							10.26
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.81
+							<ce:cross-ref id="crf0070" refid="tblfn0015">
+								<ce:sup>*</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							SL;
+							<ce:cross-ref id="crf0075" refid="tblfn0025">
+								<ce:sup>***</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S
+						</entry>
+						<entry align="left">
+							10.33
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.65
+							<ce:cross-ref id="crf0080" refid="tblfn0015">
+								<ce:sup>*</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							F;
+							<ce:cross-ref id="crf0085" refid="tblfn0020">
+								<ce:sup>**</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S; SL
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+			<ce:legend>
+				<ce:simple-para id="spar0050">WD, weaning day; PW, post-weaning.</ce:simple-para>
+				<ce:simple-para id="spar0055">
+					Values are mean
+					<ce:hsp sp="0.25" />±
+					<ce:hsp sp="0.25" />
+					SEM.
+				</ce:simple-para>
+			</ce:legend>
+			<ce:table-footnote id="tblfn0015">
+				<ce:label>*</ce:label>
+				<ce:note-para id="npar0015">
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05.
+				</ce:note-para>
+			</ce:table-footnote>
+			<ce:table-footnote id="tblfn0020">
+				<ce:label>**</ce:label>
+				<ce:note-para id="npar0020">
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.01.
+				</ce:note-para>
+			</ce:table-footnote>
+			<ce:table-footnote id="tblfn0025">
+				<ce:label>***</ce:label>
+				<ce:note-para id="npar0025">
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.001.
+				</ce:note-para>
+			</ce:table-footnote>
+		</ce:table>
+		<ce:table id="tbl0020" frame="topbot" rowsep="0" colsep="0">
+			<ce:label>Table 4</ce:label>
+			<ce:caption id="cap0045">
+				<ce:simple-para id="spar0060">IEL population in the jejunal
+					biopsies.</ce:simple-para>
+			</ce:caption>
+			<tgroup cols="5">
+				<colspec colname="col1" />
+				<colspec colname="col2" />
+				<colspec colname="col3" />
+				<colspec colname="col4" />
+				<colspec colname="col5" />
+				<thead valign="top">
+					<row rowsep="1">
+						<entry align="left" />
+						<entry align="left">WD</entry>
+						<entry align="left">3 Days PW</entry>
+						<entry align="left">7 Days PW</entry>
+						<entry align="left">21 Days PW</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry align="left">S</entry>
+						<entry align="left">
+							21.50
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							3.27
+						</entry>
+						<entry align="left">
+							16.75
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							1.93
+						</entry>
+						<entry align="left">
+							13.50
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.65
+						</entry>
+						<entry align="char" char="±">
+							34.25
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							5.11
+						</entry>
+					</row>
+					<row>
+						<entry align="left">SL</entry>
+						<entry align="left">
+							7.66
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.84
+							<ce:cross-ref id="crf0090" refid="tblfn0035">
+								<ce:sup>**</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S
+						</entry>
+						<entry align="left">
+							15.40
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							1.60
+						</entry>
+						<entry align="left">
+							22.17
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							1.19
+							<ce:cross-ref id="crf0095" refid="tblfn0030">
+								<ce:sup>*</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S
+						</entry>
+						<entry align="char" char="±">
+							26.40
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							1.81
+						</entry>
+					</row>
+					<row>
+						<entry align="left">F</entry>
+						<entry align="left">
+							32.50
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							1.31
+							<ce:cross-ref id="crf0100" refid="tblfn0030">
+								<ce:sup>*</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S;
+							<ce:cross-ref id="crf0105" refid="tblfn0040">
+								<ce:sup>***</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							SL
+						</entry>
+						<entry align="left">
+							37.5
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							3.78
+							<ce:cross-ref id="crf0110" refid="tblfn0040">
+								<ce:sup>***</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S; SL
+						</entry>
+						<entry align="left">
+							21.40
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							2.06
+						</entry>
+						<entry align="char" char="±">
+							35.00
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							2.00
+						</entry>
+					</row>
+					<row>
+						<entry align="left">FL</entry>
+						<entry align="left">
+							38.40
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							3.50
+							<ce:cross-ref id="crf0115" refid="tblfn0040">
+								<ce:sup>***</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S; SL
+						</entry>
+						<entry align="left">
+							26.6
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							2.94
+						</entry>
+						<entry align="left">
+							36.00
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							2.88
+							<ce:cross-ref id="crf0120" refid="tblfn0040">
+								<ce:sup>***</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S, SL, F
+						</entry>
+						<entry align="char" char="±">
+							37.40
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							3.83
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+			<ce:legend>
+				<ce:simple-para id="spar0065">WD, weaning day; PW, post-weaning.</ce:simple-para>
+				<ce:simple-para id="spar0070">
+					Values are mean
+					<ce:hsp sp="0.25" />±
+					<ce:hsp sp="0.25" />
+					SEM.
+				</ce:simple-para>
+			</ce:legend>
+			<ce:table-footnote id="tblfn0030">
+				<ce:label>*</ce:label>
+				<ce:note-para id="npar0030">
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05.
+				</ce:note-para>
+			</ce:table-footnote>
+			<ce:table-footnote id="tblfn0035">
+				<ce:label>**</ce:label>
+				<ce:note-para id="npar0035">
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.01.
+				</ce:note-para>
+			</ce:table-footnote>
+			<ce:table-footnote id="tblfn0040">
+				<ce:label>***</ce:label>
+				<ce:note-para id="npar0040">
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.001.
+				</ce:note-para>
+			</ce:table-footnote>
+		</ce:table>
+		<ce:table id="tbl0025" frame="topbot" rowsep="0" colsep="0">
+			<ce:label>Table 5</ce:label>
+			<ce:caption id="cap0050">
+				<ce:simple-para id="spar0075">CD163-positive cell population in
+					the jejunal biopsies.</ce:simple-para>
+			</ce:caption>
+			<tgroup cols="5">
+				<colspec colname="col1" />
+				<colspec colname="col2" />
+				<colspec colname="col3" />
+				<colspec colname="col4" />
+				<colspec colname="col5" />
+				<thead valign="top">
+					<row rowsep="1">
+						<entry align="left" />
+						<entry align="left">WD</entry>
+						<entry align="left">3 Days PW</entry>
+						<entry align="left">7 Days PW</entry>
+						<entry align="left">21 Days PW</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry align="left">S</entry>
+						<entry align="left">
+							7.20
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.91
+						</entry>
+						<entry align="left">
+							7.30
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.54
+						</entry>
+						<entry align="left">
+							7.13
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.37
+						</entry>
+						<entry align="char" char="±">
+							6.26
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.53
+						</entry>
+					</row>
+					<row>
+						<entry align="left">SL</entry>
+						<entry align="left">
+							3.20
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.61
+							<ce:cross-ref id="crf0125" refid="tblfn0045">
+								<ce:sup>*</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S
+						</entry>
+						<entry align="left">
+							2.66
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.17
+							<ce:cross-ref id="crf0130" refid="tblfn0050">
+								<ce:sup>**</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S
+						</entry>
+						<entry align="left">
+							6.46
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.56
+						</entry>
+						<entry align="char" char="±">
+							4.53
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.40
+						</entry>
+					</row>
+					<row>
+						<entry align="left">F</entry>
+						<entry align="left">
+							17.53
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.75
+							<ce:cross-ref id="crf0135" refid="tblfn0055">
+								<ce:sup>***</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							SL, S, FL
+						</entry>
+						<entry align="left">
+							14.46
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.96
+							<ce:cross-ref id="crf0140" refid="tblfn0055">
+								<ce:sup>***</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S, SL, FL
+						</entry>
+						<entry align="left">
+							12.66
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							1.47
+							<ce:cross-ref id="crf0145" refid="tblfn0050">
+								<ce:sup>**</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S, SL;
+							<ce:cross-ref id="crf0150" refid="tblfn0055">
+								<ce:sup>***</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							FL
+						</entry>
+						<entry align="char" char="±">
+							6.80
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							1.44
+						</entry>
+					</row>
+					<row>
+						<entry align="left">FL</entry>
+						<entry align="left">
+							3.46
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.40
+							<ce:cross-ref id="crf0155" refid="tblfn0045">
+								<ce:sup>*</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S
+						</entry>
+						<entry align="left">
+							2.73
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.29
+							<ce:cross-ref id="crf0160" refid="tblfn0050">
+								<ce:sup>**</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S
+						</entry>
+						<entry align="left">
+							4.06
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.26
+						</entry>
+						<entry align="char" char="±">
+							4.06
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							0.06
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+			<ce:legend>
+				<ce:simple-para id="spar0080">WD, weaning day; PW, post-weaning.</ce:simple-para>
+				<ce:simple-para id="spar0085">
+					Values are mean
+					<ce:hsp sp="0.25" />±
+					<ce:hsp sp="0.25" />
+					SEM.
+				</ce:simple-para>
+			</ce:legend>
+			<ce:table-footnote id="tblfn0045">
+				<ce:label>*</ce:label>
+				<ce:note-para id="npar0045">
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05,
+				</ce:note-para>
+			</ce:table-footnote>
+			<ce:table-footnote id="tblfn0050">
+				<ce:label>**</ce:label>
+				<ce:note-para id="npar0050">
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.01,
+				</ce:note-para>
+			</ce:table-footnote>
+			<ce:table-footnote id="tblfn0055">
+				<ce:label>***</ce:label>
+				<ce:note-para id="npar0055">
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.001.
+				</ce:note-para>
+			</ce:table-footnote>
+		</ce:table>
+		<ce:table id="tbl0030" frame="topbot" rowsep="0" colsep="0">
+			<ce:label>Table 6</ce:label>
+			<ce:caption id="cap0055">
+				<ce:simple-para id="spar0090">Goblet cell population in the
+					jejunal biopsies.</ce:simple-para>
+			</ce:caption>
+			<tgroup cols="5">
+				<colspec colname="col1" />
+				<colspec colname="col2" />
+				<colspec colname="col3" />
+				<colspec colname="col4" />
+				<colspec colname="col5" />
+				<thead valign="top">
+					<row rowsep="1">
+						<entry align="left" />
+						<entry align="left">WD</entry>
+						<entry align="left">3 Days PW</entry>
+						<entry align="left">7 Days PW</entry>
+						<entry align="left">21 Days PW</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry align="left">S</entry>
+						<entry align="left">
+							18.17
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							5.89
+						</entry>
+						<entry align="char" char="±">
+							32.00
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							14.89
+						</entry>
+						<entry align="char" char="±">
+							21.50
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							7.19
+						</entry>
+						<entry align="char" char="±">
+							65.75
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							8.16
+						</entry>
+					</row>
+					<row>
+						<entry align="left">SL</entry>
+						<entry align="left">
+							71.83
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							4.33
+							<ce:cross-ref id="crf0165" refid="tblfn0070">
+								<ce:sup>***</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S
+						</entry>
+						<entry align="char" char="±">
+							19.00
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							6.83
+						</entry>
+						<entry align="char" char="±">
+							18.83
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							4.14
+						</entry>
+						<entry align="char" char="±">
+							55.60
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							9.41
+						</entry>
+					</row>
+					<row>
+						<entry align="left">F</entry>
+						<entry align="left">
+							9.25
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							1.44
+							<ce:cross-ref id="crf0170" refid="tblfn0065">
+								<ce:sup>**</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							S;
+							<ce:cross-ref id="crf0175" refid="tblfn0070">
+								<ce:sup>***</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							SL; FL
+						</entry>
+						<entry align="char" char="±">
+							11.17
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							2.79
+						</entry>
+						<entry align="char" char="±">
+							9.80
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							4.59
+						</entry>
+						<entry align="char" char="±">
+							57.80
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							15.02
+						</entry>
+					</row>
+					<row>
+						<entry align="left">FL</entry>
+						<entry align="left">
+							49.20
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							3.78
+							<ce:cross-ref id="crf0180" refid="tblfn0060">
+								<ce:sup>*</ce:sup>
+							</ce:cross-ref>
+							<ce:italic>vs.</ce:italic>
+							SL
+						</entry>
+						<entry align="char" char="±">
+							31.00
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							8.83
+						</entry>
+						<entry align="char" char="±">
+							24.80
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							4.69
+						</entry>
+						<entry align="char" char="±">
+							56.40
+							<ce:hsp sp="0.25" />±
+							<ce:hsp sp="0.25" />
+							5.56
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+			<ce:legend>
+				<ce:simple-para id="spar0095">WD, weaning day.</ce:simple-para>
+				<ce:simple-para id="spar0100">
+					Values are mean
+					<ce:hsp sp="0.25" />±
+					<ce:hsp sp="0.25" />
+					SEM.
+				</ce:simple-para>
+			</ce:legend>
+			<ce:table-footnote id="tblfn0060">
+				<ce:label>*</ce:label>
+				<ce:note-para id="npar0060">
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05.
+				</ce:note-para>
+			</ce:table-footnote>
+			<ce:table-footnote id="tblfn0065">
+				<ce:label>**</ce:label>
+				<ce:note-para id="npar0065">
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.01.
+				</ce:note-para>
+			</ce:table-footnote>
+			<ce:table-footnote id="tblfn0070">
+				<ce:label>***</ce:label>
+				<ce:note-para id="npar0070">
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.001.
+				</ce:note-para>
+			</ce:table-footnote>
+		</ce:table>
+	</ce:floats>
+	<head>
+		<ce:title id="tit0005">
+			Influence of dietary supplementation with flaxseed and
+			<ce:italic>lactobacilli</ce:italic>
+			on the cells of local innate immunity response in the jejunal mucosa
+			in piglets after weaning
+		</ce:title>
+		<ce:author-group id="aug0005">
+			<ce:author id="aut0005">
+				<ce:given-name>Stefan</ce:given-name>
+				<ce:surname>Toth</ce:surname>
+				<ce:cross-ref id="crf0185" refid="aff0005">
+					<ce:sup>a</ce:sup>
+				</ce:cross-ref>
+			</ce:author>
+			<ce:author id="aut0010">
+				<ce:given-name>Zuzana</ce:given-name>
+				<ce:surname>Jonecova</ce:surname>
+				<ce:cross-ref id="crf0190" refid="aff0005">
+					<ce:sup>a</ce:sup>
+				</ce:cross-ref>
+			</ce:author>
+			<ce:author id="aut0015">
+				<ce:given-name>Peter</ce:given-name>
+				<ce:surname>Kruzliak</ce:surname>
+				<ce:cross-ref id="crf0195" refid="aff0010">
+					<ce:sup>b</ce:sup>
+				</ce:cross-ref>
+				<ce:cross-ref id="crf0200" refid="cor0005">
+					<ce:sup>&#x204e;</ce:sup>
+				</ce:cross-ref>
+				<ce:e-address id="eadd0005" type="email">peter.kruzliak@savba.sk</ce:e-address>
+			</ce:author>
+			<ce:author id="aut0020">
+				<ce:given-name>Rachele</ce:given-name>
+				<ce:surname>Ciccocioppo</ce:surname>
+				<ce:cross-ref id="crf0205" refid="aff0015">
+					<ce:sup>c</ce:sup>
+				</ce:cross-ref>
+			</ce:author>
+			<ce:author id="aut0025">
+				<ce:given-name>Radomira</ce:given-name>
+				<ce:surname>Nemcova</ce:surname>
+				<ce:cross-ref id="crf0210" refid="aff0020">
+					<ce:sup>d</ce:sup>
+				</ce:cross-ref>
+			</ce:author>
+			<ce:affiliation id="aff0005">
+				<ce:label>a</ce:label>
+				<ce:textfn>
+					Department of Histology and Embryology, Faculty of Medicine, Pavel
+					Jozef Safarik University, <!--<city> -->
+					Kosice<!--</city> -->
+					, Slovak Republic
+				</ce:textfn>
+				<sa:affiliation>
+					<sa:organization>Department of Histology and Embryology</sa:organization>
+					<sa:organization>Faculty of Medicine</sa:organization>
+					<sa:organization>Pavel Jozef Safarik University</sa:organization>
+					<sa:city>Kosice</sa:city>
+					<sa:country>Slovak Republic</sa:country>
+				</sa:affiliation>
+			</ce:affiliation>
+			<ce:affiliation id="aff0010">
+				<ce:label>b</ce:label>
+				<ce:textfn>International
+					Clinical Research Center, St. Anne’s
+					University Hospital and Masaryk University, <!--<city> -->
+					Brno<!--</city> -->
+					, <!--<country> -->
+					Czech Republic<!--</country> -->
+				</ce:textfn>
+				<sa:affiliation>
+					<sa:organization>International
+						Clinical Research Center, St. Anne’s
+						University Hospital and Masaryk University
+					</sa:organization>
+					<sa:city>Brno</sa:city>
+					<sa:country>Czech Republic</sa:country>
+				</sa:affiliation>
+			</ce:affiliation>
+			<ce:affiliation id="aff0015">
+				<ce:label>c</ce:label>
+				<ce:textfn>Clinica
+					Medica I, Fondazione IRCCS Policlinico San Matteo, Universita
+					degli Studi di Pavia, <!--<city> -->
+					Pavia<!--</city> -->
+					, <!--<country> -->
+					Italy<!--</country> -->
+				</ce:textfn>
+				<sa:affiliation>
+					<sa:organization>Clinica Medica I</sa:organization>
+					<sa:organization>Fondazione IRCCS Policlinico San Matteo</sa:organization>
+					<sa:organization>Universita
+						degli Studi di Pavia
+					</sa:organization>
+					<sa:city>Pavia</sa:city>
+					<sa:country>Italy</sa:country>
+				</sa:affiliation>
+			</ce:affiliation>
+			<ce:affiliation id="aff0020">
+				<ce:label>d</ce:label>
+				<ce:textfn>
+					Department of Microbiology and Immunology, University of Veterinary
+					Medicine and Pharmacy, <!--<city> -->
+					Kosice<!--</city> -->
+					, Slovak Republic
+				</ce:textfn>
+				<sa:affiliation>
+					<sa:organization>Department of Microbiology and Immunology</sa:organization>
+					<sa:organization>University of Veterinary Medicine and Pharmacy</sa:organization>
+					<sa:city>Kosice</sa:city>
+					<sa:country>Slovak Republic</sa:country>
+				</sa:affiliation>
+			</ce:affiliation>
+			<ce:correspondence id="cor0005">
+				<ce:label>&#x204e;</ce:label>
+				<ce:text>Corresponding
+					author at: International Clinical Research Center, St. Anne’s
+					University Hospital and Masaryk University, Pekarska 53, 656 91
+					Brno, Czech Republic.
+				</ce:text>
+			</ce:correspondence>
+		</ce:author-group>
+		<ce:date-received day="2" month="9" year="2014" />
+		<ce:date-revised day="11" month="12" year="2014" />
+		<ce:date-accepted day="11" month="12" year="2014" />
+		<ce:abstract id="abs0005">
+			<ce:section-title id="sect0005">Abstract</ce:section-title>
+			<ce:abstract-sec id="abst0005">
+				<ce:simple-para id="spar0105">
+					A histological study was designed to determine the influence of
+					flaxseed and/or
+					<ce:italic>lactobacilli</ce:italic>
+					inclusion in the diet of piglets from 10 days before to 21 days
+					after weaning. The selected inflammatory cell population incidence
+					in the piglet jejunal mucosa was investigated. Significantly higher
+					numbers of myeloperoxidase-positive (
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.01) and CD163-positive (
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.001) cells in the jejunal mucosa were recorded on the weaning day
+					and for 7 days after (
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.001 and
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.01, respectively) in the flaxseed group compared with the basal
+					diet. The number of intraepithelial lymphocytes was also
+					significantly increased until 3 days after weaning (
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.001). A prolonged significant increase in the
+					myeloperoxidase-positive cells and intraepithelial lymphocyte
+					numbers in the flaxseed
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					<ce:italic>lactobacilli</ce:italic>
+					group was detected. In contrast, the number of CD163-positive cells
+					in the flaxseed
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					<ce:italic>lactobacilli</ce:italic>
+					group was significantly lower on the day of weaning (
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05) and 3 days after (
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.01). The same effect was observed in the group with
+					<ce:italic>lactobacilli</ce:italic>
+					alone during the first 3 days after weaning (
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05 and
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.01, respectively) and these findings indicate down-regulation of
+					CD163 expression in the jejunal mucosa by
+					<ce:italic>lactobacilli</ce:italic>
+					. The presence of
+					<ce:italic>lactobacilli</ce:italic>
+					in the diet had a stimulatory effect on goblet cell quantity in the
+					epithelium (
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.001) and a distinct 50% reduction in the flaxseed group (
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.01) compared with the basal diet was observed on the weaning day.
+					A significant increase in myeloperoxidase-positive cell number in
+					the jejunal mucosa in the flaxseed
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					<ce:italic>lactobacilli</ce:italic>
+					group was the only significant difference (
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.05 and
+					<ce:italic>P</ce:italic>
+					<ce:hsp sp="0.25" />
+					&lt;
+					<ce:hsp sp="0.25" />
+					0.01, respectively) found 21 days after weaning in comparison with
+					all the other groups, indicating the pro-inflammatory effect of
+					this feed additive combination. We conclude that dietary
+					supplementation with flaxseed and
+					<ce:italic>lactobacilli</ce:italic>
+					on the cells of local innate immunity response in the jejunal
+					mucosa in piglets after weaning might be linked with significant
+					anti-inflammatory effects in the jejunal mucosa.
+				</ce:simple-para>
+			</ce:abstract-sec>
+		</ce:abstract>
+		<ce:keywords id="kwd0005" class="abr">
+			<ce:section-title id="sect0010">Abbreviations</ce:section-title>
+			<ce:keyword id="kw0005">
+				<ce:text>F</ce:text>
+				<ce:keyword id="kw0010">
+					<ce:text>flaxseed</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0015">
+				<ce:text>FL</ce:text>
+				<ce:keyword id="kw0020">
+					<ce:text>
+						probiotic cheeses
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						flaxseed
+					</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0025">
+				<ce:text>GC</ce:text>
+				<ce:keyword id="kw0030">
+					<ce:text>goblet cells</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0035">
+				<ce:text>IEL</ce:text>
+				<ce:keyword id="kw0040">
+					<ce:text>intraepithelial lymphocytes</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0045">
+				<ce:text>MPO</ce:text>
+				<ce:keyword id="kw0050">
+					<ce:text>myeloperoxidase</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0055">
+				<ce:text>PUFA</ce:text>
+				<ce:keyword id="kw0060">
+					<ce:text>polyunsaturated fatty acids</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0065">
+				<ce:text>PW</ce:text>
+				<ce:keyword id="kw0070">
+					<ce:text>post-weaning</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0075">
+				<ce:text>S</ce:text>
+				<ce:keyword id="kw0080">
+					<ce:text>sunflower oil</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0085">
+				<ce:text>SL</ce:text>
+				<ce:keyword id="kw0090">
+					<ce:text>
+						probiotic cheeses
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						sunflower oil
+					</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+			<ce:keyword id="kw0095">
+				<ce:text>WD</ce:text>
+				<ce:keyword id="kw0100">
+					<ce:text>weaning day</ce:text>
+				</ce:keyword>
+			</ce:keyword>
+		</ce:keywords>
+		<ce:keywords id="kwd0010" class="keyword">
+			<ce:section-title id="sect0015">Keywords</ce:section-title>
+			<ce:keyword id="kw0105">
+				<ce:text>Piglet</ce:text>
+			</ce:keyword>
+			<ce:keyword id="kw0110">
+				<ce:text>Weaning</ce:text>
+			</ce:keyword>
+			<ce:keyword id="kw0115">
+				<ce:text>Intestinal mucosa</ce:text>
+			</ce:keyword>
+			<ce:keyword id="kw0120">
+				<ce:text>Inflammatory cells</ce:text>
+			</ce:keyword>
+			<ce:keyword id="kw0125">
+				<ce:text>Lactobacilli</ce:text>
+			</ce:keyword>
+			<ce:keyword id="kw0130">
+				<ce:text>Flaxseed</ce:text>
+			</ce:keyword>
+		</ce:keywords>
+	</head>
+	<body>
+		<ce:sections>
+			<ce:section id="sec0005">
+				<ce:section-title id="sect0020">Introduction</ce:section-title>
+				<ce:para id="par0005">
+					At weaning, piglets are subjected to many stressful circumstances
+					associated with their change of environment, separation from the
+					mothers, transport, and general replacement of fluid milk nutrition
+					by solid food with a different composition and nutrient value. The
+					complexes of these social, environmental and dietary stresses
+					interfere with gut development and adaptation and are definitely
+					responsible for maldigestion, malabsorption, shift in gut
+					microflora, poor performance and diarrhoea in piglets after weaning
+					(PW) (
+					<ce:cross-ref id="crf0215" refid="bib0200">Verdonk, 2006</ce:cross-ref>
+					). The pathophysiological base of all these disorders is closely
+					connected with the inflammatory response of the intestinal mucosa.
+				</ce:para>
+				<ce:para id="par0010">
+					The intestinal surface is covered by a protective mucous layer
+					which represents the front line of innate host defence. The goblet
+					cells (GC), which reside throughout the length of the intestine
+					within the intestinal epithelial layer, are responsible for the
+					production and maintenance of the mucous layer coating the
+					gastrointestinal tract. Another special cell type present in the
+					epithelium that is involved in the immunological interrelations are
+					the intraepithelial lymphocytes (IEL), which make up the first
+					immune cell line of defence in the intestine (
+					<ce:cross-ref id="crf0220" refid="bib0015">Beagley and Husband,
+						1998</ce:cross-ref>
+					). The majority of these cells are CD8-positive T cells (
+					<ce:cross-ref id="crf0225" refid="bib0095">Ishikawa et al., 2007</ce:cross-ref>
+					). Their specific function is not clear, but it has been suggested
+					that they may play a variety of roles, such as immunoregulation and
+					promoting epithelial damage repair (
+					<ce:cross-ref id="crf0230" refid="bib0165">Shen, 2009</ce:cross-ref>
+					). Among the connective tissue cells involved in the innate
+					immunity inflammatory processes, a remarkable position is held by
+					polymorphonuclear leukocytes and tissue macrophages. The tissue
+					myeloperoxidase (MPO) activity is one of the earliest consequences
+					of neutrophil inflammation (
+					<ce:cross-ref id="crf0235" refid="bib0145">Nauseef, 2007</ce:cross-ref>
+					), while in the absence of inflammation, MPO is not found in the
+					extravascular tissue. The plasma membrane glycoprotein CD163, a
+					member of the scavenger receptor cysteine-rich superfamily class B,
+					is highly expressed on resident tissue macrophages and to a lesser
+					extent on monocytes (
+					<ce:cross-ref id="crf0240" refid="bib0060">Fabriek et al., 2005</ce:cross-ref>
+					). The evaluation of MPO-positivity, CD163-positivity and numbers
+					of IEL and GC was used in this study to assess the intensity of the
+					inflammatory response. Many nutritional strategies are arranged to
+					prevent economic losses connected with malnutrition of piglets PW.
+					From a dietary point of view, various biologically active
+					substances, e.g., probiotics, prebiotics, non-specific substrates,
+					plant extracts, organic acids or polyunsaturated fatty acids, are
+					included in the diet of piglets around weaning to maintain
+					intestinal homoeostasis (
+					<ce:cross-ref id="crf0245" refid="bib0025">Bomba et al., 2006</ce:cross-ref>).
+					The aim of our experimental study was to analyse changes in the
+					inflammatory cell populations present in the mucosa, which reflect
+					the health status and the level of local innate immunity of the
+					intestine and have a potential influence on diarrhoeic syndrome
+					progress. The selected cell populations were recorded from the day
+					of weaning (WD) to 21 days PW in piglets. Our objectives were: (1)
+					to evaluate changes in the mucous-producing GC number in the
+					jejunal epithelium; (2) to analyse the mucosal cells participating
+					in the inflammatory response –
+					IEL, MPO-positive cells and CD163-positive cells; (3) to evaluate
+					the influence of biologically active substances on these processes –
+					<ce:italic>lactobacilli</ce:italic>
+					and/or flaxseed as a source of polyunsaturated fatty acids (n-3
+					PUFA); (4) to compare the differences between the experimental
+					groups with different diets at the same time period as well as the
+					time-dependent changes in the individual groups during 21 days PW.
+				</ce:para>
+			</ce:section>
+			<ce:section id="sec0010">
+				<ce:section-title id="sect0025">Materials and methods</ce:section-title>
+				<ce:para id="par0015">The State Veterinary and Food Administration of
+					the Slovak Republic approved the experimental protocol number
+					2108/07-221 and the animals were handled and sacrificed in a humane
+					manner in accordance with the guidelines established by the
+					respective commission.</ce:para>
+				<ce:section id="sec0015">
+					<ce:section-title id="sect0030">Probiotic bacteria</ce:section-title>
+					<ce:para id="par0020">
+						The
+						<ce:italic>Lactobacillus</ce:italic>
+						probiotic strains were isolated at University of Veterinary
+						Medicine and Pharmacy, Kosice,
+						Slovakia. The
+						<ce:italic>Lactobacillus plantarum</ce:italic> –
+						Biocenol™;
+						LP96 (CCM 7512) strain was selected from the gut content of a
+						healthy suckling piglet and
+						<ce:italic>Lactobacillus fermentum</ce:italic> –
+						Biocenol™;
+						LF99 (CCM 7514) was isolated from the gastrointestinal tract of an
+						adult chicken. Cheddar cheese was used as a vehicle for probiotic
+						strains at 1
+						<ce:hsp sp="0.25" />×
+						<ce:hsp sp="0.25" />
+						10
+						<ce:sup>9</ce:sup>
+						<ce:hsp sp="0.25" />
+						CFU/g of cheese. The control cheese did not contain probiotic
+						strains.
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0020">
+					<ce:section-title id="sect0035">Animals, housing and diets</ce:section-title>
+					<ce:para id="par0025">
+						The experiment was carried out on 88 clinically healthy piglets
+						(cross-bred
+						<ce:hsp sp="0.25" />-
+						<ce:hsp sp="0.25" />
+						Yorkshire
+						<ce:hsp sp="0.25" />×
+						<ce:hsp sp="0.25" />
+						Pietrain). The piglets were housed in typical indoor pens and were
+						divided into four groups: control group S (control cheese
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						sunflower oil) 19 piglets; group SL (probiotic cheeses
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						sunflower oil) 23 piglets; group F (control cheese
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						whole crushed flaxseed) 23 piglets; group FL (probiotic cheeses
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						whole crushed flaxseed) 23 piglets.
+					</ce:para>
+					<ce:para id="par0030">The
+						animals were fed Os-02
+						(Spisske
+						kemne
+						zmesi, Spisske
+						Vlachy, Slovak Republic) feed mixture for early piglet weaning.
+						The basal diet was supplemented with whole crushed flaxseed
+						cultivar Flanders (Agrola Kozusice,
+						Czech Republic): 100
+						<ce:hsp sp="0.25" />
+						g flaxseed (i.e., 45.8
+						<ce:hsp sp="0.25" />
+						g lipids)/1
+						<ce:hsp sp="0.25" />
+						kg basal diet for the F and FL groups and control oil: 45.8
+						<ce:hsp sp="0.25" />
+						g sunflower oil/1
+						<ce:hsp sp="0.25" />
+						kg basal diet for the S and SL groups.
+						<ce:cross-ref id="crf0250" refid="tbl0005">Table 1</ce:cross-ref>
+						<ce:float-anchor refid="tbl0005" />
+						gives the fatty acid profile of flaxseed, sunflower oil and the
+						basal diet.
+					</ce:para>
+					<ce:para id="par0035">
+						The piglets were weaned at the age of 28 days. Ten days before WD
+						and 21 days PW the experimental piglets in groups SL and FL were
+						supplied with probiotic cheeses daily (4
+						<ce:hsp sp="0.25" />
+						g/animal/day for each cheese). Piglets in the S and F groups were
+						supplied with control cheese at a dose of 8
+						<ce:hsp sp="0.25" />
+						g/animal/day. The probiotic and control cheeses were supplied to
+						piglets once a day (individually in the morning) in grated form on
+						the surface of the feed. The animals liked the cheese and consumed
+						it instantaneously. In the same period the animals had
+						<ce:italic>ad libitum</ce:italic>
+						access to water and feed supplemented with whole crushed flaxseed
+						or sunflower oil.
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0025">
+					<ce:section-title id="sect0040">Biological material</ce:section-title>
+					<ce:para id="par0040">
+						The pigs in all groups were sacrificed using T61 (Intervet
+						International B.V., Boxmeer, The Netherlands, dose: 0.3
+						<ce:hsp sp="0.25" />ml/kg
+						body weight) intracardially on WD (28-day-old piglets) and on Days
+						3, 7 and 21 PW. The gastrointestinal tract was immediately removed
+						from the sacrificed piglets. Small intestine samples (jejunum) 1–2
+						<ce:hsp sp="0.25" />
+						cm long were taken 10
+						<ce:hsp sp="0.25" />
+						cm from the Ligament of Trietz, washed with cold saline and fixed
+						in 4% paraformaldehyde. The tissues were then embedded in paraffin
+						wax, cut into 4–5
+						<ce:hsp sp="0.25" />μm
+						sections, and mounted. After deparaffinisation, the tissues were
+						stained with haematoxylin–eosin
+						(HE) for histological examination.
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0030">
+					<ce:section-title id="sect0045">Histological cytoanalysis</ce:section-title>
+					<ce:para id="par0045">For
+						immunohistochemistry, wax embedded sections (4–5
+						<ce:hsp sp="0.25" />μm
+						thick) were deparaffinised and rehydrated. Endogenous peroxidase
+						activity was blocked with 3% H
+						<ce:inf>2</ce:inf>
+						O
+						<ce:inf>2</ce:inf>
+						with methanol. Pre-treatment was performed in a microwave oven at
+						600
+						<ce:hsp sp="0.25" />
+						W for 15
+						<ce:hsp sp="0.25" />
+						min in 0.01
+						<ce:hsp sp="0.25" />M
+						citrate buffer at pH 6.0. A primary anti-MPO rabbit polyclonal
+						antibody (RB-373-A0; 1:100; Thermo Scientific, Waltham, MA, USA),
+						and a primary anti-CD163 rabbit clonal antibody (DB 045-0.5;
+						1:100; DB-Biotech, Kosice,
+						Slovakia) were used. Primary antibodies were labelled using a
+						two-stage indirect immunoperoxidase technique. Primary antibodies
+						were applied at the appropriate titre (
+						<ce:cross-ref id="crf0255" refid="tbl0010">Table 2</ce:cross-ref>
+						<ce:float-anchor refid="tbl0010" />
+						). Anti-mouse IgG (H
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />
+						L)/anti-rabbit IgG (H
+						<ce:hsp sp="0.25" />
+						+
+						<ce:hsp sp="0.25" />L)
+						was used for detection of MPO-positive cells (TL-015-HDS; Thermo
+						Scientific-Ultra Vision LPValue Detection System HRP Polymer &amp;
+						DAB Plus Chromogen; Thermo Scientific, Waltham, MA, USA).
+						Biotinylated secondary goat anti-mouse IgG/goat anti-rabbit IgG
+						(DAB150; Millipore IHC Select®
+						Immunoperoxidase Secondary Detection System; Millipore Bioscience
+						Research Reagents, Billerica, MA, USA) was used for detection of a
+						CD163-positive cell population. Positive cells were visualised
+						with diaminobenzidine (DAB) (Sigma–Aldrich,
+						St. Louis, MO, USA) and counterstained with Mayer’s
+						haematoxylin (
+						<ce:cross-ref id="crf0260" refid="fig0005">Fig. 1</ce:cross-ref>
+						<ce:float-anchor refid="fig0005" />
+						a,b). Omission of the primary antibodies was considered as the
+						negative control.
+					</ce:para>
+					<ce:para id="par0050">
+						<ce:italic>The quantity of IEL</ce:italic>
+						was determined in 10 intestinal villi and corresponding crypts in
+						each sample using a magnification 1000×.
+						The IEL population present in the jejunal epithelium was detected
+						using routine HE staining (
+						<ce:cross-ref id="crf0265" refid="fig0005">Fig. 1</ce:cross-ref>
+						c).
+					</ce:para>
+					<ce:para id="par0055">
+						<ce:italic>The population of GC</ce:italic>
+						present in the intestinal mucosa was detected using the alcian
+						blue histochemical staining method. Alcian blue 8GX solution (pH
+						2.5) (Sigma–Aldrich,
+						St. Louis, MO, USA) stains both sulphated and carboxylated acid
+						mucopolysaccharides and sulphated and carboxylated sialomucins
+						(glycoproteins). Excessive amounts of non-sulphated acidic
+						mucosubstances were seen in the cytoplasm of secretory GC.
+						Strongly acidic mucosubstances in the cytoplasm were stained blue,
+						while nuclei were counterstained pink to red using neutral red
+						stain. Alcian blue/neutral red stained tissues were acquired and
+						the number of alcian blue positive GC was determined in 10
+						intestinal villi in each sample (
+						<ce:cross-ref id="crf0270" refid="fig0005">Fig. 1</ce:cross-ref>
+						d).
+					</ce:para>
+					<ce:para id="par0060">The tissue sections were examined and
+						photographed using an Olympus BX50 light microscope with an
+						Olympus SP350 camera (Olympus, Tokyo, Japan) and were evaluated in
+						a blinded study by two independent histologists.</ce:para>
+				</ce:section>
+				<ce:section id="sec0035">
+					<ce:section-title id="sect0050">Statistical analysis</ce:section-title>
+					<ce:para id="par0065">The
+						statistical analysis was performed using GraphPad InStat version
+						3.01 (GraphPad Software, San Diego, CA, USA). The results were
+						determined using one-way ANOVA with a multiple comparison Tukey–Kramer
+						<ce:italic>post hoc</ce:italic>
+						test. All the results are expressed as mean
+						<ce:hsp sp="0.25" />±
+						<ce:hsp sp="0.25" />
+						SEM.
+						<ce:italic>P</ce:italic>
+						values less than 0.05 were considered significant.
+					</ce:para>
+				</ce:section>
+			</ce:section>
+			<ce:section id="sec0040">
+				<ce:section-title id="sect0055">Results</ce:section-title>
+				<ce:section id="sec0045">
+					<ce:section-title id="sect0060">MPO-positive cells</ce:section-title>
+					<ce:para id="par0070">
+						The piglets in the groups with n-3 PUFA in the diet showed a
+						significantly higher amount of MPO-positive cells in the jejunal
+						samples (
+						<ce:cross-ref id="crf0275" refid="tbl0015">Table 3</ce:cross-ref>
+						<ce:float-anchor refid="tbl0015" />
+						) than those in the corresponding control S and SL groups on WD (
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01 and
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.001, respectively). Similar significant results both 3 and 7
+						days PW were found. The MPO-positive cells in the samples taken 21
+						days PW were significantly the most numerous in the FL group, even
+						significantly more numerous than in the corresponding F group (
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01
+						<ce:italic>vs.</ce:italic>
+						both S and SL groups;
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05
+						<ce:italic>vs.</ce:italic>
+						F group). A significant time-dependent increase in MPO activity (
+						<ce:cross-ref id="crf0280" refid="fig0010">Fig. 2</ce:cross-ref>
+						<ce:float-anchor refid="fig0010" />
+						) was detected on Days 3 and 7 in the SL group (
+						<ce:italic>vs.</ce:italic>
+						WD
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05 and
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01, respectively). Conversely, a significant decrease of the
+						same on Day 21 PW in the F group was found (
+						<ce:italic>vs.</ce:italic>
+						WD
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01).
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0050">
+					<ce:section-title id="sect0065">The IEL numbers</ce:section-title>
+					<ce:para id="par0075">
+						The IEL numbers (
+						<ce:cross-ref id="crf0285" refid="tbl0020">Table 4</ce:cross-ref>
+						<ce:float-anchor refid="tbl0020" />
+						) in both flaxseed groups (F and FL) were significantly higher
+						than those in the sunflower groups (S, SL) on WD (
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05 and
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.001, respectively). Similarly, higher numbers 3 days PW in the F
+						group and 7 days (
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.001 both) PW in the FL group were observed. Approximately the
+						same values were found in all groups 21 days PW. In the SL group a
+						significant increase in IEL at all time periods comparing to WD (
+						<ce:cross-ref id="crf0290" refid="fig0015">Fig. 3</ce:cross-ref>
+						<ce:float-anchor refid="fig0015" />
+						) was found (
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01 and
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.001, respectively). The increase in IEL population quantity in
+						the S group started later, after Day 7 PW (
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01).
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0055">
+					<ce:section-title id="sect0070">CD163-positive cells</ce:section-title>
+					<ce:para id="par0080">
+						The most numerous CD163-positive population (
+						<ce:cross-ref id="crf0295" refid="tbl0025">Table 5</ce:cross-ref>
+						<ce:float-anchor refid="tbl0025" />
+						) was present in the F group in the first 7 days PW (
+						<ce:italic>vs</ce:italic>
+						. S, L and FL groups
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.001and
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01, respectively). The SL and FL groups, with
+						<ce:italic>lactobacilli</ce:italic>
+						in the diet, revealed significantly lower CD163-positivity in
+						comparison with the basal diet group both on WD (
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05) and 3 days later (
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01). Those groups in the time-dependent comparison showed an
+						increase in CD163 immunoreactivity at Day 7 PW (
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05 and
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01, respectively) compared to the results found in the samples
+						taken 3 days PW. The decrease in CD163-positive population in the
+						F group started after Day 7 PW (
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01), and at Day 21 PW the value measured showed no significant
+						difference in comparison with all the other groups (
+						<ce:cross-ref id="crf0300" refid="fig0020">Fig. 4</ce:cross-ref>
+						<ce:float-anchor refid="fig0020" />
+						).
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0060">
+					<ce:section-title id="sect0075">The GC number</ce:section-title>
+					<ce:para id="par0085">
+						The smallest number of GC in F group during the first week PW was
+						noticed. A significant reduction of that in the F group in
+						comparison with S (
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01) and both L and FL groups (
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.001) on WD was evident (
+						<ce:cross-ref id="crf0305" refid="tbl0030">Table 6</ce:cross-ref>
+						<ce:float-anchor refid="tbl0030" />
+						). The maximal GC number in the SL group on WD was observed (
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.001
+						<ce:italic>vs</ce:italic>
+						. S and F;
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.05
+						<ce:italic>vs</ce:italic>
+						. FL). A significant increase in GC number at Day 21 PW was
+						detected (
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01) in the F group compared to all previous sampling within this
+						group (
+						<ce:cross-ref id="crf0310" refid="fig0025">Fig. 5</ce:cross-ref>
+						<ce:float-anchor refid="fig0025" />
+						). In the L group, a significant decrease in GC number at Days 3
+						and 7 was observed (
+						<ce:italic>vs.</ce:italic>
+						WD
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.001 both) and at 21 days PW the number was significantly
+						increased (
+						<ce:italic>P</ce:italic>
+						<ce:hsp sp="0.25" />
+						&lt;
+						<ce:hsp sp="0.25" />
+						0.01) in comparison with Day 7 PW. At 21 days PW, no differences
+						in GC quantity between the groups were noticed.
+					</ce:para>
+				</ce:section>
+			</ce:section>
+			<ce:section id="sec0065">
+				<ce:section-title id="sect0080">Discussion</ce:section-title>
+				<ce:para id="par0090">
+					The fatty acid composition of the plasma membrane of inflammatory
+					and immune cells is sensitive to change according to the fatty acid
+					composition of the diet. In particular, the proportion of different
+					types of PUFA in these cells is readily changed, and this provides
+					a link between dietary PUFA intake, inflammation and immunity (
+					<ce:cross-ref id="crf0315" refid="bib0030">Calder, 2001</ce:cross-ref>
+					). While n-6 PUFA activates the immune system and acts in a more
+					pro-inflammatory way, n-3 PUFA has a significant anti-inflammatory
+					effect (
+					<ce:cross-refs id="crfs0005" refid="bib0035 bib0205">Calder, 2013;
+						Yaqoob, 2004</ce:cross-refs>).
+					Flaxseed oil (FO) is the main component of flaxseed and one of the
+					world’s
+					most important vegetable sources of α-linolenic
+					acid. As a nutritionally essential PUFA, it can act as the
+					precursor of longer chain n-3 PUFA, compete with linoleic acid (n-6
+					PUFA) or can directly interact with ion channels and nuclear
+					receptors, and thus may exert various biological functions in the
+					body, including inflammation (
+					<ce:cross-refs id="crfs0010" refid="bib0010 bib0035">Barcelo-Coblijn
+						and Murphy, 2009; Calder, 2013</ce:cross-refs>).
+					However, since α-linolenic
+					acid is highly susceptible to oxidation, addition of FO to the diet
+					leads to a significantly higher tendency toward plasma lipid
+					peroxidation (
+					<ce:cross-ref id="crf0320" refid="bib0195">Trebusak et al., 2011</ce:cross-ref>
+					), which may have an adverse effect. Moreover, a few studies have
+					described different or contradictory n-3 PUFA effects depending on
+					physiological, nutritional or environmental conditions. In some
+					experimental studies it was shown that a large dietary intake of
+					n-3 PUFA could even exacerbate colitis (
+					<ce:cross-refs id="crfs0015" refid="bib0085 bib0135">Hegazi et al.,
+						2006; Matsunaga et al., 2008</ce:cross-refs>
+					). Maternal FO supplementation increased colonic mRNA abundance of
+					pro-inflammatory cytokines in weaned pigs (
+					<ce:cross-ref id="crf0325" refid="bib0125">Leonard et al., 2012</ce:cross-ref>
+					).
+				</ce:para>
+				<ce:para id="par0095">
+					It is known that inclusion of high doses of n-3 PUFA may increase
+					oxidative damage owing to the number of unsaturated double bonds.
+					The contradictory results about pro-inflammatory response might be
+					explained by different antioxidant requirements promoted by stress
+					conditions, since PUFA are more sensitive to oxidative stress than
+					saturated fats (
+					<ce:cross-ref id="crf0330" refid="bib0045">Carroll and Forsberg,
+						2007</ce:cross-ref>
+					). Weaning undoubtedly presents a complex of very strong stressful
+					factors for piglets.
+					<ce:cross-ref id="crf0335" refid="bib0040">Caroprese et al.
+						(2009)</ce:cross-ref>
+					demonstrated that feed supplementation of n-3 PUFA can enhance the
+					immune response of dairy cows exposed to high ambient temperatures
+					acting as a stressful factor. During intestinal inflammation,
+					resident monocytes contribute to the recruitment of neutrophils
+					through production of macrophage-derived chemokines. Activated
+					neutrophils are reported to be the main source of superoxide
+					radicals (
+					<ce:cross-ref id="crf0340" refid="bib0055">Duilio et al., 2001</ce:cross-ref>
+					). Dismutation of superoxide catalysed by the MPO released from the
+					azurophilic granules of neutrophils results in synthesis of
+					hydrogen peroxide, hydroxyl radicals and hypochlorous acid (
+					<ce:cross-ref id="crf0345" refid="bib0100">Kaminski et al., 2002</ce:cross-ref>
+					). The piglets in both the groups with n-3 fatty acids in their
+					diet (F and FL) showed significantly higher MPO activity in the
+					jejunal samples than those in the corresponding control S and SL
+					groups on WD, 3 and 7 days PW, respectively. These data confirm the
+					inflammation-causing effects of n-3 PUFA in jejunal mucosa,
+					probably elicited by oxidative damage. Our results are supported by
+					a study in gnotobiotic piglets fed with flaxseed, in which the
+					up-regulation of pro-inflammatory chemokine IL-8 was observed (
+					<ce:cross-ref id="crf0350" refid="bib0050">Chytilova et al.,
+						2013</ce:cross-ref>
+					). IL-8 is known as a neutrophil chemotactic factor and induces
+					phagocytosis (
+					<ce:cross-ref id="crf0355" refid="bib0180">Takashiba et al.,
+						1992</ce:cross-ref>
+					).
+				</ce:para>
+				<ce:para id="par0100">
+					In our study, the up-regulation of MPO activity was not recorded in
+					piglets with flaxseed alone in the diet 21 days PW, but in the
+					group with
+					<ce:italic>lactobacilli</ce:italic>
+					combined with flaxseed the MPO-positive cell number was
+					significantly higher than in all the other groups that day.
+					<ce:italic>Lactobacilli</ce:italic>
+					alone had no significant effect on MPO-positivity in any time
+					period. In contrast, addition of
+					<ce:italic>lactobacilli</ce:italic>
+					to the diet of piglets induced down-regulation of CD163-positive
+					cells on WD, as well as 3 days PW, in both the L and FL groups. On
+					the other hand, flaxseed alone had a stimulatory effect on the
+					amount of CD163-positive cells from WD to at least 7 days PW.
+					Likewise, up-regulation of CD163 has been documented in many
+					inflammatory pathologies (
+					<ce:cross-refs id="crfs0020" refid="bib0005 bib0170 bib0075">Baeten et al.,
+						2002; Sugaya et al., 2012; Fuentes-Duculan et al., 2010</ce:cross-refs>
+					). CD163 identifies a specific subset of alternatively activated
+					macrophages (
+					<ce:cross-ref id="crf0360" refid="bib0080">Gordon, 2003</ce:cross-ref>
+					) which exert anti-inflammatory effects (
+					<ce:cross-ref id="crf0365" refid="bib0120">Kristiansen et al.,
+						2001</ce:cross-ref>
+					) and CD163-expressing macrophages constitute the predominant
+					macrophage population during the late or resolution phase of many
+					inflammatory reactions. CD163 expression is strongly induced by
+					anti-inflammatory mediators, such as glucocorticoids and IL-10 (
+					<ce:cross-refs id="crfs0025" refid="bib0140 bib0175">Morganelli and
+						Guyre, 1988; Sulahian et al., 2000</ce:cross-refs>
+					). More recently, it has been demonstrated that CD163 can also bind
+					both Gram-negative and Gram-positive bacteria and activate a number
+					of intracellular events that lead to the production of
+					pro-inflammatory cytokines (
+					<ce:cross-ref id="crf0370" refid="bib0065">Fabriek et al., 2009</ce:cross-ref>
+					). Therefore, it is plausible that CD163 may play a dual role in
+					the control of immune responses, perhaps depending on the
+					microenvironment in which CD163-expressing cells are located (
+					<ce:cross-ref id="crf0375" refid="bib0070">Franze et al., 2013</ce:cross-ref>
+					).
+				</ce:para>
+				<ce:para id="par0105">
+					The intestinal epithelium is covered by a protective mucous layer
+					which represents the front line of innate host defence. Goblet
+					cells synthesise secretory mucin glycoproteins representing a major
+					component of the mucous and bioactive molecules such as epithelial
+					membrane-bound mucins, which represent a cell surface protective
+					barrier (
+					<ce:cross-ref id="crf0380" refid="bib0110">Kim and Ho 2010</ce:cross-ref>
+					). In addition, they contribute to epithelial restitution,
+					facilitate cell migration and block apoptosis by producing
+					intestinal trefoil factor peptides (
+					<ce:cross-refs id="crfs0030" refid="bib0185 bib0115">Taupin and
+						Podolsky 2003; Kjellev 2009</ce:cross-refs>
+					). The relatively high resistance of GC to injury and the
+					production of trefoil factor peptides with direct influence on the
+					epithelial restitution make GC a very important part of the
+					intestinal healing process (
+					<ce:cross-ref id="crf0385" refid="bib0190">Toth et al., 2012</ce:cross-ref>).
+					In the present study, the inclusion of flaxseed in the piglets’
+					diet around weaning led to a significant decrease in the GC
+					population in the jejunum. In contrast, the presence of
+					<ce:italic>lactobacilli</ce:italic>
+					in the FL and SL groups caused a significant increase in the GC
+					population, although the number in the flaxseed
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					<ce:italic>lactobacilli</ce:italic>
+					group was significantly lower than in the group with
+					<ce:italic>lactobacilli</ce:italic>
+					alone. Our results showed that including
+					<ce:italic>lactobacilli</ce:italic>
+					increases the GC number in the jejunum of piglets at weaning, while
+					inclusion of the n-3 rich flaxseed diet leads to a decrease in GC
+					number.
+					<ce:cross-ref id="crf0390" refid="bib0150">Nieto et al. (2002)</ce:cross-ref>
+					showed that different sources of fatty acids alter the type of
+					mucins in GC. In contrast to our results, they found more GC with
+					mature inner mucin granules in rats with experimental ulcerative
+					colitis fed with fish oil, a source of n-3 PUFA. Our results
+					showing increased GC number in groups with
+					<ce:italic>lactobacilli</ce:italic>
+					in the diet confirm recently published data about regulation of
+					intestinal epithelial cell differentiation by colonic bacteria.
+					Goblet cells derive from intestinal stem cells located in the lower
+					part of the crypts.
+					<ce:cross-ref id="crf0395" refid="bib0020">Becker et al. (2013)</ce:cross-ref>
+					showed the regulatory effect of bacteria on epithelial cell
+					differentiation by transcription factors Hath1 and KLF4 known to
+					direct progenitor cells towards GC. In addition, they ascertained
+					that the induction of mucin Muc1 and defensin HBD2 production seems
+					to be triggered directly by bacteria.
+				</ce:para>
+				<ce:para id="par0110">
+					In the intestinal epithelium, IEL are in close contact with
+					enterocytes. They are numerous, especially in the small intestine,
+					and can be activated in response to several pathological conditions
+					(
+					<ce:cross-ref id="crf0400" refid="bib0105">Kapp et al., 2004</ce:cross-ref>
+					). IEL and their cytokines play an important role in the regulation
+					of gut immune response and take part in gut immune barrier
+					function. Particularly, multiple studies have shown that an
+					increase in IEL numbers is associated with coeliac disease, which
+					allows for the diagnosis to be made before the architectural
+					changes are appreciated (
+					<ce:cross-ref id="crf0405" refid="bib0130">Marsh and Crowe, 1995</ce:cross-ref>
+					).
+					<ce:cross-ref id="crf0410" refid="bib0155">Pleskovic et al.
+						(2001)</ce:cross-ref>
+					demonstrated that combined experimental radiotherapy and
+					chemotherapy caused loss of enterocytes/colonocytes and IEL early
+					after the therapy in dogs. These morphological changes in the colon
+					mucosa might be the earliest changes leading to disruption of the
+					mucosal barrier, malabsorption syndrome, stenosis, inflammation and
+					other complications resulting from the radiotherapy and
+					chemotherapy. PUFA can alter T cell activation and signalling by
+					altering the lateral organisation of the membrane bilayer, and they
+					can alter antigen presentation through the major histocompatibility
+					complex class I and II specific changes in the plasmalemma and
+					endomembrane (
+					<ce:cross-ref id="crf0415" refid="bib0160">Shaikh and Edidin,
+						2007</ce:cross-ref>
+					). The inclusion of
+					<ce:italic>lactobacilli</ce:italic>
+					in the piglets’
+					diet caused a significant decrease in IEL numbers on WD, although
+					from 3 days PW a significant increase in the same began. In the
+					flaxseed groups, both alone and combined with
+					<ce:italic>lactobacilli</ce:italic>
+					, the opposite effect was observed with a longer duration of up to
+					7 days PW. At 3 weeks PW no differences were found between the
+					experimental groups and the basal diet group.
+				</ce:para>
+				<ce:para id="par0115">
+					The literature concerning the effects of n-3 PUFA on inflammation
+					is controversial. However, the pro-inflammatory effect of n-3 PUFA
+					is documented in various conditions and they may change the balance
+					between pro-inflammatory and anti-inflammatory cytokines in an
+					inflammatory direction, possibly related to the pro-oxidative
+					effects of these fatty acids (
+					<ce:cross-ref id="crf0420" refid="bib0090">Holm et al., 2001</ce:cross-ref>
+					).
+				</ce:para>
+			</ce:section>
+			<ce:section id="sec0070">
+				<ce:section-title id="sect0085">Conclusion</ce:section-title>
+				<ce:para id="par0120">
+					In conclusion, this study demonstrated the immunomodulatory
+					character of flaxseed and
+					<ce:italic>lactobacilli</ce:italic>
+					on IEL, GC, MPO-positive and CD163-positive cell populations in
+					jejunal mucosa and their time-dependent changes. The higher numbers
+					of MPO-positive cells, IEL and CD163-positive cells were recorded
+					on WD and during the first week PW in the flaxseed group, and an
+					even stronger increase in MPO-positivity and IEL in combination
+					with
+					<ce:italic>lactobacilli</ce:italic>
+					was detected. The oxidation due to the number of unsaturated double
+					bonds in n-3 PUFA could potentially be the reason for inflammatory
+					cell accumulation. In contrast, the number of CD163-positive cells
+					in the
+					<ce:italic>lactobacilli</ce:italic>
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					flaxseed group was significantly lower than in the basal diet
+					group. The same effect was observed in the group with
+					<ce:italic>lactobacilli</ce:italic>
+					alone in the first 3 days PW, and these findings indicate the
+					down-regulation of CD163 expression in jejunal mucosa by
+					<ce:italic>lactobacilli</ce:italic>
+					. The presence of
+					<ce:italic>lactobacilli</ce:italic>
+					in the diet had a stimulatory effect on GC quantity in the
+					epithelial layer. The distinct 50% reduction in the flaxseed group
+					in comparison with the basal diet could be induced by massive cell
+					degranulation and secretory exhaustion. The effects seem to be
+					age-dependent, because the differences between various diet groups
+					21 days PW were not significant, due probably to the attenuated
+					stress of animals further PW and with more mature intestinal
+					morphology. The significant increase in MPO-positive cell number in
+					the jejunal mucosa in the flaxseed
+					<ce:hsp sp="0.25" />
+					+
+					<ce:hsp sp="0.25" />
+					<ce:italic>lactobacilli</ce:italic>
+					group in comparison with the basal and
+					<ce:italic>lactobacilli</ce:italic>
+					diet groups at all time periods was the only constantly present
+					difference, indicating the pro-inflammatory effect of the combined
+					diet.
+				</ce:para>
+			</ce:section>
+		</ce:sections>
+		<ce:acknowledgment id="ack0005">
+			<ce:section-title id="sect0090">Acknowledgments</ce:section-title>
+			<ce:para id="par0125">
+				This study was supported by the grant of
+				<ce:grant-sponsor id="gs0005">European
+					Regional Development Fund –
+					Project FNUSA-ICRC
+				</ce:grant-sponsor>
+				(No.
+				<ce:grant-number refid="gs0005">CZ.1.05/1.1.00/02.0123</ce:grant-number>),
+				and project SK0021, co-financing through the European Economic area
+				financial mechanism, the Norwegian financial mechanism and the state
+				budget of the Slovak Republic. We gratefully acknowledge the
+				material and technical assistance of A. Hantke, L.
+				Haberova,
+				M. Hnat
+				and A. Hornakova.
+			</ce:para>
+		</ce:acknowledgment>
+	</body>
+	<tail>
+		<ce:bibliography id="bibl0005">
+			<ce:section-title id="sect0095">References</ce:section-title>
+			<ce:bibliography-sec id="bibs0005">
+				<ce:bib-reference id="bib0005">
+					<ce:label>Baeten et al., 2002</ce:label>
+					<sb:reference id="sbref0005">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>D.</ce:given-name>
+									<ce:surname>Baeten</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Demetter</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.A.</ce:given-name>
+									<ce:surname>Cuvelier</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.</ce:given-name>
+									<ce:surname>Kruithof</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>N.</ce:given-name>
+									<ce:surname>Van Damme</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>De Vos</ce:surname>
+								</sb:author>
+								<sb:et-al />
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Macrophages expressing the scavenger receptor
+									CD163: a link between immune alterations of the gut and
+									synovial inflammation in spondyloarthropathy</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J Pathol</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>196</sb:volume-nr>
+								</sb:series>
+								<sb:date>2002</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>343</sb:first-page>
+								<sb:last-page>350</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0010">
+					<ce:label>Barcelo-Coblijn and Murphy, 2009</ce:label>
+					<sb:reference id="sbref0010">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>G.</ce:given-name>
+									<ce:surname>Barcelo-Coblijn</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>E.J.</ce:given-name>
+									<ce:surname>Murphy</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Alpha-linolenic acid and its conversion to longer
+									chain n-3 fatty acids: benefits for human health and a role in
+									maintaining tissue n-3 fatty acid levels</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Prog Lipid Res</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>48</sb:volume-nr>
+								</sb:series>
+								<sb:date>2009</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>355</sb:first-page>
+								<sb:last-page>374</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0015">
+					<ce:label>Beagley and Husband, 1998</ce:label>
+					<sb:reference id="sbref0015">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>K.W.</ce:given-name>
+									<ce:surname>Beagley</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.J.</ce:given-name>
+									<ce:surname>Husband</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Intraepithelial lymphocytes: origins,
+									distribution, and function</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Crit Rev Immunol</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>18</sb:volume-nr>
+								</sb:series>
+								<sb:date>1998</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>237</sb:first-page>
+								<sb:last-page>254</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0020">
+					<ce:label>Becker et al., 2013</ce:label>
+					<sb:reference id="sbref0020">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Becker</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>T.A.</ce:given-name>
+									<ce:surname>Oelschlaeger</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Wullaert</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.</ce:given-name>
+									<ce:surname>Vlantis</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Pasparakis</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Wehkamp</ce:surname>
+								</sb:author>
+								<sb:et-al />
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Bacteria regulate intestinal epithelial cell
+									differentiation factors both in vitro and in vivo</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>PLOS ONE</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>8</sb:volume-nr>
+								</sb:series>
+								<sb:date>2013</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>e55620</sb:first-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0025">
+					<ce:label>Bomba et al., 2006</ce:label>
+					<sb:reference id="sbref0025">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Bomba</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>Z.</ce:given-name>
+									<ce:surname>Jonecova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Koscova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.</ce:given-name>
+									<ce:surname>Nemcova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Gancarcikova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.</ce:given-name>
+									<ce:surname>Mudronova</ce:surname>
+								</sb:author>
+								<sb:et-al />
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>The improvement of probiotics efficacy by
+									synergistically acting components of natural origin: a review</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Biologia</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>61</sb:volume-nr>
+								</sb:series>
+								<sb:date>2006</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>729</sb:first-page>
+								<sb:last-page>734</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0030">
+					<ce:label>Calder, 2001</ce:label>
+					<sb:reference id="sbref0030">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>P.C.</ce:given-name>
+									<ce:surname>Calder</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Omega 3 polyunsaturated fatty acids, inflammation
+									and immunity</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>World Rev Nutr Diet</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>88</sb:volume-nr>
+								</sb:series>
+								<sb:date>2001</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>109</sb:first-page>
+								<sb:last-page>116</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0035">
+					<ce:label>Calder, 2013</ce:label>
+					<sb:reference id="sbref0035">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>P.C.</ce:given-name>
+									<ce:surname>Calder</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Omega-3
+									polyunsaturated fatty acids and inflammatory processes:
+									nutrition or pharmacology?
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Br J Clin Pharmacol</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>75</sb:volume-nr>
+								</sb:series>
+								<sb:date>2013</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>645</sb:first-page>
+								<sb:last-page>662</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0040">
+					<ce:label>Caroprese et al., 2009</ce:label>
+					<sb:reference id="sbref0040">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Caroprese</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Marzano</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.</ce:given-name>
+									<ce:surname>Entrican</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Wattegedera</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Albenzio</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Sevi</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Immune response of cows fed polyunsaturated fatty
+									acids under high ambient temperatures</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J Dairy Sci</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>92</sb:volume-nr>
+								</sb:series>
+								<sb:date>2009</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>2796</sb:first-page>
+								<sb:last-page>2803</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0045">
+					<ce:label>Carroll and Forsberg, 2007</ce:label>
+					<sb:reference id="sbref0045">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>J.A.</ce:given-name>
+									<ce:surname>Carroll</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>N.E.</ce:given-name>
+									<ce:surname>Forsberg</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Influence of stress and nutrition on cattle
+									immunity</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Vet Clin North Am Food Anim Pract</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>23</sb:volume-nr>
+								</sb:series>
+								<sb:date>2007</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>105</sb:first-page>
+								<sb:last-page>149</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0050">
+					<ce:label>Chytilova et al., 2013</ce:label>
+					<sb:reference id="sbref0050">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Chytilova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.</ce:given-name>
+									<ce:surname>Mudronova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.</ce:given-name>
+									<ce:surname>Nemcova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Gancarcikova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>V.</ce:given-name>
+									<ce:surname>Buleca</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Koscova</ce:surname>
+								</sb:author>
+								<sb:et-al />
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Anti-inflammatory and immunoregulatory effects of flax-seed oil
+									and
+									<ce:italic>Lactobacillus plantarum</ce:italic> –
+									Biocenol™;
+									LP96 in gnotobiotic pigs challenged with enterotoxigenic
+									<ce:italic>Escherichia coli</ce:italic>
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Res Vet Sci</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>95</sb:volume-nr>
+								</sb:series>
+								<sb:date>2013</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>103</sb:first-page>
+								<sb:last-page>109</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0055">
+					<ce:label>Duilio et al., 2001</ce:label>
+					<sb:reference id="sbref0055">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>C.</ce:given-name>
+									<ce:surname>Duilio</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>G.</ce:given-name>
+									<ce:surname>Ambrosio</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Kuppusamy</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>DiPaula</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.C.</ce:given-name>
+									<ce:surname>Becker</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.L.</ce:given-name>
+									<ce:surname>Zweier</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>
+									Neutrophils are primary source of O
+									<ce:inf>2</ce:inf>
+									radicals during reperfusion after prolonged myocardial ischemia
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Am J Physiol Heart Circ Physiol</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>280</sb:volume-nr>
+								</sb:series>
+								<sb:date>2001</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>H2649</sb:first-page>
+								<sb:last-page>H2657</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0060">
+					<ce:label>Fabriek et al., 2005</ce:label>
+					<sb:reference id="sbref0060">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>B.O.</ce:given-name>
+									<ce:surname>Fabriek</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.D.</ce:given-name>
+									<ce:surname>Dijkstra</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>T.K.</ce:given-name>
+									<ce:surname>van den Berg</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>The macrophage scavenger receptor CD163</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Immunobiology</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>210</sb:volume-nr>
+								</sb:series>
+								<sb:date>2005</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>153</sb:first-page>
+								<sb:last-page>160</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0065">
+					<ce:label>Fabriek et al., 2009</ce:label>
+					<sb:reference id="sbref0065">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>B.O.</ce:given-name>
+									<ce:surname>Fabriek</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.</ce:given-name>
+									<ce:surname>van Bruggen</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.M.</ce:given-name>
+									<ce:surname>Deng</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.J.</ce:given-name>
+									<ce:surname>Ligtenberg</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.</ce:given-name>
+									<ce:surname>Nazmi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.</ce:given-name>
+									<ce:surname>Schornagel</ce:surname>
+								</sb:author>
+								<sb:et-al />
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>The macrophage scavenger receptor CD163 functions
+									as an innate immune sensor for bacteria</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Blood</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>113</sb:volume-nr>
+								</sb:series>
+								<sb:date>2009</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>887</sb:first-page>
+								<sb:last-page>892</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0070">
+					<ce:label>Franze et al., 2013</ce:label>
+					<sb:reference id="sbref0070">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>E.</ce:given-name>
+									<ce:surname>Franze</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.</ce:given-name>
+									<ce:surname>Caruso</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.</ce:given-name>
+									<ce:surname>Stolfi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Sarra</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.L.</ce:given-name>
+									<ce:surname>Cupi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>F.</ce:given-name>
+									<ce:surname>Caprioli</ce:surname>
+								</sb:author>
+								<sb:et-al />
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Lesional accumulation of CD163-expressing cells in
+									the gut of patients with inflammatory bowel disease</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>PLOS ONE</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>8</sb:volume-nr>
+								</sb:series>
+								<sb:date>2013</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>e69839</sb:first-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0075">
+					<ce:label>Fuentes-Duculan et al., 2010</ce:label>
+					<sb:reference id="sbref0075">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Fuentes-Duculan</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Suarez-Farinas
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.C.</ce:given-name>
+									<ce:surname>Zaba</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.E.</ce:given-name>
+									<ce:surname>Nograles</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.C.</ce:given-name>
+									<ce:surname>Pierson</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>H.</ce:given-name>
+									<ce:surname>Mitsui</ce:surname>
+								</sb:author>
+								<sb:et-al />
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>A subpopulation of CD163-positive macrophages is
+									classically activated in psoriasis</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J Invest Dermatol</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>130</sb:volume-nr>
+								</sb:series>
+								<sb:date>2010</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>2412</sb:first-page>
+								<sb:last-page>2422</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0080">
+					<ce:label>Gordon, 2003</ce:label>
+					<sb:reference id="sbref0080">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Gordon</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Alternative activation of macrophages</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Nat Rev Immunol</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>3</sb:volume-nr>
+								</sb:series>
+								<sb:date>2003</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>23</sb:first-page>
+								<sb:last-page>35</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0085">
+					<ce:label>Hegazi et al., 2006</ce:label>
+					<sb:reference id="sbref0085">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>R.A.</ce:given-name>
+									<ce:surname>Hegazi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.S.</ce:given-name>
+									<ce:surname>Saad</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>H.</ce:given-name>
+									<ce:surname>Mady</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.E.</ce:given-name>
+									<ce:surname>Matarese</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>O'Keefe</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>H.M.</ce:given-name>
+									<ce:surname>Kandil</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Dietary fatty acids modulate chronic colitis,
+									colitis-associated colon neoplasia and COX-2 expression in
+									IL-10 knockout mice</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Nutrition</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>12</sb:volume-nr>
+								</sb:series>
+								<sb:date>2006</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>275</sb:first-page>
+								<sb:last-page>282</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0090">
+					<ce:label>Holm et al., 2001</ce:label>
+					<sb:reference id="sbref0090">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>T.</ce:given-name>
+									<ce:surname>Holm</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.K.</ce:given-name>
+									<ce:surname>Berge</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.K.</ce:given-name>
+									<ce:surname>Andreassen</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>T.</ce:given-name>
+									<ce:surname>Ueland</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Kjekshus</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Simonsen</ce:surname>
+								</sb:author>
+								<sb:et-al />
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Omega-3 fatty acids enhance tumor necrosis
+									factor-alpha levels in heart transplant recipients</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Transplantation</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>72</sb:volume-nr>
+								</sb:series>
+								<sb:date>2001</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>706</sb:first-page>
+								<sb:last-page>711</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0095">
+					<ce:label>Ishikawa et al., 2007</ce:label>
+					<sb:reference id="sbref0095">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>H.</ce:given-name>
+									<ce:surname>Ishikawa</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>T.</ce:given-name>
+									<ce:surname>Naito</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>T.</ce:given-name>
+									<ce:surname>Iwanaga</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>H.</ce:given-name>
+									<ce:surname>Takahashi-Iwanaga</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Suematsu</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>T.</ce:given-name>
+									<ce:surname>Hibi</ce:surname>
+								</sb:author>
+								<sb:et-al />
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Curriculum vitae of intestinal intraepithelial T
+									cells: their developmental and behavioral characteristics</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Immunol Rev</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>215</sb:volume-nr>
+								</sb:series>
+								<sb:date>2007</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>154</sb:first-page>
+								<sb:last-page>165</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0100">
+					<ce:label>Kaminski et al., 2002</ce:label>
+					<sb:reference id="sbref0100">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>K.A.</ce:given-name>
+									<ce:surname>Kaminski</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>T.A.</ce:given-name>
+									<ce:surname>Bonda</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Korecki</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>W.J.</ce:given-name>
+									<ce:surname>Musial</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Oxidative
+									stress and neutrophil activation –
+									the two keystones of ischemia/reperfusion injury
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Int J Cardiol</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>86</sb:volume-nr>
+								</sb:series>
+								<sb:date>2002</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>41</sb:first-page>
+								<sb:last-page>59</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0105">
+					<ce:label>Kapp et al., 2004</ce:label>
+					<sb:reference id="sbref0105">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>J.A.</ce:given-name>
+									<ce:surname>Kapp</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>L.M.</ce:given-name>
+									<ce:surname>Kapp</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.C.</ce:given-name>
+									<ce:surname>McKenna</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.P.</ce:given-name>
+									<ce:surname>Lake</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Gamma-delta T-cell clones from intestinal
+									intraepithelial lymphocytes inhibit development of CTL
+									responses ex vivo</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Immunology</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>111</sb:volume-nr>
+								</sb:series>
+								<sb:date>2004</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>155</sb:first-page>
+								<sb:last-page>164</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0110">
+					<ce:label>Kim and Ho, 2010</ce:label>
+					<sb:reference id="sbref0110">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>Y.S.</ce:given-name>
+									<ce:surname>Kim</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.B.</ce:given-name>
+									<ce:surname>Ho</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Intestinal goblet cells and mucins in health and
+									disease: recent insights and progress</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Curr Gastroenterol Rep</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>12</sb:volume-nr>
+								</sb:series>
+								<sb:date>2010</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>319</sb:first-page>
+								<sb:last-page>330</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0115">
+					<ce:label>Kjellev, 2009</ce:label>
+					<sb:reference id="sbref0115">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Kjellev</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>The
+									trefoil factor family –
+									small peptides with multiple functionalities
+								</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Cell Mol Life Sci</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>66</sb:volume-nr>
+								</sb:series>
+								<sb:date>2009</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1350</sb:first-page>
+								<sb:last-page>1369</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0120">
+					<ce:label>Kristiansen et al., 2001</ce:label>
+					<sb:reference id="sbref0120">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Kristiansen</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.H.</ce:given-name>
+									<ce:surname>Graversen</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.</ce:given-name>
+									<ce:surname>Jacobsen</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>O.</ce:given-name>
+									<ce:surname>Sonne</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>H.J.</ce:given-name>
+									<ce:surname>Hoffman</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>S.K.</ce:given-name>
+									<ce:surname>Law</ce:surname>
+								</sb:author>
+								<sb:et-al />
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Identification of the haemoglobin scavenger
+									receptor</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Nature</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>409</sb:volume-nr>
+								</sb:series>
+								<sb:date>2001</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>198</sb:first-page>
+								<sb:last-page>201</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0125">
+					<ce:label>Leonard et al., 2012</ce:label>
+					<sb:reference id="sbref0125">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>S.G.</ce:given-name>
+									<ce:surname>Leonard</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>T.</ce:given-name>
+									<ce:surname>Sweeney</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>B.</ce:given-name>
+									<ce:surname>Bahar</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.V.</ce:given-name>
+									<ce:surname>O'Doherty</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Effect of maternal seaweed extract supplementation
+									on suckling piglet growth, humoral immunity, selected
+									microflora, and immune response after an ex vivo
+									lipopolysaccharide challenge</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J Anim Sci</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>90</sb:volume-nr>
+								</sb:series>
+								<sb:date>2012</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>505</sb:first-page>
+								<sb:last-page>514</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0130">
+					<ce:label>Marsh and Crowe, 1995</ce:label>
+					<sb:reference id="sbref0130">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>M.N.</ce:given-name>
+									<ce:surname>Marsh</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.T.</ce:given-name>
+									<ce:surname>Crowe</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Morphology of the mucosal lesion in gluten
+									sensitivity</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Baillieres Clin Gastroenterol</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>9</sb:volume-nr>
+								</sb:series>
+								<sb:date>1995</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>273</sb:first-page>
+								<sb:last-page>293</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0135">
+					<ce:label>Matsunaga et al., 2008</ce:label>
+					<sb:reference id="sbref0135">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>H.</ce:given-name>
+									<ce:surname>Matsunaga</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.</ce:given-name>
+									<ce:surname>Hokari</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.</ce:given-name>
+									<ce:surname>Kurihara</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>Y.</ce:given-name>
+									<ce:surname>Okada</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.</ce:given-name>
+									<ce:surname>Takebayashi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.</ce:given-name>
+									<ce:surname>Okudaira</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Omega-3 fatty acids exacerbate DSS-induced colitis
+									through decreased adiponectin in colonic subepithelial
+									myofibroblasts</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Inflamm Bowel Dis</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>12</sb:volume-nr>
+								</sb:series>
+								<sb:date>2008</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1348</sb:first-page>
+								<sb:last-page>1357</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0140">
+					<ce:label>Morganelli and Guyre, 1988</ce:label>
+					<sb:reference id="sbref0140">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>P.M.</ce:given-name>
+									<ce:surname>Morganelli</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.M.</ce:given-name>
+									<ce:surname>Guyre</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>IFN-gamma plus glucocorticoids stimulate the
+									expression of a newly identified human mononuclear
+									phagocyte-specific antigen</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J Immunol</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>140</sb:volume-nr>
+								</sb:series>
+								<sb:date>1988</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>2296</sb:first-page>
+								<sb:last-page>2304</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0145">
+					<ce:label>Nauseef, 2007</ce:label>
+					<sb:reference id="sbref0145">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>W.M.</ce:given-name>
+									<ce:surname>Nauseef</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Diagnostic assays for myeloperoxidase deficiency</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Methods Mol Biol</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>412</sb:volume-nr>
+								</sb:series>
+								<sb:date>2007</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>525</sb:first-page>
+								<sb:last-page>530</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0150">
+					<ce:label>Nieto et al., 2002</ce:label>
+					<sb:reference id="sbref0150">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>N.</ce:given-name>
+									<ce:surname>Nieto</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.I.</ce:given-name>
+									<ce:surname>Torres</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Rios
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Gil</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Dietary polyunsaturated fatty acids improve
+									histological and biochemical alterations in rats with
+									experimental ulcerative colitis</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J Nutr</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>132</sb:volume-nr>
+								</sb:series>
+								<sb:date>2002</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>11</sb:first-page>
+								<sb:last-page>19</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0155">
+					<ce:label>Pleskovic et al., 2001</ce:label>
+					<sb:reference id="sbref0155">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Pleskovic</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>R.</ce:given-name>
+									<ce:surname>Zorc-Pleskovic</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>O.</ce:given-name>
+									<ce:surname>Vraspir-Porenta</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Zorc</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.</ce:given-name>
+									<ce:surname>Petrovic</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Colon mucosal cells after combined radiotherapy
+									and chemotherapy</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Folia Biol (Praha)</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>47</sb:volume-nr>
+								</sb:series>
+								<sb:date>2001</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>156</sb:first-page>
+								<sb:last-page>162</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0160">
+					<ce:label>Shaikh and Edidin, 2007</ce:label>
+					<sb:reference id="sbref0160">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>S.R.</ce:given-name>
+									<ce:surname>Shaikh</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Edidin</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Immunosuppressive effects of polyunsaturated fatty
+									acids on antigen presentation by human leukocyte antigen class
+									I molecules</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J Lipid Res</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>48</sb:volume-nr>
+								</sb:series>
+								<sb:date>2007</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>127</sb:first-page>
+								<sb:last-page>138</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0165">
+					<ce:label>Shen, 2009</ce:label>
+					<sb:reference id="sbref0165">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>L.</ce:given-name>
+									<ce:surname>Shen</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Functional morphology of the gastrointestinal
+									tract</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Curr Top Microbiol Immunol</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>337</sb:volume-nr>
+								</sb:series>
+								<sb:date>2009</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1</sb:first-page>
+								<sb:last-page>35</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0170">
+					<ce:label>Sugaya et al., 2012</ce:label>
+					<sb:reference id="sbref0170">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Sugaya</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>T.</ce:given-name>
+									<ce:surname>Miyagaki</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>H.</ce:given-name>
+									<ce:surname>Ohmatsu</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>H.</ce:given-name>
+									<ce:surname>Suga</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>H.</ce:given-name>
+									<ce:surname>Kai</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Kamata</ce:surname>
+								</sb:author>
+								<sb:et-al />
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Association of the numbers of CD163(+) cells in
+									lesional skin and serum levels of soluble CD163 with disease
+									progression of cutaneous T cell lymphoma</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>J Dermatol Sci</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>68</sb:volume-nr>
+								</sb:series>
+								<sb:date>2012</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>45</sb:first-page>
+								<sb:last-page>51</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0175">
+					<ce:label>Sulahian et al., 2000</ce:label>
+					<sb:reference id="sbref0175">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>T.H.</ce:given-name>
+									<ce:surname>Sulahian</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Hogger
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.E.</ce:given-name>
+									<ce:surname>Wahner</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.</ce:given-name>
+									<ce:surname>Wardwell</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>N.J.</ce:given-name>
+									<ce:surname>Goulding</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>C.</ce:given-name>
+									<ce:surname>Sorg</ce:surname>
+								</sb:author>
+								<sb:et-al />
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Human monocytes express CD163, which is
+									upregulated by IL-10 and identical to p15</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Cytokine</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>12</sb:volume-nr>
+								</sb:series>
+								<sb:date>2000</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>1312</sb:first-page>
+								<sb:last-page>1321</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0180">
+					<ce:label>Takashiba et al., 1992</ce:label>
+					<sb:reference id="sbref0180">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Takashiba</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Takigawa</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>K.</ce:given-name>
+									<ce:surname>Takahashi</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>F.</ce:given-name>
+									<ce:surname>Myokai</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>F.</ce:given-name>
+									<ce:surname>Nishimura</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>T.</ce:given-name>
+									<ce:surname>Chihara</ce:surname>
+								</sb:author>
+								<sb:et-al />
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Interleukin-8 is a major neutrophil chemotactic
+									derived from cultured human gingival fibroblasts stimulated
+									with interleukin-1 beta or tumor necrosis factor alpha</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Infect Immun</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>60</sb:volume-nr>
+								</sb:series>
+								<sb:date>1992</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>5253</sb:first-page>
+								<sb:last-page>5258</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0185">
+					<ce:label>Taupin and Podolsky, 2003</ce:label>
+					<sb:reference id="sbref0185">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>D.</ce:given-name>
+									<ce:surname>Taupin</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>D.K.</ce:given-name>
+									<ce:surname>Podolsky</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Trefoil factors: initiators of mucosal healing</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Nat Rev Mol Cell Biol</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>4</sb:volume-nr>
+								</sb:series>
+								<sb:date>2003</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>721</sb:first-page>
+								<sb:last-page>732</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0190">
+					<ce:label>Toth et al., 2012</ce:label>
+					<sb:reference id="sbref0190">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>S.</ce:given-name>
+									<ce:surname>Toth</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>Z.</ce:given-name>
+									<ce:surname>Jonecova</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>J.</ce:given-name>
+									<ce:surname>Varga</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Stasko</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>B.</ce:given-name>
+									<ce:surname>Kovavalcinova
+									</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Maretta</ce:surname>
+								</sb:author>
+								<sb:et-al />
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Mesenteric ischemia-reperfusion injury: specific
+									impact on different cell populations within the jejunal wall in
+									rats</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Acta Histochem</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>114</sb:volume-nr>
+								</sb:series>
+								<sb:date>2012</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>276</sb:first-page>
+								<sb:last-page>284</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0195">
+					<ce:label>Trebusak et al., 2011</ce:label>
+					<sb:reference id="sbref0195">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>T.</ce:given-name>
+									<ce:surname>Trebusak</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>A.</ce:given-name>
+									<ce:surname>Levart</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>M.</ce:given-name>
+									<ce:surname>Voljc</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>U.</ce:given-name>
+									<ce:surname>Tomazin</ce:surname>
+								</sb:author>
+								<sb:author>
+									<ce:given-name>T.</ce:given-name>
+									<ce:surname>Pirman</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>The effect of linseed oil supplementation on
+									performance, fatty acid composition and oxidative status of
+									rabbits</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Acta Agric Slov</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>98</sb:volume-nr>
+								</sb:series>
+								<sb:date>2011</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>119</sb:first-page>
+								<sb:last-page>125</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0200">
+					<ce:label>Verdonk, 2006</ce:label>
+					<ce:other-ref id="oref0200">
+						<ce:textref>Verdonk
+							JMAJ. Nutritional strategy affects gut wall integrity in weaned
+							piglets [Doctoral thesis]. The Netherlands: Animal Nutrition
+							Group, Wageningen Institute of Animal Science, Wageningen
+							University; 2006, ISBN: 90–8504–346–8.
+						</ce:textref>
+					</ce:other-ref>
+				</ce:bib-reference>
+				<ce:bib-reference id="bib0205">
+					<ce:label>Yaqoob, 2004</ce:label>
+					<sb:reference id="sbref0205">
+						<sb:contribution>
+							<sb:authors>
+								<sb:author>
+									<ce:given-name>P.</ce:given-name>
+									<ce:surname>Yaqoob</ce:surname>
+								</sb:author>
+							</sb:authors>
+							<sb:title>
+								<sb:maintitle>Fatty acids and the immune system: from basic
+									science to clinical applications</sb:maintitle>
+							</sb:title>
+						</sb:contribution>
+						<sb:host>
+							<sb:issue>
+								<sb:series>
+									<sb:title>
+										<sb:maintitle>Proc Nutr Soc</sb:maintitle>
+									</sb:title>
+									<sb:volume-nr>63</sb:volume-nr>
+								</sb:series>
+								<sb:date>2004</sb:date>
+							</sb:issue>
+							<sb:pages>
+								<sb:first-page>89</sb:first-page>
+								<sb:last-page>105</sb:last-page>
+							</sb:pages>
+						</sb:host>
+					</sb:reference>
+				</ce:bib-reference>
+			</ce:bibliography-sec>
+		</ce:bibliography>
+	</tail>
+</article>
