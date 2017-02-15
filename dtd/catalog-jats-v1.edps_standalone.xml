@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE catalog PUBLIC
+"-//OASIS//DTD Entity Resolution XML Catalog V3.0//EN"
+"http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd">
+
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog"
+         prefer="public">
+
+<!-- ============================================================== -->
+<!--                    HOW TO USE THIS CATALOG  ?                  -->
+<!-- ============================================================== -->
+<!-- This is a standalone version of the catalog pertaining to the  -->
+<!-- DTD JATS EDP Publishing, for those already having the NLM DTD  -->
+<!-- Suite catalog setup elsewhere.                                 -->
+<!-- See instructions in catalog-v1.xml or catalog-v1.edps.xml      -->
+<!-- to know how to use this file with your system OASIS catalog    -->
+
+
+<!-- ============================================================== -->
+<!--                    PUBLIC-SYSTEM IDENTIFIER MAP                -->
+<!-- ============================================================== -->
+
+<group xml:base="file:///etc/xml/DTD_EDP_JATS_Publishing_1.0/20130606/"
+         prefer="public">
+
+<!-- ============================================================== -->
+<!--                    JATS EDP PUBLISHING DTD Specific               -->
+<!-- ============================================================== -->
+
+  <public publicId="-//EDP//DTD EDP Publishing JATS v1.0 20130606//EN"
+               uri="JATS-edppublishing1.dtd"/>
+
+  <public publicId="-//EDP//DTD EDP Publishing JATS DTD-Specific Modules v1.0 20130606//EN"
+               uri="JATS-edppubcustom-modules1.ent"/>
+
+  <public publicId="-//EDP//DTD EDP Publishing JATS DTD Customize Content and Attributes Module v1.0 20130606//EN"
+               uri="JATS-edppubcustom-models1.ent"/>
+
+  <public publicId="-//EDP//DTD EDP Publishing JATS DTD Customize Mixes Module v1.0 20130606//EN"
+               uri="JATS-edppubcustom-mixes1.ent"/>
+
+  <public publicId="-//EDP//DTD EDP Publishing JATS DTD Conference Metadata Elements v1.0 20130606//EN"
+               uri="JATS-conferencemeta1.ent"/>
+
+<!-- ============================================================== -->
+<!--                    JOURNAL PUBLISHING DTD (BLUE)               -->
+<!-- ============================================================== -->
+
+
+  <public publicId="-//NLM//DTD JATS (Z39.96) NLM Citation v1.0 20120330//EN"
+               uri="JATS-nlmcitation1.ent"/>
+
+</group>
+
+<!-- ============================================================== -->
+
+</catalog>

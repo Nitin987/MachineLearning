@@ -1,0 +1,71 @@
+
+<!--
+     File isoamso.ent produced by the XSL script characters.xsl
+     from input data in unicode.xml.
+
+     Please report any errors to David Carlisle
+     via the public W3C list www-math@w3.org.
+
+     The numeric character values assigned to each entity
+     (should) match the Unicode assignments in Unicode 3.2.
+
+     Entity names in this file are derived from files carrying the
+     following notice:
+
+     (C) International Organization for Standardization 1991
+     Permission to copy in any form is granted for use with
+     conforming SGML systems and applications as defined in
+     ISO 8879, provided this notice is included in all copies.
+
+-->
+
+<!ENTITY ang              "&amp;#x02220;" ><!--/angle - angle -->
+<!ENTITY ange             "&amp;#x029A4;" ><!--angle, equal -->
+<!ENTITY angmsd           "&amp;#x02221;" ><!--/measuredangle - angle-measured -->
+<!ENTITY angmsdaa         "&amp;#x029A8;" ><!--angle-measured, arrow, up, right -->
+<!ENTITY angmsdab         "&amp;#x029A9;" ><!--angle-measured, arrow, up, left -->
+<!ENTITY angmsdac         "&amp;#x029AA;" ><!--angle-measured, arrow, down, right -->
+<!ENTITY angmsdad         "&amp;#x029AB;" ><!--angle-measured, arrow, down, left -->
+<!ENTITY angmsdae         "&amp;#x029AC;" ><!--angle-measured, arrow, right, up -->
+<!ENTITY angmsdaf         "&amp;#x029AD;" ><!--angle-measured, arrow, left, up -->
+<!ENTITY angmsdag         "&amp;#x029AE;" ><!--angle-measured, arrow, right, down -->
+<!ENTITY angmsdah         "&amp;#x029AF;" ><!--angle-measured, arrow, left, down -->
+<!ENTITY angrtvb          "&amp;#x022BE;" ><!--right angle-measured -->
+<!ENTITY angrtvbd         "&amp;#x0299D;" ><!--right angle-measured, dot -->
+<!ENTITY bbrk             "&amp;#x023B5;" ><!--bottom square bracket -->
+<!ENTITY bemptyv          "&amp;#x029B0;" ><!--reversed circle, slash -->
+<!ENTITY beth             "&amp;#x02136;" ><!--/beth - beth, Hebrew -->
+<!ENTITY boxbox           "&amp;#x029C9;" ><!--two joined squares -->
+<!ENTITY bprime           "&amp;#x02035;" ><!--/backprime - reverse prime -->
+<!ENTITY bsemi            "&amp;#x0204F;" ><!--reverse semi-colon -->
+<!ENTITY cemptyv          "&amp;#x029B2;" ><!--circle, slash, small circle above -->
+<!ENTITY cirE             "&amp;#x029C3;" ><!--circle, two horizontal stroked to the right -->
+<!ENTITY cirscir          "&amp;#x029C2;" ><!--circle, small circle to the right -->
+<!ENTITY comp             "&amp;#x02201;" ><!--/complement - complement sign -->
+<!ENTITY daleth           "&amp;#x02138;" ><!--/daleth - daleth, Hebrew -->
+<!ENTITY demptyv          "&amp;#x029B1;" ><!--circle, slash, bar above -->
+<!ENTITY ell              "&amp;#x02113;" ><!--/ell - cursive small l -->
+<!ENTITY empty            "&amp;#x02205;" ><!--/emptyset - zero, slash -->
+<!ENTITY emptyv           "&amp;#x02205;" ><!--/varnothing - circle, slash -->
+<!ENTITY gimel            "&amp;#x02137;" ><!--/gimel - gimel, Hebrew -->
+<!ENTITY iiota            "&amp;#x02129;" ><!--inverted iota -->
+<!ENTITY image            "&amp;#x02111;" ><!--/Im - imaginary   -->
+<!ENTITY imath            "&amp;#x00131;" ><!--/imath - small i, no dot -->
+<!ENTITY jmath            "&amp;#x0006A;" ><!--/jmath - small j, no dot -->
+<!ENTITY laemptyv         "&amp;#x029B4;" ><!--circle, slash, left arrow above -->
+<!ENTITY lltri            "&amp;#x025FA;" ><!--lower left triangle -->
+<!ENTITY lrtri            "&amp;#x022BF;" ><!--lower right triangle -->
+<!ENTITY mho              "&amp;#x02127;" ><!--/mho - conductance -->
+<!ENTITY nang             "&amp;#x02220;&amp;#x020D2;" ><!--not, vert, angle -->
+<!ENTITY nexist           "&amp;#x02204;" ><!--/nexists - negated exists -->
+<!ENTITY oS               "&amp;#x024C8;" ><!--/circledS - capital S in circle -->
+<!ENTITY planck           "&amp;#x0210F;" ><!--/hbar - Planck's over 2pi -->
+<!ENTITY plankv           "&amp;#x0210F;" ><!--/hslash - variant Planck's over 2pi -->
+<!ENTITY raemptyv         "&amp;#x029B3;" ><!--circle, slash, right arrow above -->
+<!ENTITY range            "&amp;#x029A5;" ><!--reverse angle, equal -->
+<!ENTITY real             "&amp;#x0211C;" ><!--/Re - real -->
+<!ENTITY tbrk             "&amp;#x023B4;" ><!--top square bracket -->
+<!ENTITY ultri            "&amp;#x025F8;" ><!--upper left triangle -->
+<!ENTITY urtri            "&amp;#x025F9;" ><!--upper right triangle -->
+<!ENTITY vzigzag          "&amp;#x0299A;" ><!--vertical zig-zag line -->
+<!ENTITY weierp           "&amp;#x02118;" ><!--/wp - Weierstrass p -->

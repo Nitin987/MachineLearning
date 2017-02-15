@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/journal_ref_tail_template.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE ce:bib-reference SYSTEM "journal_ref_tail_template.dtd">
+
+    <ce:bib-reference>
+    ...
+    </ce:bib-reference>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ce:bib-reference (ce:label|ce:other-ref|sb:reference)*>
+<!ATTLIST ce:bib-reference
+    xmlns:ce CDATA #IMPLIED
+    xmlns:sb CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ce:label (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:reference (sb:contribution|sb:comment|sb:host)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:comment (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:contribution (sb:translated-title|sb:authors|sb:title)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:authors (sb:author|sb:collaboration)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:collaboration (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:author (ce:suffix|ce:surname|ce:given-name)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ce:given-name (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ce:surname (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ce:suffix (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:title (sb:maintitle|sb:subtitle)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:maintitle (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:translated-title (sb:maintitle)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:host (sb:pages|ce:doi|sb:issue)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:issue (sb:issue-nr|sb:editors|sb:series|sb:date|sb:title)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:editors (sb:editor)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:editor (ce:surname|ce:given-name)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:series (sb:title|sb:volume-nr)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:subtitle (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:volume-nr (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:issue-nr (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:date (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:pages (sb:first-page|sb:last-page)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:first-page (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sb:last-page (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ce:doi (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ce:other-ref (ce:textref)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ce:textref (#PCDATA)>

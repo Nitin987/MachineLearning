@@ -1,0 +1,70 @@
+
+<!--
+     File isogrk1.ent produced by the XSL script characters.xsl
+     from input data in unicode.xml.
+
+     Please report any errors to David Carlisle
+     via the public W3C list www-math@w3.org.
+
+     The numeric character values assigned to each entity
+     (should) match the Unicode assignments in Unicode 3.2.
+
+     Entity names in this file are derived from files carrying the
+     following notice:
+
+     (C) International Organization for Standardization 1986
+     Permission to copy in any form is granted for use with
+     conforming SGML systems and applications as defined in
+     ISO 8879, provided this notice is included in all copies.
+
+-->
+
+<!ENTITY Agr              "&amp;#x00391;" ><!--=capital Alpha, Greek -->
+<!ENTITY agr              "&amp;#x003B1;" ><!--=small alpha, Greek -->
+<!ENTITY Bgr              "&amp;#x00392;" ><!--=capital Beta, Greek -->
+<!ENTITY bgr              "&amp;#x003B2;" ><!--=small beta, Greek -->
+<!ENTITY Dgr              "&amp;#x00394;" ><!--=capital Delta, Greek -->
+<!ENTITY dgr              "&amp;#x003B4;" ><!--=small delta, Greek -->
+<!ENTITY EEgr             "&amp;#x00397;" ><!--=capital Eta, Greek -->
+<!ENTITY eegr             "&amp;#x003B7;" ><!--=small eta, Greek -->
+<!ENTITY Egr              "&amp;#x00395;" ><!--=capital Epsilon, Greek -->
+<!ENTITY egr              "&amp;#x003B5;" ><!--=small epsilon, Greek -->
+<!ENTITY Ggr              "&amp;#x00393;" ><!--=capital Gamma, Greek -->
+<!ENTITY ggr              "&amp;#x003B3;" ><!--=small gamma, Greek -->
+<!ENTITY Igr              "&amp;#x00399;" ><!--=capital Iota, Greek -->
+<!ENTITY igr              "&amp;#x003B9;" ><!--=small iota, Greek -->
+<!ENTITY Kgr              "&amp;#x0039A;" ><!--=capital Kappa, Greek -->
+<!ENTITY kgr              "&amp;#x003BA;" ><!--=small kappa, Greek -->
+<!ENTITY KHgr             "&amp;#x003A7;" ><!--=capital Chi, Greek -->
+<!ENTITY khgr             "&amp;#x003C7;" ><!--=small chi, Greek -->
+<!ENTITY Lgr              "&amp;#x0039B;" ><!--=capital Lambda, Greek -->
+<!ENTITY lgr              "&amp;#x003BB;" ><!--=small lambda, Greek -->
+<!ENTITY Mgr              "&amp;#x0039C;" ><!--=capital Mu, Greek -->
+<!ENTITY mgr              "&amp;#x003BC;" ><!--=small mu, Greek -->
+<!ENTITY Ngr              "&amp;#x0039D;" ><!--=capital Nu, Greek -->
+<!ENTITY ngr              "&amp;#x003BD;" ><!--=small nu, Greek -->
+<!ENTITY Ogr              "&amp;#x0039F;" ><!--=capital Omicron, Greek -->
+<!ENTITY ogr              "&amp;#x003BF;" ><!--=small omicron, Greek -->
+<!ENTITY OHgr             "&amp;#x003A9;" ><!--=capital Omega, Greek -->
+<!ENTITY ohgr             "&amp;#x003C9;" ><!--=small omega, Greek -->
+<!ENTITY Pgr              "&amp;#x003A0;" ><!--=capital Pi, Greek -->
+<!ENTITY pgr              "&amp;#x003C0;" ><!--=small pi, Greek -->
+<!ENTITY PHgr             "&amp;#x003A6;" ><!--=capital Phi, Greek -->
+<!ENTITY phgr             "&amp;#x003C6;" ><!--=small phi, Greek -->
+<!ENTITY PSgr             "&amp;#x003A8;" ><!--=capital Psi, Greek -->
+<!ENTITY psgr             "&amp;#x003C8;" ><!--=small psi, Greek -->
+<!ENTITY Rgr              "&amp;#x003A1;" ><!--=capital Rho, Greek -->
+<!ENTITY rgr              "&amp;#x003C1;" ><!--=small rho, Greek -->
+<!ENTITY sfgr             "&amp;#x003C2;" ><!--=final small sigma, Greek -->
+<!ENTITY Sgr              "&amp;#x003A3;" ><!--=capital Sigma, Greek -->
+<!ENTITY sgr              "&amp;#x003C3;" ><!--=small sigma, Greek -->
+<!ENTITY Tgr              "&amp;#x003A4;" ><!--=capital Tau, Greek -->
+<!ENTITY tgr              "&amp;#x003C4;" ><!--=small tau, Greek -->
+<!ENTITY THgr             "&amp;#x00398;" ><!--=capital Theta, Greek -->
+<!ENTITY thgr             "&amp;#x003B8;" ><!--=small theta, Greek -->
+<!ENTITY Ugr              "&amp;#x003A5;" ><!--=capital Upsilon, Greek -->
+<!ENTITY ugr              "&amp;#x003C5;" ><!--=small upsilon, Greek -->
+<!ENTITY Xgr              "&amp;#x0039E;" ><!--=capital Xi, Greek -->
+<!ENTITY xgr              "&amp;#x003BE;" ><!--=small xi, Greek -->
+<!ENTITY Zgr              "&amp;#x00396;" ><!--=capital Zeta, Greek -->
+<!ENTITY zgr              "&amp;#x003B6;" ><!--=small zeta, Greek -->

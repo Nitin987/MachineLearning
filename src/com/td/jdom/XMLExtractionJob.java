@@ -396,7 +396,7 @@ public class XMLExtractionJob implements Job{
     
         // Use a SAX builder
 		SAXBuilder builder = new SAXBuilder(XMLReaders.NONVALIDATING);
-        //builder.setEntityResolver(new CustomEntityResolver(DTD_PATH));
+    //    builder.setEntityResolver(new CustomEntityResolver(DTD_PATH));
         Document jdomDoc = null;
         if(inputStream != null) {
         	jdomDoc = builder.build(inputStream);
@@ -1117,7 +1117,7 @@ public String getInputStreamContent(InputStream inputStream){
     	XMLExtractionJob.DTD_PATH = "c:/dtd"; //Local
     	//XMLExtractionJob.DTD_PATH = "C:\\MongoDBImport\\tools\\dtd"; //Live
     	XMLExtractionJob xmlExtractorObj = new XMLExtractionJob();
-    	String rootPath = "D:\\Datasets\\Medkow"; //Local
+    	String rootPath = "D:\\Datasets\\Lww"; //Local
     	//String rootPath = "C:\\MongoDBImport\\Datasets"; //Live
     	String processedFilePath = "Processed";
     	ArrayList<File> zipFiles = new ArrayList<File>();

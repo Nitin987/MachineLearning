@@ -1,0 +1,97 @@
+<!-- ============================================================= -->
+<!--  MODULE:    Conference Metadata Elements                      -->
+<!--  VERSION:   1.0                                               -->
+<!--  DATE:      Jun 2013                                          -->
+<!--                                                               -->
+<!-- ============================================================= -->
+
+<!-- ============================================================= -->
+<!--                    PUBLIC DOCUMENT TYPE DEFINITION            -->
+<!--                        TYPICAL INVOCATION                     -->
+<!--
+"-//EDP//DTD EDP Publishing JATS DTD Conference Metadata Elements v1.0 20130606//EN"
+     Delivered as file "JATS-conferencemeta1.ent"                  -->
+<!-- ============================================================= -->
+
+<!-- ============================================================= -->
+<!-- SYSTEM:     EDP Publishing DTD                                -->
+<!--                                                               -->
+<!-- PURPOSE:    Names all elements used to describe the conference-->
+<!--             proceedings in which the  article was published.  -->
+<!--                                                               -->
+<!-- CONTAINS:   1. Default values for attribute lists             -->
+<!--             2. Conference metadata content model              -->
+<!--             3. Conference metadata elements in the order used in -->
+<!--                the conference metadata element                -->
+<!--                                                               -->
+<!-- CREATED FOR:                                                  -->
+
+<!-- ============================================================= -->
+<!--                    DTD VERSION/CHANGE HISTORY                 -->
+<!-- ============================================================= -->
+<!--
+     =============================================================
+                        
+Version  Reason/Occasion                   (who) vx.x (yyyy-mm-dd)
+
+     =============================================================
+     Version 1.0                           (JPJ) v1.0 (2013-06-06)
+
+     First release
+                                                                   -->
+
+
+<!-- ============================================================= -->
+<!--                    DEFAULTS FOR ATTRIBUTE LISTS               -->
+<!-- ============================================================= -->
+
+
+
+<!-- ============================================================= -->
+<!--                    CONFERENCE METADATA                        -->
+<!-- ============================================================= -->
+
+ 
+<!--                    CONFERENCE METADATA MODEL                  -->
+<!--                    Content model for the conference metadata
+                        element <conference-meta>                  -->
+
+                        
+<!ENTITY % conference-meta-model
+                      "(conf-id+,conf-date,
+                      (conf-name | conf-acronym)+,
+                      publisher*, isbn*, conf-num?, conf-loc?,
+                      conf-sponsor*, conf-theme?)"                  >
+ 
+ 
+ 
+<!--ELEM   conf-id       Defined here                               -->
+<!--ELEM   conf-date     Defined in %common1.ent"                   -->
+<!--ELEM   conf-name     Defined in %common1.ent"                   -->
+<!--ELEM   conf-acronym  Defined in JATS-articlemeta1.ent"          -->
+<!--ELEM   publisher     Defined in %common1.ent"                   -->
+<!--ELEM   isbn          Defined in %common1.ent"                   -->
+<!--ELEM   conf-num      Defined in JATS-articlemeta1.ent"          -->
+<!--ELEM   conf-loc      Defined in %common1.ent"                   -->
+<!--ELEM   conf-sponsor  Defined in JATS-articlemeta1.ent"          -->
+<!--ELEM   conf-theme    Defined in JATS-articlemeta1.ent"          -->
+
+
+<!--                    CONFERENCE METADATA                          -->
+
+<!--                    CONFERENCE IDENTIFIER ATTRIBUTES              -->
+<!--                    Attribute list for conference identifier 
+                        <conference-id> element                       -->
+<!ENTITY % conf-id-atts
+             "conf-id-type  
+                        CDATA                            #IMPLIED  " > 
+                                       
+
+                           
+<!ELEMENT  conference-meta %conference-meta-model;                   >
+
+<!ELEMENT  conf-id   (#PCDATA)                                    >
+<!ATTLIST  conf-id
+             %conf-id-atts;                                       >
+
+<!-- ============== End Conference Metadata Elements  =========== -->

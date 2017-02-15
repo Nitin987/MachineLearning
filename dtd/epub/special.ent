@@ -1,0 +1,46 @@
+
+<!--
+     File special.ent produced by the XSL script characters.xsl
+     from input data in unicode.xml.
+
+     Please report any errors to David Carlisle
+     via the public W3C list www-math@w3.org.
+
+     The numeric character values assigned to each entity
+     (should) match the Unicode assignments in Unicode 3.2.
+
+-->
+
+<!ENTITY amp              "&amp;#38;#38;" ><!--ampersand -->
+<!ENTITY bdquo            "&amp;#x0201E;" ><!--double low-9 quotation mark -->
+<!ENTITY circ             "&amp;#x002C6;" ><!--circumflex accent = spacing circumflex -->
+<!ENTITY circ             "&amp;#x002C6;" ><!--circumflex accent = spacing circumflex -->
+<!ENTITY Dagger           "&amp;#x02021;" ><!--double dagger -->
+<!ENTITY dagger           "&amp;#x02020;" ><!--dagger -->
+<!ENTITY emsp             "&amp;#x02003;" ><!--em space -->
+<!ENTITY ensp             "&amp;#x02002;" ><!--en space -->
+<!ENTITY euro             "&amp;#x020AC;" ><!--euro sign -->
+<!ENTITY gt               "&amp;#x0003E;" ><!--greater-than sign -->
+<!ENTITY ldquo            "&amp;#x0201C;" ><!--left double quotation mark -->
+<!ENTITY lrm              "&amp;#x0200E;" ><!-- -->
+<!ENTITY lsaquo           "&amp;#x02039;" ><!-- -->
+<!ENTITY lsquo            "&amp;#x02018;" ><!--left single quotation mark -->
+<!ENTITY lt               "&amp;#38;#60;" ><!--less-than sign -->
+<!ENTITY mdash            "&amp;#x02014;" ><!--em dash -->
+<!ENTITY ndash            "&amp;#x02013;" ><!--en dash -->
+<!ENTITY OElig            "&amp;#x00152;" ><!--latin capital ligature OE -->
+<!ENTITY oelig            "&amp;#x00153;" ><!--latin small ligature oe -->
+<!ENTITY permil           "&amp;#x02030;" ><!--per mille sign -->
+<!ENTITY quot             "&amp;#x00022;" ><!--quotation mark = APL quote -->
+<!ENTITY rdquo            "&amp;#x0201D;" ><!--right double quotation mark -->
+<!ENTITY rlm              "&amp;#x0200F;" ><!-- -->
+<!ENTITY rsaquo           "&amp;#x0203A;" ><!-- -->
+<!ENTITY rsquo            "&amp;#x02019;" ><!--right single quotation mark -->
+<!ENTITY sbquo            "&amp;#x0201A;" ><!--single low-9 quotation mark -->
+<!ENTITY Scaron           "&amp;#x00160;" ><!--latin capital letter S with caron -->
+<!ENTITY scaron           "&amp;#x00161;" ><!--latin small letter s with caron -->
+<!ENTITY thinsp           "&amp;#x02009;" ><!--thin space -->
+<!ENTITY tilde            "&amp;#x002DC;" ><!--small tilde -->
+<!ENTITY Yuml             "&amp;#x00178;" ><!--latin capital letter Y with diaeresis -->
+<!ENTITY zwj              "&amp;#x0200D;" ><!-- -->
+<!ENTITY zwnj             "&amp;#x0200C;" ><!-- -->

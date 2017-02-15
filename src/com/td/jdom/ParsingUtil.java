@@ -32,7 +32,11 @@ public class ParsingUtil {
 		Element tailElement =  null;
 		Element bodyElement=null;
 		if(rootElementName.equalsIgnoreCase("article") || rootElementName.equalsIgnoreCase("simple-article")){
-			tailElement = rootElement.getChild("tail", Namespace.getNamespace("http://www.elsevier.com/xml/ja/dtd"));
+			
+			tailElement = rootElement.getChild("references", Namespace.getNamespace("http://www.elsevier.com/xml/ja/dtd"));
+			if(tailElement==null){
+				tailElement=rootElement.getChild("References");
+			}
 			bodyElement=   rootElement.getChild("body", Namespace.getNamespace("http://www.elsevier.com/xml/ja/dtd"));
 			new BodyProcessing(bodyElement,xmlExtractorObj,ctx);
 			new ReferenceParsing(tailElement,xmlExtractorObj,ctx);

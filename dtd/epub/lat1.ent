@@ -1,0 +1,109 @@
+
+<!--
+     File lat1.ent produced by the XSL script characters.xsl
+     from input data in unicode.xml.
+
+     Please report any errors to David Carlisle
+     via the public W3C list www-math@w3.org.
+
+     The numeric character values assigned to each entity
+     (should) match the Unicode assignments in Unicode 3.2.
+
+-->
+
+<!ENTITY Aacute           "&amp;#x000C1;" ><!--latin capital letter A with acute -->
+<!ENTITY aacute           "&amp;#x000E1;" ><!--latin small letter a with acute -->
+<!ENTITY Acirc            "&amp;#x000C2;" ><!--latin small letter a with circumflex -->
+<!ENTITY acirc            "&amp;#x000E2;" ><!--latin capital letter A with circumflex -->
+<!ENTITY acute            "&amp;#x000B4;" ><!--acute accent = spacing acute -->
+<!ENTITY AElig            "&amp;#x000C6;" ><!--latin capital letter AE = latin capital ligature AE -->
+<!ENTITY aelig            "&amp;#x000E6;" ><!--latin small letter ae = latin small ligature ae -->
+<!ENTITY Agrave           "&amp;#x000C0;" ><!--latin capital letter A with grave = latin capital letter A grave -->
+<!ENTITY agrave           "&amp;#x000E0;" ><!--latin small letter a with grave = latin small letter a grave -->
+<!ENTITY Aring            "&amp;#x000C5;" ><!--latin capital letter A with ring above = latin capital letter A ring -->
+<!ENTITY aring            "&amp;#x000E5;" ><!--latin small letter a with ring above = latin small letter a ring -->
+<!ENTITY Atilde           "&amp;#x000C3;" ><!--latin capital letter A with tilde -->
+<!ENTITY atilde           "&amp;#x000E3;" ><!--latin small letter a with tilde -->
+<!ENTITY Auml             "&amp;#x000C4;" ><!--latin capital letter A with diaeresis -->
+<!ENTITY auml             "&amp;#x000E4;" ><!--latin small letter a with diaeresis -->
+<!ENTITY brvbar           "&amp;#x000A6;" ><!--broken bar = broken vertical bar -->
+<!ENTITY Ccedil           "&amp;#x000C7;" ><!--latin capital letter C with cedilla -->
+<!ENTITY ccedil           "&amp;#x000E7;" ><!--latin small letter c with cedilla -->
+<!ENTITY cedil            "&amp;#x000B8;" ><!--cedilla = spacing cedilla -->
+<!ENTITY cent             "&amp;#x000A2;" ><!--cent sign -->
+<!ENTITY copy             "&amp;#x000A9;" ><!--copyright sign -->
+<!ENTITY curren           "&amp;#x000A4;" ><!--currency sign -->
+<!ENTITY deg              "&amp;#x000B0;" ><!--degree sign -->
+<!ENTITY divide           "&amp;#x000F7;" ><!--division sign -->
+<!ENTITY Eacute           "&amp;#x000C9;" ><!--latin capital letter E with acute -->
+<!ENTITY eacute           "&amp;#x000E9;" ><!--latin small letter e with acute -->
+<!ENTITY Ecirc            "&amp;#x000CA;" ><!--latin capital letter E with circumflex -->
+<!ENTITY ecirc            "&amp;#x000EA;" ><!--latin small letter e with circumflex -->
+<!ENTITY Egrave           "&amp;#x000C8;" ><!--latin capital letter E with grave -->
+<!ENTITY egrave           "&amp;#x000E8;" ><!--latin small letter e with grave -->
+<!ENTITY ETH              "&amp;#x000D0;" ><!--latin capital letter ETH -->
+<!ENTITY eth              "&amp;#x000F0;" ><!--latin small letter eth -->
+<!ENTITY Euml             "&amp;#x000CB;" ><!--latin capital letter E with diaeresis -->
+<!ENTITY euml             "&amp;#x000EB;" ><!--latin small letter e with diaeresis -->
+<!ENTITY frac12           "&amp;#x000BD;" ><!--vulgar fraction one half = fraction one half -->
+<!ENTITY frac14           "&amp;#x000BC;" ><!--vulgar fraction one quarter = fraction one quarter -->
+<!ENTITY frac34           "&amp;#x000BE;" ><!--vulgar fraction three quarters = fraction three quarters -->
+<!ENTITY Iacute           "&amp;#x000CD;" ><!--latin capital letter I with acute -->
+<!ENTITY iacute           "&amp;#x000ED;" ><!--latin small letter i with acute -->
+<!ENTITY Icirc            "&amp;#x000CE;" ><!--latin capital letter I with circumflex -->
+<!ENTITY icirc            "&amp;#x000EE;" ><!--latin small letter i with circumflex -->
+<!ENTITY iexcl            "&amp;#x000A1;" ><!--inverted exclamation mark -->
+<!ENTITY Igrave           "&amp;#x000CC;" ><!--latin capital letter I with grave -->
+<!ENTITY igrave           "&amp;#x000EC;" ><!--latin small letter i with grave -->
+<!ENTITY iquest           "&amp;#x000BF;" ><!--inverted question mark = turned question mark -->
+<!ENTITY Iuml             "&amp;#x000CF;" ><!--latin capital letter I with diaeresis -->
+<!ENTITY iuml             "&amp;#x000EF;" ><!--latin small letter i with diaeresis -->
+<!ENTITY laquo            "&amp;#x000AB;" ><!--left-pointing double angle quotation mark = left pointing guillemet -->
+<!ENTITY macr             "&amp;#x000AF;" ><!--macron = spacing macron = overline = APL overbar -->
+<!ENTITY micro            "&amp;#x000B5;" ><!--micro sign -->
+<!ENTITY middot           "&amp;#x000B7;" ><!--middle dot = Georgian comma = Greek middle dot -->
+<!ENTITY nbsp             "&amp;#x000A0;" ><!--no-break space = non-breaking space -->
+<!ENTITY not              "&amp;#x000AC;" ><!--not sign -->
+<!ENTITY Ntilde           "&amp;#x000D1;" ><!--latin capital letter N with tilde -->
+<!ENTITY ntilde           "&amp;#x000F1;" ><!--latin small letter n with tilde -->
+<!ENTITY Oacute           "&amp;#x000D3;" ><!--latin capital letter O with acute -->
+<!ENTITY oacute           "&amp;#x000F3;" ><!--latin small letter o with acute -->
+<!ENTITY Ocirc            "&amp;#x000D4;" ><!--latin capital letter O with circumflex -->
+<!ENTITY ocirc            "&amp;#x000F4;" ><!--latin small letter o with circumflex -->
+<!ENTITY Ograve           "&amp;#x000D2;" ><!--latin capital letter O with grave -->
+<!ENTITY ograve           "&amp;#x000F2;" ><!--latin small letter o with grave -->
+<!ENTITY ordf             "&amp;#x000AA;" ><!--feminine ordinal indicator -->
+<!ENTITY ordm             "&amp;#x000BA;" ><!--masculine ordinal indicator -->
+<!ENTITY Oslash           "&amp;#x000D8;" ><!--latin capital letter O with stroke = latin capital letter O slash -->
+<!ENTITY oslash           "&amp;#x000F8;" ><!--latin small letter o with stroke, = latin small letter o slash, -->
+<!ENTITY Otilde           "&amp;#x000D5;" ><!--latin capital letter O with tilde -->
+<!ENTITY otilde           "&amp;#x000F5;" ><!--latin small letter o with tilde -->
+<!ENTITY Ouml             "&amp;#x000D6;" ><!--latin capital letter O with diaeresis -->
+<!ENTITY ouml             "&amp;#x000F6;" ><!--latin small letter o with diaeresis -->
+<!ENTITY para             "&amp;#x000B6;" ><!--pilcrow sign = paragraph sign -->
+<!ENTITY plusmn           "&amp;#x000B1;" ><!--plus-minus sign = plus-or-minus sign -->
+<!ENTITY pound            "&amp;#x000A3;" ><!--pound sign -->
+<!ENTITY raquo            "&amp;#x000BB;" ><!--right-pointing double angle quotation mark = right pointing guillemet -->
+<!ENTITY reg              "&amp;#x000AE;" ><!--registered sign = registered trade mark sign -->
+<!ENTITY sect             "&amp;#x000A7;" ><!--section sign -->
+<!ENTITY shy              "&amp;#x000AD;" ><!--soft hyphen = discretionary hyphen -->
+<!ENTITY sup1             "&amp;#x000B9;" ><!--superscript one = superscript digit one -->
+<!ENTITY sup2             "&amp;#x000B2;" ><!--superscript two = superscript digit two = squared -->
+<!ENTITY sup3             "&amp;#x000B3;" ><!--superscript three = superscript digit three = cubed -->
+<!ENTITY szlig            "&amp;#x000DF;" ><!--latin small letter sharp s = ess-zed -->
+<!ENTITY THORN            "&amp;#x000DE;" ><!--latin capital letter THORN -->
+<!ENTITY thorn            "&amp;#x000FE;" ><!--latin small letter thorn with -->
+<!ENTITY times            "&amp;#x000D7;" ><!--multiplication sign -->
+<!ENTITY Uacute           "&amp;#x000DA;" ><!--latin capital letter U with acute -->
+<!ENTITY uacute           "&amp;#x000FA;" ><!--latin small letter u with acute -->
+<!ENTITY Ucirc            "&amp;#x000DB;" ><!--latin capital letter U with circumflex -->
+<!ENTITY ucirc            "&amp;#x000FB;" ><!--latin small letter u with circumflex -->
+<!ENTITY Ugrave           "&amp;#x000D9;" ><!--latin capital letter U with grave -->
+<!ENTITY ugrave           "&amp;#x000F9;" ><!--latin small letter u with grave -->
+<!ENTITY uml              "&amp;#x000A8;" ><!--diaeresis = spacing diaeresis -->
+<!ENTITY Uuml             "&amp;#x000DC;" ><!--latin capital letter U with diaeresis -->
+<!ENTITY uuml             "&amp;#x000FC;" ><!--latin small letter u with diaeresis -->
+<!ENTITY Yacute           "&amp;#x000DD;" ><!--latin capital letter Y with acute -->
+<!ENTITY yacute           "&amp;#x000FD;" ><!--latin small letter y with acute -->
+<!ENTITY yen              "&amp;#x000A5;" ><!--yen sign = yuan sign -->
+<!ENTITY yuml             "&amp;#x000FF;" ><!--latin small letter y with diaeresis -->

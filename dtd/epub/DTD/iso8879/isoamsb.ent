@@ -1,0 +1,63 @@
+
+<!--
+     File isoamsb.ent produced by the XSL script characters.xsl
+     from input data in unicode.xml.
+
+     Please report any errors to David Carlisle
+     via the public W3C list www-math@w3.org.
+
+     The numeric character values assigned to each entity
+     (should) match the Unicode assignments in Unicode 3.2.
+
+     Entity names in this file are derived from files carrying the
+     following notice:
+
+     (C) International Organization for Standardization 1986
+     Permission to copy in any form is granted for use with
+     conforming SGML systems and applications as defined in
+     ISO 8879, provided this notice is included in all copies.
+
+-->
+
+<!ENTITY amalg            "&amp;#x02A3F;" ><!--/amalg B: amalgamation or coproduct -->
+<!ENTITY Barwed           "&amp;#x02306;" ><!--/doublebarwedge B: log and, dbl bar -->
+<!ENTITY barwed           "&amp;#x022BC;" ><!--/barwedge B: logical and, bar above -->
+<!ENTITY Cap              "&amp;#x022D2;" ><!--/Cap /doublecap B: dbl intersection -->
+<!ENTITY coprod           "&amp;#x02210;" ><!--/coprod L: coproduct operator -->
+<!ENTITY Cup              "&amp;#x022D3;" ><!--/Cup /doublecup B: dbl union -->
+<!ENTITY cuvee            "&amp;#x022CE;" ><!--/curlyvee B: curly logical or -->
+<!ENTITY cuwed            "&amp;#x022CF;" ><!--/curlywedge B: curly logical and -->
+<!ENTITY diam             "&amp;#x022C4;" ><!--/diamond B: open diamond -->
+<!ENTITY divonx           "&amp;#x022C7;" ><!--/divideontimes B: division on times -->
+<!ENTITY intcal           "&amp;#x022BA;" ><!--/intercal B: intercal -->
+<!ENTITY lthree           "&amp;#x022CB;" ><!--/leftthreetimes B: -->
+<!ENTITY ltimes           "&amp;#x022C9;" ><!--/ltimes B: times sign, left closed -->
+<!ENTITY minusb           "&amp;#x0229F;" ><!--/boxminus B: minus sign in box -->
+<!ENTITY oast             "&amp;#x0229B;" ><!--/circledast B: asterisk in circle -->
+<!ENTITY ocir             "&amp;#x0229A;" ><!--/circledcirc B: open dot in circle -->
+<!ENTITY odash            "&amp;#x0229D;" ><!--/circleddash B: hyphen in circle -->
+<!ENTITY odot             "&amp;#x02299;" ><!--/odot B: middle dot in circle -->
+<!ENTITY ominus           "&amp;#x02296;" ><!--/ominus B: minus sign in circle -->
+<!ENTITY oplus            "&amp;#x02295;" ><!--/oplus B: plus sign in circle -->
+<!ENTITY osol             "&amp;#x02298;" ><!--/oslash B: solidus in circle -->
+<!ENTITY otimes           "&amp;#x02297;" ><!--/otimes B: multiply sign in circle -->
+<!ENTITY plusb            "&amp;#x0229E;" ><!--/boxplus B: plus sign in box -->
+<!ENTITY plusdo           "&amp;#x02214;" ><!--/dotplus B: plus sign, dot above -->
+<!ENTITY prod             "&amp;#x0220F;" ><!--/prod L: product operator -->
+<!ENTITY rthree           "&amp;#x022CC;" ><!--/rightthreetimes B: -->
+<!ENTITY rtimes           "&amp;#x022CA;" ><!--/rtimes B: times sign, right closed -->
+<!ENTITY sdot             "&amp;#x022C5;" ><!--/cdot B: small middle dot -->
+<!ENTITY sdotb            "&amp;#x022A1;" ><!--/dotsquare /boxdot B: small dot in box -->
+<!ENTITY setmn            "&amp;#x02216;" ><!--/setminus B: reverse solidus -->
+<!ENTITY sqcap            "&amp;#x02293;" ><!--/sqcap B: square intersection -->
+<!ENTITY sqcup            "&amp;#x02294;" ><!--/sqcup B: square union -->
+<!ENTITY ssetmn           "&amp;#x02216;" ><!--/smallsetminus B: sm reverse solidus -->
+<!ENTITY sstarf           "&amp;#x022C6;" ><!--/star B: small star, filled -->
+<!ENTITY sum              "&amp;#x02211;" ><!--/sum L: summation operator -->
+<!ENTITY timesb           "&amp;#x022A0;" ><!--/boxtimes B: multiply sign in box -->
+<!ENTITY top              "&amp;#x022A4;" ><!--/top B: inverted perpendicular -->
+<!ENTITY uplus            "&amp;#x0228E;" ><!--/uplus B: plus sign in union -->
+<!ENTITY wreath           "&amp;#x02240;" ><!--/wr B: wreath product -->
+<!ENTITY xcirc            "&amp;#x025EF;" ><!--/bigcirc B: large circle -->
+<!ENTITY xdtri            "&amp;#x025BD;" ><!--/bigtriangledown B: big dn tri, open -->
+<!ENTITY xutri            "&amp;#x025B3;" ><!--/bigtriangleup B: big up tri, open -->

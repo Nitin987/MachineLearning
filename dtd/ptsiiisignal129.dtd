@@ -1,0 +1,346 @@
+<!-- PTSIII XML Signal DTD
+     For signals to PTSIII
+     Version 1.29 dated 28 August 2014
+
+     Typical invocation:
+     <!DOCTYPE messages SYSTEM "ptsiiisignal129.dtd">
+-->
+<!-- Permission to copy and distribute verbatim copies of this document is granted, 
+     provided this notice is included in all copies, but changing it is not allowed. 
+
+     Documentation available at http://www.elsevier.com/locate/xml
+-->
+<!--
+     v1.29  28 August 2014  [PTS release 2014.3 (CR 2225)]
+     Changes with respect to v1.28
+     * Added values LOGIN-PROOF and PROOF to %step;
+
+     v1.28  28 March 2014  [PTS release 2014.1 (CR 2149)]
+     Changes with respect to v1.27
+     * Added value proofing-update to %signal;
+     * Added value CORRECTIONS-SENT to %step; 
+     * Added new element message/proofing-system-info
+       (with mandatory subelements name, no-of-corrections, corrections-uri-for-supplier)
+
+     v1.27  11 December 2013  [PTS release 2013.3]
+     Changes with respect to v1.26
+     * Added value 008 to %copyright-type;
+     * Added value LICENSE to %step;
+     * Added new (optional) element copyright/employer
+     * Added new (optional) element supplier-info/license and new element license/license-type
+
+     v1.26  25 June 2013  [PTS release 2013.2]
+     Changes with respect to v1.25
+     * Added optional element supplier-info/reason-code
+     * Added values COLOUR-INVOICE-SENT, OFFPRINT-INVOICE-CREDIT
+       and SPA-INVOICE-CREDIT to %step;
+-->
+
+<!ENTITY % signal   "( ew-received | ew-imported | ew-import-repair |
+                       ew-resupply | ew-delivered-sd | ew-delivered-phoenix | ew-corrupt-order |
+                       ew-storage-complete |
+                       sd-received | sd-imported | sd-resupply | sd-on-web |
+                       phoenix-received | phoenix-imported | phoenix-resupply | phoenix-on-web |
+                       pmc-imported | pmc-ready | pmc-on-web |
+                       ats-registered | ats-updated | ats-sent |
+                       supplier-update | supplier-ready | supplier-problem |
+                       pubacc-pdf-sent | doi-registered |
+                       proofing-update )" >
+
+<!ENTITY % step     "( RSVP | CU | S0 | S5 | NIH | S50 | P0 | READY-FOR-ORDER |
+                       S100 | S200 | S250 | S280 | S300 | P100 | Q200 | Q300 | S350 | F300 | H200 | H300 | H350 |
+                       S5RESUPPLY | NIHRESUPPLY | S100RESUPPLY | S200RESUPPLY | S250RESUPPLY | S300RESUPPLY |
+                       P100RESUPPLY | Q100RESUPPLY | Q300RESUPPLY | H300RESUPPLY | F300RESUPPLY |
+                       PRINTED | BOUND | OFFPRINTS | E-OFFPRINT | LABELS |
+                       ITEM-OFFPRINTS | SEND-ITEM-OFFPRINTS |
+                       SEND-ISSUE | SEND-OFF-SYSTEM-ISSUE | SEND-OFFPRINTS |
+                       REGISTERED | COPYRIGHT | PUBACC | PUBACCRESUPPLY |
+                       COLOUR-INVOICE-SENT | COLOUR-INVOICE-CREDIT |
+                       OFFPRINT-INVOICE-SENT | OFFPRINT-FIRM-INVOICE-SENT | OFFPRINT-INVOICE-CREDIT | OFFPRINT-PAYMENT-RECEIVED |
+                       E-SUITE-PREORDER | E-SUITE-SPA | E-SUITE-COLOUR | E-SUITE-OFFPRINT |
+                       E-SUITE-COLOUR-UPDATE | E-SUITE-OFFPRINT-UPDATE | COPYRIGHT-UPDATE |
+                       SPA-INVOICE-SENT | SPA-FIRM-INVOICE-SENT | SPA-INVOICE-CREDIT | SPA-PAYMENT-RECEIVED |
+                       DOI-REGISTRATION | LICENSE |
+                       CORRECTIONS-SENT | LOGIN-PROOF | PROOF )" >
+
+<!ENTITY % problem-type  "(F01|F02|F03|F04|F05|F06|F07|F08|F09|F10|
+                           F11|F12|F13|F14|F15|F16|F17|F18|F19|F20|
+                           F21|F22|F23|F24|F25|F26|F27|F28|F29|F30|
+                           F31|F32|F33|F34|F35|F36|F37|F38|F39|F40|
+                           F41|F42|F43|F44|F45|F46|F47|F48|F49|F50|
+                           F51|F52|F53|F54|F55|F56|F57|F58|F59|F60|
+                           E01|P01)" >
+<!ENTITY % copyright-type  "(002|003|004|005|006|008)" >
+<!ENTITY % yesno           "(y|n)" >
+
+<!ENTITY % address-type    "( COLOUR-BILLING | OFFPRINT-BILLING | OFFPRINT-DELIVERY | HHMI | SPONSOR-BILLING )" >
+
+<!ENTITY % figure-type     "( FCOL | FCIP )">
+
+<!ENTITY % mo       "(01|02|03|04|05|06|07|08|09|10|11|12)" >
+<!ENTITY % day      "(01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|
+                      17|18|19|20|21|22|23|24|25|26|27|28|29|30|31)" >
+<!ENTITY % hr       "(00|01|02|03|04|05|06|07|08|09|10|11|
+                      12|13|14|15|16|17|18|19|20|21|22|23)" >
+<!ENTITY % ms       "(00|01|02|03|04|05|06|07|08|09|
+                      10|11|12|13|14|15|16|17|18|19|
+                      20|21|22|23|24|25|26|27|28|29|
+                      30|31|32|33|34|35|36|37|38|39|
+                      40|41|42|43|44|45|46|47|48|49|
+                      50|51|52|53|54|55|56|57|58|59)" >
+
+<!ELEMENT   messages    ( message+ )>
+
+<!ELEMENT   message     ( time, signal, stage, ( item | issue | book ),
+                          ( ew-info | sd-info | phoenix-info | supplier-info | ats-info | proofing-system-info )? )>
+<!ATTLIST   message
+            id          NMTOKEN         #REQUIRED>
+            
+<!ELEMENT   time        EMPTY>
+<!ATTLIST   time
+            day         %day;           #REQUIRED
+            month       %mo;            #REQUIRED
+            year        NMTOKEN         #REQUIRED
+            hr          %hr;            #IMPLIED
+            min         %ms;            #IMPLIED
+            sec         %ms;            #IMPLIED>
+
+<!ELEMENT   signal      EMPTY>
+<!ATTLIST   signal
+            id          %signal;        #REQUIRED>
+
+<!ELEMENT   stage       EMPTY>
+<!ATTLIST   stage
+            step        %step;          #REQUIRED>
+
+<!ELEMENT   item        ( pii, nihms-id?, pubmedcentral-id? )>
+<!ELEMENT   pii         ( #PCDATA )>
+<!ELEMENT   nihms-id    ( #PCDATA )>
+<!ELEMENT   pubmedcentral-id  ( #PCDATA )>
+
+<!ELEMENT   issue       ( ( jid | issn ),
+                          ( ( pii , ( vol-first, vol-last?, iss-first?, iss-last?, suppl? )? ) |
+                              ( vol-first, vol-last?, iss-first?, iss-last?, suppl? ) ),
+                           title-editors-group? )>                              
+
+<!ELEMENT   jid         ( #PCDATA )>
+<!ELEMENT   issn        ( #PCDATA )>
+
+<!-- vol/iss details in five-field PTS-III format -->
+<!ELEMENT   vol-first   ( #PCDATA )>
+<!ELEMENT   vol-last    ( #PCDATA )>
+<!ELEMENT   iss-first   ( #PCDATA )>
+<!ELEMENT   iss-last    ( #PCDATA )>
+<!ELEMENT   suppl       ( #PCDATA )>
+
+<!-- title-editors-group (special issue information) -->
+<!ELEMENT   title-editors-group  ( title?, subtitle?, conference-info?, editors?, sponsors? )>
+<!ELEMENT   subtitle             ( #PCDATA )>
+<!ELEMENT   conference-info      ( full-name?, abbr-name?, venue?, date-range? )>
+<!ELEMENT   full-name            ( #PCDATA )>
+<!ELEMENT   abbr-name            ( #PCDATA )>
+<!ELEMENT   venue                ( #PCDATA )>
+<!ELEMENT   date-range           ( start-date, end-date? )>
+<!ELEMENT   start-date           ( #PCDATA )>
+<!ELEMENT   end-date             ( #PCDATA )>
+<!ELEMENT   editors              ( #PCDATA )>
+<!ELEMENT   sponsors             ( #PCDATA )>
+
+<!ELEMENT   book        ( pii )>
+
+<!-- info for EW messages (see documentation) -->
+<!ELEMENT   ew-info     ( prod-type, container, remarks? )>
+
+<!ELEMENT   prod-type   ( #PCDATA )>
+<!ELEMENT   container   ( #PCDATA )>
+<!ELEMENT   remarks     ( #PCDATA )>
+
+<!-- info for SD message (see documentation) -->
+<!ELEMENT   sd-info     ( doc-count, container )>
+<!ELEMENT   doc-count   ( #PCDATA )>
+
+<!-- info for supplier messages (see documentation) -->
+<!ELEMENT   supplier-info   ( copyright?, funded-by?, nih-opt-out?,
+                              license?,
+                              accepts-marketing-mail?,
+                              pdf-pages?, pdf-pages-web?,
+                              proof-uri?,
+                              page-frac-body?, page-frac-trail?,
+                              supp-prod-type?, initial-print-run?,
+                              remarks?, problems?, invoice-nr?,
+                              offprint-delta-firm-invoice-nr?, spa-delta-firm-invoice-nr?,
+                              reason-code? )>
+
+<!ELEMENT   copyright       ( copyright-type, employer?, time )>
+<!ELEMENT   copyright-type  EMPTY>
+<!ATTLIST   copyright-type
+            type            %copyright-type;  #REQUIRED>
+<!ELEMENT   employer        ( #PCDATA )>
+<!ELEMENT   funded-by       ( #PCDATA )>
+<!ELEMENT   nih-opt-out     EMPTY>
+<!ATTLIST   nih-opt-out
+            opt-out         %yesno;           #REQUIRED>
+<!ELEMENT   license         ( license-type, time )>
+<!ELEMENT   license-type    ( #PCDATA )>
+
+<!ELEMENT   accepts-marketing-mail   EMPTY>
+<!ATTLIST   accepts-marketing-mail
+            marketing-mail  %yesno;           #REQUIRED>
+            
+<!ELEMENT   pdf-pages       ( #PCDATA )>
+<!ELEMENT   pdf-pages-web   ( #PCDATA )>
+<!ELEMENT   proof-uri       ( #PCDATA )>
+<!ELEMENT   page-frac-body  ( #PCDATA )>
+<!ELEMENT   page-frac-trail ( #PCDATA )>
+<!ELEMENT   supp-prod-type  ( #PCDATA )>
+<!ELEMENT   initial-print-run  ( #PCDATA )>
+
+<!ELEMENT   problems        ( problem+ )>
+<!ELEMENT   problem         ( problem-type, problem-remark, file-attached? )>
+<!ELEMENT   problem-type    EMPTY>
+<!ATTLIST   problem-type
+            type            %problem-type;   #REQUIRED>
+<!ELEMENT   problem-remark  ( #PCDATA )>
+<!ELEMENT   file-attached   ( #PCDATA )>
+<!ELEMENT   invoice-nr      ( #PCDATA )>
+
+<!ELEMENT   offprint-delta-firm-invoice-nr  ( #PCDATA )>
+<!ELEMENT   spa-delta-firm-invoice-nr       ( #PCDATA )>
+
+<!ELEMENT   reason-code                     ( #PCDATA )>
+
+<!-- info for Phoenix messages -->
+<!ELEMENT   phoenix-info    ( remarks )>
+
+<!-- info for OACS to PTS messages -->
+<!ELEMENT   ats-info        ( funded-by?, grant-nrs?, author-sponsored-access?,
+                              nih-employee?, copyright?, nih-opt-out?,
+                              accepts-marketing-mail?,
+                              e-offprint?, no-paid-offprints?, covers?, offprint-price?,
+                              offprint-cover-price?, offprint-shipping-cost?,
+                              total-offprint-price?, offprint-currency?, offprint-po-nr?,
+                              offprint-tax-exemption-nr?, offprint-vat-nr-validated?,
+                              offprint-tax-cert-applies?,
+                              offprint-order-date?, offprint-preorder-no-paid-offprints?,
+                              offprint-preorder-date?, offprint-payment-auth-code?,
+                              offprint-unique-order-ref-nr?, offprint-tax?,
+                              total-colour-price?, colour-currency?, colour-po-number?,
+                              colour-tax-exemption-number?, colour-vat-nr-validated?,
+                              colour-tax-cert-applies?,
+                              colour-form-received-date?, colour-payment-auth-code?,
+                              colour-unique-order-ref-nr?, colour-tax?,
+                              spa-payment-auth-code?, spa-unique-order-ref-nr?,
+                              spa-tax?, spa-price?, spa-currency?, spa-po-number?,
+                              spa-tax-exemption-number?, spa-vat-nr-validated?,
+                              spa-tax-cert-applies?, spa-form-received-date?,
+                              figures?, addresses? )>
+
+<!ELEMENT   grant-nrs       ( grant-nr+ )>
+<!ELEMENT   grant-nr        ( #PCDATA )>
+<!ELEMENT   author-sponsored-access  EMPTY>
+<!ATTLIST   author-sponsored-access
+            access          %yesno; 'n'>
+<!ELEMENT   nih-employee    EMPTY>
+<!ATTLIST   nih-employee
+            employee        %yesno; 'n'>
+<!ELEMENT   e-offprint      EMPTY>
+<!ATTLIST   e-offprint
+            status          %yesno; #REQUIRED>
+            
+<!ELEMENT   no-paid-offprints  ( #PCDATA )>
+<!ELEMENT   covers             ( #PCDATA )>
+<!ATTLIST   covers
+            status          %yesno; #REQUIRED>
+            
+<!ELEMENT   offprint-price                       ( #PCDATA )>
+<!ELEMENT   offprint-cover-price                 ( #PCDATA )>
+<!ELEMENT   offprint-shipping-cost               ( #PCDATA )>
+<!ELEMENT   total-offprint-price                 ( #PCDATA )>
+<!ELEMENT   offprint-currency                    ( #PCDATA )>
+<!ELEMENT   offprint-po-nr                       ( #PCDATA )>
+<!ELEMENT   offprint-tax-exemption-nr            ( #PCDATA )>
+<!ELEMENT   offprint-vat-nr-validated            EMPTY>
+<!ATTLIST   offprint-vat-nr-validated
+            validated       %yesno; #REQUIRED>
+<!ELEMENT   offprint-tax-cert-applies            EMPTY>
+<!ATTLIST   offprint-tax-cert-applies
+            applies         %yesno; #REQUIRED>
+<!ELEMENT   offprint-order-date                  ( time )>
+<!ELEMENT   offprint-preorder-no-paid-offprints  ( #PCDATA )>
+<!ELEMENT   offprint-preorder-date               ( time )>
+<!ELEMENT   offprint-payment-auth-code           ( #PCDATA )>
+<!ELEMENT   offprint-unique-order-ref-nr         ( #PCDATA )>
+<!ELEMENT   offprint-tax                         ( #PCDATA )>
+
+<!ELEMENT   figures         ( figure+ )>
+<!ELEMENT   figure          ( figure-number, figure-type , billing? )>
+<!ELEMENT   figure-number   ( #PCDATA )>
+<!ELEMENT   figure-type     EMPTY>
+<!ATTLIST   figure-type
+            type            %figure-type;  #REQUIRED>
+
+<!ELEMENT   billing         EMPTY>
+<!ATTLIST   billing
+            bill            %yesno; #REQUIRED>
+          
+<!ELEMENT   total-colour-price                   ( #PCDATA )>
+<!ELEMENT   colour-currency                      ( #PCDATA )>
+<!ELEMENT   colour-po-number                     ( #PCDATA )>
+<!ELEMENT   colour-tax-exemption-number          ( #PCDATA )>
+<!ELEMENT   colour-vat-nr-validated              EMPTY>
+<!ATTLIST   colour-vat-nr-validated
+            validated       %yesno; #REQUIRED>
+<!ELEMENT   colour-tax-cert-applies              EMPTY>
+<!ATTLIST   colour-tax-cert-applies
+            applies         %yesno; #REQUIRED>
+<!ELEMENT   colour-form-received-date            ( time )>
+<!ELEMENT   colour-payment-auth-code             ( #PCDATA )>
+<!ELEMENT   colour-unique-order-ref-nr           ( #PCDATA )>
+<!ELEMENT   colour-tax                           ( #PCDATA )>
+
+<!ELEMENT   spa-payment-auth-code                ( #PCDATA )>
+<!ELEMENT   spa-unique-order-ref-nr              ( #PCDATA )>
+<!ELEMENT   spa-tax                              ( #PCDATA )>
+<!ELEMENT   spa-price                            ( #PCDATA )>
+<!ELEMENT   spa-currency                         ( #PCDATA )>
+<!ELEMENT   spa-po-number                        ( #PCDATA )>
+<!ELEMENT   spa-tax-exemption-number             ( #PCDATA )>
+<!ELEMENT   spa-vat-nr-validated                 EMPTY>
+<!ATTLIST   spa-vat-nr-validated
+            validated       %yesno; #REQUIRED>
+<!ELEMENT   spa-tax-cert-applies                 EMPTY>
+<!ATTLIST   spa-tax-cert-applies
+            applies         %yesno; #REQUIRED>
+<!ELEMENT   spa-form-received-date               ( time )>
+
+<!ELEMENT   addresses       ( address+ )>
+<!ELEMENT   address         ( title?, forename?, surname?,
+                              organisation?, institute?, department?,
+                              address-1?, address-2?,
+                              postal-code?, city?, country?,
+                              phone?, fax?, email-address? )>
+<!ATTLIST   address
+            type            %address-type; #REQUIRED>
+
+<!ELEMENT   title           ( #PCDATA )>
+<!ELEMENT   forename        ( #PCDATA )>
+<!ELEMENT   surname         ( #PCDATA )>
+<!ELEMENT   organisation    ( #PCDATA )>
+<!ELEMENT   institute       ( #PCDATA )>
+<!ELEMENT   department      ( #PCDATA )>
+<!ELEMENT   address-1       ( #PCDATA )>
+<!ELEMENT   address-2       ( #PCDATA )>
+<!ELEMENT   postal-code     ( #PCDATA )>
+<!ELEMENT   city            ( #PCDATA )>
+<!ELEMENT   country         ( #PCDATA )>
+<!ELEMENT   phone           ( #PCDATA )>
+<!ELEMENT   fax             ( #PCDATA )>
+<!ELEMENT   email-address   ( #PCDATA )>
+
+<!-- info for Proofing Systems (e.g. ProofCentral) to PTS messages -->
+
+<!ELEMENT   proofing-system-info  ( name, no-of-corrections, corrections-uri-for-supplier )>
+
+<!ELEMENT   name                          ( #PCDATA )>
+<!ELEMENT   no-of-corrections             ( #PCDATA )>
+<!ELEMENT   corrections-uri-for-supplier  ( #PCDATA )>

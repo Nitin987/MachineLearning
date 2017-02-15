@@ -1,0 +1,564 @@
+
+<!--
+     File mmlalias.ent produced by the XSL script characters.xsl
+     from input data in unicode.xml.
+
+     Please report any errors to David Carlisle
+     via the public W3C list www-math@w3.org.
+
+     The numeric character values assigned to each entity
+     (should) match the Unicode assignments in Unicode 3.2.
+
+     References to the VARIANT SELECTOR 1 character (&amp;#x0FE00;)
+     should match the uses listed in Unicode Technical Report 25.
+
+-->
+
+<!ENTITY angle            "&amp;#x02220;" ><!--alias ISOAMSO ang -->
+<!ENTITY ApplyFunction    "&amp;#x02061;" ><!--character showing function application in presentation tagging -->
+<!ENTITY approx           "&amp;#x02248;" ><!--alias ISOTECH ap -->
+<!ENTITY approxeq         "&amp;#x0224A;" ><!--alias ISOAMSR ape -->
+<!ENTITY Assign           "&amp;#x02254;" ><!--assignment operator, alias ISOAMSR colone -->
+<!ENTITY backcong         "&amp;#x0224C;" ><!--alias ISOAMSR bcong -->
+<!ENTITY backepsilon      "&amp;#x003F6;" ><!--alias ISOAMSR bepsi -->
+<!ENTITY backprime        "&amp;#x02035;" ><!--alias ISOAMSO bprime -->
+<!ENTITY backsim          "&amp;#x0223D;" ><!--alias ISOAMSR bsim -->
+<!ENTITY backsimeq        "&amp;#x022CD;" ><!--alias ISOAMSR bsime -->
+<!ENTITY Backslash        "&amp;#x02216;" ><!--alias ISOAMSB setmn -->
+<!ENTITY barwedge         "&amp;#x022BC;" ><!--alias ISOAMSB barwed -->
+<!ENTITY Because          "&amp;#x02235;" ><!--alias ISOTECH becaus -->
+<!ENTITY because          "&amp;#x02235;" ><!--alias ISOTECH becaus -->
+<!ENTITY Bernoullis       "&amp;#x0212C;" ><!--alias ISOTECH bernou -->
+<!ENTITY between          "&amp;#x0226C;" ><!--alias ISOAMSR twixt -->
+<!ENTITY bigcap           "&amp;#x022C2;" ><!--alias ISOAMSB xcap -->
+<!ENTITY bigcirc          "&amp;#x025EF;" ><!--alias ISOAMSB xcirc -->
+<!ENTITY bigcup           "&amp;#x022C3;" ><!--alias ISOAMSB xcup -->
+<!ENTITY bigodot          "&amp;#x02299;" ><!--alias ISOAMSB xodot -->
+<!ENTITY bigoplus         "&amp;#x02295;" ><!--alias ISOAMSB xoplus -->
+<!ENTITY bigotimes        "&amp;#x02297;" ><!--alias ISOAMSB xotime -->
+<!ENTITY bigsqcup         "&amp;#x02294;" ><!--alias ISOAMSB xsqcup -->
+<!ENTITY bigstar          "&amp;#x02605;" ><!--ISOPUB    starf  -->
+<!ENTITY bigtriangledown  "&amp;#x025BD;" ><!--alias ISOAMSB xdtri -->
+<!ENTITY bigtriangleup    "&amp;#x025B3;" ><!--alias ISOAMSB xutri -->
+<!ENTITY biguplus         "&amp;#x0228E;" ><!--alias ISOAMSB xuplus -->
+<!ENTITY bigvee           "&amp;#x022C1;" ><!--alias ISOAMSB xvee -->
+<!ENTITY bigwedge         "&amp;#x022C0;" ><!--alias ISOAMSB xwedge -->
+<!ENTITY bkarow           "&amp;#x0290D;" ><!--alias ISOAMSA rbarr -->
+<!ENTITY blacklozenge     "&amp;#x029EB;" ><!--alias ISOPUB lozf -->
+<!ENTITY blacksquare      "&amp;#x025AA;" ><!--ISOTECH  squarf  -->
+<!ENTITY blacktriangle    "&amp;#x025B4;" ><!--alias ISOPUB utrif -->
+<!ENTITY blacktriangledown "&amp;#x025BE;" ><!--alias ISOPUB dtrif -->
+<!ENTITY blacktriangleleft "&amp;#x025C2;" ><!--alias ISOPUB ltrif -->
+<!ENTITY blacktriangleright "&amp;#x025B8;" ><!--alias ISOPUB rtrif -->
+<!ENTITY bot              "&amp;#x022A5;" ><!--alias ISOTECH bottom -->
+<!ENTITY boxminus         "&amp;#x0229F;" ><!--alias ISOAMSB minusb -->
+<!ENTITY boxplus          "&amp;#x0229E;" ><!--alias ISOAMSB plusb -->
+<!ENTITY boxtimes         "&amp;#x022A0;" ><!--alias ISOAMSB timesb -->
+<!ENTITY Breve            "&amp;#x002D8;" ><!--alias ISODIA breve -->
+<!ENTITY bullet           "&amp;#x02022;" ><!--alias ISOPUB bull -->
+<!ENTITY Bumpeq           "&amp;#x0224E;" ><!--alias ISOAMSR bump -->
+<!ENTITY bumpeq           "&amp;#x0224F;" ><!--alias ISOAMSR bumpe -->
+<!ENTITY CapitalDifferentialD "&amp;#x02145;" ><!--D for use in differentials, e.g., within integrals -->
+<!ENTITY Cayleys          "&amp;#x0212D;" ><!--the non-associative ring of octonions or Cayley numbers -->
+<!ENTITY Cedilla          "&amp;#x000B8;" ><!--alias ISODIA cedil -->
+<!ENTITY CenterDot        "&amp;#x000B7;" ><!--alias ISONUM middot -->
+<!ENTITY centerdot        "&amp;#x000B7;" ><!--alias ISONUM middot -->
+<!ENTITY checkmark        "&amp;#x02713;" ><!--alias ISOPUB check -->
+<!ENTITY circeq           "&amp;#x02257;" ><!--alias ISOAMSR cire -->
+<!ENTITY circlearrowleft  "&amp;#x021BA;" ><!--alias ISOAMSA olarr -->
+<!ENTITY circlearrowright "&amp;#x021BB;" ><!--alias ISOAMSA orarr -->
+<!ENTITY circledast       "&amp;#x0229B;" ><!--alias ISOAMSB oast -->
+<!ENTITY circledcirc      "&amp;#x0229A;" ><!--alias ISOAMSB ocir -->
+<!ENTITY circleddash      "&amp;#x0229D;" ><!--alias ISOAMSB odash -->
+<!ENTITY CircleDot        "&amp;#x02299;" ><!--alias ISOAMSB odot -->
+<!ENTITY circledR         "&amp;#x000AE;" ><!--alias ISONUM reg -->
+<!ENTITY circledS         "&amp;#x024C8;" ><!--alias ISOAMSO oS -->
+<!ENTITY CircleMinus      "&amp;#x02296;" ><!--alias ISOAMSB ominus -->
+<!ENTITY CirclePlus       "&amp;#x02295;" ><!--alias ISOAMSB oplus -->
+<!ENTITY CircleTimes      "&amp;#x02297;" ><!--alias ISOAMSB otimes -->
+<!ENTITY ClockwiseContourIntegral "&amp;#x02232;" ><!--alias ISOTECH cwconint -->
+<!ENTITY CloseCurlyDoubleQuote "&amp;#x0201D;" ><!--alias ISONUM rdquo -->
+<!ENTITY CloseCurlyQuote  "&amp;#x02019;" ><!--alias ISONUM rsquo -->
+<!ENTITY clubsuit         "&amp;#x02663;" ><!--ISOPUB    clubs  -->
+<!ENTITY coloneq          "&amp;#x02254;" ><!--alias ISOAMSR colone -->
+<!ENTITY complement       "&amp;#x02201;" ><!--alias ISOAMSO comp -->
+<!ENTITY complexes        "&amp;#x02102;" ><!--the field of complex numbers -->
+<!ENTITY Congruent        "&amp;#x02261;" ><!--alias ISOTECH equiv -->
+<!ENTITY ContourIntegral  "&amp;#x0222E;" ><!--alias ISOTECH conint -->
+<!ENTITY Coproduct        "&amp;#x02210;" ><!--alias ISOAMSB coprod -->
+<!ENTITY CounterClockwiseContourIntegral "&amp;#x02233;" ><!--alias ISOTECH awconint -->
+<!ENTITY CupCap           "&amp;#x0224D;" ><!--alias asympeq -->
+<!ENTITY curlyeqprec      "&amp;#x022DE;" ><!--alias ISOAMSR cuepr -->
+<!ENTITY curlyeqsucc      "&amp;#x022DF;" ><!--alias ISOAMSR cuesc -->
+<!ENTITY curlyvee         "&amp;#x022CE;" ><!--alias ISOAMSB cuvee -->
+<!ENTITY curlywedge       "&amp;#x022CF;" ><!--alias ISOAMSB cuwed -->
+<!ENTITY curvearrowleft   "&amp;#x021B6;" ><!--alias ISOAMSA cularr -->
+<!ENTITY curvearrowright  "&amp;#x021B7;" ><!--alias ISOAMSA curarr -->
+<!ENTITY dbkarow          "&amp;#x0290F;" ><!--alias ISOAMSA rBarr -->
+<!ENTITY ddagger          "&amp;#x02021;" ><!--alias ISOPUB Dagger -->
+<!ENTITY ddotseq          "&amp;#x02A77;" ><!--alias ISOAMSR eDDot -->
+<!ENTITY Del              "&amp;#x02207;" ><!--alias ISOTECH nabla -->
+<!ENTITY DiacriticalAcute "&amp;#x000B4;" ><!--alias ISODIA acute -->
+<!ENTITY DiacriticalDot   "&amp;#x002D9;" ><!--alias ISODIA dot -->
+<!ENTITY DiacriticalDoubleAcute "&amp;#x002DD;" ><!--alias ISODIA dblac -->
+<!ENTITY DiacriticalGrave "&amp;#x00060;" ><!--alias ISODIA grave -->
+<!ENTITY DiacriticalTilde "&amp;#x002DC;" ><!--alias ISODIA tilde -->
+<!ENTITY Diamond          "&amp;#x022C4;" ><!--alias ISOAMSB diam -->
+<!ENTITY diamond          "&amp;#x022C4;" ><!--alias ISOAMSB diam -->
+<!ENTITY diamondsuit      "&amp;#x02666;" ><!--ISOPUB    diams  -->
+<!ENTITY DifferentialD    "&amp;#x02146;" ><!--d for use in differentials, e.g., within integrals -->
+<!ENTITY digamma          "&amp;#x003DC;" ><!--alias ISOGRK3 gammad -->
+<!ENTITY div              "&amp;#x000F7;" ><!--alias ISONUM divide -->
+<!ENTITY divideontimes    "&amp;#x022C7;" ><!--alias ISOAMSB divonx -->
+<!ENTITY doteq            "&amp;#x02250;" ><!--alias ISOAMSR esdot -->
+<!ENTITY doteqdot         "&amp;#x02251;" ><!--alias ISOAMSR eDot -->
+<!ENTITY DotEqual         "&amp;#x02250;" ><!--alias ISOAMSR esdot -->
+<!ENTITY dotminus         "&amp;#x02238;" ><!--alias ISOAMSB minusd -->
+<!ENTITY dotplus          "&amp;#x02214;" ><!--alias ISOAMSB plusdo -->
+<!ENTITY dotsquare        "&amp;#x022A1;" ><!--alias ISOAMSB sdotb -->
+<!ENTITY doublebarwedge   "&amp;#x02306;" ><!--alias ISOAMSB Barwed -->
+<!ENTITY DoubleContourIntegral "&amp;#x0222F;" ><!--alias ISOTECH Conint -->
+<!ENTITY DoubleDot        "&amp;#x000A8;" ><!--alias ISODIA die -->
+<!ENTITY DoubleDownArrow  "&amp;#x021D3;" ><!--alias ISOAMSA dArr -->
+<!ENTITY DoubleLeftArrow  "&amp;#x021D0;" ><!--alias ISOTECH lArr -->
+<!ENTITY DoubleLeftRightArrow "&amp;#x021D4;" ><!--alias ISOAMSA hArr -->
+<!ENTITY DoubleLeftTee    "&amp;#x02AE4;" ><!--alias for  &amp;Dashv;  -->
+<!ENTITY DoubleLongLeftArrow "&amp;#x027F8;" ><!--alias ISOAMSA xlArr -->
+<!ENTITY DoubleLongLeftRightArrow "&amp;#x027FA;" ><!--alias ISOAMSA xhArr -->
+<!ENTITY DoubleLongRightArrow "&amp;#x027F9;" ><!--alias ISOAMSA xrArr -->
+<!ENTITY DoubleRightArrow "&amp;#x021D2;" ><!--alias ISOTECH rArr -->
+<!ENTITY DoubleRightTee   "&amp;#x022A8;" ><!--alias ISOAMSR vDash -->
+<!ENTITY DoubleUpArrow    "&amp;#x021D1;" ><!--alias ISOAMSA uArr -->
+<!ENTITY DoubleUpDownArrow "&amp;#x021D5;" ><!--alias ISOAMSA vArr -->
+<!ENTITY DoubleVerticalBar "&amp;#x02225;" ><!--alias ISOTECH par -->
+<!ENTITY DownArrow        "&amp;#x02193;" ><!--alias ISONUM darr -->
+<!ENTITY Downarrow        "&amp;#x021D3;" ><!--alias ISOAMSA dArr -->
+<!ENTITY downarrow        "&amp;#x02193;" ><!--alias ISONUM darr -->
+<!ENTITY DownArrowUpArrow "&amp;#x021F5;" ><!--alias ISOAMSA duarr -->
+<!ENTITY downdownarrows   "&amp;#x021CA;" ><!--alias ISOAMSA ddarr -->
+<!ENTITY downharpoonleft  "&amp;#x021C3;" ><!--alias ISOAMSA dharl -->
+<!ENTITY downharpoonright "&amp;#x021C2;" ><!--alias ISOAMSA dharr -->
+<!ENTITY DownLeftVector   "&amp;#x021BD;" ><!--alias ISOAMSA lhard -->
+<!ENTITY DownRightVector  "&amp;#x021C1;" ><!--alias ISOAMSA rhard -->
+<!ENTITY DownTee          "&amp;#x022A4;" ><!--alias ISOTECH top -->
+<!ENTITY DownTeeArrow     "&amp;#x021A7;" ><!--alias for mapstodown -->
+<!ENTITY drbkarow         "&amp;#x02910;" ><!--alias ISOAMSA RBarr -->
+<!ENTITY Element          "&amp;#x02208;" ><!--alias ISOTECH isinv -->
+<!ENTITY emptyset         "&amp;#x02205;" ><!--alias ISOAMSO empty -->
+<!ENTITY eqcirc           "&amp;#x02256;" ><!--alias ISOAMSR ecir -->
+<!ENTITY eqcolon          "&amp;#x02255;" ><!--alias ISOAMSR ecolon -->
+<!ENTITY eqsim            "&amp;#x02242;" ><!--alias ISOAMSR esim -->
+<!ENTITY eqslantgtr       "&amp;#x022DD;" ><!--alias ISOAMSR egs -->
+<!ENTITY eqslantless      "&amp;#x022DC;" ><!--alias ISOAMSR els -->
+<!ENTITY EqualTilde       "&amp;#x02242;" ><!--alias ISOAMSR esim -->
+<!ENTITY Equilibrium      "&amp;#x021CC;" ><!--alias ISOAMSA rlhar -->
+<!ENTITY Exists           "&amp;#x02203;" ><!--alias ISOTECH exist -->
+<!ENTITY expectation      "&amp;#x02130;" ><!--expectation (operator) -->
+<!ENTITY ExponentialE     "&amp;#x02147;" ><!--e use for the exponential base of the natural logarithms -->
+<!ENTITY exponentiale     "&amp;#x02147;" ><!--base of the Napierian logarithms -->
+<!ENTITY fallingdotseq    "&amp;#x02252;" ><!--alias ISOAMSR efDot -->
+<!ENTITY ForAll           "&amp;#x02200;" ><!--alias ISOTECH forall -->
+<!ENTITY Fouriertrf       "&amp;#x02131;" ><!--Fourier transform -->
+<!ENTITY geq              "&amp;#x02265;" ><!--alias ISOTECH ge -->
+<!ENTITY geqq             "&amp;#x02267;" ><!--alias ISOAMSR gE -->
+<!ENTITY geqslant         "&amp;#x02A7E;" ><!--alias ISOAMSR ges -->
+<!ENTITY gg               "&amp;#x0226B;" ><!--alias ISOAMSR Gt -->
+<!ENTITY ggg              "&amp;#x022D9;" ><!--alias ISOAMSR Gg -->
+<!ENTITY gnapprox         "&amp;#x02A8A;" ><!--alias ISOAMSN gnap -->
+<!ENTITY gneq             "&amp;#x02269;" ><!--alias ISOAMSN gne -->
+<!ENTITY gneqq            "&amp;#x02269;" ><!--alias ISOAMSN gnE -->
+<!ENTITY GreaterEqual     "&amp;#x02265;" ><!--alias ISOTECH ge -->
+<!ENTITY GreaterEqualLess "&amp;#x022DB;" ><!--alias ISOAMSR gel -->
+<!ENTITY GreaterFullEqual "&amp;#x02267;" ><!--alias ISOAMSR gE -->
+<!ENTITY GreaterLess      "&amp;#x02277;" ><!--alias ISOAMSR gl -->
+<!ENTITY GreaterSlantEqual "&amp;#x02A7E;" ><!--alias ISOAMSR ges -->
+<!ENTITY GreaterTilde     "&amp;#x02273;" ><!--alias ISOAMSR gsim -->
+<!ENTITY gtrapprox        "&amp;#x02273;" ><!--alias ISOAMSR gap -->
+<!ENTITY gtrdot           "&amp;#x022D7;" ><!--alias ISOAMSR gtdot -->
+<!ENTITY gtreqless        "&amp;#x022DB;" ><!--alias ISOAMSR gel -->
+<!ENTITY gtreqqless       "&amp;#x022DB;" ><!--alias ISOAMSR gEl -->
+<!ENTITY gtrless          "&amp;#x02277;" ><!--alias ISOAMSR gl -->
+<!ENTITY gtrsim           "&amp;#x02273;" ><!--alias ISOAMSR gsim -->
+<!ENTITY gvertneqq        "&amp;#x02269;&amp;#x0FE00;" ><!--alias ISOAMSN gvnE -->
+<!ENTITY Hacek            "&amp;#x002C7;" ><!--alias ISODIA caron -->
+<!ENTITY hbar             "&amp;#x0210F;" ><!--alias ISOAMSO plank -->
+<!ENTITY heartsuit        "&amp;#x02661;" ><!--ISOPUB    hearts  -->
+<!ENTITY HilbertSpace     "&amp;#x0210B;" ><!--Hilbert space -->
+<!ENTITY hksearow         "&amp;#x02925;" ><!--alias ISOAMSA searhk -->
+<!ENTITY hkswarow         "&amp;#x02926;" ><!--alias ISOAMSA swarhk -->
+<!ENTITY hookleftarrow    "&amp;#x021A9;" ><!--alias ISOAMSA larrhk -->
+<!ENTITY hookrightarrow   "&amp;#x021AA;" ><!--alias ISOAMSA rarrhk -->
+<!ENTITY hslash           "&amp;#x0210F;" ><!--alias ISOAMSO plankv -->
+<!ENTITY HumpDownHump     "&amp;#x0224E;" ><!--alias ISOAMSR bump -->
+<!ENTITY HumpEqual        "&amp;#x0224F;" ><!--alias ISOAMSR bumpe -->
+<!ENTITY iiiint           "&amp;#x02A0C;" ><!--alias ISOTECH qint -->
+<!ENTITY iiint            "&amp;#x0222D;" ><!--alias ISOTECH tint -->
+<!ENTITY Im               "&amp;#x02111;" ><!--alias ISOAMSO image -->
+<!ENTITY ImaginaryI       "&amp;#x02148;" ><!--i for use as a square root of -1 -->
+<!ENTITY imagline         "&amp;#x02110;" ><!--the geometric imaginary line -->
+<!ENTITY imagpart         "&amp;#x02111;" ><!--alias ISOAMSO image -->
+<!ENTITY Implies          "&amp;#x021D2;" ><!--alias ISOTECH rArr -->
+<!ENTITY in               "&amp;#x02208;" ><!--ISOTECH   isin  -->
+<!ENTITY integers         "&amp;#x02124;" ><!--the ring of integers -->
+<!ENTITY Integral         "&amp;#x0222B;" ><!--alias ISOTECH int -->
+<!ENTITY intercal         "&amp;#x022BA;" ><!--alias ISOAMSB intcal -->
+<!ENTITY Intersection     "&amp;#x022C2;" ><!--alias ISOAMSB xcap -->
+<!ENTITY intprod          "&amp;#x02A3C;" ><!--alias ISOAMSB iprod -->
+<!ENTITY InvisibleComma   "&amp;#x02063;" ><!--used as a separator, e.g., in indices -->
+<!ENTITY InvisibleTimes   "&amp;#x02062;" ><!--marks multiplication when it is understood without a mark -->
+<!ENTITY langle           "&amp;#x02329;" ><!--alias ISOTECH lang -->
+<!ENTITY Laplacetrf       "&amp;#x02112;" ><!--Laplace transform -->
+<!ENTITY lbrace           "&amp;#x0007B;" ><!--alias ISONUM lcub -->
+<!ENTITY lbrack           "&amp;#x0005B;" ><!--alias ISONUM lsqb -->
+<!ENTITY LeftAngleBracket "&amp;#x02329;" ><!--alias ISOTECH lang -->
+<!ENTITY LeftArrow        "&amp;#x02190;" ><!--alias ISONUM larr -->
+<!ENTITY Leftarrow        "&amp;#x021D0;" ><!--alias ISOTECH lArr -->
+<!ENTITY leftarrow        "&amp;#x02190;" ><!--alias ISONUM larr -->
+<!ENTITY LeftArrowBar     "&amp;#x021E4;" ><!--alias for larrb -->
+<!ENTITY LeftArrowRightArrow "&amp;#x021C6;" ><!--alias ISOAMSA lrarr -->
+<!ENTITY leftarrowtail    "&amp;#x021A2;" ><!--alias ISOAMSA larrtl -->
+<!ENTITY LeftCeiling      "&amp;#x02308;" ><!--alias ISOAMSC lceil -->
+<!ENTITY LeftDoubleBracket "&amp;#x0301A;" ><!--left double bracket delimiter -->
+<!ENTITY LeftDownVector   "&amp;#x021C3;" ><!--alias ISOAMSA dharl -->
+<!ENTITY LeftFloor        "&amp;#x0230A;" ><!--alias ISOAMSC lfloor -->
+<!ENTITY leftharpoondown  "&amp;#x021BD;" ><!--alias ISOAMSA lhard -->
+<!ENTITY leftharpoonup    "&amp;#x021BC;" ><!--alias ISOAMSA lharu -->
+<!ENTITY leftleftarrows   "&amp;#x021C7;" ><!--alias ISOAMSA llarr -->
+<!ENTITY LeftRightArrow   "&amp;#x02194;" ><!--alias ISOAMSA harr -->
+<!ENTITY Leftrightarrow   "&amp;#x021D4;" ><!--alias ISOAMSA hArr -->
+<!ENTITY leftrightarrow   "&amp;#x02194;" ><!--alias ISOAMSA harr -->
+<!ENTITY leftrightarrows  "&amp;#x021C6;" ><!--alias ISOAMSA lrarr -->
+<!ENTITY leftrightharpoons "&amp;#x021CB;" ><!--alias ISOAMSA lrhar -->
+<!ENTITY leftrightsquigarrow "&amp;#x021AD;" ><!--alias ISOAMSA harrw -->
+<!ENTITY LeftTee          "&amp;#x022A3;" ><!--alias ISOAMSR dashv -->
+<!ENTITY LeftTeeArrow     "&amp;#x021A4;" ><!--alias for mapstoleft -->
+<!ENTITY leftthreetimes   "&amp;#x022CB;" ><!--alias ISOAMSB lthree -->
+<!ENTITY LeftTriangle     "&amp;#x022B2;" ><!--alias ISOAMSR vltri -->
+<!ENTITY LeftTriangleEqual "&amp;#x022B4;" ><!--alias ISOAMSR ltrie -->
+<!ENTITY LeftUpVector     "&amp;#x021BF;" ><!--alias ISOAMSA uharl -->
+<!ENTITY LeftVector       "&amp;#x021BC;" ><!--alias ISOAMSA lharu -->
+<!ENTITY leq              "&amp;#x02264;" ><!--alias ISOTECH le -->
+<!ENTITY leqq             "&amp;#x02266;" ><!--alias ISOAMSR lE -->
+<!ENTITY leqslant         "&amp;#x02A7D;" ><!--alias ISOAMSR les -->
+<!ENTITY lessapprox       "&amp;#x02272;" ><!--alias ISOAMSR lap -->
+<!ENTITY lessdot          "&amp;#x022D6;" ><!--alias ISOAMSR ltdot -->
+<!ENTITY lesseqgtr        "&amp;#x022DA;" ><!--alias ISOAMSR leg -->
+<!ENTITY lesseqqgtr       "&amp;#x022DA;" ><!--alias ISOAMSR lEg -->
+<!ENTITY LessEqualGreater "&amp;#x022DA;" ><!--alias ISOAMSR leg -->
+<!ENTITY LessFullEqual    "&amp;#x02266;" ><!--alias ISOAMSR lE -->
+<!ENTITY LessGreater      "&amp;#x02276;" ><!--alias ISOAMSR lg -->
+<!ENTITY lessgtr          "&amp;#x02276;" ><!--alias ISOAMSR lg -->
+<!ENTITY lesssim          "&amp;#x02272;" ><!--alias ISOAMSR lsim -->
+<!ENTITY LessSlantEqual   "&amp;#x02A7D;" ><!--alias ISOAMSR les -->
+<!ENTITY LessTilde        "&amp;#x02272;" ><!--alias ISOAMSR lsim -->
+<!ENTITY ll               "&amp;#x0226A;" ><!--alias ISOAMSR Lt -->
+<!ENTITY llcorner         "&amp;#x0231E;" ><!--alias ISOAMSC dlcorn -->
+<!ENTITY Lleftarrow       "&amp;#x021DA;" ><!--alias ISOAMSA lAarr -->
+<!ENTITY lmoustache       "&amp;#x023B0;" ><!--alias ISOAMSC lmoust -->
+<!ENTITY lnapprox         "&amp;#x02A89;" ><!--alias ISOAMSN lnap -->
+<!ENTITY lneq             "&amp;#x02268;" ><!--alias ISOAMSN lne -->
+<!ENTITY lneqq            "&amp;#x02268;" ><!--alias ISOAMSN lnE -->
+<!ENTITY LongLeftArrow    "&amp;#x027F5;" ><!--alias ISOAMSA xlarr -->
+<!ENTITY Longleftarrow    "&amp;#x027F8;" ><!--alias ISOAMSA xlArr -->
+<!ENTITY longleftarrow    "&amp;#x027F5;" ><!--alias ISOAMSA xlarr -->
+<!ENTITY LongLeftRightArrow "&amp;#x027F7;" ><!--alias ISOAMSA xharr -->
+<!ENTITY Longleftrightarrow "&amp;#x027FA;" ><!--alias ISOAMSA xhArr -->
+<!ENTITY longleftrightarrow "&amp;#x027F7;" ><!--alias ISOAMSA xharr -->
+<!ENTITY longmapsto       "&amp;#x027FC;" ><!--alias ISOAMSA xmap -->
+<!ENTITY LongRightArrow   "&amp;#x027F6;" ><!--alias ISOAMSA xrarr -->
+<!ENTITY Longrightarrow   "&amp;#x027F9;" ><!--alias ISOAMSA xrArr -->
+<!ENTITY longrightarrow   "&amp;#x027F6;" ><!--alias ISOAMSA xrarr -->
+<!ENTITY looparrowleft    "&amp;#x021AB;" ><!--alias ISOAMSA larrlp -->
+<!ENTITY looparrowright   "&amp;#x021AC;" ><!--alias ISOAMSA rarrlp -->
+<!ENTITY LowerLeftArrow   "&amp;#x02199;" ><!--alias ISOAMSA swarr -->
+<!ENTITY LowerRightArrow  "&amp;#x02198;" ><!--alias ISOAMSA searr -->
+<!ENTITY lozenge          "&amp;#x025CA;" ><!--alias ISOPUB loz -->
+<!ENTITY lrcorner         "&amp;#x0231F;" ><!--alias ISOAMSC drcorn -->
+<!ENTITY Lsh              "&amp;#x021B0;" ><!--alias ISOAMSA lsh -->
+<!ENTITY lvertneqq        "&amp;#x02268;&amp;#x0FE00;" ><!--alias ISOAMSN lvnE -->
+<!ENTITY maltese          "&amp;#x02720;" ><!--alias ISOPUB malt -->
+<!ENTITY mapsto           "&amp;#x021A6;" ><!--alias ISOAMSA map -->
+<!ENTITY measuredangle    "&amp;#x02221;" ><!--alias ISOAMSO angmsd -->
+<!ENTITY Mellintrf        "&amp;#x02133;" ><!--Mellin transform -->
+<!ENTITY MinusPlus        "&amp;#x02213;" ><!--alias ISOTECH mnplus -->
+<!ENTITY mp               "&amp;#x02213;" ><!--alias ISOTECH mnplus -->
+<!ENTITY multimap         "&amp;#x022B8;" ><!--alias ISOAMSA mumap -->
+<!ENTITY napprox          "&amp;#x02249;" ><!--alias ISOAMSN nap -->
+<!ENTITY natural          "&amp;#x0266E;" ><!--alias ISOPUB natur -->
+<!ENTITY naturals         "&amp;#x02115;" ><!--the semi-ring of natural numbers -->
+<!ENTITY nearrow          "&amp;#x02197;" ><!--alias ISOAMSA nearr -->
+<!ENTITY NegativeMediumSpace "&amp;#x0200B;" ><!--space of width -4/18 em -->
+<!ENTITY NegativeThickSpace "&amp;#x0200B;" ><!--space of width -5/18 em -->
+<!ENTITY NegativeThinSpace "&amp;#x0200B;" ><!--space of width -3/18 em -->
+<!ENTITY NegativeVeryThinSpace "&amp;#x0200B;" ><!--space of width -1/18 em -->
+<!ENTITY NestedGreaterGreater "&amp;#x0226B;" ><!--alias ISOAMSR Gt -->
+<!ENTITY NestedLessLess   "&amp;#x0226A;" ><!--alias ISOAMSR Lt -->
+<!ENTITY nexists          "&amp;#x02204;" ><!--alias ISOAMSO nexist -->
+<!ENTITY ngeq             "&amp;#x02271;" ><!--alias ISOAMSN nge -->
+<!ENTITY ngeqq            "&amp;#x02A7E;&amp;#x00338;" ><!--alias ISOAMSN ngE -->
+<!ENTITY ngeqslant        "&amp;#x02A7E;&amp;#x00338;" ><!--alias ISOAMSN nges -->
+<!ENTITY ngtr             "&amp;#x0226F;" ><!--alias ISOAMSN ngt -->
+<!ENTITY nLeftarrow       "&amp;#x021CD;" ><!--alias ISOAMSA nlArr -->
+<!ENTITY nleftarrow       "&amp;#x0219A;" ><!--alias ISOAMSA nlarr -->
+<!ENTITY nLeftrightarrow  "&amp;#x021CE;" ><!--alias ISOAMSA nhArr -->
+<!ENTITY nleftrightarrow  "&amp;#x021AE;" ><!--alias ISOAMSA nharr -->
+<!ENTITY nleq             "&amp;#x02270;" ><!--alias ISOAMSN nle -->
+<!ENTITY nleqq            "&amp;#x02A7D;&amp;#x00338;" ><!--alias ISOAMSN nlE -->
+<!ENTITY nleqslant        "&amp;#x02A7D;&amp;#x00338;" ><!--alias ISOAMSN nles -->
+<!ENTITY nless            "&amp;#x0226E;" ><!--alias ISOAMSN nlt -->
+<!ENTITY NonBreakingSpace "&amp;#x000A0;" ><!--alias ISONUM nbsp -->
+<!ENTITY NotCongruent     "&amp;#x02262;" ><!--alias ISOAMSN nequiv -->
+<!ENTITY NotDoubleVerticalBar "&amp;#x02226;" ><!--alias ISOAMSN npar -->
+<!ENTITY NotElement       "&amp;#x02209;" ><!--alias ISOTECH notin -->
+<!ENTITY NotEqual         "&amp;#x02260;" ><!--alias ISOTECH ne -->
+<!ENTITY NotEqualTilde    "&amp;#x02242;&amp;#x00338;" ><!--alias for  &amp;nesim; -->
+<!ENTITY NotExists        "&amp;#x02204;" ><!--alias ISOAMSO nexist -->
+<!ENTITY NotGreater       "&amp;#x0226F;" ><!--alias ISOAMSN ngt -->
+<!ENTITY NotGreaterEqual  "&amp;#x02271;" ><!--alias ISOAMSN nge -->
+<!ENTITY NotGreaterFullEqual "&amp;#x02A7D;&amp;#x00338;" ><!--alias ISOAMSN nlE -->
+<!ENTITY NotGreaterGreater "&amp;#x0226B;&amp;#x00338;" ><!--alias ISOAMSN nGtv -->
+<!ENTITY NotGreaterLess   "&amp;#x02279;" ><!--alias ISOAMSN ntvgl -->
+<!ENTITY NotGreaterSlantEqual "&amp;#x02A7E;&amp;#x00338;" ><!--alias ISOAMSN nges -->
+<!ENTITY NotGreaterTilde  "&amp;#x02275;" ><!--alias ISOAMSN ngsim -->
+<!ENTITY NotHumpDownHump  "&amp;#x0224E;&amp;#x00338;" ><!--alias for &amp;nbump; -->
+<!ENTITY NotLeftTriangle  "&amp;#x022EA;" ><!--alias ISOAMSN nltri -->
+<!ENTITY NotLeftTriangleEqual "&amp;#x022EC;" ><!--alias ISOAMSN nltrie -->
+<!ENTITY NotLess          "&amp;#x0226E;" ><!--alias ISOAMSN nlt -->
+<!ENTITY NotLessEqual     "&amp;#x02270;" ><!--alias ISOAMSN nle -->
+<!ENTITY NotLessGreater   "&amp;#x02278;" ><!--alias ISOAMSN ntvlg -->
+<!ENTITY NotLessLess      "&amp;#x0226A;&amp;#x00338;" ><!--alias ISOAMSN nLtv -->
+<!ENTITY NotLessSlantEqual "&amp;#x02A7D;&amp;#x00338;" ><!--alias ISOAMSN nles -->
+<!ENTITY NotLessTilde     "&amp;#x02274;" ><!--alias ISOAMSN nlsim -->
+<!ENTITY NotPrecedes      "&amp;#x02280;" ><!--alias ISOAMSN npr -->
+<!ENTITY NotPrecedesEqual "&amp;#x02AAF;&amp;#x00338;" ><!--alias ISOAMSN npre -->
+<!ENTITY NotPrecedesSlantEqual "&amp;#x022E0;" ><!--alias ISOAMSN nprcue -->
+<!ENTITY NotReverseElement "&amp;#x0220C;" ><!--alias ISOTECH notniva -->
+<!ENTITY NotRightTriangle "&amp;#x022EB;" ><!--alias ISOAMSN nrtri -->
+<!ENTITY NotRightTriangleEqual "&amp;#x022ED;" ><!--alias ISOAMSN nrtrie -->
+<!ENTITY NotSquareSubsetEqual "&amp;#x022E2;" ><!--alias ISOAMSN nsqsube -->
+<!ENTITY NotSquareSupersetEqual "&amp;#x022E3;" ><!--alias ISOAMSN nsqsupe -->
+<!ENTITY NotSubset        "&amp;#x02284;" ><!--alias ISOAMSN vnsub -->
+<!ENTITY NotSubsetEqual   "&amp;#x02288;" ><!--alias ISOAMSN nsube -->
+<!ENTITY NotSucceeds      "&amp;#x02281;" ><!--alias ISOAMSN nsc -->
+<!ENTITY NotSucceedsEqual "&amp;#x02AB0;&amp;#x00338;" ><!--alias ISOAMSN nsce -->
+<!ENTITY NotSucceedsSlantEqual "&amp;#x022E1;" ><!--alias ISOAMSN nsccue -->
+<!ENTITY NotSuperset      "&amp;#x02285;" ><!--alias ISOAMSN vnsup -->
+<!ENTITY NotSupersetEqual "&amp;#x02289;" ><!--alias ISOAMSN nsupe -->
+<!ENTITY NotTilde         "&amp;#x02241;" ><!--alias ISOAMSN nsim -->
+<!ENTITY NotTildeEqual    "&amp;#x02244;" ><!--alias ISOAMSN nsime -->
+<!ENTITY NotTildeFullEqual "&amp;#x02247;" ><!--alias ISOAMSN ncong -->
+<!ENTITY NotTildeTilde    "&amp;#x02249;" ><!--alias ISOAMSN nap -->
+<!ENTITY NotVerticalBar   "&amp;#x02224;" ><!--alias ISOAMSN nmid -->
+<!ENTITY nparallel        "&amp;#x02226;" ><!--alias ISOAMSN npar -->
+<!ENTITY nprec            "&amp;#x02280;" ><!--alias ISOAMSN npr -->
+<!ENTITY npreceq          "&amp;#x02AAF;&amp;#x00338;" ><!--alias ISOAMSN npre -->
+<!ENTITY nRightarrow      "&amp;#x021CF;" ><!--alias ISOAMSA nrArr -->
+<!ENTITY nrightarrow      "&amp;#x0219B;" ><!--alias ISOAMSA nrarr -->
+<!ENTITY nshortmid        "&amp;#x02224;" ><!--alias ISOAMSN nsmid -->
+<!ENTITY nshortparallel   "&amp;#x02226;" ><!--alias ISOAMSN nspar -->
+<!ENTITY nsimeq           "&amp;#x02244;" ><!--alias ISOAMSN nsime -->
+<!ENTITY nsubset          "&amp;#x02284;" ><!--alias ISOAMSN vnsub -->
+<!ENTITY nsubseteq        "&amp;#x02288;" ><!--alias ISOAMSN nsube -->
+<!ENTITY nsubseteqq       "&amp;#x02288;" ><!--alias ISOAMSN nsubE -->
+<!ENTITY nsucc            "&amp;#x02281;" ><!--alias ISOAMSN nsc -->
+<!ENTITY nsucceq          "&amp;#x02AB0;&amp;#x00338;" ><!--alias ISOAMSN nsce -->
+<!ENTITY nsupset          "&amp;#x02285;" ><!--alias ISOAMSN vnsup -->
+<!ENTITY nsupseteq        "&amp;#x02289;" ><!--alias ISOAMSN nsupe -->
+<!ENTITY nsupseteqq       "&amp;#x02289;" ><!--alias ISOAMSN nsupE -->
+<!ENTITY ntriangleleft    "&amp;#x022EA;" ><!--alias ISOAMSN nltri -->
+<!ENTITY ntrianglelefteq  "&amp;#x022EC;" ><!--alias ISOAMSN nltrie -->
+<!ENTITY ntriangleright   "&amp;#x022EB;" ><!--alias ISOAMSN nrtri -->
+<!ENTITY ntrianglerighteq "&amp;#x022ED;" ><!--alias ISOAMSN nrtrie -->
+<!ENTITY nwarrow          "&amp;#x02196;" ><!--alias ISOAMSA nwarr -->
+<!ENTITY oint             "&amp;#x0222E;" ><!--alias ISOTECH conint -->
+<!ENTITY OpenCurlyDoubleQuote "&amp;#x0201C;" ><!--alias ISONUM ldquo -->
+<!ENTITY OpenCurlyQuote   "&amp;#x02018;" ><!--alias ISONUM lsquo -->
+<!ENTITY orderof          "&amp;#x02134;" ><!--alias ISOTECH order -->
+<!ENTITY parallel         "&amp;#x02225;" ><!--alias ISOTECH par -->
+<!ENTITY PartialD         "&amp;#x02202;" ><!--alias ISOTECH part -->
+<!ENTITY pitchfork        "&amp;#x022D4;" ><!--alias ISOAMSR fork -->
+<!ENTITY PlusMinus        "&amp;#x000B1;" ><!--alias ISONUM plusmn -->
+<!ENTITY pm               "&amp;#x000B1;" ><!--alias ISONUM plusmn -->
+<!ENTITY Poincareplane    "&amp;#x0210C;" ><!--the Poincare upper half-plane -->
+<!ENTITY prec             "&amp;#x0227A;" ><!--alias ISOAMSR pr -->
+<!ENTITY precapprox       "&amp;#x0227E;" ><!--alias ISOAMSR prap -->
+<!ENTITY preccurlyeq      "&amp;#x0227C;" ><!--alias ISOAMSR prcue -->
+<!ENTITY Precedes         "&amp;#x0227A;" ><!--alias ISOAMSR pr -->
+<!ENTITY PrecedesEqual    "&amp;#x02AAF;" ><!--alias ISOAMSR pre -->
+<!ENTITY PrecedesSlantEqual "&amp;#x0227C;" ><!--alias ISOAMSR prcue -->
+<!ENTITY PrecedesTilde    "&amp;#x0227E;" ><!--alias ISOAMSR prsim -->
+<!ENTITY preceq           "&amp;#x02AAF;" ><!--alias ISOAMSR pre -->
+<!ENTITY precnapprox      "&amp;#x022E8;" ><!--alias ISOAMSN prnap -->
+<!ENTITY precneqq         "&amp;#x02AB5;" ><!--alias ISOAMSN prnE -->
+<!ENTITY precnsim         "&amp;#x022E8;" ><!--alias ISOAMSN prnsim -->
+<!ENTITY precsim          "&amp;#x0227E;" ><!--alias ISOAMSR prsim -->
+<!ENTITY primes           "&amp;#x02119;" ><!--the prime natural numbers -->
+<!ENTITY Proportion       "&amp;#x02237;" ><!--alias ISOAMSR Colon -->
+<!ENTITY Proportional     "&amp;#x0221D;" ><!--alias ISOTECH prop -->
+<!ENTITY propto           "&amp;#x0221D;" ><!--alias ISOTECH prop -->
+<!ENTITY quaternions      "&amp;#x0210D;" ><!--the ring (skew field) of quaternions -->
+<!ENTITY questeq          "&amp;#x0225F;" ><!--alias ISOAMSR equest -->
+<!ENTITY rangle           "&amp;#x0232A;" ><!--alias ISOTECH rang -->
+<!ENTITY rationals        "&amp;#x0211A;" ><!--the field of rational numbers -->
+<!ENTITY rbrace           "&amp;#x0007D;" ><!--alias ISONUM rcub -->
+<!ENTITY rbrack           "&amp;#x0005D;" ><!--alias ISONUM rsqb -->
+<!ENTITY Re               "&amp;#x0211C;" ><!--alias ISOAMSO real -->
+<!ENTITY realine          "&amp;#x0211B;" ><!--the geometric real line -->
+<!ENTITY realpart         "&amp;#x0211C;" ><!--alias ISOAMSO real -->
+<!ENTITY reals            "&amp;#x0211D;" ><!--the field of real numbers -->
+<!ENTITY ReverseElement   "&amp;#x0220B;" ><!--alias ISOTECH niv -->
+<!ENTITY ReverseEquilibrium "&amp;#x021CB;" ><!--alias ISOAMSA lrhar -->
+<!ENTITY ReverseUpEquilibrium "&amp;#x0296F;" ><!--alias ISOAMSA duhar -->
+<!ENTITY RightAngleBracket "&amp;#x0232A;" ><!--alias ISOTECH rang -->
+<!ENTITY RightArrow       "&amp;#x02192;" ><!--alias ISONUM rarr -->
+<!ENTITY Rightarrow       "&amp;#x021D2;" ><!--alias ISOTECH rArr -->
+<!ENTITY rightarrow       "&amp;#x02192;" ><!--alias ISONUM rarr -->
+<!ENTITY RightArrowBar    "&amp;#x021E5;" ><!--alias for rarrb -->
+<!ENTITY RightArrowLeftArrow "&amp;#x021C4;" ><!--alias ISOAMSA rlarr -->
+<!ENTITY rightarrowtail   "&amp;#x021A3;" ><!--alias ISOAMSA rarrtl -->
+<!ENTITY RightCeiling     "&amp;#x02309;" ><!--alias ISOAMSC rceil -->
+<!ENTITY RightDoubleBracket "&amp;#x0301B;" ><!--right double bracket delimiter -->
+<!ENTITY RightDownVector  "&amp;#x021C2;" ><!--alias ISOAMSA dharr -->
+<!ENTITY RightFloor       "&amp;#x0230B;" ><!--alias ISOAMSC rfloor -->
+<!ENTITY rightharpoondown "&amp;#x021C1;" ><!--alias ISOAMSA rhard -->
+<!ENTITY rightharpoonup   "&amp;#x021C0;" ><!--alias ISOAMSA rharu -->
+<!ENTITY rightleftarrows  "&amp;#x021C4;" ><!--alias ISOAMSA rlarr -->
+<!ENTITY rightleftharpoons "&amp;#x021CC;" ><!--alias ISOAMSA rlhar -->
+<!ENTITY rightrightarrows "&amp;#x021C9;" ><!--alias ISOAMSA rrarr -->
+<!ENTITY rightsquigarrow  "&amp;#x0219D;" ><!--alias ISOAMSA rarrw -->
+<!ENTITY RightTee         "&amp;#x022A2;" ><!--alias ISOAMSR vdash -->
+<!ENTITY RightTeeArrow    "&amp;#x021A6;" ><!--alias ISOAMSA map -->
+<!ENTITY rightthreetimes  "&amp;#x022CC;" ><!--alias ISOAMSB rthree -->
+<!ENTITY RightTriangle    "&amp;#x022B3;" ><!--alias ISOAMSR vrtri -->
+<!ENTITY RightTriangleEqual "&amp;#x022B5;" ><!--alias ISOAMSR rtrie -->
+<!ENTITY RightUpVector    "&amp;#x021BE;" ><!--alias ISOAMSA uharr -->
+<!ENTITY RightVector      "&amp;#x021C0;" ><!--alias ISOAMSA rharu -->
+<!ENTITY risingdotseq     "&amp;#x02253;" ><!--alias ISOAMSR erDot -->
+<!ENTITY rmoustache       "&amp;#x023B1;" ><!--alias ISOAMSC rmoust -->
+<!ENTITY Rrightarrow      "&amp;#x021DB;" ><!--alias ISOAMSA rAarr -->
+<!ENTITY Rsh              "&amp;#x021B1;" ><!--alias ISOAMSA rsh -->
+<!ENTITY searrow          "&amp;#x02198;" ><!--alias ISOAMSA searr -->
+<!ENTITY setminus         "&amp;#x02216;" ><!--alias ISOAMSB setmn -->
+<!ENTITY ShortDownArrow   "&amp;#x02193;" ><!--short down arrow -->
+<!ENTITY ShortLeftArrow   "&amp;#x02190;" ><!--alias ISOAMSA slarr -->
+<!ENTITY shortmid         "&amp;#x02223;" ><!--alias ISOAMSR smid -->
+<!ENTITY shortparallel    "&amp;#x02225;" ><!--alias ISOAMSR spar -->
+<!ENTITY ShortRightArrow  "&amp;#x02192;" ><!--alias ISOAMSA srarr -->
+<!ENTITY ShortUpArrow     "&amp;#x02191;" ><!--short up arrow  -->
+<!ENTITY simeq            "&amp;#x02243;" ><!--alias ISOTECH sime -->
+<!ENTITY SmallCircle      "&amp;#x02218;" ><!--alias ISOTECH compfn -->
+<!ENTITY smallsetminus    "&amp;#x02216;" ><!--alias ISOAMSB ssetmn -->
+<!ENTITY spadesuit        "&amp;#x02660;" ><!--ISOPUB    spades  -->
+<!ENTITY Sqrt             "&amp;#x0221A;" ><!--alias ISOTECH radic -->
+<!ENTITY sqsubset         "&amp;#x0228F;" ><!--alias ISOAMSR sqsub -->
+<!ENTITY sqsubseteq       "&amp;#x02291;" ><!--alias ISOAMSR sqsube -->
+<!ENTITY sqsupset         "&amp;#x02290;" ><!--alias ISOAMSR sqsup -->
+<!ENTITY sqsupseteq       "&amp;#x02292;" ><!--alias ISOAMSR sqsupe -->
+<!ENTITY Square           "&amp;#x025A1;" ><!--alias for square -->
+<!ENTITY SquareIntersection "&amp;#x02293;" ><!--alias ISOAMSB sqcap -->
+<!ENTITY SquareSubset     "&amp;#x0228F;" ><!--alias ISOAMSR sqsub -->
+<!ENTITY SquareSubsetEqual "&amp;#x02291;" ><!--alias ISOAMSR sqsube -->
+<!ENTITY SquareSuperset   "&amp;#x02290;" ><!--alias ISOAMSR sqsup -->
+<!ENTITY SquareSupersetEqual "&amp;#x02292;" ><!--alias ISOAMSR sqsupe -->
+<!ENTITY SquareUnion      "&amp;#x02294;" ><!--alias ISOAMSB sqcup -->
+<!ENTITY Star             "&amp;#x022C6;" ><!--alias ISOAMSB sstarf -->
+<!ENTITY straightepsilon  "&amp;#x003B5;" ><!--alias ISOGRK3 epsi -->
+<!ENTITY straightphi      "&amp;#x003D5;" ><!--alias ISOGRK3 phi -->
+<!ENTITY Subset           "&amp;#x022D0;" ><!--alias ISOAMSR Sub -->
+<!ENTITY subset           "&amp;#x02282;" ><!--alias ISOTECH sub -->
+<!ENTITY subseteq         "&amp;#x02286;" ><!--alias ISOTECH sube -->
+<!ENTITY subseteqq        "&amp;#x02286;" ><!--alias ISOAMSR subE -->
+<!ENTITY SubsetEqual      "&amp;#x02286;" ><!--alias ISOTECH sube -->
+<!ENTITY subsetneq        "&amp;#x0228A;" ><!--alias ISOAMSN subne -->
+<!ENTITY subsetneqq       "&amp;#x0228A;" ><!--alias ISOAMSN subnE -->
+<!ENTITY succ             "&amp;#x0227B;" ><!--alias ISOAMSR sc -->
+<!ENTITY succapprox       "&amp;#x0227F;" ><!--alias ISOAMSR scap -->
+<!ENTITY succcurlyeq      "&amp;#x0227D;" ><!--alias ISOAMSR sccue -->
+<!ENTITY Succeeds         "&amp;#x0227B;" ><!--alias ISOAMSR sc -->
+<!ENTITY SucceedsEqual    "&amp;#x0227D;" ><!--alias ISOAMSR sce -->
+<!ENTITY SucceedsSlantEqual "&amp;#x0227D;" ><!--alias ISOAMSR sccue -->
+<!ENTITY SucceedsTilde    "&amp;#x0227F;" ><!--alias ISOAMSR scsim -->
+<!ENTITY succeq           "&amp;#x0227D;" ><!--alias ISOAMSR sce -->
+<!ENTITY succnapprox      "&amp;#x022E9;" ><!--alias ISOAMSN scnap -->
+<!ENTITY succneqq         "&amp;#x02AB6;" ><!--alias ISOAMSN scnE -->
+<!ENTITY succnsim         "&amp;#x022E9;" ><!--alias ISOAMSN scnsim -->
+<!ENTITY succsim          "&amp;#x0227F;" ><!--alias ISOAMSR scsim -->
+<!ENTITY SuchThat         "&amp;#x0220B;" ><!--ISOTECH  ni -->
+<!ENTITY Sum              "&amp;#x02211;" ><!--alias ISOAMSB sum -->
+<!ENTITY Superset         "&amp;#x02283;" ><!--alias ISOTECH sup -->
+<!ENTITY SupersetEqual    "&amp;#x02287;" ><!--alias ISOTECH supe -->
+<!ENTITY Supset           "&amp;#x022D1;" ><!--alias ISOAMSR Sup -->
+<!ENTITY supset           "&amp;#x02283;" ><!--alias ISOTECH sup -->
+<!ENTITY supseteq         "&amp;#x02287;" ><!--alias ISOTECH supe -->
+<!ENTITY supseteqq        "&amp;#x02287;" ><!--alias ISOAMSR supE -->
+<!ENTITY supsetneq        "&amp;#x0228B;" ><!--alias ISOAMSN supne -->
+<!ENTITY supsetneqq       "&amp;#x0228B;" ><!--alias ISOAMSN supnE -->
+<!ENTITY swarrow          "&amp;#x02199;" ><!--alias ISOAMSA swarr -->
+<!ENTITY Therefore        "&amp;#x02234;" ><!--alias ISOTECH there4 -->
+<!ENTITY therefore        "&amp;#x02234;" ><!--alias ISOTECH there4 -->
+<!ENTITY thickapprox      "&amp;#x02248;" ><!--ISOAMSR   thkap  -->
+<!ENTITY thicksim         "&amp;#x0223C;" ><!--ISOAMSR   thksim -->
+<!ENTITY ThinSpace        "&amp;#x02009;" ><!--space of width 3/18 em alias ISOPUB thinsp -->
+<!ENTITY Tilde            "&amp;#x0223C;" ><!--alias ISOTECH sim -->
+<!ENTITY TildeEqual       "&amp;#x02243;" ><!--alias ISOTECH sime -->
+<!ENTITY TildeFullEqual   "&amp;#x02245;" ><!--alias ISOTECH cong -->
+<!ENTITY TildeTilde       "&amp;#x02248;" ><!--alias ISOTECH ap -->
+<!ENTITY toea             "&amp;#x02928;" ><!--alias ISOAMSA nesear -->
+<!ENTITY tosa             "&amp;#x02929;" ><!--alias ISOAMSA seswar -->
+<!ENTITY triangle         "&amp;#x025B5;" ><!--alias ISOPUB utri -->
+<!ENTITY triangledown     "&amp;#x025BF;" ><!--alias ISOPUB dtri -->
+<!ENTITY triangleleft     "&amp;#x025C3;" ><!--alias ISOPUB ltri -->
+<!ENTITY trianglelefteq   "&amp;#x022B4;" ><!--alias ISOAMSR ltrie -->
+<!ENTITY triangleq        "&amp;#x0225C;" ><!--alias ISOAMSR trie -->
+<!ENTITY triangleright    "&amp;#x025B9;" ><!--alias ISOPUB rtri -->
+<!ENTITY trianglerighteq  "&amp;#x022B5;" ><!--alias ISOAMSR rtrie -->
+<!ENTITY TripleDot        "&amp;#x020DB;" ><!--alias ISOTECH tdot -->
+<!ENTITY twoheadleftarrow "&amp;#x0219E;" ><!--alias ISOAMSA Larr -->
+<!ENTITY twoheadrightarrow "&amp;#x021A0;" ><!--alias ISOAMSA Rarr -->
+<!ENTITY ulcorner         "&amp;#x0231C;" ><!--alias ISOAMSC ulcorn -->
+<!ENTITY Union            "&amp;#x022C3;" ><!--alias ISOAMSB xcup -->
+<!ENTITY UnionPlus        "&amp;#x0228E;" ><!--alias ISOAMSB uplus -->
+<!ENTITY UpArrow          "&amp;#x02191;" ><!--alias ISONUM uarr -->
+<!ENTITY Uparrow          "&amp;#x021D1;" ><!--alias ISOAMSA uArr -->
+<!ENTITY uparrow          "&amp;#x02191;" ><!--alias ISONUM uarr -->
+<!ENTITY UpArrowDownArrow "&amp;#x021C5;" ><!--alias ISOAMSA udarr -->
+<!ENTITY UpDownArrow      "&amp;#x02195;" ><!--alias ISOAMSA varr -->
+<!ENTITY Updownarrow      "&amp;#x021D5;" ><!--alias ISOAMSA vArr -->
+<!ENTITY updownarrow      "&amp;#x02195;" ><!--alias ISOAMSA varr -->
+<!ENTITY UpEquilibrium    "&amp;#x0296E;" ><!--alias ISOAMSA udhar -->
+<!ENTITY upharpoonleft    "&amp;#x021BF;" ><!--alias ISOAMSA uharl -->
+<!ENTITY upharpoonright   "&amp;#x021BE;" ><!--alias ISOAMSA uharr -->
+<!ENTITY UpperLeftArrow   "&amp;#x02196;" ><!--alias ISOAMSA nwarr -->
+<!ENTITY UpperRightArrow  "&amp;#x02197;" ><!--alias ISOAMSA nearr -->
+<!ENTITY upsilon          "&amp;#x003C5;" ><!--alias ISOGRK3 upsi -->
+<!ENTITY UpTee            "&amp;#x022A5;" ><!--alias ISOTECH perp -->
+<!ENTITY UpTeeArrow       "&amp;#x021A5;" ><!--Alias mapstoup -->
+<!ENTITY upuparrows       "&amp;#x021C8;" ><!--alias ISOAMSA uuarr -->
+<!ENTITY urcorner         "&amp;#x0231D;" ><!--alias ISOAMSC urcorn -->
+<!ENTITY varepsilon       "&amp;#x0025B;" ><!--alias ISOGRK3 epsiv -->
+<!ENTITY varkappa         "&amp;#x003F0;" ><!--alias ISOGRK3 kappav -->
+<!ENTITY varnothing       "&amp;#x02205;" ><!--alias ISOAMSO emptyv -->
+<!ENTITY varphi           "&amp;#x003C6;" ><!--alias ISOGRK3 phiv -->
+<!ENTITY varpi            "&amp;#x003D6;" ><!--alias ISOGRK3 piv -->
+<!ENTITY varpropto        "&amp;#x0221D;" ><!--alias ISOAMSR vprop -->
+<!ENTITY varrho           "&amp;#x003F1;" ><!--alias ISOGRK3 rhov -->
+<!ENTITY varsigma         "&amp;#x003C2;" ><!--alias ISOGRK3 sigmav -->
+<!ENTITY varsubsetneq     "&amp;#x0228A;&amp;#x0FE00;" ><!--alias ISOAMSN vsubne -->
+<!ENTITY varsubsetneqq    "&amp;#x0228A;&amp;#x0FE00;" ><!--alias ISOAMSN vsubnE -->
+<!ENTITY varsupsetneq     "&amp;#x0228B;&amp;#x0FE00;" ><!--alias ISOAMSN vsupne -->
+<!ENTITY varsupsetneqq    "&amp;#x0228B;&amp;#x0FE00;" ><!--alias ISOAMSN vsupnE -->
+<!ENTITY vartheta         "&amp;#x003D1;" ><!--alias ISOGRK3 thetav -->
+<!ENTITY vartriangleleft  "&amp;#x022B2;" ><!--alias ISOAMSR vltri -->
+<!ENTITY vartriangleright "&amp;#x022B3;" ><!--alias ISOAMSR vrtri -->
+<!ENTITY Vee              "&amp;#x022C1;" ><!--alias ISOAMSB xvee -->
+<!ENTITY vee              "&amp;#x02228;" ><!--alias ISOTECH or -->
+<!ENTITY Vert             "&amp;#x02016;" ><!--alias ISOTECH Verbar -->
+<!ENTITY vert             "&amp;#x0007C;" ><!--alias ISONUM verbar -->
+<!ENTITY VerticalBar      "&amp;#x02223;" ><!--alias ISOAMSR mid -->
+<!ENTITY VerticalTilde    "&amp;#x02240;" ><!--alias ISOAMSB wreath -->
+<!ENTITY VeryThinSpace    "&amp;#x0200A;" ><!--space of width 1/18 em alias ISOPUB hairsp -->
+<!ENTITY Wedge            "&amp;#x022C0;" ><!--alias ISOAMSB xwedge -->
+<!ENTITY wedge            "&amp;#x02227;" ><!--alias ISOTECH and -->
+<!ENTITY wp               "&amp;#x02118;" ><!--alias ISOAMSO weierp -->
+<!ENTITY wr               "&amp;#x02240;" ><!--alias ISOAMSB wreath -->
+<!ENTITY zeetrf           "&amp;#x02128;" ><!--zee transform -->

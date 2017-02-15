@@ -1,0 +1,467 @@
+<!-- PTSIII order DTD
+     For distributing item metadata to the suppliers
+     Version 1.42 dated 28 August 2014
+     Typical invocation:
+     <!DOCTYPE orders SYSTEM "ptsiiiorder142.dtd">
+-->
+<!-- Permission to copy and distribute verbatim copies of this document is granted, 
+     provided this notice is included in all copies, but changing it is not allowed. 
+
+     Documentation available at http://www.elsevier.com/locate/xml
+-->
+<!--
+     v1.42  28 August 2014  [PTS release 2014.3]
+     Changes with respect to v1.41
+     * Added value PROOF to entity %step;
+     * Added new (optional) element figure/graphical-abstract
+
+     v1.41  20 April 2014  [PTS release 2014.2]
+     Changes with respect to v1.40
+     * Added value MASTERPROOFSYS to entity %corrections-type;
+
+     v1.40  28 March 2014  [PTS release 2014.1]
+     Changes with respect to v1.39
+     * Added new element item-info/corrections-uri
+     * Added new element item-info/language 
+
+     v1.39  11 December 2013  [PTS release 2013.3]
+     Changes with respect to v1.38
+     * Added new (optional) element general-info/paid-ads
+     * Added new (optional) elements item-info/employer and item-info/license
+     * Added (optional) elements row/employer and row/license
+     * Made refers-to-document subelements jid, aid and pit optional
+
+-->
+
+
+<!ENTITY % mo        "(01|02|03|04|05|06|07|08|09|10|11|12)" >
+<!ENTITY % day       "(01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|
+                       17|18|19|20|21|22|23|24|25|26|27|28|29|30|31)" >
+<!ENTITY % hr        "(00|01|02|03|04|05|06|07|08|09|10|11|
+                       12|13|14|15|16|17|18|19|20|21|22|23)" >
+<!ENTITY % ms        "(00|01|02|03|04|05|06|07|08|09|
+                       10|11|12|13|14|15|16|17|18|19|
+                       20|21|22|23|24|25|26|27|28|29|
+                       30|31|32|33|34|35|36|37|38|39|
+                       40|41|42|43|44|45|46|47|48|49|
+                       50|51|52|53|54|55|56|57|58|59)" >
+
+<!ENTITY % step               "( RSVP | CU | PROOF | S5 | S100 | S200 | S250 | S300 | P100 | Q300 | S350 | F300 |
+                                 S5RESUPPLY | S100RESUPPLY | S200RESUPPLY | S250RESUPPLY | S300RESUPPLY |
+                                 P100RESUPPLY | Q300RESUPPLY | F300RESUPPLY |
+                                 PRINT | OFFPRINTS | E-OFFPRINT | BIND | ISSUE-LABELS |
+                                 ITEM-OFFPRINTS | SEND-ITEM-OFFPRINTS |
+                                 SEND-ISSUE | SEND-OFF-SYSTEM-ISSUE | SEND-OFFPRINTS |
+                                 PUBACC | PUBACCRESUPPLY )" >
+<!ENTITY % exec               "( ES | PSP | AUTHOR-GATEWAY | TYPESETTER |
+                                 PRINTER | BINDER | WAREHOUSE |
+                                 OFFPRINTS-SENDER | PUBACC-SUPPLIER |
+                                 CU-SUPPLIER | FINISHER )" >
+<!ENTITY % page-range-type    "( PRELIM | INTERIOR | EXTRA | INSERT | BACKMATTER )" >
+<!ENTITY % zipcode-pos        "( NONE | BEFORECTY | AFTERCTY | BEFORECNY | AFTERCNY )" >
+<!ENTITY % corrections-type   "( FTP | POST | FTPANDPOST |
+                                 MASTERFTP | MASTERPOST | MASTERFTPANDPOST |
+                                 MASTERREMARKS | MASTERNONE | MASTERPROOFSYS |
+                                 REMARKS | NONE )">
+
+<!ENTITY % yesno              "(yes|no)" >
+
+<!-- GENERAL SUPPLIER ORDERS DTD -->
+
+<!ELEMENT  orders             ( order+ )>
+<!ELEMENT  order              ( time, po-number, due-date?, prod-site, opco,
+                                stage, executor+,
+                                ( item-info | issue-info | print-bind-info | 
+                                  issue-labels-info ))>
+
+<!ELEMENT  time               EMPTY>
+<!ATTLIST  time
+           day                %day;    #REQUIRED
+           month              %mo;     #REQUIRED
+           yr                 NMTOKEN  #REQUIRED
+           hr                 %hr;     #IMPLIED
+           min                %ms;     #IMPLIED
+           sec                %ms;     #IMPLIED>
+
+<!ELEMENT  po-number          ( #PCDATA )>
+<!ELEMENT  due-date           ( time )>
+<!ELEMENT  prod-site          ( #PCDATA )>
+<!ELEMENT  opco               ( #PCDATA )>
+<!ELEMENT  stage              EMPTY>
+<!ATTLIST  stage
+           step               %step;   #REQUIRED>
+
+<!ELEMENT  date               EMPTY>
+<!ATTLIST  date
+           day                %day;    #REQUIRED
+           month              %mo;     #REQUIRED
+           yr                 NMTOKEN  #REQUIRED> 
+
+<!ELEMENT  executor           ( exec-code, exec-name, aff? )>
+<!ATTLIST  executor
+           type               %exec;   #REQUIRED
+           addressee          %yesno;  "no">
+
+<!ELEMENT  exec-code          ( #PCDATA )>
+<!ELEMENT  exec-name          ( #PCDATA )>
+
+<!ELEMENT  aff                ( organization?, institute?, inst-contd?,
+                                address?, address-contd?, zipcode?, cty?, cny?,
+                                tel?, fax?, ead* )>
+<!ELEMENT  organization       ( #PCDATA )>
+<!ELEMENT  institute          ( #PCDATA )>
+<!ELEMENT  inst-contd         ( #PCDATA )>
+<!ELEMENT  address            ( #PCDATA )>
+<!ELEMENT  address-contd      ( #PCDATA )>
+<!ELEMENT  zipcode            ( #PCDATA )>
+<!ATTLIST  zipcode
+           zipcode-pos        %zipcode-pos;    #IMPLIED>
+<!ELEMENT  cty                ( #PCDATA )>
+<!ELEMENT  cny                ( #PCDATA )>
+<!ELEMENT  tel                ( #PCDATA )>
+<!ELEMENT  fax                ( #PCDATA )>
+<!ELEMENT  ead                ( #PCDATA )>
+
+<!-- E-COVERSHEET -->
+
+<!ENTITY % online-version-type  "(e-only|e-extra|e-appended|print)">
+
+<!ELEMENT  item-info          ( version-no?, language?, crossmark?, jid, aid, pii, doi?,
+                                assigned-to-issue?, s250-sequence-number?,
+                                prefix?, suffix?, page-range?,
+                                additional-issue-info?,
+                                pdf-pages?, no-offprints-paid?, covers?, 
+                                offprint-type?,
+                                embargo?, embargo-until-stage?,
+                                batch?, funding?, refers-to-document*,
+                                item-group?, item-group-description?,
+                                item-title, section?, dochead?,
+                                eo-item-nr?, e-submission-item-nr?, editor?, 
+                                received-date?, revised-date?, accept-date?,
+                                expiry-date?, prd-type-as-sent,
+                                online-publ-date?, online-version, pit,
+                                copy-edit-content?, no-mns-pages, 
+                                no-phys-figs, no-bw-figs?,
+                                no-web-colour-figs?, no-colour-figs,
+                                colour-fig-nr-print*, no-e-components,
+                                physical-figures?, e-components?,
+                                righthand-start?,
+                                copyright-status, employer?, copyright-recd-date?,
+                                license?, 
+                                first-author?, corr-author?, item-remarks?, 
+                                corrections?, corrections-uri?, 
+                                offprint-payment?)>
+
+<!ELEMENT  assigned-to-issue       ( pii, effect-cover-date,
+                                     vol-from, vol-to?, iss-from?, iss-to?, supp? )>
+<!ELEMENT  s250-sequence-number    ( #PCDATA )>
+
+<!ELEMENT  additional-issue-info   ( paper-type-interior, paper-type-cover,
+                                     trimmed-size, head-margin, back-margin,
+                                     typeset-model )>
+
+<!ELEMENT  jid                ( #PCDATA )>
+<!ELEMENT  aid                ( #PCDATA )>
+<!ELEMENT  pii                ( #PCDATA )>
+<!ELEMENT  doi                ( #PCDATA )>
+<!ELEMENT  version-no         ( #PCDATA )>
+<!ELEMENT  language           ( #PCDATA )>
+<!ELEMENT  crossmark          ( #PCDATA )>
+<!ELEMENT  embargo            ( #PCDATA )>
+<!ELEMENT  embargo-until-stage     ( #PCDATA )>
+<!ELEMENT  batch              ( batch-member+ )>
+<!ELEMENT  batch-member       ( aid, pit, pii, doi? )>
+<!ELEMENT  funding            ( funded-by, grant-number*, principal-investigator*,
+                                nihms-id?, pubmedcentral-id? )>
+<!ELEMENT  funded-by          ( #PCDATA )>
+<!ELEMENT  grant-number       ( #PCDATA )>
+<!ELEMENT  nihms-id           ( #PCDATA )>
+<!ELEMENT  pubmedcentral-id   ( #PCDATA )>
+<!ELEMENT  principal-investigator  ( fnm?, snm, aff )>
+<!ELEMENT  refers-to-document      ( pii, doi?, jid?, aid?, pit? )>
+<!ELEMENT  item-group         ( #PCDATA )>
+<!ELEMENT  item-group-description  ( #PCDATA )>
+<!ELEMENT  item-title         ( #PCDATA )>
+<!ELEMENT  section            ( #PCDATA )>
+<!ELEMENT  dochead            ( #PCDATA )>
+<!ELEMENT  eo-item-nr         ( #PCDATA )>
+<!ELEMENT  e-submission-item-nr    ( #PCDATA )>
+<!ELEMENT  editor             ( #PCDATA )>
+<!ELEMENT  received-date      ( date )>
+<!ELEMENT  revised-date       ( date )>
+<!ELEMENT  accept-date        ( date )>
+<!ELEMENT  expiry-date        ( date )>
+ 
+<!ELEMENT  prd-type-as-sent   ( #PCDATA )>
+<!ELEMENT  online-version     EMPTY>
+<!ATTLIST  online-version
+           type               %online-version-type;  'print'>
+<!ELEMENT  pit                ( #PCDATA )>
+<!ELEMENT  copy-edit-content  EMPTY>
+<!ATTLIST  copy-edit-content
+           required           %yesno;  #REQUIRED>
+<!ELEMENT  no-mns-pages       ( #PCDATA )>
+<!ELEMENT  no-phys-figs       ( #PCDATA )>
+<!ELEMENT  no-bw-figs         ( #PCDATA )>
+<!ELEMENT  no-colour-figs     ( #PCDATA )>
+<!ELEMENT  no-web-colour-figs ( #PCDATA )>
+<!ELEMENT  no-e-components    ( #PCDATA )>
+
+<!ELEMENT  physical-figures   ( figure+ )>
+<!ELEMENT  figure             ( figure-nr, figure-type, figure-production-type?,
+                                graphical-abstract?,
+                                file-name*, figure-remarks? )>
+<!ELEMENT  figure-nr          ( #PCDATA )>
+<!ELEMENT  figure-type        ( #PCDATA )>
+<!ELEMENT  figure-production-type  ( #PCDATA )>
+<!ELEMENT  graphical-abstract      EMPTY>
+<!ATTLIST  graphical-abstract
+           grabs              %yesno;  #REQUIRED>
+<!ELEMENT  file-name          ( #PCDATA )>
+<!ELEMENT  figure-remarks     ( #PCDATA )>
+
+<!ELEMENT  e-components       ( e-component+ )>
+<!ELEMENT  e-component        ( e-component-nr, file-name*,
+                                e-component-format, e-component-remarks? )>
+<!ELEMENT  e-component-nr     ( #PCDATA )>
+<!ELEMENT  e-component-format ( #PCDATA )>
+<!ELEMENT  e-component-remarks    ( #PCDATA )>
+
+<!ELEMENT  righthand-start    ( #PCDATA )>
+<!ELEMENT  copyright-status   ( #PCDATA )>
+<!ELEMENT  employer           ( #PCDATA )>
+<!ELEMENT  copyright-recd-date  ( date )>
+<!ELEMENT  license            ( #PCDATA )>
+<!ELEMENT  first-author       ( degree?, fnm?, snm, orcid? )>
+<!ELEMENT  degree             ( #PCDATA )>
+<!ELEMENT  fnm                ( #PCDATA )>
+<!ELEMENT  snm                ( #PCDATA )>
+<!ELEMENT  corr-author        ( degree?, fnm?, snm, orcid?, aff )>
+<!ELEMENT  orcid              ( #PCDATA )>
+
+<!ELEMENT  item-remarks       ( item-remark+ )>
+<!ELEMENT  item-remark        ( remark-type, remark, response? )>
+<!ELEMENT  remark-type        ( #PCDATA )>
+<!ELEMENT  remark             ( #PCDATA )>
+<!ELEMENT  response           ( #PCDATA )>
+
+<!ELEMENT  corrections        EMPTY>
+<!ATTLIST  corrections
+           type               %corrections-type;    'FTP'>
+
+<!ELEMENT  corrections-uri    ( #PCDATA )>
+<!ELEMENT  offprint-payment   EMPTY>
+<!ATTLIST  offprint-payment
+           payment            %yesno;  #REQUIRED>
+
+<!-- ISSUE PAGINATION SHEET AND OFFPRINT SHEET -->
+
+<!ENTITY % row-type           "(ce|non-ce|blank|remark|h1|h2|h3|h4|he|advert)">
+
+<!ELEMENT  issue-info         ( general-info, issue-content, issue-remarks? )>
+
+<!ELEMENT  general-info       ( version-no?, pii?, doi?,
+                                article-based-publishing?,
+                                embargo?, issue-production-type,
+                                buffer-status, hold-until-date?, zero-warehousing?,
+                                jid, journal-no, issn, isbn?, journal-title, pmg?,
+                                vol-from, vol-to?, iss-from?, iss-to?, supp?,
+                                paper-type-interior, paper-type-cover,
+                                cover-finishing, cover-print-type?,
+                                print-type?, binding-type, offprint-type?,
+                                trimmed-size?, head-margin?, back-margin?,
+                                typeset-model?, righthand-start?,
+                                issue-weight?, spine-width?,
+                                effect-cover-date?, cover-date?, cover-date-printed?,
+                                cover-label?, cover-copyright?, cover-caption?,
+                                special-issue?, no-pages-prelims?,
+                                no-pages-interior, no-pages-extra?,
+                                no-pages-insert?, no-pages-bm?,
+                                no-pages-print, no-pages-web?, no-pages-total,
+                                no-pages-blank, no-pages-adverts, page-ranges,
+                                paid-ads?, corrections?, corrections-uri? )>
+
+<!ELEMENT  article-based-publishing    EMPTY>
+<!ATTLIST  article-based-publishing
+           abp                %yesno;  #REQUIRED>
+
+<!ELEMENT  issue-production-type  ( #PCDATA )>
+<!ELEMENT  buffer-status      EMPTY>
+<!ATTLIST  buffer-status
+           status             %yesno;  #REQUIRED>
+<!ELEMENT  hold-until-date    ( date )>
+
+<!ELEMENT  zero-warehousing   EMPTY>
+<!ATTLIST  zero-warehousing
+           status             %yesno;  #REQUIRED>
+
+<!ELEMENT  journal-no         ( #PCDATA )>
+<!ELEMENT  issn               ( #PCDATA )>
+<!ELEMENT  isbn               ( #PCDATA )>
+<!ELEMENT  journal-title      ( #PCDATA )>
+<!ELEMENT  pmg                ( #PCDATA )>
+
+<!ELEMENT  vol-from           ( #PCDATA )>
+<!ELEMENT  vol-to             ( #PCDATA )>
+<!ELEMENT  iss-from           ( #PCDATA )>
+<!ELEMENT  iss-to             ( #PCDATA )>
+<!ELEMENT  supp               ( #PCDATA )>
+
+<!ELEMENT  paper-type-interior  ( #PCDATA )>
+<!ELEMENT  paper-type-cover   ( #PCDATA )>
+<!ELEMENT  cover-finishing    ( #PCDATA )>
+<!ELEMENT  cover-print-type   ( #PCDATA )>
+<!ELEMENT  print-type         ( #PCDATA )>
+<!ELEMENT  binding-type       ( #PCDATA )>
+<!ELEMENT  trimmed-size       ( #PCDATA )>
+<!ELEMENT  head-margin        ( #PCDATA )>
+<!ELEMENT  back-margin        ( #PCDATA )>
+<!ELEMENT  typeset-model      ( #PCDATA )>
+<!ELEMENT  issue-weight       ( #PCDATA )>
+<!ELEMENT  spine-width        ( #PCDATA )>
+
+<!ELEMENT  effect-cover-date  ( #PCDATA )>
+<!ELEMENT  cover-date         ( date-range )>
+<!ELEMENT  date-range         ( start-date, end-date? )>
+<!ELEMENT  start-date         ( #PCDATA )>
+<!ELEMENT  end-date           ( #PCDATA )>
+<!ELEMENT  cover-date-printed ( #PCDATA )>
+<!ELEMENT  cover-label        ( #PCDATA )>
+<!ELEMENT  cover-copyright    ( #PCDATA )>
+<!ELEMENT  cover-caption      ( #PCDATA )>
+
+<!--
+<!ELEMENT  special-issue      ( special-issue-id, full-name?,
+                                subtitle?, alt-title?, alt-subtitle?,
+                                conference?, editors? )>
+-->
+<!ELEMENT  special-issue      ( special-issue-id, full-name?,
+                                subtitle?, alt-title?, alt-subtitle?,
+                                conference?, ( editors | si-editors )? )>
+
+<!ELEMENT  special-issue-id   ( #PCDATA )>
+<!ELEMENT  full-name          ( #PCDATA )>
+<!ELEMENT  subtitle           ( #PCDATA )>
+<!ELEMENT  alt-title          ( #PCDATA )>
+<!ELEMENT  alt-subtitle       ( #PCDATA )>
+
+<!ELEMENT  conference         ( conf-name?, abbr-name?, venue?,
+                                conference-date?, sponsor? )>
+<!ELEMENT  conf-name          ( #PCDATA )>
+<!ELEMENT  abbr-name          ( #PCDATA )>
+<!ELEMENT  venue              ( #PCDATA )>
+<!ELEMENT  effect-date        ( #PCDATA )>
+<!ELEMENT  conference-date    ( date-range )>
+<!ELEMENT  sponsor            ( #PCDATA )>
+
+<!ELEMENT  editors            ( #PCDATA )>
+<!ELEMENT  si-editors         ( si-editor+ )>
+<!ELEMENT  si-editor          ( degrees?, given-name?, surname, suffix?, degrees?,
+                                affiliation? )>
+<!ELEMENT  degrees            ( #PCDATA )>
+<!ELEMENT  given-name         ( #PCDATA )>
+<!ELEMENT  surname            ( #PCDATA )>
+<!-- <!ELEMENT  suffix             ( #PCDATA )> -->
+<!ELEMENT  affiliation        ( #PCDATA )>
+
+<!ELEMENT  no-pages-prelims   ( #PCDATA )>
+<!ELEMENT  no-pages-interior  ( #PCDATA )>
+<!ELEMENT  no-pages-extra     ( #PCDATA )>
+<!ELEMENT  no-pages-insert    ( #PCDATA )>
+<!ELEMENT  no-pages-bm        ( #PCDATA )>
+<!ELEMENT  no-pages-print     ( #PCDATA )>
+<!ELEMENT  no-pages-web       ( #PCDATA )>
+<!ELEMENT  no-pages-total     ( #PCDATA )>
+<!ELEMENT  no-pages-blank     ( #PCDATA )>
+<!ELEMENT  no-pages-adverts   ( #PCDATA )>
+
+<!ELEMENT  page-ranges        ( page-range+ )>
+<!ELEMENT  page-range         ( first-page, last-page )>
+<!ATTLIST  page-range 
+           type                 %page-range-type;  #REQUIRED >
+<!ELEMENT  first-page         ( #PCDATA )>
+<!ELEMENT  last-page          ( #PCDATA )>
+
+<!ELEMENT  paid-ads           EMPTY>
+<!ATTLIST  paid-ads
+           paid-ads           %yesno;  #REQUIRED >
+
+<!ELEMENT  issue-content      ( row+ )>
+
+<!ELEMENT  row                ( version-no?, crossmark?, aid?, pii?, doi?,
+                                s250-sequence-number?,
+                                embargo?, embargo-until-stage?,
+                                batch?, item-title,
+                                copyright-status?, employer?, copyright-recd-date?,
+                                license?,
+                                corr-author?, eo-item-nr?, pit?, prd-type?,
+                                prefix?, suffix?, first-e-page?, last-e-page?,
+                                page-from?, page-to?,
+                                pdf-pages?, online-publ-date?,
+                                online-version,
+                                no-issues-free?, no-issues-paid?,
+                                no-offprints-tot?, no-offprints-paid?,
+                                no-offprints-free?, page-charge?, covers?, 
+                                e-suite, no-colour-figs?, colour-fig-nr-print*,
+                                no-e-components?, refers-to-document*,
+                                remark?, offprint-payment? )>
+<!ATTLIST  row 
+           type                 %row-type;  #REQUIRED >
+
+<!ELEMENT  prd-type           ( #PCDATA )>
+<!ELEMENT  prefix             ( #PCDATA )>
+<!ELEMENT  suffix             ( #PCDATA )>
+<!ELEMENT  first-e-page       ( #PCDATA )>
+<!ELEMENT  last-e-page        ( #PCDATA )>
+<!ELEMENT  page-from          ( #PCDATA )>
+<!ELEMENT  page-to            ( #PCDATA )>
+<!ELEMENT  pdf-pages          ( #PCDATA )>
+<!ELEMENT  online-publ-date   ( date )>
+<!ELEMENT  no-issues-free     ( #PCDATA )>
+<!ELEMENT  no-issues-paid     ( #PCDATA )>
+<!ELEMENT  no-offprints-tot   ( #PCDATA )>
+<!ELEMENT  no-offprints-paid  ( #PCDATA )>
+<!ELEMENT  no-offprints-free  ( #PCDATA )>
+<!ELEMENT  page-charge        ( #PCDATA )>
+<!ELEMENT  covers             ( #PCDATA )>
+<!ELEMENT  offprint-type      ( #PCDATA )>
+<!ELEMENT  e-suite            ( #PCDATA )>
+<!ELEMENT  colour-fig-nr-print  ( #PCDATA )>
+
+<!ELEMENT  issue-remarks      ( issue-remark+ )>
+<!ELEMENT  issue-remark       ( remark-type, remark, response? )>
+
+<!-- PRINT/BIND ORDER -->
+
+<!ELEMENT  print-bind-info    ( general-info, print-details, issue-content, issue-remarks? )>
+
+<!ELEMENT  print-details      ( no-copies, no-author-copies,
+                                no-mark-prom-copies, no-voucher-copies, no-grace-copies,
+                                no-extra-copies, total-print-run,
+                                no-pages-cover, no-pages-coated,
+                                out-sort, insert,
+                                hold-despatch-date? )>
+
+<!ELEMENT  no-copies          ( #PCDATA )>
+<!ELEMENT  no-author-copies   ( #PCDATA )>
+<!ELEMENT  no-mark-prom-copies  ( #PCDATA )>
+<!ELEMENT  no-voucher-copies  ( #PCDATA )>
+<!ELEMENT  no-grace-copies    ( #PCDATA )>
+<!ELEMENT  no-extra-copies    ( #PCDATA )>
+<!ELEMENT  total-print-run    ( #PCDATA )>
+<!ELEMENT  no-pages-cover     ( #PCDATA )>
+<!ELEMENT  no-pages-coated    ( #PCDATA )>
+<!ELEMENT  out-sort           EMPTY>
+<!ATTLIST  out-sort
+           out-sort           %yesno;  #REQUIRED>
+<!ELEMENT  insert             EMPTY>
+<!ATTLIST  insert
+           insert             %yesno;  #REQUIRED>
+<!ELEMENT  hold-despatch-date ( date )>
+
+<!-- ISSUE-LABELS ORDER -->
+
+<!ELEMENT  issue-labels-info  ( general-info, print-details, issue-labels-details,
+                                issue-remarks? )>
+
+<!ELEMENT  issue-labels-details  ( issue-weight )>

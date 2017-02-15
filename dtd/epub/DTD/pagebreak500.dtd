@@ -1,0 +1,39 @@
+<!-- $Id: pagebreak500.dtd,v 1.4 2007/03/02 10:24:54 jmigchie Exp $
+-->
+<!-- Elsevier pagebreak DTD version 5.0.0
+
+     Copyright (c) 2007 Elsevier B.V.
+     Permission to copy and distribute verbatim copies of this document is granted, 
+     provided this notice is included in all copies, but changing it is not allowed. 
+
+     Refer to the companion documentation for more information.
+-->
+<!--
+     Supported doctypes: layout-info
+
+     Typical invocation:
+
+     <!DOCTYPE layout-info
+       PUBLIC "-//ES//DTD pagebreak DTD version 5.0.0//EN//XML"
+       "pagebreak500.dtd" []>
+          	         
+-->
+
+<!ELEMENT    layout-info     ( pii, ( page | moved-element )+ ) >
+<!ATTLIST    layout-info
+             version              CDATA      #FIXED  '5.0' >
+
+<!ELEMENT    pii             ( #PCDATA ) >
+
+<!ELEMENT    moved-element   EMPTY >
+<!ATTLIST    moved-element
+             position             CDATA      #REQUIRED
+             moved-to-position    CDATA      #REQUIRED
+             offset               NMTOKEN    #IMPLIED >
+
+<!ELEMENT    page            EMPTY >
+<!ATTLIST    page
+             name                 CDATA      #REQUIRED
+             next                 CDATA      #REQUIRED
+             break-position       CDATA      #REQUIRED
+             offset               NMTOKEN    #IMPLIED >

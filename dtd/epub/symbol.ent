@@ -1,0 +1,137 @@
+
+<!--
+     File symbol.ent produced by the XSL script characters.xsl
+     from input data in unicode.xml.
+
+     Please report any errors to David Carlisle
+     via the public W3C list www-math@w3.org.
+
+     The numeric character values assigned to each entity
+     (should) match the Unicode assignments in Unicode 3.2.
+
+-->
+
+<!ENTITY alefsym          "&amp;#x02135;" ><!-- -->
+<!ENTITY Alpha            "&amp;#x00391;" ><!-- -->
+<!ENTITY alpha            "&amp;#x003B1;" ><!--greek small letter alpha -->
+<!ENTITY and              "&amp;#x02227;" ><!--logical and = wedge -->
+<!ENTITY ang              "&amp;#x02220;" ><!--angle -->
+<!ENTITY asymp            "&amp;#x02248;" ><!--almost equal to = asymptotic to -->
+<!ENTITY Beta             "&amp;#x00392;" ><!-- -->
+<!ENTITY beta             "&amp;#x003B2;" ><!--greek small letter beta -->
+<!ENTITY bull             "&amp;#x02022;" ><!--bullet = black small circle -->
+<!ENTITY cap              "&amp;#x02229;" ><!--intersection = cap -->
+<!ENTITY Chi              "&amp;#x003A7;" ><!-- -->
+<!ENTITY chi              "&amp;#x003C7;" ><!--greek small letter chi -->
+<!ENTITY clubs            "&amp;#x02663;" ><!--black club suit = shamrock -->
+<!ENTITY cong             "&amp;#x02245;" ><!--approximately equal to -->
+<!ENTITY crarr            "&amp;#x021B5;" ><!-- -->
+<!ENTITY cup              "&amp;#x0222A;" ><!--union = cup -->
+<!ENTITY dArr             "&amp;#x021D3;" ><!--downwards double arrow -->
+<!ENTITY darr             "&amp;#x02193;" ><!--downwards arrow -->
+<!ENTITY Delta            "&amp;#x00394;" ><!--greek capital letter delta -->
+<!ENTITY delta            "&amp;#x003B4;" ><!--greek small letter delta -->
+<!ENTITY diams            "&amp;#x02666;" ><!--black diamond suit -->
+<!ENTITY empty            "&amp;#x02205;" ><!--empty set = null set = diameter -->
+<!ENTITY Epsilon          "&amp;#x00395;" ><!-- -->
+<!ENTITY epsilon          "&amp;#x003B5;" ><!-- -->
+<!ENTITY equiv            "&amp;#x02261;" ><!--identical to -->
+<!ENTITY Eta              "&amp;#x00397;" ><!-- -->
+<!ENTITY eta              "&amp;#x003B7;" ><!--greek small letter eta -->
+<!ENTITY exist            "&amp;#x02203;" ><!--there exists -->
+<!ENTITY fnof             "&amp;#x00192;" ><!--latin small f with hook = function = florin -->
+<!ENTITY forall           "&amp;#x02200;" ><!--for all -->
+<!ENTITY frasl            "&amp;#x02044;" ><!-- -->
+<!ENTITY Gamma            "&amp;#x00393;" ><!--greek capital letter gamma -->
+<!ENTITY gamma            "&amp;#x003B3;" ><!--greek small letter gamma -->
+<!ENTITY ge               "&amp;#x02265;" ><!--greater-than or equal to -->
+<!ENTITY hArr             "&amp;#x021D4;" ><!--left right double arrow -->
+<!ENTITY harr             "&amp;#x02194;" ><!--left right arrow -->
+<!ENTITY hearts           "&amp;#x02665;" ><!--black heart suit = valentine -->
+<!ENTITY hellip           "&amp;#x02026;" ><!--horizontal ellipsis = three dot leader -->
+<!ENTITY image            "&amp;#x02111;" ><!--blackletter capital I = imaginary part -->
+<!ENTITY infin            "&amp;#x0221E;" ><!--infinity -->
+<!ENTITY int              "&amp;#x0222B;" ><!--integral -->
+<!ENTITY Iota             "&amp;#x00399;" ><!-- -->
+<!ENTITY iota             "&amp;#x003B9;" ><!--greek small letter iota -->
+<!ENTITY isin             "&amp;#x02208;" ><!--element of -->
+<!ENTITY Kappa            "&amp;#x0039A;" ><!-- -->
+<!ENTITY kappa            "&amp;#x003BA;" ><!--greek small letter kappa -->
+<!ENTITY Lambda           "&amp;#x0039B;" ><!--greek capital letter lambda -->
+<!ENTITY lambda           "&amp;#x003BB;" ><!--greek small letter lambda -->
+<!ENTITY lang             "&amp;#x02329;" ><!--left-pointing angle bracket = bra -->
+<!ENTITY lArr             "&amp;#x021D0;" ><!--leftwards double arrow -->
+<!ENTITY larr             "&amp;#x02190;" ><!--leftwards arrow -->
+<!ENTITY lceil            "&amp;#x02308;" ><!--left ceiling = apl upstile -->
+<!ENTITY le               "&amp;#x02264;" ><!--less-than or equal to -->
+<!ENTITY lfloor           "&amp;#x0230A;" ><!--left floor = apl downstile -->
+<!ENTITY lowast           "&amp;#x02217;" ><!--asterisk operator -->
+<!ENTITY loz              "&amp;#x025CA;" ><!--lozenge -->
+<!ENTITY minus            "&amp;#x02212;" ><!--minus sign -->
+<!ENTITY Mu               "&amp;#x0039C;" ><!-- -->
+<!ENTITY mu               "&amp;#x003BC;" ><!--greek small letter mu -->
+<!ENTITY nabla            "&amp;#x02207;" ><!--nabla = backward difference -->
+<!ENTITY ne               "&amp;#x02260;" ><!--not equal to -->
+<!ENTITY ni               "&amp;#x0220B;" ><!--contains as member -->
+<!ENTITY notin            "&amp;#x02209;" ><!--not an element of -->
+<!ENTITY nsub             "&amp;#x02284;" ><!--not a subset of -->
+<!ENTITY Nu               "&amp;#x0039D;" ><!-- -->
+<!ENTITY nu               "&amp;#x003BD;" ><!--greek small letter nu -->
+<!ENTITY oline            "&amp;#x0203E;" ><!-- -->
+<!ENTITY Omega            "&amp;#x003A9;" ><!--greek capital letter omega -->
+<!ENTITY omega            "&amp;#x003C9;" ><!--greek small letter omega -->
+<!ENTITY Omicron          "&amp;#x0039F;" ><!-- -->
+<!ENTITY omicron          "&amp;#x003BF;" ><!--greek small letter omicron -->
+<!ENTITY oplus            "&amp;#x02295;" ><!--circled plus = direct sum -->
+<!ENTITY or               "&amp;#x02228;" ><!--logical or = vee -->
+<!ENTITY otimes           "&amp;#x02297;" ><!--circled times = vector product -->
+<!ENTITY part             "&amp;#x02202;" ><!--partial differential -->
+<!ENTITY perp             "&amp;#x022A5;" ><!--up tack = orthogonal to = perpendicular -->
+<!ENTITY Phi              "&amp;#x003A6;" ><!--greek capital letter phi -->
+<!ENTITY phi              "&amp;#x003D5;" ><!--greek small letter phi -->
+<!ENTITY Pi               "&amp;#x003A0;" ><!--greek capital letter pi -->
+<!ENTITY pi               "&amp;#x003C0;" ><!--greek small letter pi -->
+<!ENTITY piv              "&amp;#x003D6;" ><!--greek pi symbol -->
+<!ENTITY Prime            "&amp;#x02033;" ><!--double prime = seconds = inches -->
+<!ENTITY prime            "&amp;#x02032;" ><!--prime = minutes = feet -->
+<!ENTITY prod             "&amp;#x0220F;" ><!--n-ary product = product sign -->
+<!ENTITY prop             "&amp;#x0221D;" ><!--proportional to -->
+<!ENTITY Psi              "&amp;#x003A8;" ><!--greek capital letter psi -->
+<!ENTITY psi              "&amp;#x003C8;" ><!--greek small letter psi -->
+<!ENTITY radic            "&amp;#x0221A;" ><!--square root = radical sign -->
+<!ENTITY rang             "&amp;#x0232A;" ><!--right-pointing angle bracket = ket -->
+<!ENTITY rArr             "&amp;#x021D2;" ><!--rightwards double arrow -->
+<!ENTITY rarr             "&amp;#x02192;" ><!--rightwards arrow -->
+<!ENTITY rceil            "&amp;#x02309;" ><!--right ceiling -->
+<!ENTITY real             "&amp;#x0211C;" ><!--blackletter capital R = real part symbol -->
+<!ENTITY rfloor           "&amp;#x0230B;" ><!--right floor -->
+<!ENTITY Rho              "&amp;#x003A1;" ><!-- -->
+<!ENTITY rho              "&amp;#x003C1;" ><!--greek small letter rho -->
+<!ENTITY sdot             "&amp;#x022C5;" ><!--dot operator -->
+<!ENTITY Sigma            "&amp;#x003A3;" ><!--greek capital letter sigma -->
+<!ENTITY sigma            "&amp;#x003C3;" ><!--greek small letter sigma -->
+<!ENTITY sigmaf           "&amp;#x003C2;" ><!-- -->
+<!ENTITY sim              "&amp;#x0223C;" ><!--tilde operator = varies with = similar to -->
+<!ENTITY spades           "&amp;#x02660;" ><!--black spade suit -->
+<!ENTITY sub              "&amp;#x02282;" ><!--subset of -->
+<!ENTITY sube             "&amp;#x02286;" ><!--subset of or equal to -->
+<!ENTITY sum              "&amp;#x02211;" ><!--n-ary sumation -->
+<!ENTITY sup              "&amp;#x02283;" ><!--superset of -->
+<!ENTITY supe             "&amp;#x02287;" ><!--superset of or equal to -->
+<!ENTITY Tau              "&amp;#x003A4;" ><!-- -->
+<!ENTITY tau              "&amp;#x003C4;" ><!--greek small letter tau -->
+<!ENTITY there4           "&amp;#x02234;" ><!--therefore -->
+<!ENTITY Theta            "&amp;#x00398;" ><!--greek capital letter theta -->
+<!ENTITY theta            "&amp;#x003B8;" ><!--greek small letter theta -->
+<!ENTITY thetasym         "&amp;#x003D1;" ><!--greek small letter theta symbol -->
+<!ENTITY trade            "&amp;#x02122;" ><!--trade mark sign -->
+<!ENTITY uArr             "&amp;#x021D1;" ><!--upwards double arrow -->
+<!ENTITY uarr             "&amp;#x02191;" ><!--upwards arrow -->
+<!ENTITY upsih            "&amp;#x003D2;" ><!--greek upsilon with hook symbol -->
+<!ENTITY Upsilon          "&amp;#x003A5;" ><!--greek capital letter upsilon -->
+<!ENTITY upsilon          "&amp;#x003C5;" ><!-- -->
+<!ENTITY weierp           "&amp;#x02118;" ><!--script capital P = power set = Weierstrass p -->
+<!ENTITY Xi               "&amp;#x0039E;" ><!--greek capital letter xi -->
+<!ENTITY xi               "&amp;#x003BE;" ><!--greek small letter xi -->
+<!ENTITY Zeta             "&amp;#x00396;" ><!-- -->
+<!ENTITY zeta             "&amp;#x003B6;" ><!--greek small letter zeta -->

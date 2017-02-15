@@ -1,0 +1,167 @@
+
+<!--
+     File isoamsa.ent produced by the XSL script characters.xsl
+     from input data in unicode.xml.
+
+     Please report any errors to David Carlisle
+     via the public W3C list www-math@w3.org.
+
+     The numeric character values assigned to each entity
+     (should) match the Unicode assignments in Unicode 3.2.
+
+     Entity names in this file are derived from files carrying the
+     following notice:
+
+     (C) International Organization for Standardization 1991
+     Permission to copy in any form is granted for use with
+     conforming SGML systems and applications as defined in
+     ISO 8879, provided this notice is included in all copies.
+
+-->
+
+<!ENTITY angzarr          "&amp;#x0237C;" ><!--angle with down zig-zag arrow -->
+<!ENTITY cirmid           "&amp;#x02AEF;" ><!--circle, mid below -->
+<!ENTITY cudarrl          "&amp;#x02938;" ><!--left, curved, down arrow -->
+<!ENTITY cudarrr          "&amp;#x02935;" ><!--right, curved, down arrow -->
+<!ENTITY cularr           "&amp;#x021B6;" ><!--/curvearrowleft A: left curved arrow -->
+<!ENTITY cularrp          "&amp;#x0293D;" ><!--curved left arrow with plus -->
+<!ENTITY curarr           "&amp;#x021B7;" ><!--/curvearrowright A: rt curved arrow -->
+<!ENTITY curarrm          "&amp;#x0293C;" ><!--curved right arrow with minus -->
+<!ENTITY Darr             "&amp;#x021A1;" ><!--down two-headed arrow -->
+<!ENTITY dArr             "&amp;#x021D3;" ><!--/Downarrow A: down dbl arrow -->
+<!ENTITY ddarr            "&amp;#x021CA;" ><!--/downdownarrows A: two down arrows -->
+<!ENTITY DDotrahd         "&amp;#x02911;" ><!--right arrow with dotted stem -->
+<!ENTITY dfisht           "&amp;#x0297F;" ><!--down fish tail -->
+<!ENTITY dHar             "&amp;#x02965;" ><!--down harpoon-left, down harpoon-right -->
+<!ENTITY dharl            "&amp;#x021C3;" ><!--/downharpoonleft A: dn harpoon-left -->
+<!ENTITY dharr            "&amp;#x021C2;" ><!--/downharpoonright A: down harpoon-rt -->
+<!ENTITY duarr            "&amp;#x021F5;" ><!--down arrow, up arrow -->
+<!ENTITY duhar            "&amp;#x0296F;" ><!--down harp, up harp -->
+<!ENTITY dzigrarr         "&amp;#x027FF;" ><!--right long zig-zag arrow -->
+<!ENTITY erarr            "&amp;#x02971;" ><!--equal, right arrow below -->
+<!ENTITY hArr             "&amp;#x021D4;" ><!--/Leftrightarrow A: l&amp;r dbl arrow -->
+<!ENTITY harr             "&amp;#x02194;" ><!--/leftrightarrow A: l&amp;r arrow -->
+<!ENTITY harrcir          "&amp;#x02948;" ><!--left and right arrow with a circle -->
+<!ENTITY harrw            "&amp;#x021AD;" ><!--/leftrightsquigarrow A: l&amp;r arr-wavy -->
+<!ENTITY hoarr            "&amp;#x021FF;" ><!--horizontal open arrow -->
+<!ENTITY imof             "&amp;#x022B7;" ><!--image of -->
+<!ENTITY lAarr            "&amp;#x021DA;" ><!--/Lleftarrow A: left triple arrow -->
+<!ENTITY Larr             "&amp;#x0219E;" ><!--/twoheadleftarrow A: -->
+<!ENTITY larrbfs          "&amp;#x0291F;" ><!--left arrow-bar, filled square -->
+<!ENTITY larrfs           "&amp;#x0291D;" ><!--left arrow, filled square -->
+<!ENTITY larrhk           "&amp;#x021A9;" ><!--/hookleftarrow A: left arrow-hooked -->
+<!ENTITY larrlp           "&amp;#x021AB;" ><!--/looparrowleft A: left arrow-looped -->
+<!ENTITY larrpl           "&amp;#x02939;" ><!--left arrow, plus -->
+<!ENTITY larrsim          "&amp;#x02973;" ><!--left arrow, similar -->
+<!ENTITY larrtl           "&amp;#x021A2;" ><!--/leftarrowtail A: left arrow-tailed -->
+<!ENTITY lAtail           "&amp;#x0291B;" ><!--left double arrow-tail -->
+<!ENTITY latail           "&amp;#x02919;" ><!--left arrow-tail -->
+<!ENTITY lBarr            "&amp;#x0290E;" ><!--left doubly broken arrow -->
+<!ENTITY lbarr            "&amp;#x0290C;" ><!--left broken arrow -->
+<!ENTITY ldca             "&amp;#x02936;" ><!--left down curved arrow -->
+<!ENTITY ldrdhar          "&amp;#x02967;" ><!--left harpoon-down over right harpoon-down -->
+<!ENTITY ldrushar         "&amp;#x0294B;" ><!--left-down-right-up harpoon -->
+<!ENTITY ldsh             "&amp;#x021B2;" ><!--left down angled arrow -->
+<!ENTITY lfisht           "&amp;#x0297C;" ><!--left fish tail -->
+<!ENTITY lHar             "&amp;#x02962;" ><!--left harpoon-up over left harpoon-down -->
+<!ENTITY lhard            "&amp;#x021BD;" ><!--/leftharpoondown A: l harpoon-down -->
+<!ENTITY lharu            "&amp;#x021BC;" ><!--/leftharpoonup A: left harpoon-up -->
+<!ENTITY lharul           "&amp;#x0296A;" ><!--left harpoon-up over long dash -->
+<!ENTITY llarr            "&amp;#x021C7;" ><!--/leftleftarrows A: two left arrows -->
+<!ENTITY llhard           "&amp;#x0296B;" ><!--left harpoon-down below long dash -->
+<!ENTITY loarr            "&amp;#x021FD;" ><!--left open arrow -->
+<!ENTITY lrarr            "&amp;#x021C6;" ><!--/leftrightarrows A: l arr over r arr -->
+<!ENTITY lrhar            "&amp;#x021CB;" ><!--/leftrightharpoons A: l harp over r -->
+<!ENTITY lrhard           "&amp;#x0296D;" ><!--right harpoon-down below long dash -->
+<!ENTITY lsh              "&amp;#x021B0;" ><!--/Lsh A: -->
+<!ENTITY lurdshar         "&amp;#x0294A;" ><!--left-up-right-down harpoon -->
+<!ENTITY luruhar          "&amp;#x02966;" ><!--left harpoon-up over right harpoon-up -->
+<!ENTITY Map              "&amp;#x02905;" ><!--twoheaded mapsto -->
+<!ENTITY map              "&amp;#x021A6;" ><!--/mapsto A: -->
+<!ENTITY midcir           "&amp;#x02AF0;" ><!--mid, circle below  -->
+<!ENTITY mumap            "&amp;#x022B8;" ><!--/multimap A: -->
+<!ENTITY nearhk           "&amp;#x02924;" ><!--NE arrow-hooked -->
+<!ENTITY neArr            "&amp;#x021D7;" ><!--NE pointing dbl arrow -->
+<!ENTITY nearr            "&amp;#x02197;" ><!--/nearrow A: NE pointing arrow -->
+<!ENTITY nesear           "&amp;#x02928;" ><!--/toea A: NE &amp; SE arrows -->
+<!ENTITY nhArr            "&amp;#x021CE;" ><!--/nLeftrightarrow A: not l&amp;r dbl arr -->
+<!ENTITY nharr            "&amp;#x021AE;" ><!--/nleftrightarrow A: not l&amp;r arrow -->
+<!ENTITY nlArr            "&amp;#x021CD;" ><!--/nLeftarrow A: not implied by -->
+<!ENTITY nlarr            "&amp;#x0219A;" ><!--/nleftarrow A: not left arrow -->
+<!ENTITY nrArr            "&amp;#x021CF;" ><!--/nRightarrow A: not implies -->
+<!ENTITY nrarr            "&amp;#x0219B;" ><!--/nrightarrow A: not right arrow -->
+<!ENTITY nrarrc           "&amp;#x02933;&amp;#x00338;" ><!--not right arrow-curved -->
+<!ENTITY nrarrw           "&amp;#x0219D;&amp;#x00338;" ><!--not right arrow-wavy -->
+<!ENTITY nvHarr           "&amp;#x021CE;" ><!--not, vert, left and right double arrow  -->
+<!ENTITY nvlArr           "&amp;#x021CD;" ><!--not, vert, left double arrow -->
+<!ENTITY nvrArr           "&amp;#x021CF;" ><!--not, vert, right double arrow -->
+<!ENTITY nwarhk           "&amp;#x02923;" ><!--NW arrow-hooked -->
+<!ENTITY nwArr            "&amp;#x021D6;" ><!--NW pointing dbl arrow -->
+<!ENTITY nwarr            "&amp;#x02196;" ><!--/nwarrow A: NW pointing arrow -->
+<!ENTITY nwnear           "&amp;#x02927;" ><!--NW &amp; NE arrows -->
+<!ENTITY olarr            "&amp;#x021BA;" ><!--/circlearrowleft A: l arr in circle -->
+<!ENTITY orarr            "&amp;#x021BB;" ><!--/circlearrowright A: r arr in circle -->
+<!ENTITY origof           "&amp;#x022B6;" ><!--original of -->
+<!ENTITY rAarr            "&amp;#x021DB;" ><!--/Rrightarrow A: right triple arrow -->
+<!ENTITY Rarr             "&amp;#x021A0;" ><!--/twoheadrightarrow A: -->
+<!ENTITY rarrap           "&amp;#x02975;" ><!--approximate, right arrow above -->
+<!ENTITY rarrbfs          "&amp;#x02920;" ><!--right arrow-bar, filled square -->
+<!ENTITY rarrc            "&amp;#x02933;" ><!--right arrow-curved -->
+<!ENTITY rarrfs           "&amp;#x0291E;" ><!--right arrow, filled square -->
+<!ENTITY rarrhk           "&amp;#x021AA;" ><!--/hookrightarrow A: rt arrow-hooked -->
+<!ENTITY rarrlp           "&amp;#x021AC;" ><!--/looparrowright A: rt arrow-looped -->
+<!ENTITY rarrpl           "&amp;#x02945;" ><!--right arrow, plus -->
+<!ENTITY rarrsim          "&amp;#x02974;" ><!--right arrow, similar -->
+<!ENTITY Rarrtl           "&amp;#x02916;" ><!--right two-headed arrow with tail -->
+<!ENTITY rarrtl           "&amp;#x021A3;" ><!--/rightarrowtail A: rt arrow-tailed -->
+<!ENTITY rarrw            "&amp;#x0219D;" ><!--/rightsquigarrow A: rt arrow-wavy -->
+<!ENTITY rAtail           "&amp;#x0291C;" ><!--right double arrow-tail -->
+<!ENTITY ratail           "&amp;#x021A3;" ><!--right arrow-tail -->
+<!ENTITY RBarr            "&amp;#x02910;" ><!--/drbkarow A: twoheaded right broken arrow -->
+<!ENTITY rBarr            "&amp;#x0290F;" ><!--/dbkarow A: right doubly broken arrow -->
+<!ENTITY rbarr            "&amp;#x0290D;" ><!--/bkarow A: right broken arrow -->
+<!ENTITY rdca             "&amp;#x02937;" ><!--right down curved arrow -->
+<!ENTITY rdldhar          "&amp;#x02969;" ><!--right harpoon-down over left harpoon-down -->
+<!ENTITY rdsh             "&amp;#x021B3;" ><!--right down angled arrow -->
+<!ENTITY rfisht           "&amp;#x0297D;" ><!--right fish tail -->
+<!ENTITY rHar             "&amp;#x02964;" ><!--right harpoon-up over right harpoon-down -->
+<!ENTITY rhard            "&amp;#x021C1;" ><!--/rightharpoondown A: rt harpoon-down -->
+<!ENTITY rharu            "&amp;#x021C0;" ><!--/rightharpoonup A: rt harpoon-up -->
+<!ENTITY rharul           "&amp;#x0296C;" ><!--right harpoon-up over long dash -->
+<!ENTITY rlarr            "&amp;#x021C4;" ><!--/rightleftarrows A: r arr over l arr -->
+<!ENTITY rlhar            "&amp;#x021CC;" ><!--/rightleftharpoons A: r harp over l -->
+<!ENTITY roarr            "&amp;#x021FE;" ><!--right open arrow -->
+<!ENTITY rrarr            "&amp;#x021C9;" ><!--/rightrightarrows A: two rt arrows -->
+<!ENTITY rsh              "&amp;#x021B1;" ><!--/Rsh A: -->
+<!ENTITY ruluhar          "&amp;#x02968;" ><!--right harpoon-up over left harpoon-up -->
+<!ENTITY searhk           "&amp;#x02925;" ><!--/hksearow A: SE arrow-hooken -->
+<!ENTITY seArr            "&amp;#x021D8;" ><!--SE pointing dbl arrow -->
+<!ENTITY searr            "&amp;#x02198;" ><!--/searrow A: SE pointing arrow -->
+<!ENTITY seswar           "&amp;#x02929;" ><!--/tosa A: SE &amp; SW arrows -->
+<!ENTITY simrarr          "&amp;#x02972;" ><!--similar, right arrow below -->
+<!ENTITY slarr            "&amp;#x02190;" ><!--short left arrow -->
+<!ENTITY srarr            "&amp;#x02192;" ><!--short right arrow -->
+<!ENTITY swarhk           "&amp;#x02926;" ><!--/hkswarow A: SW arrow-hooked -->
+<!ENTITY swArr            "&amp;#x021D9;" ><!--SW pointing dbl arrow -->
+<!ENTITY swarr            "&amp;#x02199;" ><!--/swarrow A: SW pointing arrow -->
+<!ENTITY swnwar           "&amp;#x0292A;" ><!--SW &amp; NW arrows -->
+<!ENTITY Uarr             "&amp;#x0219F;" ><!--up two-headed arrow -->
+<!ENTITY uArr             "&amp;#x021D1;" ><!--/Uparrow A: up dbl arrow -->
+<!ENTITY Uarrocir         "&amp;#x02949;" ><!--up two-headed arrow above circle -->
+<!ENTITY udarr            "&amp;#x021C5;" ><!--up arrow, down arrow -->
+<!ENTITY udhar            "&amp;#x0296E;" ><!--up harp, down harp -->
+<!ENTITY ufisht           "&amp;#x0297E;" ><!--up fish tail -->
+<!ENTITY uHar             "&amp;#x02963;" ><!--up harpoon-left, up harpoon-right -->
+<!ENTITY uharl            "&amp;#x021BF;" ><!--/upharpoonleft A: up harpoon-left -->
+<!ENTITY uharr            "&amp;#x021BE;" ><!--/upharpoonright /restriction A: up harp-r -->
+<!ENTITY uuarr            "&amp;#x021C8;" ><!--/upuparrows A: two up arrows -->
+<!ENTITY vArr             "&amp;#x021D5;" ><!--/Updownarrow A: up&amp;down dbl arrow -->
+<!ENTITY varr             "&amp;#x02195;" ><!--/updownarrow A: up&amp;down arrow -->
+<!ENTITY xhArr            "&amp;#x027FA;" ><!--/Longleftrightarrow A: long l&amp;r dbl arr -->
+<!ENTITY xharr            "&amp;#x027F7;" ><!--/longleftrightarrow A: long l&amp;r arr -->
+<!ENTITY xlArr            "&amp;#x027F8;" ><!--/Longleftarrow A: long l dbl arrow -->
+<!ENTITY xlarr            "&amp;#x027F5;" ><!--/longleftarrow A: long left arrow -->
+<!ENTITY xmap             "&amp;#x027FC;" ><!--/longmapsto A: -->
+<!ENTITY xrArr            "&amp;#x027F9;" ><!--/Longrightarrow A: long rt dbl arr -->
+<!ENTITY xrarr            "&amp;#x027F6;" ><!--/longrightarrow A: long right arrow -->
+<!ENTITY zigrarr          "&amp;#x021DD;" ><!--right zig-zag arrow -->

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/tail_afteradvicetemplate.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE xbp SYSTEM "tail_afteradvicetemplate.dtd">
+
+    <xbp>
+    ...
+    </xbp>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT xbp (ce:glossary|ce:further-reading|ce:biography)*>
+<!ATTLIST xbp
+    xmlns:ce CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ce:further-reading (#PCDATA)>
+<!ATTLIST ce:further-reading
+    id CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ce:glossary (#PCDATA)>
+<!ATTLIST ce:glossary
+    id CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ce:biography (#PCDATA)>
+<!ATTLIST ce:biography
+    id CDATA #IMPLIED
+  >
